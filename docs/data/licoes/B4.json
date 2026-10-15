@@ -214,6 +214,7 @@
   },
   {
    "id": "B4-b5",
+   "diagrama": "hipertensao-portal",
    "titulo": "Hipertensão portal: a chave das complicações",
    "prioridade": "E",
    "pontos": [
@@ -269,8 +270,7 @@
      "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
      "pagina": 54
     }
-   },
-   "diagrama": "hipertensao-portal"
+   }
   },
   {
    "id": "B4-b6",

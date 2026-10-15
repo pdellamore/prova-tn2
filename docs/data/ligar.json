@@ -213,10 +213,6 @@
    {
     "esquerda": "FIB-4",
     "direita": "triagem para descartar fibrose avançada"
-   },
-   {
-    "esquerda": "MST",
-    "direita": "triagem de desnutrição, risco a partir de 2 pontos"
    }
   ]
  },

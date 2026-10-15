@@ -1058,7 +1058,8 @@
   "tags": [
    "proteina",
    "numero-chave"
-  ]
+  ],
+  "ambiguidade": "cetoanalogos-dose"
  },
  {
   "id": "F-A5-06",
@@ -1171,7 +1172,8 @@
   "tags": [
    "proteina",
    "numero-chave"
-  ]
+  ],
+  "ambiguidade": "cetoanalogos-dose"
  },
  {
   "id": "F-A5-13",
@@ -2566,1260 +2568,6 @@
   "ambiguidade": null
  },
  {
-  "id": "F-B3-01",
-  "modulo": "B3",
-  "tipo": "definicao",
-  "prioridade": "I",
-  "frente": "Os **três processos** que caracterizam a doença hepática",
-  "verso": "**1) Lesão dos hepatócitos · 2) infiltração de células inflamatórias · 3) ativação das células estreladas.** Juntos, comprometem a função e alteram a arquitetura.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 24
-  },
-  "tags": [
-   "etiologias"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-02",
-  "modulo": "B3",
-  "tipo": "lista",
-  "prioridade": "I",
-  "frente": "**Etiologias** da doença hepática",
-  "verso": "**Metabólicas:** MASLD, hemocromatose, doença de Wilson, deficiência de alfa-1 antitripsina. **Tóxicas:** álcool e medicamentos. **Virais:** hepatites cronificadas. **A sobreposição de causas acelera drasticamente a progressão.**",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 25
-  },
-  "tags": [
-   "etiologias"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-03",
-  "modulo": "B3",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "Peso das três **causas mais comuns**",
-  "verso": "**MASLD: 30 a 40% da população adulta.** **Álcool: 60% dos casos de cirrose** (Europa e América). **Hepatites virais:** ainda com impacto relevante.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 26
-  },
-  "tags": [
-   "etiologias",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-04",
-  "modulo": "B3",
-  "tipo": "numero",
-  "prioridade": "C",
-  "frente": "**Epidemiologia** das doenças hepáticas",
-  "verso": "**4% das mortes globais em 2019** · **11ª principal causa de morte global** · **2 milhões de mortes** globalmente.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 28
-  },
-  "tags": [
-   "etiologias",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-05",
-  "modulo": "B3",
-  "tipo": "comparacao",
-  "prioridade": "E",
-  "frente": "**Transmissão** das hepatites virais",
-  "verso": "**A e E: via fecal-oral.** **B, C e D: sangue e fluidos corporais.** O vírus delta (HDV) está associado à hepatite B.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 29
-  },
-  "tags": [
-   "hepatites"
-  ],
-  "ambiguidade": "hepatites-ae"
- },
- {
-  "id": "F-B3-06",
-  "modulo": "B3",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Hepatite B** — o que decorar",
-  "verso": "**Única com vírus de DNA.** Cerca de **60% dos casos** de hepatite viral; ~30% com infecção sintomática e **1% insuficiência hepática aguda**; **tendência à cronificação**; antiviral para evitar progressão.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 32
-  },
-  "tags": [
-   "hepatites",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-07",
-  "modulo": "B3",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Hepatite C** — o que decorar",
-  "verso": "**50 a 85% cronificam**; em geral (**80%**) assintomáticos até fases avançadas; **antivirais de ação direta com 95% de cura em 12 a 24 semanas**.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 32
-  },
-  "tags": [
-   "hepatites",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-08",
-  "modulo": "B3",
-  "tipo": "conduta",
-  "prioridade": "I",
-  "frente": "Tratamento das **hepatites A e E**",
-  "verso": "**Sem antiviral específico**, em geral **autolimitadas**: **repouso, hidratação** e **dieta normal, conforme tolerância**.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 32
-  },
-  "tags": [
-   "hepatites"
-  ],
-  "ambiguidade": "hepatites-ae"
- },
- {
-  "id": "F-B3-09",
-  "modulo": "B3",
-  "tipo": "lista",
-  "prioridade": "I",
-  "frente": "As **quatro fases clínicas** da hepatite viral",
-  "verso": "**1 incubação** (assintomática ou inespecífica) · **2 pré-ictérica** (sintomas, 10–20% com febre/artralgia/angioedema, **↑ AST e ALT**) · **3 ictérica** (**7 a 14 dias depois**) · **4 convalescente** (**2 a 12 semanas**, HBV e HCV podem tornar portador).",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 33
-  },
-  "tags": [
-   "hepatites",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-10",
-  "modulo": "B3",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "**Álcool** — calorias e metabolismo",
-  "verso": "**7,1 kcal/g**; **80 a 90% metabolizado pelo fígado** (restante por pulmões, rins e pele). Duas vias: **ADH no citoplasma** e **SOMA no retículo endoplasmático**.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 34
-  },
-  "tags": [
-   "alcool",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-11",
-  "modulo": "B3",
-  "tipo": "mecanismo",
-  "prioridade": "I",
-  "frente": "Produtos do metabolismo do **álcool** e seus efeitos",
-  "verso": "**Acetaldeído, acetato e NADH** → alterações do metabolismo lipídico → **lesão hepática, inflamação e estresse oxidativo**. **Mulheres tendem a produzir mais acetaldeído.**",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 35
-  },
-  "tags": [
-   "alcool"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-12",
-  "modulo": "B3",
-  "tipo": "definicao",
-  "prioridade": "I",
-  "frente": "**Hepatite alcoólica** — como o slide descreve",
-  "verso": "Citoplasmas dos hepatócitos **distendidos por gordura, deslocando os núcleos para a periferia**, com **inflamação e necrose** das células hepáticas.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 36
-  },
-  "tags": [
-   "alcool"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-13",
-  "modulo": "B3",
-  "tipo": "mecanismo",
-  "prioridade": "E",
-  "frente": "A **sequência da progressão** da doença hepática crônica",
-  "verso": "Agressão contínua → **Kupffer liberam citocinas inflamatórias** → **estreladas produzem colágeno (cicatrizes)** → **fibrose e nódulos** alteram o tecido e impedem as funções.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 39
-  },
-  "tags": [
-   "progressao"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-14",
-  "modulo": "B3",
-  "tipo": "comparacao",
-  "prioridade": "E",
-  "frente": "**Reversibilidade** por estágio",
-  "verso": "**Inflamação:** eliminar a agressão **reverte** o processo. **Fibrose:** acúmulo de colágeno, **ainda potencialmente reversível**. **Cirrose:** alteração da arquitetura, oscilando entre assintomática e descompensada.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 40
-  },
-  "tags": [
-   "progressao"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B3-15",
-  "modulo": "B3",
-  "tipo": "numero",
-  "prioridade": "C",
-  "frente": "**Prevalência de MASLD** na obesidade e no DM2",
-  "verso": "**Obesidade: 75%** (IC 95% 71–79%). **Diabetes tipo 2: 69%** (IC 95% 63–74%).",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 37
-  },
-  "tags": [
-   "etiologias",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-01",
-  "modulo": "B4",
-  "tipo": "definicao",
-  "prioridade": "E",
-  "frente": "O que é **cirrose**?",
-  "verso": "**Não é uma doença, e sim o estágio final da doença hepática crônica**, independente do agente etiológico. Decorre da inflamação crônica, com **tecido fibroso difuso** e **substituição das estruturas normais por nódulos de regeneração**.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 42
-  },
-  "tags": [
-   "cirrose"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-02",
-  "modulo": "B4",
-  "tipo": "comparacao",
-  "prioridade": "E",
-  "frente": "Cirrose **compensada × descompensada**",
-  "verso": "**Compensada:** fase inicial, **assintomática**, pode durar muitos anos, **mortalidade por comorbidades**. **Descompensada:** fase sintomática, complicações, agudizações e hospitalizações, **mortalidade por causa hepática**.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 48
-  },
-  "tags": [
-   "cirrose"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-03",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Child-Pugh** — os cinco fatores",
-  "verso": "**Bilirrubina sérica · albumina sérica · ascite · encefalopatia · tempo de protrombina (INR).** Dois deles (**ascite e encefalopatia**) são clínicos e subjetivos.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 45
-  },
-  "tags": [
-   "cirrose"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-04",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Child-Pugh** — classes e mortalidade em 1 ano",
-  "verso": "**A = 5 a 6 pontos (< 5%)** · **B = 7 a 9 pontos (20%)** · **C = > 10 pontos (55%)**, como grafa o slide.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 45
-  },
-  "tags": [
-   "cirrose",
-   "numeros"
-  ],
-  "ambiguidade": "child-c"
- },
- {
-  "id": "F-B4-05",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Child-Pugh** — cortes de bilirrubina e albumina",
-  "verso": "**Bilirrubina:** < 2,0 (1 pt) · 2,0–3,0 (2 pts) · > 3,0 (3 pts). **Albumina:** > 3,5 (1 pt) · 3,0–3,5 (2 pts) · < 3,0 (3 pts) — **ordem invertida em relação à bilirrubina**.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 45
-  },
-  "tags": [
-   "cirrose",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-06",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Child-Pugh** — cortes de tempo de protrombina",
-  "verso": "**0 a 4 seg / INR < 1,7** (1 pt) · **4,1 a 6 seg / INR 1,7–2,3** (2 pts) · **> 6 seg / INR > 2,3** (3 pts).",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 45
-  },
-  "tags": [
-   "cirrose",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-07",
-  "modulo": "B4",
-  "tipo": "comparacao",
-  "prioridade": "E",
-  "frente": "**Child-Pugh × MELD**",
-  "verso": "**Child:** bilirrubina, albumina, ascite, encefalopatia e TP — **tem itens subjetivos**. **MELD:** creatinina, bilirrubina total e INR (± sódio no MELD-Na) — **sem interpretação subjetiva**, usado na **fila de transplante**. O MELD **não usa albumina**.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 46
-  },
-  "tags": [
-   "cirrose"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-08",
-  "modulo": "B4",
-  "tipo": "mecanismo",
-  "prioridade": "E",
-  "frente": "**Hipertensão portal** — o que é",
-  "verso": "**Aumento da resistência ao fluxo sanguíneo para dentro do fígado** e consequente **aumento sustentado da pressão na veia porta**. Causas: **fibrose e nódulos fecham os sinusoides** e os vasos do abdome dilatam.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 54
-  },
-  "tags": [
-   "cirrose"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-09",
-  "modulo": "B4",
-  "tipo": "lista",
-  "prioridade": "E",
-  "frente": "**Consequências** da hipertensão portal",
-  "verso": "**Ascite** (extravasamento peritoneal) · **circulação colateral → varizes** de esôfago e estômago, cabeça de medusa · **encefalopatia** (desvio de amônia e toxinas) · **esplenomegalia** (anemia, leucopenia, trombocitopenia).",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 55
-  },
-  "tags": [
-   "cirrose"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-10",
-  "modulo": "B4",
-  "tipo": "definicao",
-  "prioridade": "E",
-  "frente": "**Ascite** — definição e causa principal",
-  "verso": "Acúmulo patológico de líquido na cavidade peritoneal; **evento sentinela**. **Hipertensão portal é a causa principal e o fator iniciante**; somam-se hipoproteinemia, desequilíbrio do RAA, obstrução linfática e translocação bacteriana.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 56
-  },
-  "tags": [
-   "ascite"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-11",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Graus da ascite** pela ultrassonografia",
-  "verso": "**Grau 1 (leve): < 3 cm**, macicez móvel negativa, manejo ambulatorial com monoterapia. **Grau 2 (moderada): 3 a 10 cm**, distensão simétrica, hospitalização frequente e diuréticos combinados. **Grau 3 (tensa): > 10 cm**, paracentese de grande volume.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 57
-  },
-  "tags": [
-   "ascite",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-12",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Paracentese diagnóstica** — quando?",
-  "verso": "Ascite **grau II ou III**, **hospitalizados**, **suspeita de infecção** e outras complicações. Analisa **infecção, proteínas totais e albumina**. **Ascite recorrente = > 3 vezes no ano.**",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 58
-  },
-  "tags": [
-   "ascite"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-13",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**PBE** — definição e diagnóstico",
-  "verso": "Infecção do líquido ascítico **na ausência de fonte intra-abdominal tratável**. **1,5 a 3% dos ambulatoriais** e **~10% dos hospitalizados**. **Diagnóstico: PMN > 250 células/mm³.** Manejo: **antibiótico logo após a paracentese + albumina**.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 59
-  },
-  "tags": [
-   "ascite",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-14",
-  "modulo": "B4",
-  "tipo": "mecanismo",
-  "prioridade": "I",
-  "frente": "**Mecanismo da PBE**",
-  "verso": "**Hipertensão portal → aumento da permeabilidade intestinal → passagem de bactérias gram-negativas** para o mesentério e o líquido ascítico → ativação da resposta imune, inflamação aguda e falência de sistemas.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 60
-  },
-  "tags": [
-   "ascite"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-15",
-  "modulo": "B4",
-  "tipo": "definicao",
-  "prioridade": "E",
-  "frente": "**Encefalopatia hepática** — definição",
-  "verso": "Síndrome neuropsiquiátrica causada por disfunção hepática, com **acúmulo de neurotoxinas (amônia)** pela perda da detoxificação. **Desorientação, asterixe (tremor involuntário)** e comprometimento cognitivo.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 61
-  },
-  "tags": [
-   "encefalopatia"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-16",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Varizes esofágicas** — números e quando descompensam",
-  "verso": "Atingem **40 a 70%** dos pacientes com **cirrose avançada**; **endoscopia de rastreio no momento do diagnóstico**. **A descompensação ocorre quando há sangramento**, com instabilidade hemodinâmica, queda de hemoglobina e choque.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 62
-  },
-  "tags": [
-   "cirrose",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-17",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Síndrome hepatorrenal** — definição, gatilhos e critério",
-  "verso": "**Falência renal funcional grave sem causa renal identificável.** Gatilhos: sangramento de varizes, **uso excessivo de diuréticos**, **paracenteses de grande volume sem albumina**, infecção bacteriana. Diagnóstico: **creatinina > 0,3 mg/dL em 48 h ou > 50% em 7 dias**, ou redução do débito urinário.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 63
-  },
-  "tags": [
-   "cirrose",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-18",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "**Carcinoma hepatocelular** — números",
-  "verso": "**80% dos casos de câncer primário de fígado**; **< 10% em fígado saudável**; aumento por **MASLD** (na Ásia, hepatites virais crônicas); início insidioso → **rastreio a cada 6 meses**.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 65
-  },
-  "tags": [
-   "cirrose",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-19",
-  "modulo": "B4",
-  "tipo": "lista",
-  "prioridade": "I",
-  "frente": "Manifestações clínicas **mais comuns** da cirrose",
-  "verso": "**Perda de peso involuntária (que pode estar mascarada), fraqueza e anorexia.** Também comuns: hepatomegalia, ascite e icterícia. Pode haver dor epigástrica vaga com **sensação de plenitude**.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 50
-  },
-  "tags": [
-   "cirrose"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-20",
-  "modulo": "B4",
-  "tipo": "lista",
-  "prioridade": "I",
-  "frente": "Sinais da cirrose **visíveis ao exame físico**",
-  "verso": "Icterícia · ascite · **cabeça de medusa** · **eritema palmar** · **telangiectasias (aranhas vasculares)** · edema.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 51
-  },
-  "tags": [
-   "cirrose"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B4-21",
-  "modulo": "B4",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "Qual é o **primeiro sinal de descompensação mais comum**?",
-  "verso": "**A ascite.** A recorrência envolve um segundo evento por hipertensão portal: ascite, sangramento de varizes, encefalopatia, icterícia — e ainda PBE e síndrome hepatorrenal.",
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 64
-  },
-  "tags": [
-   "ascite"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-01",
-  "modulo": "B5",
-  "tipo": "definicao",
-  "prioridade": "E",
-  "frente": "**Esteatose hepática** — definição e corte",
-  "verso": "**Acúmulo/infiltração gordurosa (triglicerídeos) nos hepatócitos**, em **ao menos 5% do peso total do fígado**. Diagnóstico por **imagem**: USG, TC, RM, elastografia.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 2
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-02",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Graus da esteatose** (% de hepatócitos)",
-  "verso": "**Leve: 5–33%** · **Moderada: 33–66%** · **Severa: > 66%** dos hepatócitos.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 2
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-03",
-  "modulo": "B5",
-  "tipo": "lista",
-  "prioridade": "I",
-  "frente": "**Etiologias possíveis** da esteatose",
-  "verso": "Síndrome metabólica · álcool · **síndrome metabólica + álcool** · lesão por medicamentos · **hepatite viral (especialmente C)** · doenças monogênicas · **nutrição parenteral** · **desnutrição proteico-calórica**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 3
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-04",
-  "modulo": "B5",
-  "tipo": "definicao",
-  "prioridade": "E",
-  "frente": "O que significam **MASLD, MASH, MetALD e ALD**?",
-  "verso": "**MASLD:** esteatose associada à disfunção metabólica (antiga **NAFLD**). **MASH:** esteato-hepatite associada à disfunção metabólica (com inflamação). **MetALD:** MASLD **+ consumo aumentado de álcool**. **ALD:** doença hepática associada ao álcool.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 4
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-05",
-  "modulo": "B5",
-  "tipo": "lista",
-  "prioridade": "E",
-  "frente": "Por que mudou de **NAFLD para MASLD**?",
-  "verso": "**Identificar melhor a etiologia** e o papel da disfunção metabólica · **eliminar o estigma do termo “gorduroso”** · **diagnóstico pragmático**, exigindo ao menos 1 fator cardiometabólico · chamar atenção ao risco de quem **não preenchia os critérios restritos de álcool**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 6
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-06",
-  "modulo": "B5",
-  "tipo": "definicao",
-  "prioridade": "I",
-  "frente": "A evidência sobre **NAFLD ainda vale** para MASLD?",
-  "verso": "**Sim.** O slide diz que, apesar da mudança do critério, **a evidência sobre NAFLD pode ser extrapolada para MASLD**, porque as duas condições são **quase perfeitamente sobrepostas e correlacionadas** em grandes estudos populacionais.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 7
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-07",
-  "modulo": "B5",
-  "tipo": "definicao",
-  "prioridade": "E",
-  "frente": "**Definição de MASLD** — as quatro peças",
-  "verso": "**Gordura > 5% do peso hepático total** + **ao menos 1 fator cardiometabólico** + **ausência de consumo significativo de álcool** + **ausência de outras causas** de doença hepática.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 8
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-08",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Fatores cardiometabólicos** — IMC e cintura",
-  "verso": "**IMC ≥ 25 kg/m²** (**ou 23 kg/m² na Ásia**) **ou CC > 94 cm (homens) / 80 cm (mulheres)**, ou equivalente por etnia.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 9
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-09",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Fatores cardiometabólicos** — glicemia",
-  "verso": "**GJ ≥ 100 mg/dL** ou **glicemia 2 h pós-TOTG ≥ 140 mg/dL** ou **HbA1c ≥ 5,7%** ou **DM2** ou **tratamento para DM2**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 9
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-10",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Fatores cardiometabólicos** — PA, TG e HDL",
-  "verso": "**PA ≥ 130/85 mmHg** ou anti-hipertensivo · **TG ≥ 150 mg/dL** ou hipolipemiante · **HDL ≤ 40 mg/dL (H) e ≤ 50 mg/dL (M)** ou hipolipemiante. **Estar em tratamento já conta como fator.**",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 9
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-11",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**MetALD** — consumo semanal de álcool",
-  "verso": "**140 a 350 g/semana para mulheres** e **210 a 420 g/semana para homens**. Abaixo da faixa, MASLD; acima, ALD.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 11
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-12",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**MetALD** — consumo diário de álcool",
-  "verso": "**20 a 50 g/dia para mulheres** (≈ 1,5 a 3,5 doses) e **30 a 60 g/dia para homens** (≈ 2 a 4,5 doses).",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 11
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-13",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "**1 dose padrão** de álcool",
-  "verso": "**≈ 10 a 14 g de álcool**: 1 lata de cerveja (**350 mL a 5%**) · 1 taça de vinho (**~150 mL a 12%**) · 1 dose de destilado (**~30 mL a 40%**).",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 12
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-14",
-  "modulo": "B5",
-  "tipo": "definicao",
-  "prioridade": "I",
-  "frente": "Por que a distinção MASLD/MetALD/ALD **não é simples**?",
-  "verso": "Porque se baseia principalmente no **histórico clínico** e no **consumo de álcool autorrelatado, frequentemente subestimado ou subrelatado**. Instrumento de rastreio citado: **AUDIT**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 10
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-15",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "**Etiologia e prognóstico** — os HR",
-  "verso": "**Mortalidade:** ALD **3,57** > MetALD **2,94** > MASLD **2,30**. **Descompensação hepática:** ALD **10,2** > MetALD **7,69** > MASLD **4,73**. Referência: sem esteatose.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 14
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-16",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "**Prevalência** de MASLD",
-  "verso": "**1 a cada 3 pacientes adultos** na sala de espera; **8 a 9 em cada 10 pacientes com obesidade**. Maior prevalência regional: **América Latina, 44,4%**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 18
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-17",
-  "modulo": "B5",
-  "tipo": "mecanismo",
-  "prioridade": "I",
-  "frente": "**Resistência à insulina** nos três tecidos",
-  "verso": "**Fígado:** continua produzindo glicose (gliconeogênese) e **↑ lipogênese de novo**. **Músculo:** ↓ síntese de glicogênio e **↓ GLUT-4** (queda da captação de glicose). **Tecido adiposo:** hipertrofia/hiperplasia, **↑ lipólise**, ↑ inflamação e adipocinas, ↓ GLUT-4.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 20
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-18",
-  "modulo": "B5",
-  "tipo": "lista",
-  "prioridade": "E",
-  "frente": "Por onde a **gordura chega ao fígado**?",
-  "verso": "**Três caminhos:** **excesso de ácidos graxos circulantes** (lipólise do tecido adiposo hipertrofiado), **lipídios da dieta** e **lipogênese de novo** pela resistência à insulina.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 21
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-19",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Quando rastrear** MASLD?",
-  "verso": "**O rastreamento deve ser considerado em adultos com IMC > 25 kg/m².** Em sobrepeso/obesidade, **a dosagem isolada de enzimas hepáticas NÃO é recomendada** para rastrear esteatose.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 22
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-20",
-  "modulo": "B5",
-  "tipo": "lista",
-  "prioridade": "E",
-  "frente": "**Busca ativa** em alto risco",
-  "verso": "**Diabetes tipo 2** · **obesidade** · **elevação persistente de AST e/ou ALT por > 6 meses**, por **pelo menos 2 testes** e **após descartar outras causas**. Lembre: **não é incomum as enzimas estarem normais**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 23
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-21",
-  "modulo": "B5",
-  "tipo": "definicao",
-  "prioridade": "E",
-  "frente": "**MASH** — definição e por que não está no fluxo",
-  "verso": "Exigiria **esteatose + inflamação lobular + balonização** (~**25% dos pacientes**). **Como a única forma de identificar é a biópsia, a MASH não está no fluxo diagnóstico.**",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 25
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-22",
-  "modulo": "B5",
-  "tipo": "definicao",
-  "prioridade": "E",
-  "frente": "**FIB-4** — para que serve",
-  "verso": "Teste de **triagem para DESCARTAR fibrose avançada/significativa**, junto a escores não invasivos e/ou elastografia. **Nutricionistas devem considerar calculá-lo**, se todos os componentes estiverem disponíveis, para **estratificação de risco** e educação.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 26
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-23",
-  "modulo": "B5",
-  "tipo": "comparacao",
-  "prioridade": "E",
-  "frente": "**MASLD × MASH × fibrose** — risco de quê",
-  "verso": "**MASLD:** eventos CV, HAS, pré-DM/DM2, doença renal e câncer (↑ com a carga metabólica). **MASH:** estímulo de fibrose; **parece não aumentar tanto** os eventos. **Fibrose:** **fator prognóstico dos desfechos hepáticos** (descompensação **HR 8,46**).",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 28
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-24",
-  "modulo": "B5",
-  "tipo": "lista",
-  "prioridade": "I",
-  "frente": "**Preditores de progressão** da doença hepática",
-  "verso": "**DM2 · obesidade · homens > 50 anos · mulheres pós-menopausa · indivíduos com múltiplos fatores de risco cardiometabólicos.**",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 29
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-25",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Clínica** da MASLD",
-  "verso": "**Assintomática, em geral, até o estágio de cirrose**; achado incidental. **70% dos casos são diagnosticados na primeira admissão hospitalar por descompensação da cirrose.** Transaminases **nem sempre** elevadas; **ferritina pode estar elevada**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 30
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-26",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "**Avaliação nutricional** na MASLD",
-  "verso": "Peso e IMC; distribuição de gordura e composição corporal (**10 a 20% são eutróficos**); BIA, DEXA, antropometria; **CC e circunferência do pescoço**; **RCQ**; glicemia, perfil lipídico e enzimas. **Excesso de adiposidade pode conviver com depleção muscular.**",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 31
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-27",
-  "modulo": "B5",
-  "tipo": "lista",
-  "prioridade": "I",
-  "frente": "**História alimentar** na MASLD",
-  "verso": "R24h **e** recordatório habitual; consumo **atual e habitual**; **explorar bem o álcool — o consumo atual pode não refletir a história prévia**; gordura trans e saturada; **qualidade dos carboidratos**; consumo energético total.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 32
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-28",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Perda de peso** — a escada dos desfechos",
-  "verso": "**3–5% → redução da esteatose** · **7% → melhora da esteato-hepatite** · **10% → regressão e estabilização da fibrose**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 35
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-29",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Restrição calórica** na MASLD",
-  "verso": "**Déficit de 500 a 1.000 kcal/dia OU dieta de 1.200 a 1.500 kcal.** Se a meta não for atingida: **MEV mais intensiva, manejo farmacológico ou cirúrgico, acompanhamento com especialista**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 35
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-30",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "E",
-  "frente": "**Proteína na MASLD** e o peso ajustado",
-  "verso": "**1,2 g/kg de PESO AJUSTADO** durante a perda de peso. **Peso ajustado = (PA − PI) × 0,25 + PI.**",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 43
-  },
-  "tags": [
-   "masld",
-   "numeros",
-   "calculo"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-31",
-  "modulo": "B5",
-  "tipo": "comparacao",
-  "prioridade": "E",
-  "frente": "**Low carb × low fat** na esteatose",
-  "verso": "Em dietas **isocalóricas**, **não houve diferença** no conteúdo de gordura hepática. O que apareceu: **reduzir carboidrato e substituir por PROTEÍNA (não por gordura)** pode ajudar, assim como **trocar gordura saturada por insaturada**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 42
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-32",
-  "modulo": "B5",
-  "tipo": "lista",
-  "prioridade": "I",
-  "frente": "**Macronutrientes** — recomendação geral",
-  "verso": "**Superioridade da restrição de CHO (< 40% VET) no longo prazo não é clara.** Padrão **saudável, in natura e minimamente processado, equilibrado**, adaptado ao caso, **priorizando menor índice glicêmico e otimizando fibras**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 44
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-33",
-  "modulo": "B5",
-  "tipo": "comparacao",
-  "prioridade": "E",
-  "frente": "**Padrão alimentar** e risco de MASLD",
-  "verso": "**Ocidentalizado → maior risco.** **Mediterrâneo e DASH → proteção.** As diretrizes usam o **mediterrâneo como referência**, com **adaptação ao contexto brasileiro e socioeconômico**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 45
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-34",
-  "modulo": "B5",
-  "tipo": "comparacao",
-  "prioridade": "E",
-  "frente": "Dieta mediterrânea: **escore × imagem**",
-  "verso": "No **índice de esteatose (escore calculado)**, **mediterrânea e restrição calórica** foram eficazes. Na **esteatose por exame de imagem**, **apenas a restrição calórica** demonstrou benefício → **a restrição calórica deve fazer parte da intervenção**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 47
-  },
-  "tags": [
-   "masld"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-35",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "**Vitamina E** na esteato-hepatite",
-  "verso": "Doses nos estudos: **400 a 800 UI/dia**. Uso focado em **adultos sem DM2 com esteato-hepatite**, **800 UI/dia por 12 a 24 meses**. **Não é terapia de 1ª linha** — risco de **sangramento** e **AVC hemorrágico**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 50
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-36",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "C",
-  "frente": "**Café** e doença hepática",
-  "verso": "Consumo regular × não consumo: **esteatose RR 0,77** e **fibrose RR 0,68**. **Sem diferenças em ALT, AST e GGT**; **melhora na adiponectina**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 51
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-37",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "**ABESO 2026** — R18 e R19",
-  "verso": "**R18:** obesidade + MASLD → **tratamento farmacológico para perda de peso** (classe **I**, evidência **B**). **R19:** MASH + fibrose → **semaglutida** para redução/resolução de esteatose, MASH e fibrose (classe **I**, evidência **B**).",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 52
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-38",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "**Exercício** na MASLD (EASL-EASD-EASO)",
-  "verso": "**> 150 min/semana** de intensidade **moderada** ou **75 min** de intensidade **vigorosa**, ajustado à preferência e capacidade, **minimizando o tempo sedentário**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 54
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-39",
-  "modulo": "B5",
-  "tipo": "comparacao",
-  "prioridade": "E",
-  "frente": "**Cirrose por MASH** — o alvo muda",
-  "verso": "**Sarcopenia ou cirrose descompensada:** **dieta hiperproteica + ceia**. **Cirrose compensada com obesidade:** **perda de peso moderada + aporte proteico elevado + atividade física**. Em **descompensados não se faz intervenção para perder peso**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 54
-  },
-  "tags": [
-   "masld",
-   "cirrose"
-  ],
-  "ambiguidade": null
- },
- {
-  "id": "F-B5-40",
-  "modulo": "B5",
-  "tipo": "numero",
-  "prioridade": "I",
-  "frente": "**EASL-EASD-EASO** — metas de perda por grupo",
-  "verso": "**Sobrepeso/obesidade:** **≥ 5%** (esteatose) e **≥ 7–10%** (MASH e fibrose); **considerar incretinas**. **Obesidade classe II/III:** considerar **procedimento bariátrico**. **MASLD com peso normal:** **3–5%**.",
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 54
-  },
-  "tags": [
-   "masld",
-   "numeros"
-  ],
-  "ambiguidade": null
- },
- {
   "id": "F-B6-01",
   "modulo": "B6",
   "tipo": "numero",
@@ -4415,6 +3163,1260 @@
   "tags": [
    "cirrose",
    "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-01",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Esteatose hepática** — definição e corte",
+  "verso": "**Acúmulo/infiltração gordurosa (triglicerídeos) nos hepatócitos**, em **ao menos 5% do peso total do fígado**. Diagnóstico por **imagem**: USG, TC, RM, elastografia.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 2
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-02",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Graus da esteatose** (% de hepatócitos)",
+  "verso": "**Leve: 5–33%** · **Moderada: 33–66%** · **Severa: > 66%** dos hepatócitos.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 2
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-03",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Etiologias possíveis** da esteatose",
+  "verso": "Síndrome metabólica · álcool · **síndrome metabólica + álcool** · lesão por medicamentos · **hepatite viral (especialmente C)** · doenças monogênicas · **nutrição parenteral** · **desnutrição proteico-calórica**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 3
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-04",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "O que significam **MASLD, MASH, MetALD e ALD**?",
+  "verso": "**MASLD:** esteatose associada à disfunção metabólica (antiga **NAFLD**). **MASH:** esteato-hepatite associada à disfunção metabólica (com inflamação). **MetALD:** MASLD **+ consumo aumentado de álcool**. **ALD:** doença hepática associada ao álcool.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 5
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-05",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "Por que mudou de **NAFLD para MASLD**?",
+  "verso": "**Identificar melhor a etiologia** e o papel da disfunção metabólica · **eliminar o estigma do termo “gorduroso”** · **diagnóstico pragmático**, exigindo ao menos 1 fator cardiometabólico · chamar atenção ao risco de quem **não preenchia os critérios restritos de álcool**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 6
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-06",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "A evidência sobre **NAFLD ainda vale** para MASLD?",
+  "verso": "**Sim.** O slide diz que, apesar da mudança do critério, **a evidência sobre NAFLD pode ser extrapolada para MASLD**, porque as duas condições são **quase perfeitamente sobrepostas e correlacionadas** em grandes estudos populacionais.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 7
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-07",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Definição de MASLD** — as quatro peças",
+  "verso": "**Gordura > 5% do peso hepático total** + **ao menos 1 fator cardiometabólico** + **ausência de consumo significativo de álcool** + **ausência de outras causas** de doença hepática.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 8
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-08",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Fatores cardiometabólicos** — IMC e cintura",
+  "verso": "**IMC ≥ 25 kg/m²** (**ou 23 kg/m² na Ásia**) **ou CC > 94 cm (homens) / 80 cm (mulheres)**, ou equivalente por etnia.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-09",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Fatores cardiometabólicos** — glicemia",
+  "verso": "**GJ ≥ 100 mg/dL** ou **glicemia 2 h pós-TOTG ≥ 140 mg/dL** ou **HbA1c ≥ 5,7%** ou **DM2** ou **tratamento para DM2**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-10",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Fatores cardiometabólicos** — PA, TG e HDL",
+  "verso": "**PA ≥ 130/85 mmHg** ou anti-hipertensivo · **TG ≥ 150 mg/dL** ou hipolipemiante · **HDL ≤ 40 mg/dL (H) e ≤ 50 mg/dL (M)** ou hipolipemiante. **Estar em tratamento já conta como fator.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-11",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**MetALD** — consumo semanal de álcool",
+  "verso": "**140 a 350 g/semana para mulheres** e **210 a 420 g/semana para homens**. Abaixo da faixa, MASLD; acima, ALD.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 11
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-12",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**MetALD** — consumo diário de álcool",
+  "verso": "**20 a 50 g/dia para mulheres** (≈ 1,5 a 3,5 doses) e **30 a 60 g/dia para homens** (≈ 2 a 4,5 doses).",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 11
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-13",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**1 dose padrão** de álcool",
+  "verso": "**≈ 10 a 14 g de álcool**: 1 lata de cerveja (**350 mL a 5%**) · 1 taça de vinho (**~150 mL a 12%**) · 1 dose de destilado (**~30 mL a 40%**).",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 12
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-14",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Por que a distinção MASLD/MetALD/ALD **não é simples**?",
+  "verso": "Porque se baseia principalmente no **histórico clínico** e no **consumo de álcool autorrelatado, frequentemente subestimado ou subrelatado**. Instrumento de rastreio citado: **AUDIT**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 13
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-15",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Etiologia e prognóstico** — os HR",
+  "verso": "**Mortalidade:** ALD **3,57** > MetALD **2,94** > MASLD **2,30**. **Descompensação hepática:** ALD **10,2** > MetALD **7,69** > MASLD **4,73**. Referência: sem esteatose.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 14
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-16",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Prevalência** de MASLD",
+  "verso": "**1 a cada 3 pacientes adultos** na sala de espera; **8 a 9 em cada 10 pacientes com obesidade**. Maior prevalência regional: **América Latina, 44,4%**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 18
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-17",
+  "modulo": "B5",
+  "tipo": "mecanismo",
+  "prioridade": "I",
+  "frente": "**Resistência à insulina** nos três tecidos",
+  "verso": "**Fígado:** continua produzindo glicose (gliconeogênese) e **↑ lipogênese de novo**. **Músculo:** ↓ síntese de glicogênio e **↓ GLUT-4** (queda da captação de glicose). **Tecido adiposo:** hipertrofia/hiperplasia, **↑ lipólise**, ↑ inflamação e adipocinas, ↓ GLUT-4.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 20
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-18",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "Por onde a **gordura chega ao fígado**?",
+  "verso": "**Três caminhos:** **excesso de ácidos graxos circulantes** (lipólise do tecido adiposo hipertrofiado), **lipídios da dieta** e **lipogênese de novo** pela resistência à insulina.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 21
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-19",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Quando rastrear** MASLD?",
+  "verso": "**O rastreamento deve ser considerado em adultos com IMC > 25 kg/m².** Em sobrepeso/obesidade, **a dosagem isolada de enzimas hepáticas NÃO é recomendada** para rastrear esteatose.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 22
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-20",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Busca ativa** em alto risco",
+  "verso": "**Diabetes tipo 2** · **obesidade** · **elevação persistente de AST e/ou ALT por > 6 meses**, por **pelo menos 2 testes** e **após descartar outras causas**. Lembre: **não é incomum as enzimas estarem normais**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 23
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-21",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**MASH** — definição e por que não está no fluxo",
+  "verso": "Exigiria **esteatose + inflamação lobular + balonização** (~**25% dos pacientes**). **Como a única forma de identificar é a biópsia, a MASH não está no fluxo diagnóstico.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 25
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-22",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**FIB-4** — para que serve",
+  "verso": "Teste de **triagem para DESCARTAR fibrose avançada/significativa**, junto a escores não invasivos e/ou elastografia. **Nutricionistas devem considerar calculá-lo**, se todos os componentes estiverem disponíveis, para **estratificação de risco** e educação.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 26
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-23",
+  "modulo": "B5",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**MASLD × MASH × fibrose** — risco de quê",
+  "verso": "**MASLD:** eventos CV, HAS, pré-DM/DM2, doença renal e câncer (↑ com a carga metabólica). **MASH:** estímulo de fibrose; **parece não aumentar tanto** os eventos. **Fibrose:** **fator prognóstico dos desfechos hepáticos** (descompensação **HR 8,46**).",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 28
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-24",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Preditores de progressão** da doença hepática",
+  "verso": "**DM2 · obesidade · homens > 50 anos · mulheres pós-menopausa · indivíduos com múltiplos fatores de risco cardiometabólicos.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 29
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-25",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Clínica** da MASLD",
+  "verso": "**Assintomática, em geral, até o estágio de cirrose**; achado incidental. **70% dos casos são diagnosticados na primeira admissão hospitalar por descompensação da cirrose.** Transaminases **nem sempre** elevadas; **ferritina pode estar elevada**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 30
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-26",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Avaliação nutricional** na MASLD",
+  "verso": "Peso e IMC; distribuição de gordura e composição corporal (**10 a 20% são eutróficos**); BIA, DEXA, antropometria; **CC e circunferência do pescoço**; **RCQ**; glicemia, perfil lipídico e enzimas. **Excesso de adiposidade pode conviver com depleção muscular.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 31
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-27",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**História alimentar** na MASLD",
+  "verso": "R24h **e** recordatório habitual; consumo **atual e habitual**; **explorar bem o álcool — o consumo atual pode não refletir a história prévia**; gordura trans e saturada; **qualidade dos carboidratos**; consumo energético total.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 32
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-28",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Perda de peso** — a escada dos desfechos",
+  "verso": "**3–5% → redução da esteatose** · **7% → melhora da esteato-hepatite** · **10% → regressão e estabilização da fibrose**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 35
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-29",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Restrição calórica** na MASLD",
+  "verso": "**Déficit de 500 a 1.000 kcal/dia OU dieta de 1.200 a 1.500 kcal.** Se a meta não for atingida: **MEV mais intensiva, manejo farmacológico ou cirúrgico, acompanhamento com especialista**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 35
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-30",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Proteína na MASLD** e o peso ajustado",
+  "verso": "**1,2 g/kg de PESO AJUSTADO** durante a perda de peso. **Peso ajustado = (PA − PI) × 0,25 + PI.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 43
+  },
+  "tags": [
+   "masld",
+   "numeros",
+   "calculo"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-31",
+  "modulo": "B5",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Low carb × low fat** na esteatose",
+  "verso": "Em dietas **isocalóricas**, **não houve diferença** no conteúdo de gordura hepática. O que apareceu: **reduzir carboidrato e substituir por PROTEÍNA (não por gordura)** pode ajudar, assim como **trocar gordura saturada por insaturada**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 41
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-32",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Macronutrientes** — recomendação geral",
+  "verso": "**Superioridade da restrição de CHO (< 40% VET) no longo prazo não é clara.** Padrão **saudável, in natura e minimamente processado, equilibrado**, adaptado ao caso, **priorizando menor índice glicêmico e otimizando fibras**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 44
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-33",
+  "modulo": "B5",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Padrão alimentar** e risco de MASLD",
+  "verso": "**Ocidentalizado → maior risco.** **Mediterrâneo e DASH → proteção.** As diretrizes usam o **mediterrâneo como referência**, com **adaptação ao contexto brasileiro e socioeconômico**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 48
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-34",
+  "modulo": "B5",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "Dieta mediterrânea: **escore × imagem**",
+  "verso": "No **índice de esteatose (escore calculado)**, **mediterrânea e restrição calórica** foram eficazes. Na **esteatose por exame de imagem**, **apenas a restrição calórica** demonstrou benefício → **a restrição calórica deve fazer parte da intervenção**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 47
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-35",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Vitamina E** na esteato-hepatite",
+  "verso": "Doses nos estudos: **400 a 800 UI/dia**. Uso focado em **adultos sem DM2 com esteato-hepatite**, **800 UI/dia por 12 a 24 meses**. **Não é terapia de 1ª linha** — risco de **sangramento** e **AVC hemorrágico**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 49
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-36",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "**Café** e doença hepática",
+  "verso": "Consumo regular × não consumo: **esteatose RR 0,77** e **fibrose RR 0,68**. **Sem diferenças em ALT, AST e GGT**; **melhora na adiponectina**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 51
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-37",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**ABESO 2026** — R18 e R19",
+  "verso": "**R18:** obesidade + MASLD → **tratamento farmacológico para perda de peso** (classe **I**, evidência **B**). **R19:** MASH + fibrose → **semaglutida** para redução/resolução de esteatose, MASH e fibrose (classe **I**, evidência **B**).",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 52
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-38",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Exercício** na MASLD (EASL-EASD-EASO)",
+  "verso": "**> 150 min/semana** de intensidade **moderada** ou **75 min** de intensidade **vigorosa**, ajustado à preferência e capacidade, **minimizando o tempo sedentário**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 54
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-39",
+  "modulo": "B5",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Cirrose por MASH** — o alvo muda",
+  "verso": "**Sarcopenia ou cirrose descompensada:** **dieta hiperproteica + ceia**. **Cirrose compensada com obesidade:** **perda de peso moderada + aporte proteico elevado + atividade física**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 54
+  },
+  "tags": [
+   "masld",
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-40",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**EASL-EASD-EASO** — metas de perda por grupo",
+  "verso": "**Sobrepeso/obesidade:** **≥ 5%** (esteatose) e **≥ 7–10%** (MASH e fibrose); **considerar incretinas**. **Obesidade classe II/III:** considerar **procedimento bariátrico**. **MASLD com peso normal:** **3–5%**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 54
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-01",
+  "modulo": "B3",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Os **três processos** que caracterizam a doença hepática",
+  "verso": "**1) Lesão dos hepatócitos · 2) infiltração de células inflamatórias · 3) ativação das células estreladas.** Juntos, comprometem a função e alteram a arquitetura.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 24
+  },
+  "tags": [
+   "etiologias"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-02",
+  "modulo": "B3",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Etiologias** da doença hepática",
+  "verso": "**Metabólicas:** MASLD, hemocromatose, doença de Wilson, deficiência de alfa-1 antitripsina. **Tóxicas:** álcool e medicamentos. **Virais:** hepatites cronificadas. **A sobreposição de causas acelera drasticamente a progressão.**",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 25
+  },
+  "tags": [
+   "etiologias"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-03",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Peso das três **causas mais comuns**",
+  "verso": "**MASLD: 30 a 40% da população adulta.** **Álcool: 60% dos casos de cirrose** (Europa e América). **Hepatites virais:** ainda com impacto relevante.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 26
+  },
+  "tags": [
+   "etiologias",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-04",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "**Epidemiologia** das doenças hepáticas",
+  "verso": "**4% das mortes globais em 2019** · **11ª principal causa de morte global** · **2 milhões de mortes** globalmente.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 28
+  },
+  "tags": [
+   "etiologias",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-05",
+  "modulo": "B3",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Transmissão** das hepatites virais",
+  "verso": "**A e E: via fecal-oral.** **B, C e D: sangue e fluidos corporais.** O vírus delta (HDV) está associado à hepatite B.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 29
+  },
+  "tags": [
+   "hepatites"
+  ],
+  "ambiguidade": "hepatites-ae"
+ },
+ {
+  "id": "F-B3-06",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Hepatite B** — o que decorar",
+  "verso": "**Única com vírus de DNA.** Cerca de **60% dos casos** de hepatite viral; ~30% com infecção sintomática e **1% insuficiência hepática aguda**; **tendência à cronificação**; antiviral para evitar progressão.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 31
+  },
+  "tags": [
+   "hepatites",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-07",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Hepatite C** — o que decorar",
+  "verso": "**50 a 85% cronificam**; em geral (**80%**) assintomáticos até fases avançadas; **antivirais de ação direta com 95% de cura em 12 a 24 semanas**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 31
+  },
+  "tags": [
+   "hepatites",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-08",
+  "modulo": "B3",
+  "tipo": "conduta",
+  "prioridade": "I",
+  "frente": "Tratamento das **hepatites A e E**",
+  "verso": "**Sem antiviral específico**, em geral **autolimitadas**: **repouso, hidratação** e **dieta normal, conforme tolerância**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 32
+  },
+  "tags": [
+   "hepatites"
+  ],
+  "ambiguidade": "hepatites-ae"
+ },
+ {
+  "id": "F-B3-09",
+  "modulo": "B3",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "As **quatro fases clínicas** da hepatite viral",
+  "verso": "**1 incubação** (assintomática ou inespecífica) · **2 pré-ictérica** (sintomas, 10–20% com febre/artralgia/angioedema, **↑ AST e ALT**) · **3 ictérica** (**7 a 14 dias depois**) · **4 convalescente** (**2 a 12 semanas**, HBV e HCV podem tornar portador).",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 33
+  },
+  "tags": [
+   "hepatites",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-10",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Álcool** — calorias e metabolismo",
+  "verso": "**7,1 kcal/g**; **80 a 90% metabolizado pelo fígado** (restante por pulmões, rins e pele). Duas vias: **ADH no citoplasma** e **SOMA no retículo endoplasmático**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 34
+  },
+  "tags": [
+   "alcool",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-11",
+  "modulo": "B3",
+  "tipo": "mecanismo",
+  "prioridade": "I",
+  "frente": "Produtos do metabolismo do **álcool** e seus efeitos",
+  "verso": "**Acetaldeído, acetato e NADH** → alterações do metabolismo lipídico → **lesão hepática, inflamação e estresse oxidativo**. **Mulheres tendem a produzir mais acetaldeído.**",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 35
+  },
+  "tags": [
+   "alcool"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-12",
+  "modulo": "B3",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "**Hepatite alcoólica** — como o slide descreve",
+  "verso": "Citoplasmas dos hepatócitos **distendidos por gordura, deslocando os núcleos para a periferia**, com **inflamação e necrose** das células hepáticas.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 36
+  },
+  "tags": [
+   "alcool"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-13",
+  "modulo": "B3",
+  "tipo": "mecanismo",
+  "prioridade": "E",
+  "frente": "A **sequência da progressão** da doença hepática crônica",
+  "verso": "Agressão contínua → **Kupffer liberam citocinas inflamatórias** → **estreladas produzem colágeno (cicatrizes)** → **fibrose e nódulos** alteram o tecido e impedem as funções.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 39
+  },
+  "tags": [
+   "progressao"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-14",
+  "modulo": "B3",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Reversibilidade** por estágio",
+  "verso": "**Inflamação:** eliminar a agressão **reverte** o processo. **Fibrose:** acúmulo de colágeno, **ainda potencialmente reversível**. **Cirrose:** alteração da arquitetura, oscilando entre assintomática e descompensada.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 40
+  },
+  "tags": [
+   "progressao"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-15",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "**Prevalência de MASLD** na obesidade e no DM2",
+  "verso": "**Obesidade: 75%** (IC 95% 71–79%). **Diabetes tipo 2: 69%** (IC 95% 63–74%).",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 37
+  },
+  "tags": [
+   "etiologias",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-01",
+  "modulo": "B4",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "O que é **cirrose**?",
+  "verso": "**Não é uma doença, e sim o estágio final da doença hepática crônica**, independente do agente etiológico. Decorre da inflamação crônica, com **tecido fibroso difuso** e **substituição das estruturas normais por nódulos de regeneração**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 42
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-02",
+  "modulo": "B4",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "Cirrose **compensada × descompensada**",
+  "verso": "**Compensada:** fase inicial, **assintomática**, pode durar muitos anos, **mortalidade por comorbidades**. **Descompensada:** fase sintomática, complicações, agudizações e hospitalizações, **mortalidade por causa hepática**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 48
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-03",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Child-Pugh** — os cinco fatores",
+  "verso": "**Bilirrubina sérica · albumina sérica · ascite · encefalopatia · tempo de protrombina (INR).** Dois deles (**ascite e encefalopatia**) são clínicos e subjetivos.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-04",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Child-Pugh** — classes e mortalidade em 1 ano",
+  "verso": "**A = 5 a 6 pontos (< 5%)** · **B = 7 a 9 pontos (20%)** · **C = > 10 pontos (55%)**, como grafa o slide.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": "child-c"
+ },
+ {
+  "id": "F-B4-05",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Child-Pugh** — cortes de bilirrubina e albumina",
+  "verso": "**Bilirrubina:** < 2,0 (1 pt) · 2,0–3,0 (2 pts) · > 3,0 (3 pts). **Albumina:** > 3,5 (1 pt) · 3,0–3,5 (2 pts) · < 3,0 (3 pts) — **ordem invertida em relação à bilirrubina**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-06",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Child-Pugh** — cortes de tempo de protrombina",
+  "verso": "**0 a 4 seg / INR < 1,7** (1 pt) · **4,1 a 6 seg / INR 1,7–2,3** (2 pts) · **> 6 seg / INR > 2,3** (3 pts).",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-07",
+  "modulo": "B4",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Child-Pugh × MELD**",
+  "verso": "**Child:** bilirrubina, albumina, ascite, encefalopatia e TP — **tem itens subjetivos**. **MELD:** creatinina, bilirrubina total e INR (± sódio no MELD-Na) — **sem interpretação subjetiva**, usado na **fila de transplante**. O MELD **não usa albumina**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 46
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-08",
+  "modulo": "B4",
+  "tipo": "mecanismo",
+  "prioridade": "E",
+  "frente": "**Hipertensão portal** — o que é",
+  "verso": "**Aumento da resistência ao fluxo sanguíneo para dentro do fígado** e consequente **aumento sustentado da pressão na veia porta**. Causas: **fibrose e nódulos fecham os sinusoides** e os vasos do abdome dilatam.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 54
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-09",
+  "modulo": "B4",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Consequências** da hipertensão portal",
+  "verso": "**Ascite** (extravasamento peritoneal) · **circulação colateral → varizes** de esôfago e estômago, cabeça de medusa · **encefalopatia** (desvio de amônia e toxinas) · **esplenomegalia** (anemia, leucopenia, trombocitopenia).",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 54
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-10",
+  "modulo": "B4",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Ascite** — definição e causa principal",
+  "verso": "Acúmulo patológico de líquido na cavidade peritoneal; **evento sentinela**. **Hipertensão portal é a causa principal e o fator iniciante**; somam-se hipoproteinemia, desequilíbrio do RAA, obstrução linfática e translocação bacteriana.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 56
+  },
+  "tags": [
+   "ascite"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-11",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Graus da ascite** pela ultrassonografia",
+  "verso": "**Grau 1 (leve): < 3 cm**, macicez móvel negativa, manejo ambulatorial com monoterapia. **Grau 2 (moderada): 3 a 10 cm**, distensão simétrica, hospitalização frequente e diuréticos combinados. **Grau 3 (tensa): > 10 cm**, paracentese de grande volume.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 57
+  },
+  "tags": [
+   "ascite",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-12",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Paracentese diagnóstica** — quando?",
+  "verso": "Ascite **grau II ou III**, **hospitalizados**, **suspeita de infecção** e outras complicações. Analisa **infecção, proteínas totais e albumina**. **Ascite recorrente = > 3 vezes no ano.**",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 58
+  },
+  "tags": [
+   "ascite"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-13",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**PBE** — definição e diagnóstico",
+  "verso": "Infecção do líquido ascítico **na ausência de fonte intra-abdominal tratável**. **1,5 a 3% dos ambulatoriais** e **~10% dos hospitalizados**. **Diagnóstico: PMN > 250 células/mm³.** Manejo: **antibiótico logo após a paracentese + albumina**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 59
+  },
+  "tags": [
+   "ascite",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-14",
+  "modulo": "B4",
+  "tipo": "mecanismo",
+  "prioridade": "I",
+  "frente": "**Mecanismo da PBE**",
+  "verso": "**Hipertensão portal → aumento da permeabilidade intestinal → passagem de bactérias gram-negativas** para o mesentério e o líquido ascítico → ativação da resposta imune, inflamação aguda e falência de sistemas.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 60
+  },
+  "tags": [
+   "ascite"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-15",
+  "modulo": "B4",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Encefalopatia hepática** — definição",
+  "verso": "Síndrome neuropsiquiátrica causada por disfunção hepática, com **acúmulo de neurotoxinas (amônia)** pela perda da detoxificação. **Desorientação, asterixe (tremor involuntário)** e comprometimento cognitivo.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 61
+  },
+  "tags": [
+   "encefalopatia"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-16",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Varizes esofágicas** — números e quando descompensam",
+  "verso": "Atingem **40 a 70%** dos pacientes com **cirrose avançada**; **endoscopia de rastreio no momento do diagnóstico**. **A descompensação ocorre quando há sangramento**, com instabilidade hemodinâmica, queda de hemoglobina e choque.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 62
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-17",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Síndrome hepatorrenal** — definição, gatilhos e critério",
+  "verso": "**Falência renal funcional grave sem causa renal identificável.** Gatilhos: sangramento de varizes, **uso excessivo de diuréticos**, **paracenteses de grande volume sem albumina**, infecção bacteriana. Diagnóstico: **creatinina > 0,3 mg/dL em 48 h ou > 50% em 7 dias**, ou redução do débito urinário.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 63
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-18",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Carcinoma hepatocelular** — números",
+  "verso": "**80% dos casos de câncer primário de fígado**; **< 10% em fígado saudável**; aumento por **MASLD** (na Ásia, hepatites virais crônicas); início insidioso → **rastreio a cada 6 meses**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 65
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-19",
+  "modulo": "B4",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "Manifestações clínicas **mais comuns** da cirrose",
+  "verso": "**Perda de peso involuntária (que pode estar mascarada), fraqueza e anorexia.** Também comuns: hepatomegalia, ascite e icterícia. Pode haver dor epigástrica vaga com **sensação de plenitude**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 50
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-20",
+  "modulo": "B4",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "Sinais da cirrose **visíveis ao exame físico**",
+  "verso": "Icterícia · ascite · **cabeça de medusa** · **eritema palmar** · **telangiectasias (aranhas vasculares)** · edema.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 51
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-21",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Qual é o **primeiro sinal de descompensação mais comum**?",
+  "verso": "**A ascite.** A recorrência envolve um segundo evento por hipertensão portal: ascite, sangramento de varizes, encefalopatia, icterícia — e ainda PBE e síndrome hepatorrenal.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 64
+  },
+  "tags": [
+   "ascite"
   ],
   "ambiguidade": null
  },
@@ -5060,7 +5062,7 @@
   "verso": "**Maioria homens**, **41% com obesidade**, etiologia **alcoólica e metabólica**, **10% realizou transplante de fígado e rins**. **~10% vai a óbito na fila e ~20% é removido da lista.**",
   "fonte": {
    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
-   "pagina": 46
+   "pagina": 48
   },
   "tags": [
    "transplante",

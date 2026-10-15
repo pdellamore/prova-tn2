@@ -13,14 +13,28 @@ Onde os slides se contradizem, o site mostra os dois lados em uma caixa
 
 | | |
 |---|---|
-| Lições | **A1 a A5** (Rim I): fisiologia, síndrome nefrótica, DRC e KDIGO, avaliação nutricional, tratamento conservador |
-| Questões | **46**, de 5 alternativas, com justificativa, motivo do erro de cada alternativa e fonte |
-| Flashcards | **95**, com repetição espaçada comprimida nos 5 dias |
-| Cálculos | **KDIGO (G + A)**, **Cockcroft-Gault** e **escore MST**, com exemplo resolvido e casos sorteados |
-| Telas | Hoje, Trilha, Lição, Questões, Flashcards, Cálculos, Meus erros, Painel, Ajustes |
+| Lições | **as 18**: A1–A10 (rim) e B1–B8 (fígado), de fisiologia renal a transplante hepático |
+| Questões | **154**, de 5 alternativas, com justificativa, motivo do erro de cada alternativa e fonte |
+| Flashcards | **323**, com repetição espaçada comprimida nos 5 dias |
+| Mini-jogos | **80** afirmações de verdadeiro ou falso, **66** rodadas de "qual é o número?", **12** tabelas de ligar colunas e **14** casos clínicos |
+| Chefões | **3** simulados cronometrados: rim, fígado e o final, com rim e fígado misturados |
+| Cálculos | **8**: KDIGO (G + A), Cockcroft-Gault, escore MST, Child-Pugh, peso seco na ascite, peso ajustado, líquidos na hemodiálise e classificação SLD/MASLD |
+| Diagramas | **5** em SVG: progressão até a cirrose, formação da fibrose, hipertensão portal, síndrome nefrótica e o caminho da amônia/BCAA |
+| Ambiguidades | **18** pontos em que os slides se contradizem, com os dois lados lado a lado |
+| Telas | Hoje, Trilha, Lição, Questões, Flashcards, Cálculos, Jogos, Chefões, Meus erros, Painel, Ajustes |
 
-A sexta (A6–A10 e B1–B4), o sábado (B5–B8), os chefões e os mini-jogos aparecem na trilha
-marcados como "chega na sexta" / "chega no sábado" — ela vê o mapa inteiro desde o começo.
+O conteúdo de cada dia vai sendo liberado pelo cronograma, mas a trilha mostra os 18 módulos
+desde o começo e **nada é bloqueado de verdade** — dá para pular para qualquer lição.
+
+### Auditoria de fidelidade
+
+Cada item do site cita o arquivo e a página do slide de onde veio, e uma amostra de **38% das
+questões e dos flashcards** (58 de 154 e 123 de 323), mais **100% dos números dos mini-jogos**
+(os 66 valores e os 94 pares das tabelas), foi conferida item a item contra os slides por
+revisores independentes — inclusive renderizando em imagem as páginas que são só figura. As
+divergências encontradas foram de página e de redação, e estão corrigidas; nenhum gabarito,
+número ou classificação estava errado. Três afirmações que não constavam dos slides foram
+removidas, e duas contradições novas entre slides viraram caixa de "ponto de atenção".
 
 ## Como rodar no computador
 
@@ -91,6 +105,11 @@ recarregue — nada precisa ser recompilado.
 | `questoes.json` | Enunciado, 5 alternativas, gabarito, justificativa, motivo do erro de cada alternativa |
 | `ambiguidades.json` | Os pontos em que os slides se contradizem, com os dois lados |
 | `badges.json` | As conquistas |
+| `chefoes.json` | Os três simulados: quantas questões, quantos minutos e o corte de aprovação |
+| `vf.json` | As afirmações de verdadeiro ou falso, com o porquê de cada uma |
+| `numeros.json` | Pergunta, número certo, três distratores e explicação |
+| `ligar.json` | As tabelas de ligar colunas, em pares esquerda/direita |
+| `casos.json` | Os casos clínicos, passo a passo, com as opções de cada passo |
 
 Prioridade é sempre `E` (essencial), `I` (importante) ou `C` (complementar) — viram os selos
 coloridos. O campo `fonte` é `{"arquivo": "Aula_NEFRO", "pagina": 82}`, onde `arquivo` é o nome
@@ -163,6 +182,10 @@ revisa flashcards, resolve um caso de KDIGO, recarrega a página e confere que o
 persistiu, exporta e importa o progresso, e repete o essencial com o **localStorage bloqueado**.
 Falha se houver qualquer erro no console.
 
+Um segundo bloco percorre o **chefão** até o gabarito, os **quatro mini-jogos** até o resultado
+(ligando as colunas pelos pares certos), as **cinco calculadoras novas** e confere que o
+**diagrama em SVG** aparece na lição com rótulo para leitor de tela e versão em texto.
+
 Há ainda um bloco de **resiliência do progresso**, que corrompe a chave principal de propósito
 e confere que o site recupera da cópia, que ele avisa quando o navegador para de aceitar
 gravações, e que "zerar progresso" não é desfeito pela cópia na visita seguinte.
@@ -199,6 +222,7 @@ docs/                     ← é esta pasta que o GitHub Pages publica
   js/ui.js                peças de interface e o mini-markdown do conteúdo
   js/screens/*.js         uma tela por arquivo
   js/calc/*.js            um cálculo por arquivo: resolver, gerar caso e conferir
+  js/diagramas/index.js   os diagramas em SVG, desenhados por código a partir de listas
   data/                   o conteúdo (ver acima)
 scripts/validate_content.py  validação do conteúdo contra os slides
 scripts/test_browser.py      teste de navegador com Playwright

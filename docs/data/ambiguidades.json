@@ -331,5 +331,25 @@
    }
   ],
   "nota": "Se a prova cobrar, a tabela da p. 167 é o desempate: cálcio alimentar controlado apenas no tipo II."
+ },
+ {
+  "id": "cetoanalogos-dose",
+  "titulo": "Dose da dieta muito restrita com cetoanálogos",
+  "resumo": "A mesma dieta aparece com **dois intervalos diferentes** em slides distintos da mesma aula.",
+  "lados": [
+   "**BRASPEN / statement KDOQI** (slides 82 e 83): **0,28 a 0,43 g/kg/dia** + cetoanálogos, na DRC 3–5 sem diabetes e metabolicamente estável.",
+   "**Fluxo da “opção 02”** (slide 99): **dieta hipoproteica de 0,3 a 0,4 g/kg/dia** com cetoanálogos (1 comprimido por 5 kg de peso), **só nos estágios 4 e 5**."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 83
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 99
+   }
+  ],
+  "nota": "São intervalos próximos, mas escritos de formas diferentes. Veja de qual slide a alternativa fala antes de marcar."
  }
 ]

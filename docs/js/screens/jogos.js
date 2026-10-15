@@ -356,6 +356,7 @@ function jogoLigar(raiz, c, id) {
           </tbody></table>
           ${tabela.nota ? `<p class="fonte" style="margin-top:.6rem">${rico(tabela.nota)}</p>` : ""}
           ${caixaFonte(tabela.fonte)}
+          <p class="fonte" style="margin-top:.4rem">Uma tabela reúne pares que podem estar em páginas diferentes da mesma aula; a fonte marca a principal.</p>
           <div class="acoes"><button class="btn btn-forte" id="denovo" type="button">Embaralhar de novo</button>
           <a class="btn" href="#/jogos/ligar">Outra tabela</a></div>
         </div>`;

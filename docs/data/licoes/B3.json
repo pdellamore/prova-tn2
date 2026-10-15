@@ -148,6 +148,10 @@
   },
   {
    "id": "B3-b4",
+   "diagrama": [
+    "celulas-fibrose",
+    "progressao-hepatica"
+   ],
    "titulo": "Progressão: o que ainda volta atrás",
    "prioridade": "E",
    "pontos": [
@@ -202,11 +206,7 @@
      "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
      "pagina": 40
     }
-   },
-   "diagrama": [
-    "celulas-fibrose",
-    "progressao-hepatica"
-   ]
+   }
   }
  ],
  "feynman": [

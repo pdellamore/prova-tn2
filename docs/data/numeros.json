@@ -93,7 +93,7 @@
   "id": "N-006",
   "modulo": "A5",
   "prioridade": "E",
-  "pergunta": "Proteína da dieta muito restrita com cetoácidos",
+  "pergunta": "Proteína da dieta muito restrita com cetoácidos, na tabela do KDOQI/BRASPEN",
   "resposta": "0,28 a 0,43 g/kg",
   "distratores": [
    "0,55 a 0,60 g/kg",
@@ -103,9 +103,9 @@
   "explicacao": "**0,28 a 0,43 g/kg + cetoanálogos**, e só nos **estágios 4 e 5**.",
   "fonte": {
    "arquivo": "Aula_NEFRO",
-   "pagina": 99
+   "pagina": 83
   },
-  "ambiguidade": null
+  "ambiguidade": "cetoanalogos-dose"
  },
  {
   "id": "N-007",
@@ -229,7 +229,7 @@
   "explicacao": "**Cerca de 35% do VET por via oral**, porque a **glicose do dialisato** já entra na conta.",
   "fonte": {
    "arquivo": "Aula_NEFRO",
-   "pagina": 137
+   "pagina": 138
   },
   "ambiguidade": null
  },
@@ -247,7 +247,7 @@
   "explicacao": "**Até 76 mEq/dia na DP.** Os **50 a 75 mEq** são do tratamento conservador.",
   "fonte": {
    "arquivo": "Aula_NEFRO",
-   "pagina": 139
+   "pagina": 140
   },
   "ambiguidade": null
  },
@@ -265,7 +265,7 @@
   "explicacao": "**Imediato (até 6 semanas): 30 a 35 kcal/kg e 1,3 a 1,5 g/kg de peso atual.** **Tardio: 25 a 35 kcal/kg e 0,55 a 0,60 g/kg.**",
   "fonte": {
    "arquivo": "Aula_NEFRO",
-   "pagina": 151
+   "pagina": 148
   },
   "ambiguidade": "proteina-tx-renal"
  },
@@ -319,7 +319,7 @@
   "explicacao": "**Mais de 50% ou 0,5 mg/dL.** O **> 0,3 mg/dL em 48 h** é o critério da **síndrome hepatorrenal**.",
   "fonte": {
    "arquivo": "Aula_NEFRO",
-   "pagina": 174
+   "pagina": 173
   },
   "ambiguidade": null
  },
@@ -373,7 +373,7 @@
   "explicacao": "**70 a 80% pela veia porta** e **20 a 30% pela artéria hepática**.",
   "fonte": {
    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 5
+   "pagina": 7
   },
   "ambiguidade": null
  },
@@ -391,7 +391,7 @@
   "explicacao": "**500 a 600 mL por dia.**",
   "fonte": {
    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 11
+   "pagina": 13
   },
   "ambiguidade": null
  },

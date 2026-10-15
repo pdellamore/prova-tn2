@@ -2766,874 +2766,6 @@
   "ambiguidade": null
  },
  {
-  "id": "Q-B3-01",
-  "modulo": "B3",
-  "tema": "figado",
-  "subtema": "Hepatites e progressão",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": true,
-  "enunciado": "Sobre a transmissão das hepatites virais, assinale a alternativa correta segundo os slides.",
-  "alternativas": [
-   "A e E por sangue e fluidos; B, C e D por via fecal-oral",
-   "A e E por via fecal-oral; B, C e D por sangue e fluidos corporais",
-   "Todas por via fecal-oral",
-   "Todas por sangue e fluidos corporais",
-   "A e B por via fecal-oral; C, D e E por sangue"
-  ],
-  "correta": 1,
-  "justificativa": "O quadro de transmissão separa **hepatites A e E — infecção via fecal-oral** de **hepatites B, C e D — transmissão por sangue e fluidos corporais**. O vírus delta (HDV) está associado à hepatite B.",
-  "porque_erradas": {
-   "0": "Inverte os dois grupos.",
-   "2": "B, C e D são transmitidas por sangue e fluidos.",
-   "3": "A e E são de transmissão fecal-oral.",
-   "4": "A hepatite B é de sangue e fluidos, não fecal-oral."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 29
-  },
-  "ambiguidade": "hepatites-ae"
- },
- {
-  "id": "Q-B3-02",
-  "modulo": "B3",
-  "tema": "figado",
-  "subtema": "Hepatites e progressão",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Quanto à hepatite C, qual dado consta dos slides?",
-  "alternativas": [
-   "É a única hepatite com vírus de DNA",
-   "Entre 50 e 85% dos casos cronificam e os antivirais de ação direta alcançam 95% de cura em 12 a 24 semanas",
-   "É autolimitada e não necessita de antiviral",
-   "Representa 60% dos casos de hepatite viral",
-   "Tem transmissão fecal-oral"
-  ],
-  "correta": 1,
-  "justificativa": "O slide traz que **50 a 85% dos casos de hepatite C se tornam crônicos**, que em geral (**80%**) são **assintomáticos** até fases avançadas, e que os **antivirais de ação direta chegam a 95% de cura em 12 a 24 semanas**.",
-  "porque_erradas": {
-   "0": "A única com vírus de DNA é a hepatite B.",
-   "2": "Autolimitadas e sem antiviral específico são as hepatites A e E.",
-   "3": "Os 60% dos casos de hepatite viral são da hepatite B.",
-   "4": "A hepatite C é transmitida por sangue e fluidos corporais."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 31
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B3-03",
-  "modulo": "B3",
-  "tema": "figado",
-  "subtema": "Hepatites e progressão",
-  "prioridade": "E",
-  "dificuldade": 3,
-  "preteste": false,
-  "enunciado": "Sobre a reversibilidade dos estágios da doença hepática crônica, o que os slides afirmam?",
-  "alternativas": [
-   "Apenas a esteatose é reversível; a inflamação já é definitiva",
-   "A eliminação da agressão reverte o processo inflamatório, e a fibrose é descrita como ainda potencialmente reversível",
-   "Nenhum estágio é reversível depois que as células estreladas são ativadas",
-   "Só a cirrose descompensada pode regredir, com uso de diuréticos",
-   "A fibrose é irreversível e a cirrose é sempre reversível"
-  ],
-  "correta": 1,
-  "justificativa": "No esquema de progressão, o slide registra que **a eliminação da agressão é capaz de reverter o processo inflamatório existente** e que a **fibrose**, acúmulo de colágeno, é **ainda potencialmente reversível**. Outro slide acrescenta que a cessação completa da injúria pode levar à regressão da cirrose, em até 80% com antivirais na hepatite C.",
-  "porque_erradas": {
-   "0": "A inflamação é justamente o estágio que o slide diz reverter com a retirada da agressão.",
-   "2": "A ativação das estreladas não é apresentada como ponto sem retorno.",
-   "3": "Diuréticos tratam a ascite, não revertem a cirrose.",
-   "4": "Inverte o que o slide diz sobre fibrose e cirrose."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 40
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B3-04",
-  "modulo": "B3",
-  "tema": "figado",
-  "subtema": "Álcool",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Sobre o metabolismo do álcool descrito nos slides, assinale a alternativa correta.",
-  "alternativas": [
-   "Fornece 4 kcal/g e é metabolizado principalmente nos rins",
-   "Fornece 7,1 kcal/g, sendo 80 a 90% metabolizado pelo fígado por duas vias: ADH no citoplasma e SOMA no retículo endoplasmático",
-   "Fornece 9 kcal/g e é armazenado como gordura no tecido adiposo",
-   "Fornece 7,1 kcal/g e é integralmente excretado pelos pulmões",
-   "É convertido em glicogênio hepático para uso posterior"
-  ],
-  "correta": 1,
-  "justificativa": "O slide traz **7,1 kcal/g**, com **80 a 90% metabolizado pelo fígado** (o restante excretado por pulmões, rins e pele), por **duas vias nos hepatócitos**: **ADH no citoplasma** e **SOMA no retículo endoplasmático**. E frisa que essas calorias **não podem ser armazenadas** como proteína, gordura ou carboidrato.",
-  "porque_erradas": {
-   "0": "4 kcal/g é o valor de carboidratos e proteínas, e o metabolismo é hepático.",
-   "2": "9 kcal/g é o valor dos lipídios; o slide diz que o álcool não é armazenado como gordura.",
-   "3": "Pulmões, rins e pele excretam apenas a fração que o fígado não metaboliza.",
-   "4": "O slide afirma o contrário: essas calorias não podem ser armazenadas."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 34
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B3-05",
-  "modulo": "B3",
-  "tema": "figado",
-  "subtema": "Hepatites e progressão",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Em qual fase clínica da hepatite viral aparece a elevação de AST e ALT, segundo o quadro dos slides?",
-  "alternativas": [
-   "Fase de incubação",
-   "Fase pré-ictérica",
-   "Fase ictérica",
-   "Fase convalescente",
-   "Em nenhuma: as transaminases permanecem normais"
-  ],
-  "correta": 1,
-  "justificativa": "O quadro das quatro fases coloca a **elevação de AST e ALT** na **fase 2, pré-ictérica**, junto da persistência dos sintomas e de febre, artralgia e angioedema em 10 a 20% dos casos. A icterícia aparece **7 a 14 dias depois**, na fase 3.",
-  "porque_erradas": {
-   "0": "Na incubação há ausência de sintomas ou sintomas inespecíficos.",
-   "2": "A fase ictérica é marcada pelo agravamento dos sintomas e pela icterícia.",
-   "3": "A convalescente é de redução progressiva, 2 a 12 semanas depois.",
-   "4": "A elevação das transaminases está descrita no quadro."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 33
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B3-06",
-  "modulo": "B3",
-  "tema": "figado",
-  "subtema": "Hepatites e progressão",
-  "prioridade": "I",
-  "dificuldade": 1,
-  "preteste": false,
-  "enunciado": "Entre as etiologias **metabólicas** de doença hepática citadas nos slides, encontram-se:",
-  "alternativas": [
-   "Álcool e medicamentos",
-   "MASLD, hemocromatose, doença de Wilson e deficiência de alfa-1 antitripsina",
-   "Hepatites virais cronificadas",
-   "Obstrução biliar e colelitíase",
-   "Carcinoma hepatocelular e metástases"
-  ],
-  "correta": 1,
-  "justificativa": "O slide de etiologias separa **metabólicas** (MASLD, **hemocromatose, doença de Wilson, deficiência de alfa-1 antitripsina**), **tóxicas** (álcool e lesão induzida por medicamento) e **virais** (hepatites cronificadas).",
-  "porque_erradas": {
-   "0": "São as etiologias tóxicas.",
-   "2": "São as etiologias virais.",
-   "3": "Não constam da classificação apresentada.",
-   "4": "São desfechos ou outras condições, não etiologias dessa classificação."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 25
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B4-01",
-  "modulo": "B4",
-  "tema": "figado",
-  "subtema": "Cirrose e complicações",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": true,
-  "enunciado": "Paciente com bilirrubina 3,5 mg/dL, albumina 2,7 g/dL, ascite de difícil controle, encefalopatia grau III e INR 2,5. Qual a classe de Child-Pugh e a mortalidade em 1 ano?",
-  "alternativas": [
-   "Child A, mortalidade menor que 5%",
-   "Child B, mortalidade de 20%",
-   "Child C, mortalidade de 55%",
-   "Child B, mortalidade de 55%",
-   "Child C, mortalidade de 20%"
-  ],
-  "correta": 2,
-  "justificativa": "Todos os cinco itens pontuam 3: bilirrubina > 3,0; albumina < 3,0; ascite de difícil controle; encefalopatia grau III–IV; INR > 2,3. Total de **15 pontos**, classe **C**, com mortalidade em 1 ano de **55%**.",
-  "porque_erradas": {
-   "0": "Child A é 5 a 6 pontos, o mínimo possível.",
-   "1": "Child B é 7 a 9 pontos, com 20% de mortalidade.",
-   "3": "Os 55% correspondem à classe C, não à B.",
-   "4": "Os 20% correspondem à classe B, não à C."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 45
-  },
-  "ambiguidade": "child-c"
- },
- {
-  "id": "Q-B4-02",
-  "modulo": "B4",
-  "tema": "figado",
-  "subtema": "Cirrose e complicações",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": true,
-  "enunciado": "Qual é a principal vantagem do MELD sobre o Child-Pugh, segundo os slides?",
-  "alternativas": [
-   "Inclui a albumina, que reflete a função de síntese",
-   "Não tem interpretação subjetiva, porque não inclui ascite nem encefalopatia",
-   "É mais simples de calcular à beira do leito",
-   "Considera a etiologia da doença hepática",
-   "Dispensa exames laboratoriais"
-  ],
-  "correta": 1,
-  "justificativa": "O MELD usa apenas variáveis laboratoriais — **creatinina, bilirrubina total e INR** (± sódio) — e por isso **não tem interpretação subjetiva**. O Child-Pugh inclui **ascite e encefalopatia**, que dependem de avaliação clínica.",
-  "porque_erradas": {
-   "0": "O MELD justamente **não** usa albumina; quem usa é o Child-Pugh.",
-   "2": "A fórmula do MELD é mais complexa, não mais simples.",
-   "3": "Nenhum dos dois escores considera a etiologia.",
-   "4": "O MELD é inteiramente baseado em exames laboratoriais."
-  },
-  "fonte": {
-   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
-   "pagina": 6
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B4-03",
-  "modulo": "B4",
-  "tema": "figado",
-  "subtema": "Cirrose e complicações",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Qual é o primeiro sinal de descompensação mais comum na cirrose?",
-  "alternativas": [
-   "A encefalopatia hepática",
-   "A ascite",
-   "O sangramento de varizes esofagogástricas",
-   "A icterícia",
-   "A síndrome hepatorrenal"
-  ],
-  "correta": 1,
-  "justificativa": "O slide de cirrose descompensada afirma em destaque: **mais comum = ascite como o primeiro sinal de descompensação**. Encefalopatia, sangramento de varizes e icterícia entram entre os eventos de recorrência de descompensação.",
-  "porque_erradas": {
-   "0": "É um dos eventos possíveis, mas não o primeiro mais comum.",
-   "2": "Também entra na lista de descompensações, sem ser o primeiro mais comum.",
-   "3": "Idem: consta da recorrência de descompensações.",
-   "4": "A SHR é complicação tardia, associada a gatilhos como paracentese sem albumina."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 64
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B4-04",
-  "modulo": "B4",
-  "tema": "figado",
-  "subtema": "Cirrose e complicações",
-  "prioridade": "E",
-  "dificuldade": 3,
-  "preteste": false,
-  "enunciado": "Cirrótico hospitalizado com ascite, febre e dor abdominal. A paracentese mostra 400 polimorfonucleares/mm³ e não há foco intra-abdominal tratável. Qual o diagnóstico e o manejo descritos nos slides?",
-  "alternativas": [
-   "Ascite grau 3 — paracentese de grande volume",
-   "Peritonite bacteriana espontânea — antibiótico imediatamente após a paracentese e albumina",
-   "Síndrome hepatorrenal — suspensão de diuréticos",
-   "Encefalopatia hepática — lactulose",
-   "Carcinoma hepatocelular — rastreio a cada 6 meses"
-  ],
-  "correta": 1,
-  "justificativa": "O diagnóstico de PBE é feito pela contagem de **polimorfonucleares > 250 células/mm³** no líquido ascítico, na **ausência de fonte de infecção intra-abdominal tratável**. O manejo, em geral, é **antibiótico imediatamente após a paracentese e albumina**.",
-  "porque_erradas": {
-   "0": "O grau da ascite é definido por exame físico e profundidade na USG, não pela contagem celular.",
-   "2": "A SHR é falência renal funcional, com critério de creatinina, e não se diagnostica por PMN.",
-   "3": "A encefalopatia é quadro neuropsiquiátrico, sem relação com a contagem de PMN.",
-   "4": "O carcinoma hepatocelular não é diagnosticado por paracentese."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 59
-  },
-  "ambiguidade": null,
-  "elaboracao": {
-   "pergunta": "Qual parte da definição distingue a PBE de uma peritonite secundária?",
-   "opcoes": [
-    "A ausência de qualquer fonte de infecção intra-abdominal tratável",
-    "A contagem de PMN acima de 250 células/mm³",
-    "A presença de ascite grau 2 ou 3"
-   ],
-   "correta": 0,
-   "justificativa": "O PMN > 250 define a infecção do líquido, mas é a **ausência de fonte intra-abdominal tratável** que caracteriza a invasão como **espontânea** — é essa expressão que está na definição do slide."
-  }
- },
- {
-  "id": "Q-B4-05",
-  "modulo": "B4",
-  "tema": "figado",
-  "subtema": "Cirrose e complicações",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Ultrassonografia com líquido ascítico de 12 cm de profundidade, abdome tenso e hérnia umbilical. Qual o grau e o manejo geral?",
-  "alternativas": [
-   "Grau 1 — ambulatorial, restrição de sódio e monoterapia diurética",
-   "Grau 2 — hospitalização frequente e diuréticos combinados",
-   "Grau 3 — paracentese de grande volume inicial e hospitalização",
-   "Grau 3 — apenas restrição de sódio",
-   "Grau 2 — paracentese de grande volume"
-  ],
-  "correta": 2,
-  "justificativa": "Profundidade **> 10 cm** na USG, com distensão acentuada ou tensa e possível hérnia umbilical, define a **ascite grau 3 (acentuada/tensa)**, que **requer paracentese de grande volume inicial e hospitalização**.",
-  "porque_erradas": {
-   "0": "Grau 1 tem fluido < 3 cm e sem distensão visível.",
-   "1": "Grau 2 tem fluido entre 3 e 10 cm.",
-   "3": "A restrição de sódio isolada é o manejo ambulatorial do grau 1.",
-   "4": "A paracentese de grande volume é do grau 3, não do grau 2."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 57
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B4-06",
-  "modulo": "B4",
-  "tema": "figado",
-  "subtema": "Cirrose e complicações",
-  "prioridade": "E",
-  "dificuldade": 3,
-  "preteste": false,
-  "enunciado": "Sobre a hipertensão portal, assinale a alternativa que corresponde aos slides.",
-  "alternativas": [
-   "É a redução da pressão na veia porta por desvio de sangue para colaterais",
-   "É o aumento da resistência ao fluxo para dentro do fígado, com aumento sustentado da pressão na veia porta, e explica ascite, varizes, encefalopatia e esplenomegalia",
-   "Decorre exclusivamente da hipoalbuminemia",
-   "Só ocorre na cirrose descompensada por álcool",
-   "É consequência da ascite, e não sua causa"
-  ],
-  "correta": 1,
-  "justificativa": "O slide define a hipertensão portal como **aumento da resistência ao fluxo sanguíneo para dentro do fígado** com **aumento sustentado da pressão na veia porta**, causado por **fibrose e nódulos que fecham os sinusoides** e por dilatação dos vasos abdominais. Suas consequências são circulação colateral/varizes, líquido peritoneal e aumento de fígado e baço.",
-  "porque_erradas": {
-   "0": "A pressão aumenta, não reduz; as colaterais são consequência, não solução.",
-   "2": "A hipoproteinemia participa da ascite, mas o fator iniciante é a hipertensão portal.",
-   "3": "Decorre da fibrose e dos nódulos, independentemente da etiologia.",
-   "4": "Inverte a relação: a hipertensão portal é a causa principal e o fator iniciante da ascite."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 54
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B4-07",
-  "modulo": "B4",
-  "tema": "figado",
-  "subtema": "Cirrose e complicações",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Sobre as varizes esofágicas na cirrose, qual afirmação consta dos slides?",
-  "alternativas": [
-   "Atingem 10 a 20% dos pacientes e só surgem na fase terminal",
-   "Atingem 40 a 70% dos pacientes com cirrose avançada e a descompensação ocorre quando há sangramento",
-   "São rastreadas apenas quando o paciente apresenta anemia",
-   "A simples presença de varizes já caracteriza cirrose descompensada",
-   "Contraindicam definitivamente a nutrição enteral"
-  ],
-  "correta": 1,
-  "justificativa": "O slide traz **40 a 70% dos pacientes com cirrose avançada**, rastreio por **endoscopia no momento do diagnóstico da cirrose**, e que a **descompensação ocorre quando há sangramento** por ruptura.",
-  "porque_erradas": {
-   "0": "A faixa é bem maior: 40 a 70%.",
-   "2": "O rastreio endoscópico é feito ao diagnóstico da cirrose.",
-   "3": "O que descompensa é o sangramento, não a existência da variz.",
-   "4": "Em outra aula, os slides afirmam o oposto: varizes esofágicas **não** contraindicam nutrição enteral."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 62
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B4-08",
-  "modulo": "B4",
-  "tema": "figado",
-  "subtema": "Cirrose e complicações",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Sobre o carcinoma hepatocelular, assinale a alternativa correta segundo os slides.",
-  "alternativas": [
-   "Corresponde a 80% dos casos de câncer primário de fígado e o rastreio é a cada 6 meses",
-   "Ocorre em mais de 50% dos casos em fígado saudável",
-   "Tem início abrupto, com sintomas muito distintos dos da doença hepática avançada",
-   "Está em queda por causa da MASLD",
-   "Não requer rastreio em pacientes cirróticos"
-  ],
-  "correta": 0,
-  "justificativa": "O slide traz que o carcinoma hepatocelular contribui com **80% dos casos de câncer primário de fígado**, que **menos de 10% ocorre em fígado saudável**, que tem **início insidioso** com sintomas semelhantes aos da doença hepática avançada e que, por isso, o **rastreio é a cada 6 meses**.",
-  "porque_erradas": {
-   "1": "O slide diz o contrário: menos de 10% em fígado saudável.",
-   "2": "O início é descrito como insidioso, com sintomas parecidos com os da própria doença.",
-   "3": "Há aumento significativo de hepatocarcinoma por MASLD.",
-   "4": "O rastreio a cada 6 meses é justamente a recomendação."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 65
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B4-09",
-  "modulo": "B4",
-  "tema": "figado",
-  "subtema": "Cirrose e complicações",
-  "prioridade": "E",
-  "dificuldade": 1,
-  "preteste": false,
-  "enunciado": "Qual destas alternativas descreve corretamente a cirrose, conforme os slides?",
-  "alternativas": [
-   "É uma doença hepática de causa viral, com tratamento antiviral específico",
-   "É o estágio final da doença hepática crônica, independente do agente etiológico, com fibrose difusa e nódulos de regeneração",
-   "É uma inflamação aguda do fígado, reversível em semanas",
-   "É o acúmulo de triglicerídeos em mais de 5% do peso do fígado",
-   "É a infecção do líquido ascítico sem foco intra-abdominal"
-  ],
-  "correta": 1,
-  "justificativa": "O slide abre o tema afirmando: **não é uma doença, mas sim o estágio final da doença hepática crônica, independente do agente etiológico**, decorrente da inflamação crônica que gera **tecido fibroso difuso** e **substituição por nódulos de regeneração**.",
-  "porque_erradas": {
-   "0": "A cirrose independe da etiologia e não é uma doença em si.",
-   "2": "É crônica e envolve alteração da arquitetura, não inflamação aguda.",
-   "3": "Essa é a definição de esteatose hepática.",
-   "4": "Essa é a definição de peritonite bacteriana espontânea."
-  },
-  "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 42
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-01",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": true,
-  "enunciado": "Homem de 52 anos com esteatose moderada à ultrassonografia, IMC 32,2 kg/m², CC 110 cm, glicemia de jejum 110 mg/dL, HbA1c 5,6%, PA 120/80 mmHg, TG 306 mg/dL e HDL 41 mg/dL. Quantos fatores cardiometabólicos ele preenche?",
-  "alternativas": [
-   "Nenhum, porque a PA e a HbA1c estão normais",
-   "Apenas um, o IMC",
-   "Dois: IMC/CC e triglicerídeos",
-   "Três: IMC/CC, glicemia de jejum e triglicerídeos",
-   "Cinco, todos os fatores"
-  ],
-  "correta": 3,
-  "justificativa": "Preenche **IMC ≥ 25 (e CC > 94 cm)**, **GJ ≥ 100 mg/dL** (110) e **TG ≥ 150 mg/dL** (306) — **três fatores**. A **PA 120/80** está abaixo de 130/85, a **HbA1c 5,6%** está abaixo de 5,7% e o **HDL 41 mg/dL** está acima do corte masculino de ≤ 40. Lembrando que **basta 1 fator** para a definição.",
-  "porque_erradas": {
-   "0": "A glicemia de jejum de 110 mg/dL já ultrapassa o corte de 100 mg/dL, e os TG de 306 passam de 150.",
-   "1": "O IMC conta, mas a glicemia e os triglicerídeos também.",
-   "2": "Falta contabilizar a glicemia de jejum de 110 mg/dL, acima do corte de 100.",
-   "4": "PA, HbA1c e HDL estão todos abaixo dos respectivos cortes."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 9
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-02",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": true,
-  "enunciado": "Qual perda de peso corporal os slides associam à melhora da esteato-hepatite?",
-  "alternativas": [
-   "3 a 5%",
-   "7%",
-   "10%",
-   "15%",
-   "20%"
-  ],
-  "correta": 1,
-  "justificativa": "A escada é **3–5% → redução da esteatose**, **7% → melhora da esteato-hepatite** e **10% → regressão e estabilização da fibrose**.",
-  "porque_erradas": {
-   "0": "3 a 5% é o patamar da redução da esteatose.",
-   "2": "10% é o patamar da regressão e estabilização da fibrose.",
-   "3": "15% não aparece nessa tabela.",
-   "4": "20% não aparece nessa tabela."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 35
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-03",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "E",
-  "dificuldade": 1,
-  "enunciado": "A partir de qual percentual de gordura em relação ao peso total do fígado se define esteatose hepática?",
-  "alternativas": [
-   "1%",
-   "5%",
-   "10%",
-   "33%",
-   "66%"
-  ],
-  "correta": 1,
-  "justificativa": "Esteatose é o acúmulo de triglicerídeos nos hepatócitos em **ao menos 5% do peso total do fígado**. Os valores de 33% e 66% separam os **graus** (leve, moderada, severa), e são dados em **% de hepatócitos**.",
-  "porque_erradas": {
-   "0": "1% não aparece em nenhum dos cortes.",
-   "2": "10% não é o corte apresentado.",
-   "3": "33% é o limite entre esteatose leve e moderada, em % de hepatócitos.",
-   "4": "66% é o limite da esteatose severa, em % de hepatócitos."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 2
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-04",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "enunciado": "Qual destas NÃO é citada entre as possíveis etiologias da esteatose hepática?",
-  "alternativas": [
-   "Nutrição parenteral",
-   "Desnutrição proteico-calórica",
-   "Hepatite viral, especialmente a C",
-   "Doença renal crônica em hemodiálise",
-   "Lesão induzida por medicamentos"
-  ],
-  "correta": 3,
-  "justificativa": "A lista do slide traz **síndrome metabólica, álcool, síndrome metabólica + álcool, lesão por medicamentos, hepatite viral (especialmente C), doenças monogênicas, nutrição parenteral e desnutrição proteico-calórica**. A **doença renal crônica não aparece** nessa lista.",
-  "porque_erradas": {
-   "0": "A nutrição parenteral está expressamente listada.",
-   "1": "A desnutrição proteico-calórica está expressamente listada.",
-   "2": "A hepatite viral, com destaque para a C, está listada.",
-   "4": "A lesão induzida por medicamentos está listada."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 3
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-05",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "enunciado": "Mulher relata consumo de 250 g de álcool por semana e tem esteatose com dois fatores cardiometabólicos. Qual a classificação?",
-  "alternativas": [
-   "MASLD, porque há fatores cardiometabólicos",
-   "MetALD, porque o consumo está entre 140 e 350 g por semana",
-   "ALD, porque qualquer consumo acima de 140 g por semana define doença alcoólica",
-   "MASH, porque a associação de álcool e metabólico gera inflamação",
-   "Outras causas de esteatose"
-  ],
-  "correta": 1,
-  "justificativa": "Para mulheres, a faixa de **MetALD é de 140 a 350 g por semana** — os 250 g caem bem no meio dela. Abaixo de 140 g seria **MASLD**; acima de 350 g, **ALD**.",
-  "porque_erradas": {
-   "0": "Haveria MASLD apenas se o consumo ficasse abaixo de 140 g por semana.",
-   "2": "Acima de 140 g começa a faixa de MetALD; a ALD só começa acima de 350 g por semana em mulheres.",
-   "3": "MASH é definição histológica (esteatose, inflamação lobular e balonização), não de consumo de álcool.",
-   "4": "Há etiologia metabólica e alcoólica identificadas, então não é esse o grupo."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 11
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-06",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "enunciado": "Sobre a dosagem de enzimas hepáticas no contexto da MASLD, qual afirmação está de acordo com os slides?",
-  "alternativas": [
-   "A dosagem isolada de enzimas hepáticas é o rastreio de escolha em sobrepeso e obesidade",
-   "A dosagem isolada de enzimas não é recomendada para rastreio, e enzimas normais são comuns",
-   "Enzimas normais excluem o diagnóstico de esteatose hepática",
-   "Enzimas elevadas por menos de 6 meses já indicam busca ativa",
-   "As enzimas substituem o FIB-4 na avaliação da fibrose"
-  ],
-  "correta": 1,
-  "justificativa": "O slide diz que, **em sobrepeso/obesidade, a dosagem isolada de enzimas hepáticas não é recomendada para rastreamento de esteatose**, e alerta que **não é incomum os pacientes estarem com enzimas normais**. A busca ativa usa elevação **persistente por mais de 6 meses**, em **ao menos 2 testes**, após descartar outras causas.",
-  "porque_erradas": {
-   "0": "É exatamente o que o slide desaconselha.",
-   "2": "Enzimas normais são comuns e não excluem a doença.",
-   "3": "O critério é elevação persistente por mais de 6 meses, com pelo menos 2 testes.",
-   "4": "Quem avalia fibrose é o FIB-4 com escores não invasivos e/ou elastografia."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 22
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-07",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "enunciado": "Qual componente da doença é apontado como fator prognóstico dos desfechos hepáticos?",
-  "alternativas": [
-   "A esteatose isolada",
-   "A MASH",
-   "A fibrose",
-   "O grau de elevação da ALT",
-   "O nível de ferritina"
-  ],
-  "correta": 2,
-  "justificativa": "O quadro é explícito: **a fibrose é o fator prognóstico para desfechos hepáticos**, com **HR 8,46** para descompensação. A **MASH** estimula a fibrose, mas **parece não aumentar tanto** o risco de eventos quando comparada à MASLD.",
-  "porque_erradas": {
-   "0": "A esteatose em si se relaciona ao risco cardiometabólico, não ao prognóstico hepático.",
-   "1": "A MASH induz fibrose, mas o slide diz que ela parece não aumentar tanto o risco de eventos.",
-   "3": "A ALT pode estar normal mesmo com doença avançada.",
-   "4": "A ferritina pode estar elevada, mas não é apresentada como fator prognóstico."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 28
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-08",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "E",
-  "dificuldade": 3,
-  "enunciado": "Paciente com 100 kg e peso ideal de 72 kg em processo de perda de peso por MASLD. Qual a oferta proteica recomendada?",
-  "alternativas": [
-   "120 g/dia",
-   "95 g/dia",
-   "86 g/dia",
-   "79 g/dia",
-   "72 g/dia"
-  ],
-  "correta": 1,
-  "justificativa": "**Peso ajustado = (100 − 72) × 0,25 + 72 = 7 + 72 = 79 kg.** Com **1,2 g/kg de peso ajustado**, são **79 × 1,2 ≈ 95 g/dia**.",
-  "porque_erradas": {
-   "0": "120 g corresponde a 1,2 g/kg do peso atual, não do ajustado.",
-   "2": "86 g corresponde a 1,2 g/kg do peso ideal.",
-   "3": "79 kg é o próprio peso ajustado, não a quantidade de proteína.",
-   "4": "72 kg é o peso ideal, não a quantidade de proteína."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 43
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-09",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "E",
-  "dificuldade": 3,
-  "enunciado": "Numa meta-análise de dietas isocalóricas, qual foi o achado sobre a distribuição de macronutrientes e a gordura hepática?",
-  "alternativas": [
-   "A dieta low carb foi claramente superior à low fat",
-   "A dieta low fat foi claramente superior à low carb",
-   "Não houve diferença entre low carb e low fat, mas trocar carboidrato por proteína e gordura saturada por insaturada pode ser benéfico",
-   "Nenhuma modificação de macronutrientes teve qualquer efeito",
-   "Apenas a restrição de proteína reduziu a gordura hepática"
-  ],
-  "correta": 2,
-  "justificativa": "A comparação **low carb × low fat não mostrou diferença** no conteúdo de gordura hepática. O que apareceu foi que **reduzir carboidrato e substituir por proteína (e não por gordura)** pode ser benéfico, assim como **trocar gordura saturada por insaturada**. E a superioridade da restrição de CHO < 40% VET no longo prazo **não é clara**.",
-  "porque_erradas": {
-   "0": "A comparação direta não mostrou superioridade da low carb.",
-   "1": "A comparação direta não mostrou superioridade da low fat.",
-   "3": "Houve sim achados: substituição de carboidrato por proteína e de gordura saturada por insaturada.",
-   "4": "A restrição de proteína não é recomendada nesse contexto."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 42
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-10",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "E",
-  "dificuldade": 3,
-  "enunciado": "Na meta-análise sobre dieta mediterrânea na esteatose, qual foi a diferença entre os desfechos avaliados por escore e por exame de imagem?",
-  "alternativas": [
-   "Tanto no escore quanto na imagem, apenas a dieta mediterrânea foi eficaz",
-   "No escore, mediterrânea e restrição calórica foram eficazes; na imagem, apenas a restrição calórica demonstrou benefício",
-   "No escore, apenas a restrição calórica foi eficaz; na imagem, apenas a mediterrânea",
-   "Nenhuma das duas foi eficaz em qualquer desfecho",
-   "A imagem não foi avaliada nessa meta-análise"
-  ],
-  "correta": 1,
-  "justificativa": "No **índice de esteatose calculado (escore)**, **dieta mediterrânea e restrição calórica** foram eficazes. Já na **esteatose medida por exame de imagem**, **apenas a restrição calórica** demonstrou benefício. É daí que vem a conclusão de que **a restrição calórica deve fazer parte da intervenção**.",
-  "porque_erradas": {
-   "0": "Na imagem, a mediterrânea isoladamente não mostrou benefício.",
-   "2": "É o inverso: no escore as duas funcionaram, na imagem só a restrição calórica.",
-   "3": "Ambas funcionaram no escore, e a restrição calórica também na imagem.",
-   "4": "A esteatose por imagem foi justamente o segundo desfecho avaliado."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 47
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-11",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "enunciado": "Sobre a suplementação de vitamina E na esteato-hepatite, assinale a alternativa correta segundo os slides.",
-  "alternativas": [
-   "É terapia de primeira linha para todos os pacientes com MASLD",
-   "O uso é focado em adultos sem DM2 com esteato-hepatite, 800 UI/dia por 12 a 24 meses, e não é terapia de primeira linha",
-   "A dose recomendada é de 100 UI/dia por tempo indeterminado",
-   "É contraindicada por não ter efeito sobre enzimas hepáticas em nenhum estudo",
-   "Está indicada principalmente em pacientes com DM2 e fibrose avançada"
-  ],
-  "correta": 1,
-  "justificativa": "O slide descreve uso terapêutico **focado principalmente em adultos sem DM2 com esteato-hepatite**, **800 UI/dia por 12 a 24 meses**, marcando o tema como **contraditório** e pedindo cautela pelo risco de **sangramento e AVC hemorrágico** — **não é terapia de 1ª linha**. As doses nos 7 ECR foram de **400 a 800 UI/dia**.",
-  "porque_erradas": {
-   "0": "O próprio slide afirma que não é terapia de primeira linha.",
-   "2": "As doses estudadas foram de 400 a 800 UI/dia, não 100 UI.",
-   "3": "Houve efeito sobre enzimas hepáticas nos estudos; a cautela vem dos eventos adversos.",
-   "4": "O foco é justamente em adultos SEM DM2."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 50
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-12",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "enunciado": "Na Diretriz Brasileira de Tratamento Farmacológico da Obesidade (ABESO 2026), qual fármaco é nomeado na recomendação dirigida a MASH com fibrose hepática?",
-  "alternativas": [
-   "Metformina",
-   "Semaglutida",
-   "Orlistate",
-   "Vitamina E",
-   "Pioglitazona"
-  ],
-  "correta": 1,
-  "justificativa": "A **Recomendação 19** diz que, em indivíduos com **MASH e fibrose hepática**, recomenda-se o uso de **semaglutida** para redução e/ou resolução da esteatose, da MASH e da fibrose (classe **I**, nível de evidência **B**). A **R18** trata do tratamento farmacológico para perda de peso em obesidade + MASLD, sem nomear fármaco.",
-  "porque_erradas": {
-   "0": "A metformina não é nomeada nessas recomendações.",
-   "2": "O orlistate não é nomeado nessas recomendações.",
-   "3": "A vitamina E aparece em outro slide, sobre suplementação, e não é primeira linha.",
-   "4": "A pioglitazona não é nomeada nessas recomendações."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 52
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-13",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "enunciado": "Paciente com cirrose por MASH descompensada e sarcopenia. Qual a orientação da EASL-EASD-EASO?",
-  "alternativas": [
-   "Dieta hipocalórica com meta de 10% de perda de peso",
-   "Dieta hiperproteica com lanche noturno",
-   "Restrição proteica preventiva de encefalopatia",
-   "Dieta cetogênica para reduzir a esteatose residual",
-   "Suspender a terapia nutricional até a compensação"
-  ],
-  "correta": 1,
-  "justificativa": "No quadro da EASL-EASD-EASO, **sarcopenia ou cirrose descompensada → dieta hiperproteica e lanche noturno (ceia)**. A perda moderada de peso fica para a **cirrose compensada com obesidade**, e **não se faz intervenção para perda de peso em descompensados**.",
-  "porque_erradas": {
-   "0": "Não se faz intervenção para perda de peso em pacientes descompensados.",
-   "2": "A proteína não deve ser reduzida; a restrição agrava o catabolismo.",
-   "3": "Dieta cetogênica não é recomendada nessa situação.",
-   "4": "É justamente quando a terapia nutricional mais importa."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 54
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-B5-14",
-  "modulo": "B5",
-  "tema": "figado",
-  "subtema": "Esteatose e MASLD",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "enunciado": "Sobre a composição corporal na MASLD, o que os slides destacam?",
-  "alternativas": [
-   "Todos os pacientes com MASLD têm IMC acima de 30 kg/m²",
-   "De 10 a 20% dos pacientes são eutróficos, e o excesso de adiposidade pode conviver com depleção muscular",
-   "A bioimpedância é contraindicada nesses pacientes",
-   "A circunferência da cintura não acrescenta informação ao IMC",
-   "A composição corporal só deve ser avaliada após a biópsia"
-  ],
-  "correta": 1,
-  "justificativa": "O slide diz que **10 a 20% são eutróficos** e lembra que **o excesso de adiposidade pode conviver com depleção muscular e pior funcionalidade** — por isso a avaliação inclui **BIA, DEXA, antropometria, CC, circunferência do pescoço e RCQ**, além de peso e IMC.",
-  "porque_erradas": {
-   "0": "De 10 a 20% são eutróficos, então o IMC elevado não é universal.",
-   "2": "A bioimpedância está entre os métodos citados na avaliação.",
-   "3": "A CC entra explicitamente na avaliação, junto com pescoço e RCQ.",
-   "4": "A biópsia nem sequer está no fluxo diagnóstico."
-  },
-  "fonte": {
-   "arquivo": "TN2_MASLD",
-   "pagina": 31
-  },
-  "ambiguidade": null
- },
- {
   "id": "Q-B6-01",
   "modulo": "B6",
   "tema": "figado",
@@ -4009,6 +3141,874 @@
   "fonte": {
    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
    "pagina": 15
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-01",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Homem de 43 anos com esteatose moderada à ultrassonografia, IMC 32,2 kg/m², CC 110 cm, glicemia de jejum 110 mg/dL, HbA1c 5,6%, PA 120/80 mmHg, TG 306 mg/dL e HDL 41 mg/dL. Quantos fatores cardiometabólicos ele preenche?",
+  "alternativas": [
+   "Nenhum, porque a PA e a HbA1c estão normais",
+   "Apenas um, o IMC",
+   "Dois: IMC/CC e triglicerídeos",
+   "Três: IMC/CC, glicemia de jejum e triglicerídeos",
+   "Cinco, todos os fatores"
+  ],
+  "correta": 3,
+  "justificativa": "Preenche **IMC ≥ 25 (e CC > 94 cm)**, **GJ ≥ 100 mg/dL** (110) e **TG ≥ 150 mg/dL** (306) — **três fatores**. A **PA 120/80** está abaixo de 130/85, a **HbA1c 5,6%** está abaixo de 5,7% e o **HDL 41 mg/dL** está acima do corte masculino de ≤ 40. Lembrando que **basta 1 fator** para a definição.",
+  "porque_erradas": {
+   "0": "A glicemia de jejum de 110 mg/dL já ultrapassa o corte de 100 mg/dL, e os TG de 306 passam de 150.",
+   "1": "O IMC conta, mas a glicemia e os triglicerídeos também.",
+   "2": "Falta contabilizar a glicemia de jejum de 110 mg/dL, acima do corte de 100.",
+   "4": "PA, HbA1c e HDL estão todos abaixo dos respectivos cortes."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-02",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Qual perda de peso corporal os slides associam à melhora da esteato-hepatite?",
+  "alternativas": [
+   "3 a 5%",
+   "7%",
+   "10%",
+   "15%",
+   "20%"
+  ],
+  "correta": 1,
+  "justificativa": "A escada é **3–5% → redução da esteatose**, **7% → melhora da esteato-hepatite** e **10% → regressão e estabilização da fibrose**.",
+  "porque_erradas": {
+   "0": "3 a 5% é o patamar da redução da esteatose.",
+   "2": "10% é o patamar da regressão e estabilização da fibrose.",
+   "3": "15% não aparece nessa tabela.",
+   "4": "20% não aparece nessa tabela."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 35
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-03",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 1,
+  "enunciado": "A partir de qual percentual de gordura em relação ao peso total do fígado se define esteatose hepática?",
+  "alternativas": [
+   "1%",
+   "5%",
+   "10%",
+   "33%",
+   "66%"
+  ],
+  "correta": 1,
+  "justificativa": "Esteatose é o acúmulo de triglicerídeos nos hepatócitos em **ao menos 5% do peso total do fígado**. Os valores de 33% e 66% separam os **graus** (leve, moderada, severa), e são dados em **% de hepatócitos**.",
+  "porque_erradas": {
+   "0": "1% não aparece em nenhum dos cortes.",
+   "2": "10% não é o corte apresentado.",
+   "3": "33% é o limite entre esteatose leve e moderada, em % de hepatócitos.",
+   "4": "66% é o limite da esteatose severa, em % de hepatócitos."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 2
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-04",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Qual destas NÃO é citada entre as possíveis etiologias da esteatose hepática?",
+  "alternativas": [
+   "Nutrição parenteral",
+   "Desnutrição proteico-calórica",
+   "Hepatite viral, especialmente a C",
+   "Doença renal crônica em hemodiálise",
+   "Lesão induzida por medicamentos"
+  ],
+  "correta": 3,
+  "justificativa": "A lista do slide traz **síndrome metabólica, álcool, síndrome metabólica + álcool, lesão por medicamentos, hepatite viral (especialmente C), doenças monogênicas, nutrição parenteral e desnutrição proteico-calórica**. A **doença renal crônica não aparece** nessa lista.",
+  "porque_erradas": {
+   "0": "A nutrição parenteral está expressamente listada.",
+   "1": "A desnutrição proteico-calórica está expressamente listada.",
+   "2": "A hepatite viral, com destaque para a C, está listada.",
+   "4": "A lesão induzida por medicamentos está listada."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 3
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-05",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Mulher relata consumo de 250 g de álcool por semana e tem esteatose com dois fatores cardiometabólicos. Qual a classificação?",
+  "alternativas": [
+   "MASLD, porque há fatores cardiometabólicos",
+   "MetALD, porque o consumo está entre 140 e 350 g por semana",
+   "ALD, porque qualquer consumo acima de 140 g por semana define doença alcoólica",
+   "MASH, porque a associação de álcool e metabólico gera inflamação",
+   "Outras causas de esteatose"
+  ],
+  "correta": 1,
+  "justificativa": "Para mulheres, a faixa de **MetALD é de 140 a 350 g por semana** — os 250 g caem bem no meio dela. Abaixo de 140 g seria **MASLD**; acima de 350 g, **ALD**.",
+  "porque_erradas": {
+   "0": "Haveria MASLD apenas se o consumo ficasse abaixo de 140 g por semana.",
+   "2": "Acima de 140 g começa a faixa de MetALD; a ALD só começa acima de 350 g por semana em mulheres.",
+   "3": "MASH é definição histológica (esteatose, inflamação lobular e balonização), não de consumo de álcool.",
+   "4": "Há etiologia metabólica e alcoólica identificadas, então não é esse o grupo."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 11
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-06",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Sobre a dosagem de enzimas hepáticas no contexto da MASLD, qual afirmação está de acordo com os slides?",
+  "alternativas": [
+   "A dosagem isolada de enzimas hepáticas é o rastreio de escolha em sobrepeso e obesidade",
+   "A dosagem isolada de enzimas não é recomendada para rastreio, e enzimas normais são comuns",
+   "Enzimas normais excluem o diagnóstico de esteatose hepática",
+   "Enzimas elevadas por menos de 6 meses já indicam busca ativa",
+   "As enzimas substituem o FIB-4 na avaliação da fibrose"
+  ],
+  "correta": 1,
+  "justificativa": "O slide diz que, **em sobrepeso/obesidade, a dosagem isolada de enzimas hepáticas não é recomendada para rastreamento de esteatose**, e alerta que **não é incomum os pacientes estarem com enzimas normais**. A busca ativa usa elevação **persistente por mais de 6 meses**, em **ao menos 2 testes**, após descartar outras causas.",
+  "porque_erradas": {
+   "0": "É exatamente o que o slide desaconselha.",
+   "2": "Enzimas normais são comuns e não excluem a doença.",
+   "3": "O critério é elevação persistente por mais de 6 meses, com pelo menos 2 testes.",
+   "4": "Quem avalia fibrose é o FIB-4 com escores não invasivos e/ou elastografia."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 22
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-07",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Qual componente da doença é apontado como fator prognóstico dos desfechos hepáticos?",
+  "alternativas": [
+   "A esteatose isolada",
+   "A MASH",
+   "A fibrose",
+   "O grau de elevação da ALT",
+   "O nível de ferritina"
+  ],
+  "correta": 2,
+  "justificativa": "O quadro é explícito: **a fibrose é o fator prognóstico para desfechos hepáticos**, com **HR 8,46** para descompensação. A **MASH** estimula a fibrose, mas **parece não aumentar tanto** o risco de eventos quando comparada à MASLD.",
+  "porque_erradas": {
+   "0": "A esteatose em si se relaciona ao risco cardiometabólico, não ao prognóstico hepático.",
+   "1": "A MASH induz fibrose, mas o slide diz que ela parece não aumentar tanto o risco de eventos.",
+   "3": "A ALT pode estar normal mesmo com doença avançada.",
+   "4": "A ferritina pode estar elevada, mas não é apresentada como fator prognóstico."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 28
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-08",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "enunciado": "Paciente com 100 kg e peso ideal de 72 kg em processo de perda de peso por MASLD. Qual a oferta proteica recomendada?",
+  "alternativas": [
+   "120 g/dia",
+   "95 g/dia",
+   "86 g/dia",
+   "79 g/dia",
+   "72 g/dia"
+  ],
+  "correta": 1,
+  "justificativa": "**Peso ajustado = (100 − 72) × 0,25 + 72 = 7 + 72 = 79 kg.** Com **1,2 g/kg de peso ajustado**, são **79 × 1,2 ≈ 95 g/dia**.",
+  "porque_erradas": {
+   "0": "120 g corresponde a 1,2 g/kg do peso atual, não do ajustado.",
+   "2": "86 g corresponde a 1,2 g/kg do peso ideal.",
+   "3": "79 kg é o próprio peso ajustado, não a quantidade de proteína.",
+   "4": "72 kg é o peso ideal, não a quantidade de proteína."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 43
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-09",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "enunciado": "Numa meta-análise de dietas isocalóricas, qual foi o achado sobre a distribuição de macronutrientes e a gordura hepática?",
+  "alternativas": [
+   "A dieta low carb foi claramente superior à low fat",
+   "A dieta low fat foi claramente superior à low carb",
+   "Não houve diferença entre low carb e low fat, mas trocar carboidrato por proteína e gordura saturada por insaturada pode ser benéfico",
+   "Nenhuma modificação de macronutrientes teve qualquer efeito",
+   "Apenas a restrição de proteína reduziu a gordura hepática"
+  ],
+  "correta": 2,
+  "justificativa": "A comparação **low carb × low fat não mostrou diferença** no conteúdo de gordura hepática. O que apareceu foi que **reduzir carboidrato e substituir por proteína (e não por gordura)** pode ser benéfico, assim como **trocar gordura saturada por insaturada**. E a superioridade da restrição de CHO < 40% VET no longo prazo **não é clara**.",
+  "porque_erradas": {
+   "0": "A comparação direta não mostrou superioridade da low carb.",
+   "1": "A comparação direta não mostrou superioridade da low fat.",
+   "3": "Houve sim achados: substituição de carboidrato por proteína e de gordura saturada por insaturada.",
+   "4": "A restrição de proteína não é recomendada nesse contexto."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 42
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-10",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "enunciado": "Na meta-análise sobre dieta mediterrânea na esteatose, qual foi a diferença entre os desfechos avaliados por escore e por exame de imagem?",
+  "alternativas": [
+   "Tanto no escore quanto na imagem, apenas a dieta mediterrânea foi eficaz",
+   "No escore, mediterrânea e restrição calórica foram eficazes; na imagem, apenas a restrição calórica demonstrou benefício",
+   "No escore, apenas a restrição calórica foi eficaz; na imagem, apenas a mediterrânea",
+   "Nenhuma das duas foi eficaz em qualquer desfecho",
+   "A imagem não foi avaliada nessa meta-análise"
+  ],
+  "correta": 1,
+  "justificativa": "No **índice de esteatose calculado (escore)**, **dieta mediterrânea e restrição calórica** foram eficazes. Já na **esteatose medida por exame de imagem**, **apenas a restrição calórica** demonstrou benefício. É daí que vem a conclusão de que **a restrição calórica deve fazer parte da intervenção**.",
+  "porque_erradas": {
+   "0": "Na imagem, a mediterrânea isoladamente não mostrou benefício.",
+   "2": "É o inverso: no escore as duas funcionaram, na imagem só a restrição calórica.",
+   "3": "Ambas funcionaram no escore, e a restrição calórica também na imagem.",
+   "4": "A esteatose por imagem foi justamente o segundo desfecho avaliado."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 46
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-11",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Sobre a suplementação de vitamina E na esteato-hepatite, assinale a alternativa correta segundo os slides.",
+  "alternativas": [
+   "É terapia de primeira linha para todos os pacientes com MASLD",
+   "O uso é focado em adultos sem DM2 com esteato-hepatite, 800 UI/dia por 12 a 24 meses, e não é terapia de primeira linha",
+   "A dose recomendada é de 100 UI/dia por tempo indeterminado",
+   "É contraindicada por não ter efeito sobre enzimas hepáticas em nenhum estudo",
+   "Está indicada principalmente em pacientes com DM2 e fibrose avançada"
+  ],
+  "correta": 1,
+  "justificativa": "O slide descreve uso terapêutico **focado principalmente em adultos sem DM2 com esteato-hepatite**, **800 UI/dia por 12 a 24 meses**, marcando o tema como **contraditório** e pedindo cautela pelo risco de **sangramento e AVC hemorrágico** — **não é terapia de 1ª linha**. As doses nos 7 ECR foram de **400 a 800 UI/dia**.",
+  "porque_erradas": {
+   "0": "O próprio slide afirma que não é terapia de primeira linha.",
+   "2": "As doses estudadas foram de 400 a 800 UI/dia, não 100 UI.",
+   "3": "Houve efeito sobre enzimas hepáticas nos estudos; a cautela vem dos eventos adversos.",
+   "4": "O foco é justamente em adultos SEM DM2."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 50
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-12",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Na Diretriz Brasileira de Tratamento Farmacológico da Obesidade (ABESO 2026), qual fármaco é nomeado na recomendação dirigida a MASH com fibrose hepática?",
+  "alternativas": [
+   "Metformina",
+   "Semaglutida",
+   "Orlistate",
+   "Vitamina E",
+   "Pioglitazona"
+  ],
+  "correta": 1,
+  "justificativa": "A **Recomendação 19** diz que, em indivíduos com **MASH e fibrose hepática**, recomenda-se o uso de **semaglutida** para redução e/ou resolução da esteatose, da MASH e da fibrose (classe **I**, nível de evidência **B**). A **R18** trata do tratamento farmacológico para perda de peso em obesidade + MASLD, sem nomear fármaco.",
+  "porque_erradas": {
+   "0": "A metformina não é nomeada nessas recomendações.",
+   "2": "O orlistate não é nomeado nessas recomendações.",
+   "3": "A vitamina E aparece em outro slide, sobre suplementação, e não é primeira linha.",
+   "4": "A pioglitazona não é nomeada nessas recomendações."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 52
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-13",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Paciente com cirrose por MASH descompensada e sarcopenia. Qual a orientação da EASL-EASD-EASO?",
+  "alternativas": [
+   "Dieta hipocalórica com meta de 10% de perda de peso",
+   "Dieta hiperproteica com lanche noturno",
+   "Restrição proteica preventiva de encefalopatia",
+   "Dieta cetogênica para reduzir a esteatose residual",
+   "Suspender a terapia nutricional até a compensação"
+  ],
+  "correta": 1,
+  "justificativa": "No quadro da EASL-EASD-EASO, **sarcopenia ou cirrose descompensada → dieta hiperproteica e lanche noturno (ceia)**. A perda moderada de peso fica para a **cirrose compensada com obesidade**, e **não se faz intervenção para perda de peso em descompensados**.",
+  "porque_erradas": {
+   "0": "Não se faz intervenção para perda de peso em pacientes descompensados.",
+   "2": "A proteína não deve ser reduzida; a restrição agrava o catabolismo.",
+   "3": "Dieta cetogênica não é recomendada nessa situação.",
+   "4": "É justamente quando a terapia nutricional mais importa."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 54
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-14",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Sobre a composição corporal na MASLD, o que os slides destacam?",
+  "alternativas": [
+   "Todos os pacientes com MASLD têm IMC acima de 30 kg/m²",
+   "De 10 a 20% dos pacientes são eutróficos, e o excesso de adiposidade pode conviver com depleção muscular",
+   "A bioimpedância é contraindicada nesses pacientes",
+   "A circunferência da cintura não acrescenta informação ao IMC",
+   "A composição corporal só deve ser avaliada após a biópsia"
+  ],
+  "correta": 1,
+  "justificativa": "O slide diz que **10 a 20% são eutróficos** e lembra que **o excesso de adiposidade pode conviver com depleção muscular e pior funcionalidade** — por isso a avaliação inclui **BIA, DEXA, antropometria, CC, circunferência do pescoço e RCQ**, além de peso e IMC.",
+  "porque_erradas": {
+   "0": "De 10 a 20% são eutróficos, então o IMC elevado não é universal.",
+   "2": "A bioimpedância está entre os métodos citados na avaliação.",
+   "3": "A CC entra explicitamente na avaliação, junto com pescoço e RCQ.",
+   "4": "A biópsia nem sequer está no fluxo diagnóstico."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 31
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B3-01",
+  "modulo": "B3",
+  "tema": "figado",
+  "subtema": "Hepatites e progressão",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Sobre a transmissão das hepatites virais, assinale a alternativa correta segundo os slides.",
+  "alternativas": [
+   "A e E por sangue e fluidos; B, C e D por via fecal-oral",
+   "A e E por via fecal-oral; B, C e D por sangue e fluidos corporais",
+   "Todas por via fecal-oral",
+   "Todas por sangue e fluidos corporais",
+   "A e B por via fecal-oral; C, D e E por sangue"
+  ],
+  "correta": 1,
+  "justificativa": "O quadro de transmissão separa **hepatites A e E — infecção via fecal-oral** de **hepatites B, C e D — transmissão por sangue e fluidos corporais**. O vírus delta (HDV) está associado à hepatite B.",
+  "porque_erradas": {
+   "0": "Inverte os dois grupos.",
+   "2": "B, C e D são transmitidas por sangue e fluidos.",
+   "3": "A e E são de transmissão fecal-oral.",
+   "4": "A hepatite B é de sangue e fluidos, não fecal-oral."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 29
+  },
+  "ambiguidade": "hepatites-ae"
+ },
+ {
+  "id": "Q-B3-02",
+  "modulo": "B3",
+  "tema": "figado",
+  "subtema": "Hepatites e progressão",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Quanto à hepatite C, qual dado consta dos slides?",
+  "alternativas": [
+   "É a única hepatite com vírus de DNA",
+   "Entre 50 e 85% dos casos cronificam e os antivirais de ação direta alcançam 95% de cura em 12 a 24 semanas",
+   "É autolimitada e não necessita de antiviral",
+   "Representa 60% dos casos de hepatite viral",
+   "Tem transmissão fecal-oral"
+  ],
+  "correta": 1,
+  "justificativa": "O slide traz que **50 a 85% dos casos de hepatite C se tornam crônicos**, que em geral (**80%**) são **assintomáticos** até fases avançadas, e que os **antivirais de ação direta chegam a 95% de cura em 12 a 24 semanas**.",
+  "porque_erradas": {
+   "0": "A única com vírus de DNA é a hepatite B.",
+   "2": "Autolimitadas e sem antiviral específico são as hepatites A e E.",
+   "3": "Os 60% dos casos de hepatite viral são da hepatite B.",
+   "4": "A hepatite C é transmitida por sangue e fluidos corporais."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 31
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B3-03",
+  "modulo": "B3",
+  "tema": "figado",
+  "subtema": "Hepatites e progressão",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "preteste": false,
+  "enunciado": "Sobre a reversibilidade dos estágios da doença hepática crônica, o que os slides afirmam?",
+  "alternativas": [
+   "Apenas a esteatose é reversível; a inflamação já é definitiva",
+   "A eliminação da agressão reverte o processo inflamatório, e a fibrose é descrita como ainda potencialmente reversível",
+   "Nenhum estágio é reversível depois que as células estreladas são ativadas",
+   "Só a cirrose descompensada pode regredir, com uso de diuréticos",
+   "A fibrose é irreversível e a cirrose é sempre reversível"
+  ],
+  "correta": 1,
+  "justificativa": "No esquema de progressão, o slide registra que **a eliminação da agressão é capaz de reverter o processo inflamatório existente** e que a **fibrose**, acúmulo de colágeno, é **ainda potencialmente reversível**. Outro slide acrescenta que a cessação completa da injúria pode levar à regressão da cirrose, em até 80% com antivirais na hepatite C.",
+  "porque_erradas": {
+   "0": "A inflamação é justamente o estágio que o slide diz reverter com a retirada da agressão.",
+   "2": "A ativação das estreladas não é apresentada como ponto sem retorno.",
+   "3": "Diuréticos tratam a ascite, não revertem a cirrose.",
+   "4": "Inverte o que o slide diz sobre fibrose e cirrose."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 40
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B3-04",
+  "modulo": "B3",
+  "tema": "figado",
+  "subtema": "Álcool",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Sobre o metabolismo do álcool descrito nos slides, assinale a alternativa correta.",
+  "alternativas": [
+   "Fornece 4 kcal/g e é metabolizado principalmente nos rins",
+   "Fornece 7,1 kcal/g, sendo 80 a 90% metabolizado pelo fígado por duas vias: ADH no citoplasma e SOMA no retículo endoplasmático",
+   "Fornece 9 kcal/g e é armazenado como gordura no tecido adiposo",
+   "Fornece 7,1 kcal/g e é integralmente excretado pelos pulmões",
+   "É convertido em glicogênio hepático para uso posterior"
+  ],
+  "correta": 1,
+  "justificativa": "O slide traz **7,1 kcal/g**, com **80 a 90% metabolizado pelo fígado** (o restante excretado por pulmões, rins e pele), por **duas vias nos hepatócitos**: **ADH no citoplasma** e **SOMA no retículo endoplasmático**. E frisa que essas calorias **não podem ser armazenadas** como proteína, gordura ou carboidrato.",
+  "porque_erradas": {
+   "0": "4 kcal/g é o valor de carboidratos e proteínas, e o metabolismo é hepático.",
+   "2": "9 kcal/g é o valor dos lipídios; o slide diz que o álcool não é armazenado como gordura.",
+   "3": "Pulmões, rins e pele excretam apenas a fração que o fígado não metaboliza.",
+   "4": "O slide afirma o contrário: essas calorias não podem ser armazenadas."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 34
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B3-05",
+  "modulo": "B3",
+  "tema": "figado",
+  "subtema": "Hepatites e progressão",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Em qual fase clínica da hepatite viral aparece a elevação de AST e ALT, segundo o quadro dos slides?",
+  "alternativas": [
+   "Fase de incubação",
+   "Fase pré-ictérica",
+   "Fase ictérica",
+   "Fase convalescente",
+   "Em nenhuma: as transaminases permanecem normais"
+  ],
+  "correta": 1,
+  "justificativa": "O quadro das quatro fases coloca a **elevação de AST e ALT** na **fase 2, pré-ictérica**, junto da persistência dos sintomas e de febre, artralgia e angioedema em 10 a 20% dos casos. A icterícia aparece **7 a 14 dias depois**, na fase 3.",
+  "porque_erradas": {
+   "0": "Na incubação há ausência de sintomas ou sintomas inespecíficos.",
+   "2": "A fase ictérica é marcada pelo agravamento dos sintomas e pela icterícia.",
+   "3": "A convalescente é de redução progressiva, 2 a 12 semanas depois.",
+   "4": "A elevação das transaminases está descrita no quadro."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 33
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B3-06",
+  "modulo": "B3",
+  "tema": "figado",
+  "subtema": "Hepatites e progressão",
+  "prioridade": "I",
+  "dificuldade": 1,
+  "preteste": false,
+  "enunciado": "Entre as etiologias **metabólicas** de doença hepática citadas nos slides, encontram-se:",
+  "alternativas": [
+   "Álcool e medicamentos",
+   "MASLD, hemocromatose, doença de Wilson e deficiência de alfa-1 antitripsina",
+   "Hepatites virais cronificadas",
+   "Obstrução biliar e colelitíase",
+   "Carcinoma hepatocelular e metástases"
+  ],
+  "correta": 1,
+  "justificativa": "O slide de etiologias separa **metabólicas** (MASLD, **hemocromatose, doença de Wilson, deficiência de alfa-1 antitripsina**), **tóxicas** (álcool e lesão induzida por medicamento) e **virais** (hepatites cronificadas).",
+  "porque_erradas": {
+   "0": "São as etiologias tóxicas.",
+   "2": "São as etiologias virais.",
+   "3": "Não constam da classificação apresentada.",
+   "4": "São desfechos ou outras condições, não etiologias dessa classificação."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 25
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B4-01",
+  "modulo": "B4",
+  "tema": "figado",
+  "subtema": "Cirrose e complicações",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Paciente com bilirrubina 3,5 mg/dL, albumina 2,7 g/dL, ascite de difícil controle, encefalopatia grau III e INR 2,5. Qual a classe de Child-Pugh e a mortalidade em 1 ano?",
+  "alternativas": [
+   "Child A, mortalidade menor que 5%",
+   "Child B, mortalidade de 20%",
+   "Child C, mortalidade de 55%",
+   "Child B, mortalidade de 55%",
+   "Child C, mortalidade de 20%"
+  ],
+  "correta": 2,
+  "justificativa": "Todos os cinco itens pontuam 3: bilirrubina > 3,0; albumina < 3,0; ascite de difícil controle; encefalopatia grau III–IV; INR > 2,3. Total de **15 pontos**, classe **C**, com mortalidade em 1 ano de **55%**.",
+  "porque_erradas": {
+   "0": "Child A é 5 a 6 pontos, o mínimo possível.",
+   "1": "Child B é 7 a 9 pontos, com 20% de mortalidade.",
+   "3": "Os 55% correspondem à classe C, não à B.",
+   "4": "Os 20% correspondem à classe B, não à C."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "ambiguidade": "child-c"
+ },
+ {
+  "id": "Q-B4-02",
+  "modulo": "B4",
+  "tema": "figado",
+  "subtema": "Cirrose e complicações",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Qual é a principal vantagem do MELD sobre o Child-Pugh, segundo os slides?",
+  "alternativas": [
+   "Inclui a albumina, que reflete a função de síntese",
+   "Não tem interpretação subjetiva, porque não inclui ascite nem encefalopatia",
+   "É mais simples de calcular à beira do leito",
+   "Considera a etiologia da doença hepática",
+   "Dispensa exames laboratoriais"
+  ],
+  "correta": 1,
+  "justificativa": "O MELD usa apenas variáveis laboratoriais — **creatinina, bilirrubina total e INR** (± sódio) — e por isso **não tem interpretação subjetiva**. O Child-Pugh inclui **ascite e encefalopatia**, que dependem de avaliação clínica.",
+  "porque_erradas": {
+   "0": "O MELD justamente **não** usa albumina; quem usa é o Child-Pugh.",
+   "2": "A fórmula do MELD é mais complexa, não mais simples.",
+   "3": "Nenhum dos dois escores considera a etiologia.",
+   "4": "O MELD é inteiramente baseado em exames laboratoriais."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 46
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B4-03",
+  "modulo": "B4",
+  "tema": "figado",
+  "subtema": "Cirrose e complicações",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Qual é o primeiro sinal de descompensação mais comum na cirrose?",
+  "alternativas": [
+   "A encefalopatia hepática",
+   "A ascite",
+   "O sangramento de varizes esofagogástricas",
+   "A icterícia",
+   "A síndrome hepatorrenal"
+  ],
+  "correta": 1,
+  "justificativa": "O slide de cirrose descompensada afirma em destaque: **mais comum = ascite como o primeiro sinal de descompensação**. Encefalopatia, sangramento de varizes e icterícia entram entre os eventos de recorrência de descompensação.",
+  "porque_erradas": {
+   "0": "É um dos eventos possíveis, mas não o primeiro mais comum.",
+   "2": "Também entra na lista de descompensações, sem ser o primeiro mais comum.",
+   "3": "Idem: consta da recorrência de descompensações.",
+   "4": "A SHR é complicação tardia, associada a gatilhos como paracentese sem albumina."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 64
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B4-04",
+  "modulo": "B4",
+  "tema": "figado",
+  "subtema": "Cirrose e complicações",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "preteste": false,
+  "enunciado": "Cirrótico hospitalizado com ascite, febre e dor abdominal. A paracentese mostra 400 polimorfonucleares/mm³ e não há foco intra-abdominal tratável. Qual o diagnóstico e o manejo descritos nos slides?",
+  "alternativas": [
+   "Ascite grau 3 — paracentese de grande volume",
+   "Peritonite bacteriana espontânea — antibiótico imediatamente após a paracentese e albumina",
+   "Síndrome hepatorrenal — suspensão de diuréticos",
+   "Encefalopatia hepática — lactulose",
+   "Carcinoma hepatocelular — rastreio a cada 6 meses"
+  ],
+  "correta": 1,
+  "justificativa": "O diagnóstico de PBE é feito pela contagem de **polimorfonucleares > 250 células/mm³** no líquido ascítico, na **ausência de fonte de infecção intra-abdominal tratável**. O manejo, em geral, é **antibiótico imediatamente após a paracentese e albumina**.",
+  "porque_erradas": {
+   "0": "O grau da ascite é definido por exame físico e profundidade na USG, não pela contagem celular.",
+   "2": "A SHR é falência renal funcional, com critério de creatinina, e não se diagnostica por PMN.",
+   "3": "A encefalopatia é quadro neuropsiquiátrico, sem relação com a contagem de PMN.",
+   "4": "O carcinoma hepatocelular não é diagnosticado por paracentese."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 59
+  },
+  "ambiguidade": null,
+  "elaboracao": {
+   "pergunta": "Qual parte da definição distingue a PBE de uma peritonite secundária?",
+   "opcoes": [
+    "A ausência de qualquer fonte de infecção intra-abdominal tratável",
+    "A contagem de PMN acima de 250 células/mm³",
+    "A presença de ascite grau 2 ou 3"
+   ],
+   "correta": 0,
+   "justificativa": "O PMN > 250 define a infecção do líquido, mas é a **ausência de fonte intra-abdominal tratável** que caracteriza a invasão como **espontânea** — é essa expressão que está na definição do slide."
+  }
+ },
+ {
+  "id": "Q-B4-05",
+  "modulo": "B4",
+  "tema": "figado",
+  "subtema": "Cirrose e complicações",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Ultrassonografia com líquido ascítico de 12 cm de profundidade, abdome tenso e hérnia umbilical. Qual o grau e o manejo geral?",
+  "alternativas": [
+   "Grau 1 — ambulatorial, restrição de sódio e monoterapia diurética",
+   "Grau 2 — hospitalização frequente e diuréticos combinados",
+   "Grau 3 — paracentese de grande volume inicial e hospitalização",
+   "Grau 3 — apenas restrição de sódio",
+   "Grau 2 — paracentese de grande volume"
+  ],
+  "correta": 2,
+  "justificativa": "Profundidade **> 10 cm** na USG, com distensão acentuada ou tensa e possível hérnia umbilical, define a **ascite grau 3 (acentuada/tensa)**, que **requer paracentese de grande volume inicial e hospitalização**.",
+  "porque_erradas": {
+   "0": "Grau 1 tem fluido < 3 cm e sem distensão visível.",
+   "1": "Grau 2 tem fluido entre 3 e 10 cm.",
+   "3": "A restrição de sódio isolada é o manejo ambulatorial do grau 1.",
+   "4": "A paracentese de grande volume é do grau 3, não do grau 2."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 57
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B4-06",
+  "modulo": "B4",
+  "tema": "figado",
+  "subtema": "Cirrose e complicações",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "preteste": false,
+  "enunciado": "Sobre a hipertensão portal, assinale a alternativa que corresponde aos slides.",
+  "alternativas": [
+   "É a redução da pressão na veia porta por desvio de sangue para colaterais",
+   "É o aumento da resistência ao fluxo para dentro do fígado, com aumento sustentado da pressão na veia porta, e explica ascite, varizes, encefalopatia e esplenomegalia",
+   "Decorre exclusivamente da hipoalbuminemia",
+   "Só ocorre na cirrose descompensada por álcool",
+   "É consequência da ascite, e não sua causa"
+  ],
+  "correta": 1,
+  "justificativa": "O slide define a hipertensão portal como **aumento da resistência ao fluxo sanguíneo para dentro do fígado** com **aumento sustentado da pressão na veia porta**, causado por **fibrose e nódulos que fecham os sinusoides** e por dilatação dos vasos abdominais. Suas consequências são circulação colateral/varizes, líquido peritoneal e aumento de fígado e baço.",
+  "porque_erradas": {
+   "0": "A pressão aumenta, não reduz; as colaterais são consequência, não solução.",
+   "2": "A hipoproteinemia participa da ascite, mas o fator iniciante é a hipertensão portal.",
+   "3": "Decorre da fibrose e dos nódulos, independentemente da etiologia.",
+   "4": "Inverte a relação: a hipertensão portal é a causa principal e o fator iniciante da ascite."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 54
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B4-07",
+  "modulo": "B4",
+  "tema": "figado",
+  "subtema": "Cirrose e complicações",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Sobre as varizes esofágicas na cirrose, qual afirmação consta dos slides?",
+  "alternativas": [
+   "Atingem 10 a 20% dos pacientes e só surgem na fase terminal",
+   "Atingem 40 a 70% dos pacientes com cirrose avançada e a descompensação ocorre quando há sangramento",
+   "São rastreadas apenas quando o paciente apresenta anemia",
+   "A simples presença de varizes já caracteriza cirrose descompensada",
+   "Contraindicam definitivamente a nutrição enteral"
+  ],
+  "correta": 1,
+  "justificativa": "O slide traz **40 a 70% dos pacientes com cirrose avançada**, rastreio por **endoscopia no momento do diagnóstico da cirrose**, e que a **descompensação ocorre quando há sangramento** por ruptura.",
+  "porque_erradas": {
+   "0": "A faixa é bem maior: 40 a 70%.",
+   "2": "O rastreio endoscópico é feito ao diagnóstico da cirrose.",
+   "3": "O que descompensa é o sangramento, não a existência da variz.",
+   "4": "Em outra aula, os slides afirmam o oposto: varizes esofágicas **não** contraindicam nutrição enteral."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 62
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B4-08",
+  "modulo": "B4",
+  "tema": "figado",
+  "subtema": "Cirrose e complicações",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Sobre o carcinoma hepatocelular, assinale a alternativa correta segundo os slides.",
+  "alternativas": [
+   "Corresponde a 80% dos casos de câncer primário de fígado e o rastreio é a cada 6 meses",
+   "Ocorre em mais de 50% dos casos em fígado saudável",
+   "Tem início abrupto, com sintomas muito distintos dos da doença hepática avançada",
+   "Está em queda por causa da MASLD",
+   "Não requer rastreio em pacientes cirróticos"
+  ],
+  "correta": 0,
+  "justificativa": "O slide traz que o carcinoma hepatocelular contribui com **80% dos casos de câncer primário de fígado**, que **menos de 10% ocorre em fígado saudável**, que tem **início insidioso** com sintomas semelhantes aos da doença hepática avançada e que, por isso, o **rastreio é a cada 6 meses**.",
+  "porque_erradas": {
+   "1": "O slide diz o contrário: menos de 10% em fígado saudável.",
+   "2": "O início é descrito como insidioso, com sintomas parecidos com os da própria doença.",
+   "3": "Há aumento significativo de hepatocarcinoma por MASLD.",
+   "4": "O rastreio a cada 6 meses é justamente a recomendação."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 65
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B4-09",
+  "modulo": "B4",
+  "tema": "figado",
+  "subtema": "Cirrose e complicações",
+  "prioridade": "E",
+  "dificuldade": 1,
+  "preteste": false,
+  "enunciado": "Qual destas alternativas descreve corretamente a cirrose, conforme os slides?",
+  "alternativas": [
+   "É uma doença hepática de causa viral, com tratamento antiviral específico",
+   "É o estágio final da doença hepática crônica, independente do agente etiológico, com fibrose difusa e nódulos de regeneração",
+   "É uma inflamação aguda do fígado, reversível em semanas",
+   "É o acúmulo de triglicerídeos em mais de 5% do peso do fígado",
+   "É a infecção do líquido ascítico sem foco intra-abdominal"
+  ],
+  "correta": 1,
+  "justificativa": "O slide abre o tema afirmando: **não é uma doença, mas sim o estágio final da doença hepática crônica, independente do agente etiológico**, decorrente da inflamação crônica que gera **tecido fibroso difuso** e **substituição por nódulos de regeneração**.",
+  "porque_erradas": {
+   "0": "A cirrose independe da etiologia e não é uma doença em si.",
+   "2": "É crônica e envolve alteração da arquitetura, não inflamação aguda.",
+   "3": "Essa é a definição de esteatose hepática.",
+   "4": "Essa é a definição de peritonite bacteriana espontânea."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 42
   },
   "ambiguidade": null
  },

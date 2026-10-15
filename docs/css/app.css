@@ -1215,3 +1215,68 @@ main {
   color: var(--tinta-fraca);
   width: 50%;
 }
+
+/* ---------- Diagramas (codificação dupla) ---------- */
+
+.diagrama {
+  margin: 0.9rem 0 0;
+  padding: 0.7rem 0.6rem 0.5rem;
+  border: 1px solid var(--linha);
+  border-radius: var(--r-m);
+  background: var(--superficie-2);
+}
+.diagrama figcaption {
+  font-family: var(--serif);
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0.2rem 0.5rem;
+}
+.diagrama figcaption .olho {
+  display: block;
+  margin: 0 0 0.15rem;
+}
+.diagrama svg {
+  display: block;
+  width: 100%;
+  max-width: 24rem;
+  height: auto;
+  margin: 0 auto;
+}
+.dg-caixa {
+  fill: var(--superficie);
+  stroke: var(--linha-forte);
+  stroke-width: 1;
+}
+.dg-forte {
+  fill: var(--orgao-fraco, var(--superficie));
+  stroke: var(--orgao, var(--linha-forte));
+  stroke-width: 1.6;
+}
+.dg-txt {
+  fill: var(--tinta);
+  font-family: var(--sans);
+  font-weight: 500;
+}
+.dg-seta line,
+.dg-seta path {
+  stroke: var(--orgao, var(--tinta-fraca));
+  stroke-width: 1.4;
+  fill: var(--orgao, var(--tinta-fraca));
+}
+.dg-legenda {
+  margin: 0.5rem 0.2rem 0;
+  font-size: 0.86rem;
+  color: var(--tinta-fraca);
+}
+.dg-texto {
+  margin: 0.4rem 0.2rem 0;
+  font-size: 0.86rem;
+}
+.dg-texto summary {
+  cursor: pointer;
+  color: var(--orgao, var(--tinta-fraca));
+}
+.dg-texto p {
+  margin: 0.35rem 0 0;
+  color: var(--tinta-fraca);
+}

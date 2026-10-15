@@ -106,7 +106,7 @@
   "correta": 1,
   "justificativa": "A lista do slide de homeostase do sódio é **hormônio do crescimento, cortisol, insulina e estrogênio**. Vale guardar que são hormônios que não costumam vir à cabeça quando se pensa em sódio — é justamente aí que a prova pega.",
   "porque_erradas": {
-   "0": "A aldosterona retém sódio, mas não é a lista que o slide apresenta; renina e angiotensina II aparecem no eixo de regulação, não nesta lista.",
+   "0": "Aldosterona, renina e angiotensina II aparecem no eixo renina-angiotensina-aldosterona, não nesta lista de hormônios que retêm sódio.",
    "2": "Paratormônio, calcitonina e vitamina D ativa pertencem ao metabolismo de cálcio e fósforo.",
    "3": "Eritropoietina, prostaglandinas e cininas estão na lista do que o rim **produz**.",
    "4": "Esses hormônios não aparecem no slide de retenção de sódio."
@@ -540,7 +540,7 @@
   "justificativa": "Em mg/g: A1 abaixo de 30, A2 de 30 a 300 e A3 acima de 300. O slide traz também os equivalentes em mg/mmol: abaixo de 3, de 3 a 30 e acima de 30.",
   "porque_erradas": {
    "1": "Esses são os valores em mg/mmol, não em mg/g.",
-   "2": "A2 é a antiga microalbuminúria, hoje moderadamente aumentada.",
+   "2": "A2 é a categoria “moderadamente aumentada”; os slides não usam os termos micro e macroalbuminúria.",
    "3": "A3 é gravemente aumentada; a moderadamente aumentada é A2.",
    "4": "A categoria A independe da TFG; as duas entram juntas só na leitura do prognóstico."
   },
@@ -978,13 +978,13 @@
   "enunciado": "No exame físico da avaliação nutricional, quais pontos são usados para avaliar massa muscular?",
   "alternativas": [
    "Face, tríceps, bíceps, joelho e quadríceps",
-   "Têmporas, clavícula, ombros, escápula e adutor do polegar",
+   "Têmporas, clavícula, ombros e escápula",
    "Tornozelo, sacro e abdômen",
    "Apenas a circunferência abdominal",
    "Apenas a prega cutânea tricipital"
   ],
   "correta": 1,
-  "justificativa": "Têmporas, clavícula, ombros, escápula e o músculo adutor do polegar são os pontos de massa muscular. Face, tríceps, bíceps, joelho e quadríceps são de gordura subcutânea, e tornozelo, sacro e abdômen são de edema e ascite.",
+  "justificativa": "Têmporas, clavícula, ombros e escápula são os pontos de massa muscular na caixa do slide. Face, tríceps, bíceps, joelho e quadríceps são de gordura subcutânea, e tornozelo, sacro e abdômen são de edema e ascite. O músculo adutor do polegar aparece em slide separado, sem entrar nessa caixa.",
   "porque_erradas": {
    "0": "São os pontos de gordura subcutânea.",
    "2": "São os pontos de edema e ascite.",
@@ -1068,7 +1068,7 @@
   "alternativas": [
    "Paciente ambulatorial, sem diabetes, peso estável há um ano",
    "Paciente internado há uma semana por pneumonia e em uso de antibiótico",
-   "Paciente idoso sem diabetes, estável, que aceita acompanhamento mensal",
+   "Paciente idoso sem diabetes, estável, que aceita acompanhamento regular",
    "Paciente sem diabetes e sem risco de desnutrição, com boa adesão",
    "Paciente sem diabetes, estável, com disponibilidade do suplemento de cetoanálogos"
   ],
@@ -1076,7 +1076,7 @@
   "justificativa": "Hospitalização nas últimas 2 semanas, doença infecciosa ativa e uso de antibióticos são três das condições que tornam o paciente metabolicamente instável, e nesse caso não se prescreve dieta hipoproteica nem muito hipoproteica.",
   "porque_erradas": {
    "0": "Preenche os pré-requisitos de estabilidade.",
-   "2": "É justamente o perfil citado na opção 02 do KDOQI.",
+   "2": "A opção 02 pede justamente acompanhar o paciente regularmente — é um pré-requisito, não um impedimento.",
    "3": "Preenche os pré-requisitos.",
    "4": "A disponibilidade do suplemento é um dos itens a favor da opção 02."
   },
@@ -1232,7 +1232,7 @@
   "justificativa": "A tabela de vitaminas traz, na linha de A e K, a orientação de não suplementar em dieta por via oral.",
   "porque_erradas": {
    "1": "A faixa é de 400 a 800 UI.",
-   "2": "O ácido fólico é 1 mg.",
+   "2": "O ácido fólico é 1 mg (linha da p. 106).",
    "3": "A piridoxina tem recomendação de 5 mg; quem não se suplementa é A e K.",
    "4": "A vitamina D vai conforme a deficiência, sem dose fixa na tabela."
   },
@@ -1639,7 +1639,7 @@
    "Alterações hormonais",
    "Ingestão alimentar insuficiente",
    "Disfunções gastrintestinais",
-   "Perdas de nutrientes durante a sessão"
+   "Perdas de nutrientes, proteínas e vitaminas"
   ],
   "correta": 2,
   "justificativa": "No quadro do slide, **diálise inadequada** está listada junto de anorexia, depressão, dietas restritas, medicamentos, efeitos da DRC e condição financeira — todas dentro de **ingestão alimentar insuficiente**.",
@@ -1647,7 +1647,7 @@
    "0": "O hipercatabolismo reúne perdas de nutrientes, proteólise muscular e inflamação.",
    "1": "As alterações hormonais são resistência à insulina e ao GH, glucagon, PTH e hiperparatireoidismo secundário.",
    "3": "As disfunções gastrintestinais são náuseas, vômitos e diarreia.",
-   "4": "As perdas de nutrientes na diálise existem, mas estão no grupo do hipercatabolismo — e não é esse o item perguntado."
+   "4": "“Perdas de nutrientes, proteínas e vitaminas” é um item do grupo do hipercatabolismo."
   },
   "fonte": {
    "arquivo": "Aula_NEFRO",
@@ -2112,7 +2112,7 @@
    "A restrição de cálcio está indicada sempre que houver história familiar"
   ],
   "correta": 1,
-  "justificativa": "Os objetivos da terapia nutricional pedem **ingestões balanceadas de Ca e oxalato** e listam **evitar a restrição de cálcio**. A única linha da tabela que manda controlar o cálcio alimentar é a da **hipercalciúria absortiva tipo II**.",
+  "justificativa": "Os objetivos da terapia nutricional pedem **ingestões balanceadas de Ca e oxalato**, e a única linha da tabela que manda controlar o cálcio alimentar é a da **hipercalciúria absortiva tipo II**. Atenção: a frase do slide (“Evitar alimentos ricos em purina, sódio e restrição de cálcio”) é ambígua — ver o aviso.",
   "porque_erradas": {
    "0": "É o oposto do que o slide recomenda como regra geral.",
    "2": "Os slides não indicam suplementar cálcio na litíase.",
@@ -2123,7 +2123,7 @@
    "arquivo": "Aula_NEFRO",
    "pagina": 166
   },
-  "ambiguidade": null
+  "ambiguidade": "calcio-litiase"
  },
  {
   "id": "Q-A9-04",
@@ -3000,8 +3000,8 @@
    "4": "O MELD é inteiramente baseado em exames laboratoriais."
   },
   "fonte": {
-   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 46
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 6
   },
   "ambiguidade": null
  },
@@ -3650,10 +3650,10 @@
    "Aguardar a tomografia em L3 antes de qualquer conduta"
   ],
   "correta": 1,
-  "justificativa": "**Child-Pugh C e/ou IMC < 18,5 kg/m²** já caracterizam **risco nutricional**, e o fluxo manda ir **direto à avaliação nutricional**. A triagem com ferramentas é para **Child A/B com IMC > 18,5 kg/m²**, e a **retriagem (7 dias hospitalizados / 6 meses ambulatoriais)** é só para quem foi triado **sem** risco.",
+  "justificativa": "**Child-Pugh C e/ou IMC < 18,5 kg/m²** já caracterizam **risco nutricional**, e o fluxo manda ir **direto à avaliação nutricional**. A triagem com ferramentas é para **Child A/B com IMC ≥ 18,5 kg/m²**, e a **retriagem (7 dias hospitalizados / 6 meses ambulatoriais)** é só para quem foi triado **sem** risco.",
   "porque_erradas": {
    "0": "A triagem é justamente o passo que esse paciente pula.",
-   "2": "A NRS-2002 teve a menor sensibilidade entre as ferramentas testadas em hospitalizados (66,7%) e não considera retenção de líquidos.",
+   "2": "A NRS-2002 teve a menor sensibilidade entre as ferramentas testadas em hospitalizados (66,7%).",
    "3": "A retriagem é para quem foi triado e não tinha risco.",
    "4": "A tomografia é método de composição corporal, não o gatilho da avaliação."
   },
@@ -3767,7 +3767,7 @@
    "24,9 kg/m²"
   ],
   "correta": 2,
-  "justificativa": "Os descontos percentuais somam **10% (ascite moderada) + 5% (edema bilateral) = 15%**. **96 × 0,85 = 81,6 kg.** **IMC = 81,6 / 1,70² = 81,6 / 2,89 ≈ 28,2 kg/m².**",
+  "justificativa": "Os descontos percentuais somam **10% (ascite moderada) + 5% (edema bilateral) = 15%**. **96 × 0,85 = 81,6 kg.** **IMC = 81,6 / 1,70² = 81,6 / 2,89 ≈ 28,2 kg/m².** Ressalva: o slide apresenta ascite e edema em caixas separadas e **não diz explicitamente que os dois descontos se somam** — a soma é a leitura usual, mas não está escrita.",
   "porque_erradas": {
    "0": "33,2 kg/m² é o IMC com o peso aferido, sem desconto nenhum.",
    "1": "29,9 kg/m² corresponde a descontar só a ascite moderada (10%).",

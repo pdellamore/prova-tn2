@@ -8,6 +8,7 @@ import { ganhar, darBadge } from "../xp.js";
 import { registrar } from "../metrics.js";
 import { esc, rico, selo, cuidado, apoio, atencao, caixaFonte, anunciar, bip } from "../ui.js";
 import { blocoQuestao } from "./questoes.js";
+import { diagrama } from "../diagramas/index.js";
 
 export async function desenhar(raiz, { c, args }) {
   const id = args[0];
@@ -72,6 +73,7 @@ export async function desenhar(raiz, { c, args }) {
         <h2>${esc(b.titulo)} ${b.prioridade ? selo(b.prioridade) : ""}</h2>
         <ul class="bloco-pontos">${(b.pontos || []).map((p) => `<li>${rico(p)}</li>`).join("")}</ul>
         ${b.tabela ? tabela(b.tabela) : ""}
+        ${[].concat(b.diagrama || []).map(diagrama).join("")}
         ${cuidado(b.cuidado)}
         ${atencao(amb)}
         ${apoio(b.apoio)}

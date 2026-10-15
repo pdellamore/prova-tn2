@@ -50,6 +50,39 @@ export function porModulo(c, e = ler()) {
     });
 }
 
+/** Acerto por tema (rim × fígado). */
+export function porTema(c, e = ler()) {
+  const linha = (tema) => {
+    const qs = c.questoes.filter((q) => q.tema === tema);
+    const tent = qs.map((q) => ultima(q.id, e)).filter(Boolean);
+    const certas = tent.filter((t) => t.certa && t.confianca !== "chute").length;
+    return {
+      tema,
+      respondidas: tent.length,
+      total: qs.length,
+      pct: tent.length ? Math.round((certas / tent.length) * 100) : null,
+    };
+  };
+  return [linha("rim"), linha("figado")];
+}
+
+/** Acerto por subtema, do pior para o melhor. Só entram os subtemas já respondidos. */
+export function porSubtema(c, e = ler()) {
+  const mapa = new Map();
+  for (const q of c.questoes) {
+    const t = ultima(q.id, e);
+    if (!t) continue;
+    const chave = q.subtema;
+    const linha = mapa.get(chave) || { subtema: chave, tema: q.tema, modulo: q.modulo, respondidas: 0, certas: 0 };
+    linha.respondidas += 1;
+    if (t.certa && t.confianca !== "chute") linha.certas += 1;
+    mapa.set(chave, linha);
+  }
+  return [...mapa.values()]
+    .map((l) => ({ ...l, pct: Math.round((l.certas / l.respondidas) * 100) }))
+    .sort((a, b) => a.pct - b.pct || b.respondidas - a.respondidas);
+}
+
 export async function desenhar(raiz, { c }) {
   const e = ler();
   const n = nivelDe(e.xp);
@@ -66,6 +99,8 @@ export async function desenhar(raiz, { c }) {
     return t && !t.certa && t.confianca === "certeza";
   });
   const fracos = mods.filter((m) => m.pct !== null && m.pct < 70).sort((a, b) => a.pct - b.pct);
+  const temas = porTema(c, e);
+  const subtemas = porSubtema(c, e);
   const dias = Object.entries(e.tempoPorDia).sort(([a], [b]) => a.localeCompare(b));
   const totalSeg = dias.reduce((s, [, v]) => s + v, 0);
 
@@ -131,6 +166,42 @@ export async function desenhar(raiz, { c }) {
           )
           .join("")}</tbody>
       </table>
+    </div>
+
+    <div class="secao-titulo"><h2>Rim × fígado</h2></div>
+    <div class="cartao">
+      <div class="medidores">
+        ${temas
+          .map(
+            (t) => `<div class="medidor" data-orgao="${t.tema === "rim" ? "rim" : "figado"}">
+              <div class="rot">${t.tema === "rim" ? "Rim" : "Fígado"}</div>
+              <div class="val">${t.pct === null ? "—" : t.pct + "%"}</div>
+              <div class="obs">${t.respondidas} de ${t.total} questões</div></div>`,
+          )
+          .join("")}
+      </div>
+      <p class="fonte" style="margin:.6rem 0 0">A prova cobre as duas metades. Se uma delas estiver bem atrás da outra, é por ali que rende mais estudar.</p>
+    </div>
+
+    <div class="secao-titulo"><h2>Por subtema</h2><span class="conta">${subtemas.length} com questão respondida</span></div>
+    <div class="cartao" style="padding:.4rem .6rem">
+      ${
+        subtemas.length
+          ? `<table>
+              <thead><tr><th>Subtema</th><th style="text-align:center">Respondidas</th><th style="text-align:center">Acerto</th></tr></thead>
+              <tbody>${subtemas
+                .map(
+                  (s2) => `<tr>
+                    <td><a href="#/questoes/${esc(s2.modulo)}" style="text-decoration:none;color:inherit">${esc(s2.subtema)}</a>
+                      <span class="fonte">${s2.tema === "rim" ? "rim" : "fígado"}</span></td>
+                    <td style="text-align:center" class="num">${s2.respondidas}</td>
+                    <td style="text-align:center" class="num">${s2.pct}%</td>
+                  </tr>`,
+                )
+                .join("")}</tbody>
+            </table>`
+          : `<p class="fonte" style="margin:.4rem 0">Responda algumas questões para o acerto por subtema aparecer aqui.</p>`
+      }
     </div>
 
     <div class="secao-titulo"><h2>Acertos falsos e erros com certeza</h2></div>

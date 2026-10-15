@@ -66,10 +66,10 @@
   "tipo": "definicao",
   "prioridade": "C",
   "frente": "Qual é a unidade funcional do rim e o que o glomérulo faz?",
-  "verso": "O **néfron** é a unidade funcional; o **glomérulo faz a ultrafiltração**, o processo inicial da formação da urina.",
+  "verso": "O **néfron** é a unidade funcional (fluxograma da p. 10); o **glomérulo faz a ultrafiltração** (p. 12), o processo inicial da formação da urina.",
   "fonte": {
    "arquivo": "Aula_NEFRO",
-   "pagina": 12
+   "pagina": 10
   },
   "tags": [
    "fisiologia"
@@ -960,7 +960,7 @@
   "verso": "O **peso seco**. Avalia-se IMC, % de perda de peso, dobras cutâneas, CB e AMB, circunferência abdominal e bioimpedância.",
   "fonte": {
    "arquivo": "Aula_NEFRO",
-   "pagina": 61
+   "pagina": 56
   },
   "tags": [
    "avaliacao"
@@ -1570,10 +1570,10 @@
   "tipo": "numero",
   "prioridade": "E",
   "frente": "Albumina no diagnóstico de desnutrição: **NKF × ISRNM**",
-  "verso": "**NKF-KDOQI 2000: < 3,5 g/dL** · **ISRNM (J Bras Nefrol 2011): < 3,8 g/dL**. Em ambos, **basta 1 item**.",
+  "verso": "**NKF-KDOQI 2000: < 3,5 g/dL** — e é esse slide que diz que **basta 1 item** para o diagnóstico · **ISRNM (J Bras Nefrol 2011): < 3,8 g/dL** — o quadro do ISRNM **não informa quantos critérios** são necessários.",
   "fonte": {
    "arquivo": "Aula_NEFRO",
-   "pagina": 124
+   "pagina": 125
   },
   "tags": [
    "hemodialise",
@@ -1604,10 +1604,10 @@
   "tipo": "numero",
   "prioridade": "E",
   "frente": "**Proteína e energia** na hemodiálise (KDOQI 2020)",
-  "verso": "**Proteína 1,0 a 1,2 g/kg/dia** · **energia 25 a 35 kcal/kg/dia**.",
+  "verso": "**Energia 25 a 35 kcal/kg/dia** (tabela da p. 127) · **proteína 1,0 a 1,2 g/kg/dia** (tabela da p. 128).",
   "fonte": {
    "arquivo": "Aula_NEFRO",
-   "pagina": 128
+   "pagina": 127
   },
   "tags": [
    "hemodialise",
@@ -1885,7 +1885,7 @@
   "tipo": "conduta",
   "prioridade": "I",
   "frente": "Quando a **depuração da creatinina** pode ser usada na IRA?",
-  "verso": "**Somente quando a creatinina sérica estiver estável.** Na fase aguda, com creatinina em ascensão, o cálculo não representa a função real.",
+  "verso": "**Somente quando a creatinina sérica estiver estável** — é só isso que o slide condiciona.",
   "fonte": {
    "arquivo": "Aula_NEFRO",
    "pagina": 176
@@ -2656,7 +2656,7 @@
   "verso": "**Única com vírus de DNA.** Cerca de **60% dos casos** de hepatite viral; ~30% com infecção sintomática e **1% insuficiência hepática aguda**; **tendência à cronificação**; antiviral para evitar progressão.",
   "fonte": {
    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 31
+   "pagina": 32
   },
   "tags": [
    "hepatites",
@@ -2673,7 +2673,7 @@
   "verso": "**50 a 85% cronificam**; em geral (**80%**) assintomáticos até fases avançadas; **antivirais de ação direta com 95% de cura em 12 a 24 semanas**.",
   "fonte": {
    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 31
+   "pagina": 32
   },
   "tags": [
    "hepatites",
@@ -2952,7 +2952,7 @@
   "verso": "**Ascite** (extravasamento peritoneal) · **circulação colateral → varizes** de esôfago e estômago, cabeça de medusa · **encefalopatia** (desvio de amônia e toxinas) · **esplenomegalia** (anemia, leucopenia, trombocitopenia).",
   "fonte": {
    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
-   "pagina": 54
+   "pagina": 55
   },
   "tags": [
    "cirrose"
@@ -4026,7 +4026,7 @@
   "verso": "**Desenvolvida especificamente para cirrose**, com **valorização do acúmulo de fluidos**; **traduzida e adaptada pela UFRGS/HCPA**; **preditora de sobrevida livre de transplante** (tanto o risco quanto a mudança no risco).",
   "fonte": {
    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
-   "pagina": 27
+   "pagina": 28
   },
   "tags": [
    "cirrose"
@@ -4059,7 +4059,7 @@
   "verso": "**63 ambulatoriais:** MNA-SF **88%** > LDUST **83%** > RFH-NPT **67%**. **78 hospitalizados (82% descompensados):** RFH-NPT **90,9%** > LDUST **84,8%** > NRS-2002 **66,7%**. **A RFH-NPT inverte de pior para melhor.**",
   "fonte": {
    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
-   "pagina": 30
+   "pagina": 31
   },
   "tags": [
    "cirrose",
@@ -4125,10 +4125,10 @@
   "tipo": "numero",
   "prioridade": "I",
   "frente": "**Peso estimado (Chumlea)** — quando serve",
-  "verso": "Usa **CB e altura do joelho**. **Sem sobrecarga hídrica (n = 289):** aferido **71,8 ± 18,5 kg** × estimado **70,9 ± 16,2 kg** — muito próximos. **Com sobrecarga (n = 85):** absoluto 70,6 · percentual 68,1 · estimado 63,3 kg.",
+  "verso": "O slide escreve **“Peso estimado (Chumlea, CB e AJ)”** — usa **CB e AJ**. **Sem sobrecarga hídrica (n = 289):** aferido **71,8 ± 18,5 kg** × estimado **70,9 ± 16,2 kg** — muito próximos. **Com sobrecarga (n = 85):** absoluto 70,6 · percentual 68,1 · estimado 63,3 kg.",
   "fonte": {
    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
-   "pagina": 35
+   "pagina": 34
   },
   "tags": [
    "cirrose",
@@ -4410,7 +4410,7 @@
   "verso": "**387 pacientes com cirrose e sinais de descompensação:** mediana de internação **12 dias**, **28,7% de desnutrição** e **2,3% de óbito intra-hospitalar**. **Todas as variáveis do GLIM foram preditoras de piores desfechos.**",
   "fonte": {
    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
-   "pagina": 63
+   "pagina": 64
   },
   "tags": [
    "cirrose",

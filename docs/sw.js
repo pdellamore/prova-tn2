@@ -2,7 +2,7 @@
    de conteúdo (assim uma correção no conteúdo aparece sem esperar o cache expirar).
    Se algo falhar, o site continua funcionando online. */
 
-const VERSAO = "tn2-v4";
+const VERSAO = "tn2-v5";
 const CASCA = [
   "./",
   "./index.html",
@@ -33,6 +33,7 @@ const CASCA = [
   "./js/screens/chefao.js",
   "./js/screens/jogos.js",
   "./js/screens/painel.js",
+  "./js/diagramas/index.js",
   "./js/screens/erros.js",
   "./js/screens/config.js",
   "./js/calc/kdigo.js",

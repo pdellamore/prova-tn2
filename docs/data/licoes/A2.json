@@ -1,172 +1,173 @@
 {
-  "id": "A2",
-  "titulo": "Síndrome nefrótica e dietoterapia",
-  "preteste": [
-    "Q-A2-01",
-    "Q-A2-02"
-  ],
-  "blocos": [
-    {
-      "id": "A2-b1",
-      "titulo": "Definição e causas",
-      "prioridade": "E",
-      "pontos": [
-        "**Critério diagnóstico isolado: proteinúria > 3,5 g/24 h.** É esse número, sozinho, que define.",
-        "Acompanham o quadro: **hipoalbuminemia**, **edema periférico**, **hiperlipidemia** e **lipidúria**.",
-        "**Causas renais primárias:** glomerulonefrite e glomeruloesclerose.",
-        "**Causas sistêmicas:** **DM**, lúpus eritematoso e amiloidose."
-      ],
-      "cuidado": [
-        "O critério é **isolado**: não precisa dos outros achados para fechar o diagnóstico.",
-        "Guarde o número com a unidade: **> 3,5 g em 24 horas**, não por litro nem por hora."
-      ],
-      "ambiguidade": "albumina-nefrotica",
-      "fonte": {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 29
-      },
-      "checagem": {
-        "pergunta": "Qual é o critério diagnóstico isolado da síndrome nefrótica?",
-        "alternativas": [
-          "Albumina sérica abaixo de 3 g/dL",
-          "Proteinúria acima de 3,5 g em 24 horas",
-          "Edema periférico com hiperlipidemia",
-          "TFG abaixo de 60 mL/min/1,73 m² por mais de 3 meses",
-          "Relação albumina/creatinina urinária acima de 300 mg/g"
-        ],
-        "correta": 1,
-        "justificativa": "**Proteinúria > 3,5 g/24 h** é o critério isolado. Hipoalbuminemia, edema e dislipidemia acompanham, mas não definem sozinhos. TFG < 60 por > 3 meses é critério de **DRC**, não de síndrome nefrótica.",
-        "fonte": {
-          "arquivo": "Aula_NEFRO",
-          "pagina": 29
-        }
-      }
-    },
-    {
-      "id": "A2-b2",
-      "titulo": "Fisiopatologia e manifestações sistêmicas",
-      "prioridade": "E",
-      "pontos": [
-        "O caminho é curto e cai em prova: **↑ permeabilidade da membrana basal glomerular → proteinúria maciça → hipoalbuminemia → ↑ reabsorção de sódio → edema**.",
-        "Manifestações sistêmicas: **hiperlipidemia**, hipertensão arterial, **distúrbios da coagulação**, alterações do metabolismo da **vitamina D** e de **cálcio/minerais** e **anemia hipocrômica microcítica**."
-      ],
-      "cuidado": [
-        "A anemia da síndrome nefrótica é **hipocrômica microcítica**. Na IRA, a anemia descrita é **normocítica normocrômica** — não troque."
-      ],
-      "fonte": {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 27
-      },
-      "checagem": {
-        "pergunta": "Que tipo de anemia é descrito entre as manifestações sistêmicas da síndrome nefrótica?",
-        "alternativas": [
-          "Normocítica normocrômica",
-          "Hipocrômica microcítica",
-          "Macrocítica megaloblástica",
-          "Hemolítica autoimune",
-          "Aplásica"
-        ],
-        "correta": 1,
-        "justificativa": "**Hipocrômica microcítica** é a descrita na síndrome nefrótica. A normocítica normocrômica aparece na **IRA**.",
-        "fonte": {
-          "arquivo": "Aula_NEFRO",
-          "pagina": 28
-        }
-      }
-    },
-    {
-      "id": "A2-b3",
-      "titulo": "Hiperlipidemia e a conduta com os lipídios",
-      "prioridade": "E",
-      "pontos": [
-        "**70 a 100%** dos pacientes podem ter dislipidemia — é fator de risco cardiovascular.",
-        "Por que sobe: **↑ síntese hepática** de colesterol, triglicerídeos e lipoproteínas; **↓ catabolismo** desses nutrientes; alteração da função das **enzimas lipolíticas** do fígado; e a hipoalbuminemia, que leva **menos lipídios ao fígado**.",
-        "Necessidade lipídica: **< 30% do VET**, igual para **adulto e criança**.",
-        "Padrão **mediterrâneo**, restrição de **ácidos graxos saturados** e **elevado consumo de fibras** alimentares."
-      ],
-      "cuidado": [
-        "O corte de lipídio aqui é **< 30% do VET** — o mesmo para adulto e para criança.",
-        "Este slide vem **depois** do divisor 'Tratamento Conservador' (slide 72), mas fala da tríade da síndrome nefrótica. Veja o ponto de atenção: o slide não diz a qual das duas situações o número pertence."
-      ],
-      "fonte": {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 80
-      },
-      "checagem": {
-        "pergunta": "Qual a proporção de pacientes que pode apresentar dislipidemia, segundo o slide de Dietoterapia?",
-        "alternativas": [
-          "Menos de 30%",
-          "Cerca de 50%",
-          "50 a 70%",
-          "70 a 100%",
-          "Praticamente nenhum, se a albumina estiver normal"
-        ],
-        "correta": 3,
-        "justificativa": "O slide diz **70 a 100%**. Esse número já apareceu como distrator em prova na forma 'menos de 30%'.",
-        "fonte": {
-          "arquivo": "Aula_NEFRO",
-          "pagina": 80
-        }
-      },
-      "ambiguidade": "secao-dietoterapia"
-    },
-    {
-      "id": "A2-b4",
-      "titulo": "Proteína: hiperproteica × normoproteica",
-      "prioridade": "E",
-      "pontos": [
-        "**Tríade do manejo nutricional: proteinúria – edema – hiperlipidemia.**",
-        "A intuição engana: dar **mais** proteína não repõe a albumina perdida.",
-        "Objetivos da dietoterapia: compensar a desnutrição proteica, evitar o catabolismo, **diminuir o ritmo de progressão**, reduzir a perda de proteína na urina, melhorar a anorexia, ofertar nutrientes em quantidade adequada e controlar a **HAS e a ingestão de sódio**."
-      ],
-      "tabela": {
-        "cabecalho": [
-          "Dieta hiperproteica — **não** recomendada",
-          "Dieta normoproteica — recomendada"
-        ],
-        "linhas": [
-          [
-            "↑ ritmo de catabolismo e de excreção proteica; pode **acelerar a progressão** da nefropatia; eleva a permeabilidade da membrana basal glomerular; mais perda de albumina (como ureia na urina)",
-            "Proteína suficiente para manter o **balanço nitrogenado**; ajuda a **elevar a albumina sérica**; **melhora o edema**"
-          ]
-        ]
-      },
-      "cuidado": [
-        "Nestes slides a indicação é **normoproteica**, com lipídios **< 30% do VET**.",
-        "Restrição com cetoácidos (0,28 a 0,43 g/kg) é estratégia da **DRC 3 a 5**, de outro bloco de slides."
-      ],
-      "apoio": {
-        "tipo": "analogia",
-        "texto": "Pense num balde furado: jogar mais água (proteína) não enche o balde, só sai mais rápido pelo furo e ainda alarga o furo (a permeabilidade da membrana). Apoio de memória — a ideia de alargar o furo é o que o slide chama de ↑ permeabilidade da membrana basal."
-      },
-      "fonte": {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 81
-      },
-      "checagem": {
-        "pergunta": "Por que a dieta hiperproteica não é recomendada nesses slides de dietoterapia?",
-        "alternativas": [
-          "Porque reduz a albumina sérica por diluição",
-          "Porque aumenta o catabolismo e a excreção proteica e pode acelerar a progressão da nefropatia",
-          "Porque piora a dislipidemia, que é o problema principal",
-          "Porque só é permitida em pacientes em diálise",
-          "Porque reduz o balanço nitrogenado a valores negativos imediatamente"
-        ],
-        "correta": 1,
-        "justificativa": "Pelo slide: a hiperproteica eleva o catabolismo e a excreção proteica, **pode acelerar a progressão**, eleva a permeabilidade da membrana basal e leva a mais perda de albumina. A normoproteica é que mantém o balanço nitrogenado e melhora o edema.",
-        "fonte": {
-          "arquivo": "Aula_NEFRO",
-          "pagina": 81
-        }
-      },
-      "ambiguidade": "secao-dietoterapia"
+ "id": "A2",
+ "titulo": "Síndrome nefrótica e dietoterapia",
+ "preteste": [
+  "Q-A2-01",
+  "Q-A2-02"
+ ],
+ "blocos": [
+  {
+   "id": "A2-b1",
+   "titulo": "Definição e causas",
+   "prioridade": "E",
+   "pontos": [
+    "**Critério diagnóstico isolado: proteinúria > 3,5 g/24 h.** É esse número, sozinho, que define.",
+    "Acompanham o quadro: **hipoalbuminemia**, **edema periférico**, **hiperlipidemia** e **lipidúria**.",
+    "**Causas renais primárias:** glomerulonefrite e glomeruloesclerose.",
+    "**Causas sistêmicas:** **DM**, lúpus eritematoso e amiloidose."
+   ],
+   "cuidado": [
+    "O critério é **isolado**: não precisa dos outros achados para fechar o diagnóstico.",
+    "Guarde o número com a unidade: **> 3,5 g em 24 horas**, não por litro nem por hora."
+   ],
+   "ambiguidade": "albumina-nefrotica",
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 29
+   },
+   "checagem": {
+    "pergunta": "Qual é o critério diagnóstico isolado da síndrome nefrótica?",
+    "alternativas": [
+     "Albumina sérica abaixo de 3 g/dL",
+     "Proteinúria acima de 3,5 g em 24 horas",
+     "Edema periférico com hiperlipidemia",
+     "TFG abaixo de 60 mL/min/1,73 m² por mais de 3 meses",
+     "Relação albumina/creatinina urinária acima de 300 mg/g"
+    ],
+    "correta": 1,
+    "justificativa": "**Proteinúria > 3,5 g/24 h** é o critério isolado. Hipoalbuminemia, edema e dislipidemia acompanham, mas não definem sozinhos. TFG < 60 por > 3 meses é critério de **DRC**, não de síndrome nefrótica.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 29
     }
-  ],
-  "feynman": [
-    "Que o critério isolado é proteinúria > 3,5 g/24 h",
-    "A sequência permeabilidade → proteinúria → hipoalbuminemia → retenção de sódio → edema",
-    "Que a anemia aqui é hipocrômica microcítica (e na IRA é normocítica normocrômica)",
-    "Que a conduta é normoproteica, nunca hiperproteica, e por quê",
-    "Que o lipídio fica < 30% do VET, para adulto e criança"
-  ]
+   }
+  },
+  {
+   "id": "A2-b2",
+   "titulo": "Fisiopatologia e manifestações sistêmicas",
+   "prioridade": "E",
+   "pontos": [
+    "O caminho é curto e cai em prova: **↑ permeabilidade da membrana basal glomerular → proteinúria maciça → hipoalbuminemia → ↑ reabsorção de sódio → edema**.",
+    "Manifestações sistêmicas: **hiperlipidemia**, hipertensão arterial, **distúrbios da coagulação**, alterações do metabolismo da **vitamina D** e de **cálcio/minerais** e **anemia hipocrômica microcítica**."
+   ],
+   "cuidado": [
+    "A anemia da síndrome nefrótica é **hipocrômica microcítica**. Na IRA, a anemia descrita é **normocítica normocrômica** — não troque."
+   ],
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 27
+   },
+   "checagem": {
+    "pergunta": "Que tipo de anemia é descrito entre as manifestações sistêmicas da síndrome nefrótica?",
+    "alternativas": [
+     "Normocítica normocrômica",
+     "Hipocrômica microcítica",
+     "Macrocítica megaloblástica",
+     "Hemolítica autoimune",
+     "Aplásica"
+    ],
+    "correta": 1,
+    "justificativa": "**Hipocrômica microcítica** é a descrita na síndrome nefrótica. A normocítica normocrômica aparece na **IRA**.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 28
+    }
+   },
+   "diagrama": "sindrome-nefrotica"
+  },
+  {
+   "id": "A2-b3",
+   "titulo": "Hiperlipidemia e a conduta com os lipídios",
+   "prioridade": "E",
+   "pontos": [
+    "**70 a 100%** dos pacientes podem ter dislipidemia — é fator de risco cardiovascular.",
+    "Por que sobe: **↑ síntese hepática** de colesterol, triglicerídeos e lipoproteínas; **↓ catabolismo** desses nutrientes; alteração da função das **enzimas lipolíticas** do fígado; e a hipoalbuminemia, que leva **menos lipídios ao fígado**.",
+    "Necessidade lipídica: **< 30% do VET**, igual para **adulto e criança**.",
+    "Padrão **mediterrâneo**, restrição de **ácidos graxos saturados** e **elevado consumo de fibras** alimentares."
+   ],
+   "cuidado": [
+    "O corte de lipídio aqui é **< 30% do VET** — o mesmo para adulto e para criança.",
+    "Este slide vem **depois** do divisor 'Tratamento Conservador' (slide 72), mas fala da tríade da síndrome nefrótica. Veja o ponto de atenção: o slide não diz a qual das duas situações o número pertence."
+   ],
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 80
+   },
+   "checagem": {
+    "pergunta": "Qual a proporção de pacientes que pode apresentar dislipidemia, segundo o slide de Dietoterapia?",
+    "alternativas": [
+     "Menos de 30%",
+     "Cerca de 50%",
+     "50 a 70%",
+     "70 a 100%",
+     "Praticamente nenhum, se a albumina estiver normal"
+    ],
+    "correta": 3,
+    "justificativa": "O slide diz **70 a 100%**. Esse número já apareceu como distrator em prova na forma 'menos de 30%'.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 80
+    }
+   },
+   "ambiguidade": "secao-dietoterapia"
+  },
+  {
+   "id": "A2-b4",
+   "titulo": "Proteína: hiperproteica × normoproteica",
+   "prioridade": "E",
+   "pontos": [
+    "**Tríade do manejo nutricional: proteinúria – edema – hiperlipidemia.**",
+    "A intuição engana: dar **mais** proteína não repõe a albumina perdida.",
+    "Objetivos da dietoterapia: compensar a desnutrição proteica, evitar o catabolismo, **diminuir o ritmo de progressão**, reduzir a perda de proteína na urina, melhorar a anorexia, ofertar nutrientes em quantidade adequada e controlar a **HAS e a ingestão de sódio**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Dieta hiperproteica — **não** recomendada",
+     "Dieta normoproteica — recomendada"
+    ],
+    "linhas": [
+     [
+      "↑ ritmo de catabolismo e de excreção proteica; pode **acelerar a progressão** da nefropatia; eleva a permeabilidade da membrana basal glomerular; mais perda de albumina (como ureia na urina)",
+      "Proteína suficiente para manter o **balanço nitrogenado**; ajuda a **elevar a albumina sérica**; **melhora o edema**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "Nestes slides a indicação é **normoproteica**, com lipídios **< 30% do VET**.",
+    "Restrição com cetoácidos (0,28 a 0,43 g/kg) é estratégia da **DRC 3 a 5**, de outro bloco de slides."
+   ],
+   "apoio": {
+    "tipo": "analogia",
+    "texto": "Pense num balde furado: jogar mais água (proteína) não enche o balde, só sai mais rápido pelo furo e ainda alarga o furo (a permeabilidade da membrana). Apoio de memória — a ideia de alargar o furo é o que o slide chama de ↑ permeabilidade da membrana basal."
+   },
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 81
+   },
+   "checagem": {
+    "pergunta": "Por que a dieta hiperproteica não é recomendada nesses slides de dietoterapia?",
+    "alternativas": [
+     "Porque reduz a albumina sérica por diluição",
+     "Porque aumenta o catabolismo e a excreção proteica e pode acelerar a progressão da nefropatia",
+     "Porque piora a dislipidemia, que é o problema principal",
+     "Porque só é permitida em pacientes em diálise",
+     "Porque reduz o balanço nitrogenado a valores negativos imediatamente"
+    ],
+    "correta": 1,
+    "justificativa": "Pelo slide: a hiperproteica eleva o catabolismo e a excreção proteica, **pode acelerar a progressão**, eleva a permeabilidade da membrana basal e leva a mais perda de albumina. A normoproteica é que mantém o balanço nitrogenado e melhora o edema.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 81
+    }
+   },
+   "ambiguidade": "secao-dietoterapia"
+  }
+ ],
+ "feynman": [
+  "Que o critério isolado é proteinúria > 3,5 g/24 h",
+  "A sequência permeabilidade → proteinúria → hipoalbuminemia → retenção de sódio → edema",
+  "Que a anemia aqui é hipocrômica microcítica (e na IRA é normocítica normocrômica)",
+  "Que a conduta é normoproteica, nunca hiperproteica, e por quê",
+  "Que o lipídio fica < 30% do VET, para adulto e criança"
+ ]
 }

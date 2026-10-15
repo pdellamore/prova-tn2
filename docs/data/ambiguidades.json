@@ -311,5 +311,25 @@
    }
   ],
   "nota": "A citação de 2001 está marcada com o ano e aparece para ser **contrastada**: a conduta que o material defende é **não reduzir a proteína**. Se a questão perguntar “o que se recomenda hoje”, a resposta é **não restringir**; se citar o ACG de 2001, aí sim é **0,5 g/kg/dia progredindo**."
+ },
+ {
+  "id": "calcio-litiase",
+  "titulo": "Restringir ou não o cálcio na nefrolitíase",
+  "resumo": "A frase do slide tem **duas leituras gramaticais possíveis** e os slides não resolvem qual é a certa.",
+  "lados": [
+   "**Leitura 1 (“evitar … e [evitar] restrição de cálcio”):** evitar purina, sódio **e evitar restringir cálcio** — ou seja, não cortar cálcio. É a leitura apoiada pela tabela seguinte, em que o controle do cálcio alimentar aparece **só na hipercalciúria absortiva tipo II**.",
+   "**Leitura 2 (“evitar … e [fazer] restrição de cálcio”):** evitar purina e sódio **e restringir cálcio** em todos os casos."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 166
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 167
+   }
+  ],
+  "nota": "Se a prova cobrar, a tabela da p. 167 é o desempate: cálcio alimentar controlado apenas no tipo II."
  }
 ]

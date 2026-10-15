@@ -202,7 +202,11 @@
      "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
      "pagina": 40
     }
-   }
+   },
+   "diagrama": [
+    "celulas-fibrose",
+    "progressao-hepatica"
+   ]
   }
  ],
  "feynman": [

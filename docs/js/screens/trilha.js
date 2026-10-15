@@ -103,6 +103,11 @@ export async function desenhar(raiz, { c }) {
         <div class="acoes" style="margin:0"><a class="btn btn-forte" href="#/chefao">Ver os chefões</a></div>
       </div>
       <div class="cartao">
+        <div class="linha-entre"><h2 style="margin:0">Pontos de atenção</h2><span class="fonte">onde os slides não fecham</span></div>
+        <p style="margin:.35rem 0 .6rem;color:var(--tinta-fraca);font-size:.93rem">Os pontos em que os slides trazem dois números ou duas leituras para a mesma coisa, com os dois lados e a página de cada um.</p>
+        <div class="acoes" style="margin:0"><a class="btn" href="#/atencao">Ver a lista</a></div>
+      </div>
+      <div class="cartao">
         <div class="linha-entre"><h2 style="margin:0">Mini-jogos</h2><span class="fonte">rodadas de 2 a 5 minutos</span></div>
         <p style="margin:.35rem 0 .6rem;color:var(--tinta-fraca);font-size:.93rem">Pegadinha ou não?, Qual é o número?, Ligar colunas e Monte o caso — para quando não der para sentar e estudar uma lição inteira.</p>
         <div class="acoes" style="margin:0"><a class="btn" href="#/jogos">Ver os mini-jogos</a></div>

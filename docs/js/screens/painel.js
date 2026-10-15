@@ -183,7 +183,7 @@ export async function desenhar(raiz, { c }) {
       <p class="fonte" style="margin:.6rem 0 0">A prova cobre as duas metades. Se uma delas estiver bem atrás da outra, é por ali que rende mais estudar.</p>
     </div>
 
-    <div class="secao-titulo"><h2>Por subtema</h2><span class="conta">${subtemas.length} com questão respondida</span></div>
+    <div class="secao-titulo"><h2>Por subtema</h2><span class="conta">${subtemas.length} ${subtemas.length === 1 ? "subtema" : "subtemas"}</span></div>
     <div class="cartao" style="padding:.4rem .6rem">
       ${
         subtemas.length
@@ -237,7 +237,7 @@ export async function desenhar(raiz, { c }) {
       <p class="fonte" style="margin:.5rem 0 0">Conta só enquanto a aba está aberta e visível.</p>
     </div>
 
-    <p class="rodape"><a href="#/config">Exportar, importar ou zerar o progresso</a></p>
+    <p class="rodape"><a href="#/atencao">Pontos de atenção nos slides</a> · <a href="#/config">Exportar, importar ou zerar o progresso</a></p>
   </section>`;
 }
 

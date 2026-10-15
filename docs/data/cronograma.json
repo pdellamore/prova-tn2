@@ -328,6 +328,13 @@
     "alvo": 1
    },
    {
+    "id": "seg-atencao",
+    "titulo": "Passar os pontos de atenção",
+    "desc": "os pontos em que os slides se contradizem, todos numa tela — para não travar na prova",
+    "rota": "#/atencao",
+    "tipo": "livre"
+   },
+   {
     "id": "seg-erros",
     "titulo": "Última passada nos erros",
     "desc": "só o que ficou em aberto",

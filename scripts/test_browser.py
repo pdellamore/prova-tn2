@@ -301,6 +301,15 @@ def chefao_jogos_e_calculos(page: Page, base: str, rotulo: str, fotos: bool) -> 
         if fotos:
             foto(page, f"{rotulo}-12-diagrama")
 
+    # ---- pontos de atenção ----
+    page.goto(f"{base}/#/atencao", wait_until="networkidle")
+    esperar_tela(page, ".atencao")
+    caixas = page.locator(".atencao").count()
+    checar(caixas >= 15, f"tela de pontos de atenção lista as ambiguidades dos slides ({caixas})")
+    checar(page.locator(".atencao .lado").count() >= caixas * 2, "cada ponto de atenção mostra os dois lados")
+    if fotos:
+        foto(page, f"{rotulo}-18-atencao")
+
     # ---- chefão ----
     page.goto(f"{base}/#/chefao", wait_until="networkidle")
     esperar_tela(page, "#conteudo .cartao")

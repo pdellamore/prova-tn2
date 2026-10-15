@@ -20,8 +20,8 @@ Onde os slides se contradizem, o site mostra os dois lados em uma caixa
 | Chefões | **3** simulados cronometrados: rim, fígado e o final, com rim e fígado misturados |
 | Cálculos | **8**: KDIGO (G + A), Cockcroft-Gault, escore MST, Child-Pugh, peso seco na ascite, peso ajustado, líquidos na hemodiálise e classificação SLD/MASLD |
 | Diagramas | **5** em SVG: progressão até a cirrose, formação da fibrose, hipertensão portal, síndrome nefrótica e o caminho da amônia/BCAA |
-| Ambiguidades | **18** pontos em que os slides se contradizem, com os dois lados lado a lado |
-| Telas | Hoje, Trilha, Lição, Questões, Flashcards, Cálculos, Jogos, Chefões, Meus erros, Painel, Ajustes |
+| Ambiguidades | **18** pontos em que os slides se contradizem, com os dois lados lado a lado — na caixa do item e todos juntos na tela **Pontos de atenção** |
+| Telas | Hoje, Trilha, Lição, Questões, Flashcards, Cálculos, Jogos, Chefões, Pontos de atenção, Meus erros, Painel, Ajustes |
 
 O conteúdo de cada dia vai sendo liberado pelo cronograma, mas a trilha mostra os 18 módulos
 desde o começo e **nada é bloqueado de verdade** — dá para pular para qualquer lição.

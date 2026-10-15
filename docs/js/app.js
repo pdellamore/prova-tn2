@@ -17,6 +17,7 @@ import * as chefao from "./screens/chefao.js";
 import * as jogos from "./screens/jogos.js";
 import * as painel from "./screens/painel.js";
 import * as erros from "./screens/erros.js";
+import * as atencao from "./screens/atencao.js";
 import * as config from "./screens/config.js";
 
 const TELAS = {
@@ -30,6 +31,7 @@ const TELAS = {
   jogos,
   painel,
   erros,
+  atencao,
   config,
 };
 

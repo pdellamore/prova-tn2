@@ -377,6 +377,28 @@ def main() -> int:
             ctx = navegador.new_context(viewport=CELULAR, locale="pt-BR")
             resiliencia_do_progresso(ctx.new_page(), base)
             ctx.close()
+
+            # Navegador embutido de app: o progresso pode sumir ao fechar a janela.
+            ua_app = (
+                "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) "
+                "AppleWebKit/605.1.15 [FBAN/FBIOS;FBAV/450.0]"
+            )
+            ua_safari = (
+                "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) "
+                "AppleWebKit/605.1.15 Version/17.0 Mobile/15E148 Safari/604.1"
+            )
+            print("\n── navegador embutido de aplicativo ──")
+            for ua, esperado, nome in ((ua_app, True, "WebView do Facebook"), (ua_safari, False, "Safari")):
+                ctx = navegador.new_context(viewport=CELULAR, locale="pt-BR", user_agent=ua)
+                page = ctx.new_page()
+                page.goto(f"{base}/#/hoje", wait_until="networkidle")
+                page.wait_for_timeout(400)
+                tem = page.locator("#aviso-embutido").count() > 0
+                checar(
+                    tem is esperado,
+                    f"{nome}: {'avisa para abrir no navegador' if esperado else 'não mostra aviso desnecessário'}",
+                )
+                ctx.close()
             navegador.close()
     finally:
         servidor.shutdown()

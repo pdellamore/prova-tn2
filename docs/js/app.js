@@ -138,6 +138,25 @@ function faixa(id, texto) {
   el.textContent = texto;
 }
 
+/* Navegador embutido de app (WhatsApp, Instagram, Facebook): o localStorage costuma
+   funcionar e ser descartado ao fechar a janela, então o aviso de armazenamento não
+   dispara e ela só descobriria o problema ao perder o progresso. Daí o aviso próprio. */
+function navegadorEmbutido() {
+  try {
+    const ua = navigator.userAgent || "";
+    return /FBAN|FBAV|FB_IAB|Instagram|Line\/|MicroMessenger|GSA\/|\bWV\b/i.test(ua);
+  } catch {
+    return false;
+  }
+}
+
+if (navegadorEmbutido()) {
+  faixa(
+    "aviso-embutido",
+    "Você abriu dentro de outro aplicativo. Toque nos três pontinhos e escolha “Abrir no navegador” — assim o progresso fica salvo de verdade.",
+  );
+}
+
 if (semArmazenamento) {
   faixa(
     "aviso-armazenamento",

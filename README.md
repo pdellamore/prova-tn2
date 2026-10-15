@@ -119,6 +119,7 @@ O que o site faz para não perder nada:
 | "Limpar histórico e dados do site" no navegador | apaga tudo, inclusive a cópia |
 | Trocar de navegador (Safari → Chrome) ou de celular | o outro começa do zero — use exportar/importar |
 | No iPhone, usar ora pelo Safari ora pelo ícone da tela de início | podem ser **dois armazenamentos diferentes**, dependendo da versão do iOS |
+| Abrir o link **dentro** do WhatsApp/Instagram | o navegador embutido pode descartar tudo ao fechar — o site avisa e pede para abrir no navegador |
 
 Por causa das duas últimas linhas: **escolha um jeito de abrir e fique nele.** Se for usar o
 ícone na tela de início, use sempre o ícone.

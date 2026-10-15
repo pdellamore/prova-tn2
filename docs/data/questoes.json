@@ -1,0 +1,1388 @@
+[
+  {
+    "id": "Q-A1-01",
+    "modulo": "A1",
+    "tema": "rim",
+    "subtema": "Fisiologia renal",
+    "prioridade": "C",
+    "dificuldade": 1,
+    "preteste": true,
+    "enunciado": "Entre as substâncias abaixo, qual é **degradada** pelo rim, e não produzida por ele?",
+    "alternativas": [
+      "Renina",
+      "Eritropoietina",
+      "Prostaglandinas",
+      "Insulina",
+      "1,25-di-hidroxicolecalciferol"
+    ],
+    "correta": 3,
+    "justificativa": "O rim produz renina, eritropoietina, vitamina D ativa, prostaglandinas e cininas. A insulina entra na outra lista: o rim é responsável pela degradação de peptídeos circulantes, entre eles a insulina.",
+    "porque_erradas": {
+      "0": "A renina é produzida pelo rim.",
+      "1": "A eritropoietina é produzida pelo rim.",
+      "2": "As prostaglandinas são produzidas pelo rim.",
+      "4": "É a vitamina D ativa, também produzida pelo rim."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 7
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A1-02",
+    "modulo": "A1",
+    "tema": "rim",
+    "subtema": "Homeostase de eletrólitos",
+    "prioridade": "C",
+    "dificuldade": 2,
+    "enunciado": "Sobre a homeostase de sódio, potássio e magnésio apresentada em aula, assinale a correta:",
+    "alternativas": [
+      "Cerca de 10% do sódio filtrado é excretado na urina.",
+      "Com aumento da ingestão de potássio, o rim pode aumentar a excreção em até 10 vezes, e após restrição leva cerca de 14 dias para um novo equilíbrio.",
+      "Os rins filtram 2 a 3% do magnésio plasmático e excretam 70 a 80% da carga filtrada.",
+      "Hormônio do crescimento, cortisol e insulina aumentam a excreção de sódio.",
+      "A concentração plasmática de magnésio é de 3,6 a 4,0 mEq/L."
+    ],
+    "correta": 1,
+    "justificativa": "São os dois números do slide de potássio: aumento de até 10 vezes na excreção e cerca de 14 dias para o novo equilíbrio depois de uma restrição.",
+    "porque_erradas": {
+      "0": "Menos de 1% do sódio filtrado é excretado.",
+      "2": "É o inverso: filtram 70 a 80% e excretam só 2 a 3% da carga filtrada.",
+      "3": "GH, cortisol, insulina e estrogênio retêm sódio, não aumentam a excreção.",
+      "4": "A faixa é 1,6 a 2,0 mEq/L."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 15
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A1-03",
+    "modulo": "A1",
+    "tema": "rim",
+    "subtema": "Anatomia renal",
+    "prioridade": "C",
+    "dificuldade": 1,
+    "enunciado": "Sobre a anatomia renal descrita nos slides, assinale a correta:",
+    "alternativas": [
+      "Os rins se estendem da 12ª vértebra até a 3ª lombar, com o rim direito mais caudal e o esquerdo ligeiramente maior.",
+      "Os rins são intraperitoneais e se estendem da 10ª vértebra à 1ª lombar.",
+      "O rim esquerdo é mais caudal porque o baço o desloca para baixo.",
+      "O peso de cada rim é de 200 a 250 g.",
+      "A unidade funcional do rim é o cálice renal, e a ultrafiltração ocorre na pelve."
+    ],
+    "correta": 0,
+    "justificativa": "O slide dá posição retroperitoneal, da **12ª vértebra à 3ª lombar**, rim direito mais caudal e esquerdo ligeiramente maior, peso de 115 a 170 g e medida de 11 × 6 × 2,5 cm.",
+    "porque_erradas": {
+      "1": "A posição é retroperitoneal, e a faixa vai da 12ª vértebra à 3ª lombar.",
+      "2": "É o direito que é mais caudal; o slide não explica a razão.",
+      "3": "O peso é de 115 a 170 g.",
+      "4": "A unidade funcional é o néfron e a ultrafiltração é no glomérulo."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 10
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A2-01",
+    "modulo": "A2",
+    "tema": "rim",
+    "subtema": "Síndrome nefrótica",
+    "prioridade": "E",
+    "dificuldade": 1,
+    "preteste": true,
+    "enunciado": "Qual é o critério diagnóstico **isolado** da síndrome nefrótica?",
+    "alternativas": [
+      "Albumina sérica abaixo de 3,5 g/dL",
+      "Edema periférico associado a hiperlipidemia",
+      "Proteinúria acima de 3,5 g em 24 horas",
+      "Relação albumina/creatinina urinária acima de 300 mg/g",
+      "TFG abaixo de 60 mL/min/1,73 m² por mais de 3 meses"
+    ],
+    "correta": 2,
+    "justificativa": "Proteinúria maior que 3,5 g em 24 horas é o critério diagnóstico isolado. Os demais achados acompanham o quadro, mas não o definem sozinhos.",
+    "porque_erradas": {
+      "0": "A hipoalbuminemia acompanha, mas não é o critério isolado.",
+      "1": "Edema e hiperlipidemia acompanham o quadro.",
+      "3": "Albuminúria acima de 300 mg/g é a categoria A3 do KDIGO, usada no estadiamento da DRC.",
+      "4": "TFG abaixo de 60 por mais de 3 meses é critério de DRC."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 29
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A2-02",
+    "modulo": "A2",
+    "tema": "rim",
+    "subtema": "Dietoterapia: proteína",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "preteste": true,
+    "enunciado": "Sobre a conduta proteica nos slides de Dietoterapia (proteinúria, edema e hiperlipidemia), assinale a correta:",
+    "alternativas": [
+      "A dieta hiperproteica é indicada para repor a albumina perdida na urina.",
+      "A dieta normoproteica mantém o balanço nitrogenado, ajuda a elevar a albumina sérica e melhora o edema.",
+      "A restrição a 0,28 a 0,43 g/kg/dia com cetoácidos é a conduta de escolha.",
+      "A proteína deve ser calculada em 1,5 g/kg/dia para compensar a proteinúria.",
+      "A conduta proteica é irrelevante, já que o problema é só lipídico."
+    ],
+    "correta": 1,
+    "justificativa": "É exatamente o que o slide atribui à dieta normoproteica. A hiperproteica eleva catabolismo e excreção proteica e pode acelerar a progressão da nefropatia.",
+    "porque_erradas": {
+      "0": "A hiperproteica não é recomendada: aumenta a perda de albumina e pode acelerar a progressão.",
+      "2": "Restrição com cetoácidos é estratégia da DRC 3 a 5, de outro bloco de slides.",
+      "3": "Esse valor não consta nesses slides.",
+      "4": "A tríade do manejo inclui a proteinúria; a conduta proteica é central."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 81
+    },
+    "ambiguidade": "secao-dietoterapia",
+    "elaboracao": {
+      "pergunta": "Qual é a causa imediata do edema na sequência fisiopatológica do slide?",
+      "opcoes": [
+        "A hiperlipidemia, que retém líquido no interstício",
+        "A hipoalbuminemia, que leva ao aumento da reabsorção de sódio",
+        "A hipertensão arterial, que empurra líquido para o interstício",
+        "A anemia hipocrômica microcítica"
+      ],
+      "correta": 1,
+      "justificativa": "A sequência é: aumento da permeabilidade da membrana basal → proteinúria maciça → hipoalbuminemia → aumento da reabsorção de sódio → edema."
+    }
+  },
+  {
+    "id": "Q-A2-03",
+    "modulo": "A2",
+    "tema": "rim",
+    "subtema": "Dietoterapia: proteína e lipídios",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Nos slides de Dietoterapia, a tríade do manejo nutricional é proteinúria, edema e hiperlipidemia. Paciente com edema de membros inferiores, albumina de 2,5 g/dL, colesterol total de 460 mg/dL e proteinúria maciça. Segundo esses slides, a conduta adequada é:",
+    "alternativas": [
+      "Dieta hiperproteica, para repor a albumina perdida na urina e corrigir o edema.",
+      "Restrição proteica a 0,28 a 0,43 g/kg/dia com cetoácidos, para reduzir a proteinúria.",
+      "Dieta normoproteica, com lipídios abaixo de 30% do VET, restrição de ácidos graxos saturados e alto consumo de fibras.",
+      "Dieta normoproteica, com lipídios entre 30% e 35% do VET e restrição hídrica de 1.000 mL.",
+      "Dieta hiperproteica e hipolipídica, já que a dislipidemia ocorre em menos de 30% dos pacientes."
+    ],
+    "correta": 2,
+    "justificativa": "A tríade do manejo é proteinúria, edema e hiperlipidemia. A dieta normoproteica mantém o balanço nitrogenado, ajuda a elevar a albumina e melhora o edema; os lipídios ficam abaixo de 30% do VET, com restrição de saturados e mais fibras.",
+    "porque_erradas": {
+      "0": "A hiperproteica aumenta catabolismo e perda proteica e pode acelerar a progressão.",
+      "1": "A restrição com cetoácidos é estratégia da DRC 3 a 5, de outro bloco de slides.",
+      "3": "Lipídios de 30 a 35% e restrição hídrica não aparecem nesses slides.",
+      "4": "Além de a hiperproteica ser contraindicada, a dislipidemia ocorre em 70 a 100% dos pacientes."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 80
+    },
+    "ambiguidade": "secao-dietoterapia"
+  },
+  {
+    "id": "Q-A2-04",
+    "modulo": "A2",
+    "tema": "rim",
+    "subtema": "Síndrome nefrótica",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Que tipo de anemia é descrito entre as manifestações sistêmicas da síndrome nefrótica, e qual aparece na insuficiência renal aguda?",
+    "alternativas": [
+      "Normocítica normocrômica na síndrome nefrótica; hipocrômica microcítica na IRA",
+      "Hipocrômica microcítica na síndrome nefrótica; normocítica normocrômica na IRA",
+      "Macrocítica em ambas",
+      "Hemolítica na síndrome nefrótica; aplásica na IRA",
+      "Não há descrição de anemia na síndrome nefrótica"
+    ],
+    "correta": 1,
+    "justificativa": "A síndrome nefrótica traz anemia hipocrômica microcítica entre as manifestações sistêmicas; na IRA, a anemia descrita é normocítica normocrômica. Trocar as duas é uma pegadinha recorrente.",
+    "porque_erradas": {
+      "0": "Está invertido.",
+      "2": "Nenhuma das duas é descrita como macrocítica.",
+      "3": "Esses tipos não aparecem nos slides.",
+      "4": "A anemia hipocrômica microcítica está na lista de manifestações sistêmicas."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 28
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A2-05",
+    "modulo": "A2",
+    "tema": "rim",
+    "subtema": "Dietoterapia: hiperlipidemia",
+    "prioridade": "I",
+    "dificuldade": 2,
+    "enunciado": "Sobre a hiperlipidemia descrita no slide de Dietoterapia, assinale a correta:",
+    "alternativas": [
+      "Ocorre em menos de 30% dos pacientes e raramente tem repercussão cardiovascular.",
+      "Decorre apenas do aumento do catabolismo das lipoproteínas.",
+      "Pode ocorrer em 70 a 100% dos pacientes e envolve aumento da síntese hepática de colesterol, triglicerídeos e lipoproteínas, com redução do catabolismo desses nutrientes.",
+      "A hipoalbuminemia aumenta o transporte de lipídios para o fígado, o que eleva o colesterol.",
+      "A conduta é liberar os lipídios até 40% do VET, por causa da anorexia."
+    ],
+    "correta": 2,
+    "justificativa": "O slide lista aumento da síntese hepática de colesterol, triglicerídeos e lipoproteínas, redução do catabolismo desses nutrientes, alteração das enzimas lipolíticas hepáticas e hipoalbuminemia, com prevalência de dislipidemia de 70 a 100%.",
+    "porque_erradas": {
+      "0": "A prevalência é de 70 a 100% e o slide a aponta como fator de risco cardiovascular.",
+      "1": "O catabolismo está reduzido, não aumentado, e há também aumento de síntese.",
+      "3": "A hipoalbuminemia leva a menor transporte de lipídios para o fígado.",
+      "4": "A recomendação é abaixo de 30% do VET."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 79
+    },
+    "ambiguidade": "secao-dietoterapia"
+  },
+  {
+    "id": "Q-A2-06",
+    "modulo": "A2",
+    "tema": "rim",
+    "subtema": "Síndrome nefrótica",
+    "prioridade": "I",
+    "dificuldade": 1,
+    "enunciado": "Quais são as causas sistêmicas de síndrome nefrótica citadas em aula?",
+    "alternativas": [
+      "Glomerulonefrite e glomeruloesclerose",
+      "Diabetes mellitus, lúpus eritematoso e amiloidose",
+      "Nefrolitíase e pielonefrite",
+      "Doença policística e malformações congênitas",
+      "Uso prolongado de anti-inflamatórios"
+    ],
+    "correta": 1,
+    "justificativa": "O slide separa causas renais primárias — glomerulonefrite e glomeruloesclerose — de causas sistêmicas: diabetes mellitus, lúpus eritematoso e amiloidose.",
+    "porque_erradas": {
+      "0": "Essas são as causas renais primárias.",
+      "2": "Pielonefrite e nefrolitíase aparecem na etiologia da DRC, não como causa sistêmica de síndrome nefrótica.",
+      "3": "Também são etiologias de DRC.",
+      "4": "Não é citado nos slides."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 25
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A2-07",
+    "modulo": "A2",
+    "tema": "rim",
+    "subtema": "Dietoterapia: objetivos",
+    "prioridade": "I",
+    "dificuldade": 2,
+    "enunciado": "Entre os objetivos do manejo nutricional listados no slide de Dietoterapia, NÃO consta:",
+    "alternativas": [
+      "Compensar a desnutrição proteica",
+      "Diminuir o ritmo de progressão da nefropatia",
+      "Reduzir a perda de proteína na urina",
+      "Induzir a perda de peso corporal",
+      "Controlar a hipertensão arterial e a ingestão de sódio"
+    ],
+    "correta": 3,
+    "justificativa": "A lista do slide tem sete objetivos: compensar a desnutrição proteica, evitar o catabolismo proteico, diminuir o ritmo de progressão da nefropatia, reduzir a perda de proteína na urina, melhorar a anorexia, fornecer os nutrientes em quantidades adequadas e controlar a hipertensão arterial e a ingestão de sódio. **Perda de peso não está entre eles.**",
+    "porque_erradas": {
+      "0": "Consta na lista.",
+      "1": "Consta na lista.",
+      "2": "Consta na lista.",
+      "4": "Consta na lista."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 73
+    },
+    "ambiguidade": "secao-dietoterapia"
+  },
+  {
+    "id": "Q-A2-08",
+    "modulo": "A2",
+    "tema": "rim",
+    "subtema": "Dietoterapia: proteína",
+    "prioridade": "E",
+    "dificuldade": 3,
+    "enunciado": "Um colega afirma: \"se a albumina está baixa, é só aumentar a proteína da dieta que ela sobe\". Segundo o slide de Dietoterapia, o erro dessa afirmação é que a dieta hiperproteica:",
+    "alternativas": [
+      "Não altera em nada a progressão da doença, apenas o custo da dieta",
+      "Eleva o catabolismo e a excreção proteica, aumenta a permeabilidade da membrana basal glomerular e pode acelerar a progressão da nefropatia",
+      "Causa hipercalemia aguda em todos os pacientes",
+      "Reduz a síntese hepática de lipoproteínas, piorando a dislipidemia",
+      "Só é contraindicada em pacientes diabéticos"
+    ],
+    "correta": 1,
+    "justificativa": "É a lista do slide sobre a dieta hiperproteica: aumento do ritmo de catabolismo e de excreção proteica, possível aceleração da progressão, aumento da permeabilidade da membrana basal glomerular e perda de albumina em forma de ureia na urina.",
+    "porque_erradas": {
+      "0": "O slide atribui a ela um efeito direto sobre a progressão.",
+      "2": "Hipercalemia não é o mecanismo descrito.",
+      "3": "Nesse slide a síntese hepática de lipoproteínas está aumentada, e não é esse o argumento contra a hiperproteica.",
+      "4": "A contraindicação descrita não depende do diabetes."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 81
+    },
+    "ambiguidade": "secao-dietoterapia"
+  },
+  {
+    "id": "Q-A3-01",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Critérios de DRC",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "preteste": true,
+    "enunciado": "Paciente com TFG de 82 mL/min/1,73 m² e relação albumina/creatinina urinária de 15 mg/g, documentadas há 10 meses. Segundo o KDIGO, esse paciente:",
+    "alternativas": [
+      "Tem DRC G2 A1, por alteração persistente há mais de 3 meses",
+      "Não tem DRC: a TFG está acima de 60 e a albuminúria é A1, ou seja, não há marcador de lesão renal",
+      "Tem DRC G2 A2, com risco moderadamente aumentado",
+      "Tem DRC apenas se a creatinina sérica estiver acima de 1,2 mg/dL",
+      "Tem DRC G1 A1, com baixo risco"
+    ],
+    "correta": 1,
+    "justificativa": "O rodapé do próprio quadro do KDIGO diz que, na ausência de evidência de lesão renal, nem G1 nem G2 preenchem os critérios de DRC. TFG de 82 é G2 e albuminúria de 15 mg/g é A1.",
+    "porque_erradas": {
+      "0": "A persistência por mais de 3 meses é necessária, mas não suficiente: é preciso TFG abaixo de 60 ou um marcador de lesão.",
+      "2": "A2 começa em 30 mg/g.",
+      "3": "O critério é TFG abaixo de 60 ou marcador de lesão, não um valor de creatinina.",
+      "4": "G1 é TFG acima ou igual a 90, e mesmo G1 A1 não fecha critério de DRC."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 46
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A3-02",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Estadiamento KDIGO",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "preteste": true,
+    "enunciado": "Um paciente apresenta, há 4 meses, TFG de 52 mL/min/1,73 m² e relação albumina/creatinina urinária de 150 mg/g. Segundo o KDIGO 2012, a classificação correta é:",
+    "alternativas": [
+      "DRC G2 A2, com risco moderadamente aumentado.",
+      "DRC G3a A2.",
+      "DRC G3b A3.",
+      "Não é DRC, pois a TFG está acima de 30 mL/min/1,73 m².",
+      "DRC G3a A1, pois a albuminúria só é considerada alterada acima de 300 mg/g."
+    ],
+    "correta": 1,
+    "justificativa": "Alteração por mais de 3 meses; TFG de 45 a 59 é G3a; albuminúria de 30 a 300 mg/g é A2.",
+    "porque_erradas": {
+      "0": "G2 é 60 a 89.",
+      "2": "G3b é 30 a 44 e A3 é acima de 300.",
+      "3": "TFG abaixo de 60 por mais de 3 meses já define DRC.",
+      "4": "A1 é abaixo de 30 mg/g."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 47
+    },
+    "ambiguidade": null,
+    "elaboracao": {
+      "pergunta": "Por que esse paciente é G3a e não G2?",
+      "opcoes": [
+        "Porque a albuminúria está acima de 30 mg/g",
+        "Porque a TFG de 52 cai na faixa de 45 a 59, e não na de 60 a 89",
+        "Porque a alteração dura mais de 3 meses",
+        "Porque o risco é alto no quadro de prognóstico"
+      ],
+      "correta": 1,
+      "justificativa": "A categoria G depende só da TFG: 45 a 59 é G3a. A albuminúria define a letra A e a duração define se é crônico."
+    }
+  },
+  {
+    "id": "Q-A3-03",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Estadiamento KDIGO",
+    "prioridade": "E",
+    "dificuldade": 1,
+    "enunciado": "As faixas de TFG do G3a e do G3b são, respectivamente:",
+    "alternativas": [
+      "30 a 44 e 45 a 59",
+      "45 a 59 e 30 a 44",
+      "60 a 89 e 45 a 59",
+      "15 a 29 e 30 a 44",
+      "45 a 59 e 15 a 29"
+    ],
+    "correta": 1,
+    "justificativa": "G3a é 45 a 59 e G3b é 30 a 44 mL/min/1,73 m². Trocar as duas é o erro mais comum do estadiamento.",
+    "porque_erradas": {
+      "0": "Está invertido.",
+      "2": "60 a 89 é G2.",
+      "3": "15 a 29 é G4.",
+      "4": "A segunda faixa corresponde a G4, não a G3b."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 46
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A3-04",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Estadiamento KDIGO",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Sobre a categoria G5 do KDIGO, assinale a correta:",
+    "alternativas": [
+      "Corresponde a TFG menor ou igual a 15 mL/min/1,73 m² e é chamada de falência renal",
+      "Corresponde a TFG abaixo de 15 mL/min/1,73 m² e é chamada de falência renal",
+      "Corresponde a TFG de 15 a 29 mL/min/1,73 m²",
+      "Só existe quando o paciente já está em diálise",
+      "Corresponde a TFG abaixo de 10 mL/min/1,73 m²"
+    ],
+    "correta": 1,
+    "justificativa": "O quadro traz G5 como TFG abaixo de 15, com o termo falência renal (kidney failure). É abaixo de 15, não menor ou igual a 15.",
+    "porque_erradas": {
+      "0": "O sinal está errado: é abaixo de 15, não menor ou igual.",
+      "2": "15 a 29 é G4, gravemente diminuída.",
+      "3": "A categoria depende da TFG, não do tratamento.",
+      "4": "O corte é 15, não 10."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 46
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A3-05",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Albuminúria",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Sobre as categorias de albuminúria do KDIGO 2012, assinale a correta:",
+    "alternativas": [
+      "A1 é abaixo de 30 mg/g, A2 é de 30 a 300 mg/g e A3 é acima de 300 mg/g",
+      "A1 é abaixo de 3 mg/g, A2 é de 3 a 30 mg/g e A3 é acima de 30 mg/g, em todas as unidades",
+      "A2 corresponde à antiga macroalbuminúria",
+      "A3 corresponde à albuminúria moderadamente aumentada",
+      "A categoria de albuminúria só é definida em pacientes com TFG abaixo de 60"
+    ],
+    "correta": 0,
+    "justificativa": "Em mg/g: A1 abaixo de 30, A2 de 30 a 300 e A3 acima de 300. O slide traz também os equivalentes em mg/mmol: abaixo de 3, de 3 a 30 e acima de 30.",
+    "porque_erradas": {
+      "1": "Esses são os valores em mg/mmol, não em mg/g.",
+      "2": "A2 é a antiga microalbuminúria, hoje moderadamente aumentada.",
+      "3": "A3 é gravemente aumentada; a moderadamente aumentada é A2.",
+      "4": "A categoria A independe da TFG; as duas entram juntas só na leitura do prognóstico."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 47
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A3-06",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Prognóstico KDIGO",
+    "prioridade": "E",
+    "dificuldade": 3,
+    "enunciado": "No quadro de prognóstico do KDIGO 2012 apresentado em aula, a combinação G3a com A1 corresponde a qual faixa de risco?",
+    "alternativas": [
+      "Baixo risco (verde)",
+      "Risco moderadamente aumentado (amarelo)",
+      "Alto risco (laranja)",
+      "Risco muito alto (vermelho)",
+      "O quadro não classifica essa combinação"
+    ],
+    "correta": 1,
+    "justificativa": "No quadro do slide, a linha G3a começa em amarelo na coluna A1, passa a laranja em A2 e a vermelho em A3. A leitura piora nas duas direções: queda da TFG e aumento da albuminúria.",
+    "porque_erradas": {
+      "0": "O verde aparece em G1 A1 e G2 A1.",
+      "2": "O laranja na linha G3a está em A2.",
+      "3": "O vermelho na linha G3a está em A3.",
+      "4": "Todas as 18 combinações têm cor no quadro."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 47
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A3-07",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Provas de função renal",
+    "prioridade": "I",
+    "dificuldade": 2,
+    "enunciado": "Sobre as fórmulas de estimativa da função renal apresentadas, assinale a correta:",
+    "alternativas": [
+      "No Cockcroft-Gault, o fator para o sexo feminino é 0,742",
+      "No Cockcroft-Gault, multiplica-se por 0,85 se mulher; no MDRD, por 0,742",
+      "O MDRD dispensa a creatinina sérica",
+      "A depuração de creatinina medida é calculada como creatinina sérica dividida pelo volume urinário",
+      "O Cockcroft-Gault já fornece o resultado corrigido para 1,73 m² de superfície corporal"
+    ],
+    "correta": 1,
+    "justificativa": "Cockcroft-Gault: (140 menos idade) vezes peso, dividido por 72 vezes a creatinina sérica, multiplicado por 0,85 se mulher. MDRD: 186 vezes creatinina elevada a menos 1,154, vezes idade elevada a menos 0,203, vezes 0,742 se mulher.",
+    "porque_erradas": {
+      "0": "0,742 é o fator do MDRD.",
+      "2": "A creatinina sérica é a variável central do MDRD.",
+      "3": "A fórmula é creatinina urinária vezes volume urinário, dividido pela creatinina sérica.",
+      "4": "O Cockcroft-Gault dá mL/min; quem dá mL/min por 1,73 m² é o MDRD."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 50
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A3-08",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Provas de função renal",
+    "prioridade": "I",
+    "dificuldade": 3,
+    "enunciado": "Mulher de 60 anos, 70 kg, creatinina sérica de 2,0 mg/dL. Pela fórmula de Cockcroft-Gault, a depuração de creatinina estimada é de aproximadamente:",
+    "alternativas": [
+      "23 mL/min",
+      "33 mL/min",
+      "39 mL/min",
+      "46 mL/min",
+      "56 mL/min"
+    ],
+    "correta": 1,
+    "justificativa": "(140 − 60) = 80; 80 × 70 = 5.600; 72 × 2,0 = 144; 5.600 ÷ 144 = 38,9 mL/min; × 0,85 por ser mulher = 33 mL/min.",
+    "porque_erradas": {
+      "0": "Resultado de aplicar o 0,85 duas vezes ou errar o denominador.",
+      "2": "É o valor antes de aplicar o fator 0,85 da mulher — a pegadinha clássica.",
+      "3": "Não corresponde a nenhuma etapa da conta.",
+      "4": "Valor muito acima do resultado da fórmula com esses dados."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 50
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A3-09",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Etiologia e risco",
+    "prioridade": "I",
+    "dificuldade": 1,
+    "enunciado": "No slide de etiologia da doença renal crônica, a coluna 'Principais' reúne:",
+    "alternativas": [
+      "Diabetes mellitus, hipertensão arterial e glomerulonefrites",
+      "Diabetes mellitus e hipertensão arterial, apenas",
+      "Pielonefrite/nefrolitíase, doença policística e nefropatia intersticial crônica",
+      "Doença cardiovascular e malformações congênitas",
+      "Diabetes mellitus, hipertensão arterial e tabagismo"
+    ],
+    "correta": 0,
+    "justificativa": "A coluna 'Principais' tem **três** caixas: diabetes mellitus, hipertensão arterial e **glomerulonefrites**. As duas colunas 'Secundárias' trazem, numa, pielonefrite/nefrolitíase, doença policística e nefropatia intersticial crônica; na outra, doença cardiovascular e malformações congênitas.",
+    "porque_erradas": {
+      "1": "Falta glomerulonefrites, que está na mesma coluna das principais.",
+      "2": "São as três caixas da primeira coluna 'Secundárias'.",
+      "3": "São as duas caixas da segunda coluna 'Secundárias'.",
+      "4": "Tabagismo aparece como fator de risco em outro slide e não entra no quadro de etiologia."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 33
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A3-10",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "DRC e risco cardiovascular",
+    "prioridade": "I",
+    "dificuldade": 2,
+    "enunciado": "Segundo os slides, qual é a relação entre TFG e doença cardiovascular na DRC, e qual o elo final do esquema apresentado?",
+    "alternativas": [
+      "Quanto maior a TFG, maior a prevalência de DCV; o elo final é a hipercalemia",
+      "Quanto menor a TFG, maior a prevalência de DCV; o elo final é a inflamação, que leva à mortalidade",
+      "Não há relação entre TFG e DCV; o elo final é a anemia",
+      "Quanto menor a TFG, menor o risco cardiovascular, por causa do caráter protetor da uremia",
+      "A relação só existe em pacientes diabéticos"
+    ],
+    "correta": 1,
+    "justificativa": "A curva do slide mostra aumento da prevalência de DCV conforme a TFG cai, e o esquema do paciente com DRC converge para inflamação e depois mortalidade.",
+    "porque_erradas": {
+      "0": "A relação é inversa e o elo final não é a hipercalemia.",
+      "2": "A relação existe e está desenhada no slide.",
+      "3": "O caráter protetor citado é o do sobrepeso, não o da uremia.",
+      "4": "O slide não restringe a relação aos diabéticos."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 42
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A3-11",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Conceito de DRC",
+    "prioridade": "E",
+    "dificuldade": 1,
+    "enunciado": "Por quanto tempo as anomalias de estrutura ou função renal precisam estar presentes para configurar DRC?",
+    "alternativas": [
+      "Mais de 1 mês",
+      "Mais de 6 semanas",
+      "Mais de 3 meses",
+      "Mais de 6 meses",
+      "Mais de 1 ano"
+    ],
+    "correta": 2,
+    "justificativa": "Mais de 3 meses, com implicações para a saúde. Esse prazo vale tanto para a TFG abaixo de 60 quanto para o marcador de lesão renal.",
+    "porque_erradas": {
+      "0": "Prazo menor que o do critério.",
+      "1": "Prazo menor que o do critério.",
+      "3": "Os 6 meses aparecem em outro contexto, como a janela de alteração de peso na ASG.",
+      "4": "Prazo maior que o do critério."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 31
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A3-12",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Metas clínicas",
+    "prioridade": "C",
+    "dificuldade": 2,
+    "enunciado": "Segundo o quadro de manejo clínico da DRC apresentado em aula, assinale a correta:",
+    "alternativas": [
+      "A meta de pressão arterial é menor ou igual a 130/80 para diabéticos com nefropatia e para não diabéticos com proteinúria",
+      "A meta de HbA1c é abaixo de 6,0%",
+      "A meta de hemoglobina é de 13 a 15 g/dL",
+      "A meta de 25(OH)D é maior ou igual a 20 ng/mL",
+      "A restrição de sódio recomendada é de até 3 g por dia"
+    ],
+    "correta": 0,
+    "justificativa": "O quadro traz pressão arterial menor ou igual a 130/80 para diabéticos com nefropatia e não diabéticos com proteinúria, e abaixo de 140/90 para quem não tem proteinúria.",
+    "porque_erradas": {
+      "1": "A meta é de 6,5 a 7,5%.",
+      "2": "A meta de hemoglobina é 10 a 11.",
+      "3": "A meta é maior ou igual a 30 ng/mL.",
+      "4": "O quadro de metas traz **< 1,5 g/dia**, preferencialmente. Atenção: outros slides da mesma aula dão até 2.000 mg e < 2 g — veja o ponto de atenção."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 43
+    },
+    "ambiguidade": "sodio-drc"
+  },
+  {
+    "id": "Q-A3-13",
+    "modulo": "A3",
+    "tema": "rim",
+    "subtema": "Síndrome urêmica",
+    "prioridade": "I",
+    "dificuldade": 1,
+    "enunciado": "A síndrome urêmica, conforme apresentada, afeta:",
+    "alternativas": [
+      "Apenas o trato gastrointestinal e a pele",
+      "Trato gastrointestinal, sistema musculoesquelético, sistema endócrino-metabólico, pele, nervos periféricos e sistema nervoso central",
+      "Apenas o sistema nervoso central",
+      "Apenas o sistema cardiovascular",
+      "Somente pacientes em diálise"
+    ],
+    "correta": 1,
+    "justificativa": "O slide lista os seis acometimentos: trato gastrointestinal, sistema musculoesquelético, alterações endócrinas e metabólicas, pele, nervos periféricos e sistema nervoso central.",
+    "porque_erradas": {
+      "0": "A lista é mais ampla.",
+      "2": "A lista é mais ampla.",
+      "3": "O sistema cardiovascular não aparece nessa lista específica.",
+      "4": "A síndrome urêmica é descrita no contexto da DRC, sem essa restrição."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 53
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A4-01",
+    "modulo": "A4",
+    "tema": "rim",
+    "subtema": "Triagem e diagnóstico",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "preteste": true,
+    "enunciado": "Sobre os instrumentos de avaliação nutricional recomendados para a DRC pelo consenso de terminologia, assinale a correta:",
+    "alternativas": [
+      "O MST é o instrumento de diagnóstico mais bem validado e a ASG é usada na triagem",
+      "O MST é recomendado para triagem, aplicado pelo menos mensalmente, e a ASG é o instrumento de diagnóstico mais bem validado",
+      "Ambos são instrumentos de diagnóstico, com níveis de evidência equivalentes",
+      "O MST deve ser aplicado a cada 6 meses e a MCC é o padrão-ouro de diagnóstico",
+      "Nenhum instrumento é recomendado: a avaliação deve ser só laboratorial"
+    ],
+    "correta": 1,
+    "justificativa": "Recomendação 1: o MST é recomendado para triagem de risco de desnutrição, aplicado pelo menos mensalmente (evidência A, força 1). Recomendação 6: a ASG é o instrumento de diagnóstico de desnutrição energético-proteica mais bem validado na DRC (evidência A).",
+    "porque_erradas": {
+      "0": "Está invertido: MST triagem, ASG diagnóstico.",
+      "2": "O MST é de triagem, não de diagnóstico.",
+      "3": "A frequência é pelo menos mensal, e a MCC tem evidência B, abaixo da ASG.",
+      "4": "O consenso recomenda explicitamente os dois instrumentos."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 58
+    },
+    "ambiguidade": null,
+    "elaboracao": {
+      "pergunta": "Qual é a consequência prática de inverter os dois instrumentos?",
+      "opcoes": [
+        "Nenhuma: os escores são equivalentes",
+        "Usar um questionário de 3 perguntas para fechar diagnóstico de desnutrição, o que ele não foi validado para fazer",
+        "Atrasar a coleta de exames laboratoriais",
+        "Superestimar a ingestão proteica"
+      ],
+      "correta": 1,
+      "justificativa": "O MST tem 3 perguntas e serve para apontar risco. Quem foi validado para diagnosticar desnutrição energético-proteica na DRC é a ASG."
+    }
+  },
+  {
+    "id": "Q-A4-02",
+    "modulo": "A4",
+    "tema": "rim",
+    "subtema": "Escore MST",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Paciente relata que perdeu peso sem querer, cerca de 7 kg, e que tem comido mal por falta de apetite. Qual o escore MST e a interpretação?",
+    "alternativas": [
+      "2 pontos, sem risco",
+      "2 pontos, com risco",
+      "3 pontos, com risco",
+      "4 pontos, com risco",
+      "5 pontos, com risco"
+    ],
+    "correta": 2,
+    "justificativa": "Perda de 6 a 10 kg vale 2 pontos e apetite reduzido vale 1, totalizando 3. A interpretação do slide é: soma maior ou igual a 2 indica risco de desnutrição.",
+    "porque_erradas": {
+      "0": "A soma é 3, e 2 já seria risco de qualquer forma.",
+      "1": "A soma dos dois itens é 3, não 2.",
+      "3": "4 pontos seriam uma perda acima de 15 kg sem o ponto do apetite.",
+      "4": "Acima do máximo possível para esses dois itens."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 59
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A4-03",
+    "modulo": "A4",
+    "tema": "rim",
+    "subtema": "Escore MST",
+    "prioridade": "E",
+    "dificuldade": 3,
+    "enunciado": "No MST, qual é a pontuação atribuída quando o paciente responde \"não sabe\" às perguntas sobre perda de peso?",
+    "alternativas": [
+      "Zero em ambas as perguntas, por falta de informação",
+      "2 pontos na pergunta sobre ter perdido peso e 2 pontos na pergunta sobre quanto perdeu",
+      "1 ponto em cada pergunta",
+      "2 pontos apenas na primeira pergunta e zero na segunda",
+      "O questionário é considerado inválido e deve ser repetido"
+    ],
+    "correta": 1,
+    "justificativa": "No quadro do slide, \"não sabe\" vale 2 pontos na pergunta 1 e 2 pontos na pergunta 2. A incerteza pontua, não é tratada como zero.",
+    "porque_erradas": {
+      "0": "Zero é a resposta \"não\", não \"não sabe\".",
+      "2": "O valor 1 corresponde a uma perda de 1 a 5 kg e ao apetite reduzido.",
+      "3": "A segunda pergunta também pontua 2 para \"não sabe\".",
+      "4": "O instrumento prevê a resposta \"não sabe\" com pontuação própria."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 59
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A4-04",
+    "modulo": "A4",
+    "tema": "rim",
+    "subtema": "ASG renal",
+    "prioridade": "I",
+    "dificuldade": 2,
+    "enunciado": "Na ASG adaptada ao paciente renal, um escore de 35 pontos corresponde a:",
+    "alternativas": [
+      "Estado nutricional adequado",
+      "Risco nutricional ou desnutrição leve",
+      "Desnutrição moderada",
+      "Desnutrição grave",
+      "Desnutrição gravíssima"
+    ],
+    "correta": 3,
+    "justificativa": "As faixas são: até 8 adequado, 9 a 23 risco ou desnutrição leve, 24 a 31 moderada, 32 a 39 grave e acima de 40 gravíssima.",
+    "porque_erradas": {
+      "0": "Adequado é até 8 pontos.",
+      "1": "Leve vai de 9 a 23.",
+      "2": "Moderada vai de 24 a 31.",
+      "4": "Gravíssima é acima de 40."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 57
+    },
+    "ambiguidade": "asg-escore"
+  },
+  {
+    "id": "Q-A4-05",
+    "modulo": "A4",
+    "tema": "rim",
+    "subtema": "PNA",
+    "prioridade": "I",
+    "dificuldade": 2,
+    "enunciado": "Sobre o equivalente proteico do aparecimento de nitrogênio (PNA), assinale a correta:",
+    "alternativas": [
+      "A fórmula é (NUU + 0,031 × peso corporal) × 6,25 e ele subestima ingestões muito altas",
+      "A fórmula é (NUU + 6,25 × peso corporal) × 0,031 e ele superestima ingestões muito altas",
+      "O PNA de um único dia é suficiente para representar o consumo habitual",
+      "O PNA independe do balanço nitrogenado",
+      "O PNA substitui o recordatório de 24 horas com vantagem em qualquer situação"
+    ],
+    "correta": 0,
+    "justificativa": "O slide traz a fórmula com o fator 0,031 multiplicando o peso e o 6,25 multiplicando todo o parêntese, e lista como limitações: dependência do balanço nitrogenado, o PNA de 1 dia poder não ser o habitual e a subestimação de ingestões muito altas.",
+    "porque_erradas": {
+      "1": "Os fatores estão trocados de lugar e o sentido da limitação está invertido.",
+      "2": "É justamente uma das limitações citadas.",
+      "3": "A dependência do balanço nitrogenado é a primeira limitação da lista.",
+      "4": "O slide não coloca o PNA como substituto do recordatório."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 62
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A4-06",
+    "modulo": "A4",
+    "tema": "rim",
+    "subtema": "Laboratório",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Quais são os valores desejáveis de albumina, transferrina e linfócitos totais na avaliação nutricional da DRC?",
+    "alternativas": [
+      "Albumina acima de 3,5 g/dL; transferrina 150 a 250 mg/dL; linfócitos acima de 1.000/mm³",
+      "Albumina acima de 4 g/dL; transferrina 250 a 450 mg/dL; linfócitos 1.500 a 4.000/mm³",
+      "Albumina acima de 3,8 g/dL; transferrina 200 a 400 mg/dL; linfócitos 1.200 a 3.000/mm³",
+      "Albumina acima de 4,5 g/dL; transferrina 300 a 500 mg/dL; linfócitos 2.000 a 5.000/mm³",
+      "Não há valores de referência definidos para esses parâmetros na DRC"
+    ],
+    "correta": 1,
+    "justificativa": "O quadro de valores desejáveis traz albumina acima de 4 g/dL, transferrina de 250 a 450 mg/dL e contagem total de linfócitos de 1.500 a 4.000 por mm³.",
+    "porque_erradas": {
+      "0": "3,5 g/dL é o corte de albumina nos critérios de desnutrição em hemodiálise, não o valor desejável aqui.",
+      "2": "3,8 g/dL é o corte do ISRNM para desnutrição em hemodiálise.",
+      "3": "Valores acima dos do quadro.",
+      "4": "O quadro define os três valores."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 63
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A4-07",
+    "modulo": "A4",
+    "tema": "rim",
+    "subtema": "Exame físico",
+    "prioridade": "I",
+    "dificuldade": 2,
+    "enunciado": "No exame físico da avaliação nutricional, quais pontos são usados para avaliar massa muscular?",
+    "alternativas": [
+      "Face, tríceps, bíceps, joelho e quadríceps",
+      "Têmporas, clavícula, ombros, escápula e adutor do polegar",
+      "Tornozelo, sacro e abdômen",
+      "Apenas a circunferência abdominal",
+      "Apenas a prega cutânea tricipital"
+    ],
+    "correta": 1,
+    "justificativa": "Têmporas, clavícula, ombros, escápula e o músculo adutor do polegar são os pontos de massa muscular. Face, tríceps, bíceps, joelho e quadríceps são de gordura subcutânea, e tornozelo, sacro e abdômen são de edema e ascite.",
+    "porque_erradas": {
+      "0": "São os pontos de gordura subcutânea.",
+      "2": "São os pontos de edema e ascite.",
+      "3": "A circunferência abdominal é antropometria, não exame físico de massa muscular.",
+      "4": "É uma medida de dobra cutânea, ligada à gordura."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 64
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A4-08",
+    "modulo": "A4",
+    "tema": "rim",
+    "subtema": "Aspectos nutricionais",
+    "prioridade": "I",
+    "dificuldade": 2,
+    "enunciado": "Sobre os aspectos nutricionais da DRC apresentados em aula, assinale a correta:",
+    "alternativas": [
+      "A desnutrição energético-proteica é rara e não altera a morbimortalidade",
+      "A desnutrição energético-proteica é prevalente, aumenta a morbimortalidade e está ligada ao estado inflamatório; já o sobrepeso tem prevalência crescente, associação com doença cardiovascular e um caráter protetor descrito",
+      "O sobrepeso na DRC é fator de risco isolado, sem qualquer efeito protetor descrito",
+      "A avaliação nutricional dispensa o exame físico quando a albumina está normal",
+      "O peso usado na antropometria deve ser o peso pré-diálise sem desconto"
+    ],
+    "correta": 1,
+    "justificativa": "É exatamente a divisão do slide: DEP com prevalência, aumento da morbimortalidade e ligação com inflamação; sobrepeso e obesidade com aumento de prevalência, associação com DCV e caráter protetor.",
+    "porque_erradas": {
+      "0": "A DEP é prevalente e aumenta a morbimortalidade.",
+      "2": "O caráter protetor está escrito no slide.",
+      "3": "O exame físico faz parte da avaliação proposta, junto com anamnese, história alimentar, laboratório e antropometria.",
+      "4": "A antropometria deve usar o peso seco."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 54
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-01",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Proteína no conservador",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "preteste": true,
+    "enunciado": "Homem de 58 anos, DRC estágio 4, sem diabetes, metabolicamente estável e sem risco de desnutrição. Pelo KDOQI 2020, a prescrição proteica pode ser:",
+    "alternativas": [
+      "1,0 a 1,2 g/kg/dia",
+      "0,6 a 0,8 g/kg/dia",
+      "0,55 a 0,60 g/kg/dia, ou 0,28 a 0,43 g/kg/dia com cetoácidos ou análogos de aminoácidos",
+      "0,28 a 0,43 g/kg/dia sem suplementação",
+      "Livre, desde que a energia esteja adequada"
+    ],
+    "correta": 2,
+    "justificativa": "Para adultos com DRC 3 a 5 sem diabetes e metabolicamente estáveis, o KDOQI recomenda restrição proteica com ou sem análogos de cetoácidos: dieta de 0,55 a 0,60 g/kg/dia, ou muito hipoproteica de 0,28 a 0,43 g/kg/dia com cetoácidos para completar a necessidade.",
+    "porque_erradas": {
+      "0": "1,0 a 1,2 g/kg/dia é a faixa de hemodiálise e diálise peritoneal.",
+      "1": "0,6 a 0,8 é a faixa de quem tem diabetes.",
+      "3": "A dieta muito hipoproteica exige a suplementação com cetoácidos ou análogos.",
+      "4": "A restrição proteica é justamente o eixo do tratamento conservador."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 83
+    },
+    "ambiguidade": "proteina-drc"
+  },
+  {
+    "id": "Q-A5-02",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Metabolicamente instável",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "preteste": true,
+    "enunciado": "Em qual destes pacientes com DRC estágio 4 a restrição proteica NÃO deve ser iniciada?",
+    "alternativas": [
+      "Paciente ambulatorial, sem diabetes, peso estável há um ano",
+      "Paciente internado há uma semana por pneumonia e em uso de antibiótico",
+      "Paciente idoso sem diabetes, estável, que aceita acompanhamento mensal",
+      "Paciente sem diabetes e sem risco de desnutrição, com boa adesão",
+      "Paciente sem diabetes, estável, com disponibilidade do suplemento de cetoanálogos"
+    ],
+    "correta": 1,
+    "justificativa": "Hospitalização nas últimas 2 semanas, doença infecciosa ativa e uso de antibióticos são três das condições que tornam o paciente metabolicamente instável, e nesse caso não se prescreve dieta hipoproteica nem muito hipoproteica.",
+    "porque_erradas": {
+      "0": "Preenche os pré-requisitos de estabilidade.",
+      "2": "É justamente o perfil citado na opção 02 do KDOQI.",
+      "3": "Preenche os pré-requisitos.",
+      "4": "A disponibilidade do suplemento é um dos itens a favor da opção 02."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 85
+    },
+    "ambiguidade": null,
+    "elaboracao": {
+      "pergunta": "Por que a instabilidade metabólica impede a restrição proteica?",
+      "opcoes": [
+        "Porque a dieta hipoproteica aumenta a creatinina sérica",
+        "Porque nesse estado o paciente está em catabolismo e a restrição aumentaria o risco de desnutrição energético-proteica",
+        "Porque o paciente internado não consegue aderir à dieta",
+        "Porque os cetoácidos são contraindicados em uso de antibiótico"
+      ],
+      "correta": 1,
+      "justificativa": "Os pré-requisitos das duas opções de restrição incluem estar metabolicamente estável e sem desnutrição ou risco de desnutrição — e o KDIGO 2024 proíbe explicitamente a restrição em metabolicamente instáveis."
+    }
+  },
+  {
+    "id": "Q-A5-03",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Cetoácidos",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Sobre as estratégias de restrição proteica na DRC não dialítica (KDOQI 2020) apresentadas em aula, assinale a alternativa correta:",
+    "alternativas": [
+      "A dieta com 0,3 a 0,4 g/kg/dia suplementada com cetoanálogos (opção 02) é indicada para pacientes nos estágios 3, 4 ou 5.",
+      "Ambas as opções podem ser aplicadas a pacientes com diabetes, desde que metabolicamente estáveis.",
+      "Na opção 02, usa-se 1 comprimido de cetoanálogo para cada 5 kg de peso por dia; os cetoácidos recebem nitrogênio por transaminação hepática, formando aminoácidos essenciais e reduzindo a formação de compostos tóxicos.",
+      "A restrição proteica pode ser iniciada em paciente internado há uma semana por pneumonia, desde que ele não esteja desnutrido.",
+      "Os cetoácidos aumentam a disponibilidade de nitrogênio para a síntese de ureia, o que justifica seu uso em estágios avançados."
+    ],
+    "correta": 2,
+    "justificativa": "Dose de 1 comprimido por 5 kg por dia; os cetoácidos recebem nitrogênio por transaminação hepática, formando os aminoácidos essenciais e reduzindo a formação de compostos tóxicos.",
+    "porque_erradas": {
+      "0": "A opção 02 é para estágios 4 ou 5; a opção 01 é que cobre 3 a 5.",
+      "1": "Ambas exigem paciente sem diabetes; com DM a faixa é 0,6 a 0,8 g/kg.",
+      "3": "Hospitalização há menos de 2 semanas e infecção ativa tornam o paciente metabolicamente instável.",
+      "4": "O efeito é diminuir a disponibilidade de nitrogênio."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 94
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-04",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Restrição proteica",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Qual a diferença de indicação entre a opção 01 e a opção 02 de restrição proteica do KDOQI 2020?",
+    "alternativas": [
+      "A opção 01 vale para estágios 3, 4 ou 5 e a opção 02 só para 4 ou 5",
+      "A opção 01 vale só para estágio 5 e a opção 02 para 3, 4 ou 5",
+      "As duas valem para os mesmos estágios; muda só a quantidade de proteína",
+      "A opção 01 é para diabéticos e a opção 02 para não diabéticos",
+      "A opção 02 pode ser usada mesmo em paciente com risco de desnutrição"
+    ],
+    "correta": 0,
+    "justificativa": "O fluxograma da opção 01 começa perguntando se o paciente está no estágio 3, 4 ou 5; o da opção 02 pergunta se está no estágio 4 ou 5.",
+    "porque_erradas": {
+      "1": "Está invertido.",
+      "2": "Os estágios são diferentes entre as duas opções.",
+      "3": "As duas exigem paciente sem diabetes.",
+      "4": "As duas exigem ausência de desnutrição ou de risco de desnutrição."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 99
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-05",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Energia e macronutrientes",
+    "prioridade": "E",
+    "dificuldade": 1,
+    "enunciado": "Quais as recomendações de energia e de carboidratos no tratamento conservador, pelo KDOQI 2020?",
+    "alternativas": [
+      "20 a 25 kcal/kg/dia e 40 a 50% do VET de carboidratos",
+      "25 a 35 kcal/kg/dia e 50 a 65% do VET de carboidratos",
+      "30 a 40 kcal/kg/dia e 60 a 70% do VET de carboidratos",
+      "35 a 45 kcal/kg/dia e 45 a 55% do VET de carboidratos",
+      "A energia deve ser sempre de 30 kcal/kg e os carboidratos, livres"
+    ],
+    "correta": 1,
+    "justificativa": "A tabela do conservador traz energia de 25 a 35 kcal/kg/dia e carboidratos de 50 a 65% do VET.",
+    "porque_erradas": {
+      "0": "Abaixo da faixa da tabela.",
+      "2": "Acima da faixa da tabela.",
+      "3": "Acima da faixa da tabela.",
+      "4": "A energia tem faixa e deve ser ajustada por idade, sexo, atividade, composição corporal, estágio e inflamação."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 76
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-06",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Minerais",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Quais são as recomendações de potássio, sódio e fósforo no tratamento conservador, segundo a tabela apresentada?",
+    "alternativas": [
+      "Potássio 50 a 75 mEq; sódio até 2.000 mg; fósforo 750 mg",
+      "Potássio 100 a 120 mEq; sódio até 3.000 mg; fósforo 1.200 mg",
+      "Potássio 50 a 75 mEq; sódio até 1.000 mg; fósforo 1.000 mg",
+      "Potássio livre; sódio até 2.000 mg; fósforo 700 mg",
+      "Potássio 20 a 40 mEq; sódio até 1.500 mg; fósforo 500 mg"
+    ],
+    "correta": 0,
+    "justificativa": "A tabela de minerais do conservador traz potássio de 50 a 75 mEq, sódio até 2.000 mg, cálcio de 1.400 a 1.600 mg e fósforo 750 mg.",
+    "porque_erradas": {
+      "1": "Valores acima dos da tabela.",
+      "2": "O sódio é até 2.000 mg e o fósforo, 750 mg; 1.000 a 1.200 mg é a faixa da diálise peritoneal.",
+      "3": "O potássio tem faixa definida e 700 mg de fósforo é da hemodiálise.",
+      "4": "Valores abaixo dos da tabela."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 104
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-07",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Vitaminas",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Sobre as vitaminas no tratamento conservador, assinale a correta:",
+    "alternativas": [
+      "As vitaminas A e K não devem ser suplementadas em dieta por via oral",
+      "A vitamina E deve ser suplementada em 50 a 100 UI",
+      "O ácido fólico deve ser oferecido em 5 mg por dia",
+      "A piridoxina é a única vitamina que não deve ser suplementada",
+      "A vitamina D deve ser suplementada em dose fixa de 2.000 UI para todos"
+    ],
+    "correta": 0,
+    "justificativa": "A tabela de vitaminas traz, na linha de A e K, a orientação de não suplementar em dieta por via oral.",
+    "porque_erradas": {
+      "1": "A faixa é de 400 a 800 UI.",
+      "2": "O ácido fólico é 1 mg.",
+      "3": "A piridoxina tem recomendação de 5 mg; quem não se suplementa é A e K.",
+      "4": "A vitamina D vai conforme a deficiência, sem dose fixa na tabela."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 105
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-08",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Manejo prático",
+    "prioridade": "E",
+    "dificuldade": 1,
+    "enunciado": "Durante a orientação de um paciente com DRC em tratamento conservador, qual recomendação está de acordo com os slides?",
+    "alternativas": [
+      "Substituir o sal comum pelo sal light para reduzir o sódio",
+      "Excluir o sal light, porque é rico em potássio, e orientar remolho e cocção dos alimentos ricos em potássio",
+      "Liberar a carambola, já que é uma fruta pobre em potássio",
+      "Suplementar vitamina A e vitamina K de rotina",
+      "Suspender o ferro, porque a dieta já é restrita em proteínas"
+    ],
+    "correta": 1,
+    "justificativa": "O slide de manejo manda restringir o consumo de sódio e excluir o sal light, que é rico em potássio, além de usar a técnica de remolho e cocção e restringir alimentos ricos em potássio.",
+    "porque_erradas": {
+      "0": "É exatamente o oposto: o sal light é excluído.",
+      "2": "A carambola tem uma neurotoxina, a carambotoxina, e é restrição severa.",
+      "3": "A e K não devem ser suplementadas em dieta por via oral.",
+      "4": "O ferro deve ser suplementado justamente por causa da dieta restrita em proteínas, junto com eritropoetina recombinante."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 108
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-09",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Manejo prático",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "A partir de qual valor de taxa de filtração glomerular o slide indica que o potássio sérico começa a se elevar?",
+    "alternativas": [
+      "TFG abaixo de 60 mL/min",
+      "TFG abaixo de 45 mL/min",
+      "TFG abaixo de 30 mL/min",
+      "TFG abaixo de 15 mL/min",
+      "O potássio sobe desde o estágio 1"
+    ],
+    "correta": 3,
+    "justificativa": "O slide de manejo do potássio diz: TFG abaixo de 15 mL/min equivale a aumento da concentração sérica de potássio.",
+    "porque_erradas": {
+      "0": "60 é o limiar das categorias G3a a G5, não o do potássio.",
+      "1": "45 é o piso do G3a.",
+      "2": "30 é o piso do G3b.",
+      "4": "O slide marca o aumento abaixo de 15 mL/min."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 108
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-10",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Objetivos do conservador",
+    "prioridade": "I",
+    "dificuldade": 1,
+    "enunciado": "Entre os objetivos da terapia nutricional no tratamento conservador, consta:",
+    "alternativas": [
+      "Acelerar a entrada em diálise para evitar complicações",
+      "Prevenir o hiperparatireoidismo secundário e a desnutrição energético-proteica",
+      "Induzir balanço nitrogenado negativo",
+      "Aumentar a ingestão proteica para repor perdas urinárias",
+      "Normalizar a taxa de filtração glomerular"
+    ],
+    "correta": 1,
+    "justificativa": "O slide lista: controlar distúrbios metabólicos, controlar a sintomatologia urêmica, auxiliar na redução do ritmo de progressão, prevenir o hiperparatireoidismo secundário e a DEP, manter ou recuperar o estado nutricional e auxiliar no controle da doença evitando a diálise.",
+    "porque_erradas": {
+      "0": "O objetivo é justamente evitar ou adiar a diálise.",
+      "2": "O que se busca é a manutenção do balanço nitrogenado.",
+      "3": "A conduta no conservador é restringir proteína, dentro dos pré-requisitos.",
+      "4": "A perda de néfrons na DRC é irreversível; o objetivo é retardar a progressão."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 75
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-11",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Proteína no conservador",
+    "prioridade": "E",
+    "dificuldade": 3,
+    "enunciado": "Uma alternativa de prova afirma: \"em adultos com DRC G3 a G5, recomenda-se manter ingestão proteica de 0,8 g/kg/dia\". Diante do material da aula, essa afirmação:",
+    "alternativas": [
+      "Está errada, porque o único valor aceito é 0,55 a 0,60 g/kg/dia",
+      "Está correta se a referência for o KDIGO 2024, que sugere 0,8 g/kg/dia em G3 a G5; o KDOQI 2020 traz 0,55 a 0,60 para quem não tem diabetes",
+      "Está errada, porque 0,8 g/kg é a recomendação da diálise peritoneal",
+      "Está correta apenas para pacientes com diabetes",
+      "Está errada, porque o KDIGO não trata de proteína"
+    ],
+    "correta": 1,
+    "justificativa": "Os slides trazem as duas diretrizes com números diferentes para a mesma situação. O KDIGO 2024 sugere manter 0,8 g/kg/dia em adultos com DRC G3 a G5; o KDOQI 2020 recomenda 0,55 a 0,60 g/kg/dia para quem não tem diabetes. Em prova, o que decide é a diretriz citada no enunciado.",
+    "porque_erradas": {
+      "0": "O 0,8 do KDIGO 2024 também está nos slides.",
+      "2": "A diálise peritoneal fica entre 1,0 e 1,3 g/kg/dia, conforme a diretriz.",
+      "3": "O 0,6 a 0,8 é que é a faixa do diabético pelo KDOQI; o 0,8 do KDIGO não depende do diabetes.",
+      "4": "O KDIGO 2024 tem uma seção específica de ingestão proteica."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 86
+    },
+    "ambiguidade": "proteina-drc"
+  },
+  {
+    "id": "Q-A5-12",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Cetoácidos",
+    "prioridade": "E",
+    "dificuldade": 2,
+    "enunciado": "Qual é a dose de cetoanálogos indicada nos slides e por que ela é usada junto à dieta muito hipoproteica?",
+    "alternativas": [
+      "1 comprimido por 10 kg de peso, para repor potássio",
+      "1 comprimido por 5 kg de peso por dia, para suprir aminoácidos essenciais e reduzir a disponibilidade de nitrogênio",
+      "2 comprimidos por 5 kg de peso por dia, para aumentar o aporte de nitrogênio",
+      "1 comprimido por quilo de peso, para compensar a perda urinária de proteína",
+      "A dose é livre, ajustada pelo valor de ureia sérica"
+    ],
+    "correta": 1,
+    "justificativa": "A dose é de 1 comprimido para cada 5 kg de peso por dia. As vantagens listadas são suprir as necessidades de aminoácidos essenciais e diminuir a disponibilidade de nitrogênio, reduzindo a formação de compostos tóxicos.",
+    "porque_erradas": {
+      "0": "A proporção é 1 por 5 kg, e cetoanálogos não repõem potássio.",
+      "2": "O objetivo é reduzir, não aumentar, a disponibilidade de nitrogênio.",
+      "3": "Proporção muito acima da indicada.",
+      "4": "A dose é definida pelo peso corporal."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 95
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-13",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Fontes proteicas",
+    "prioridade": "C",
+    "dificuldade": 2,
+    "enunciado": "Pela tabela de fontes proteicas dos slides, qual alimento fornece cerca de 9,4 g de proteína na porção indicada?",
+    "alternativas": [
+      "Um bife médio de carne bovina (100 g)",
+      "Um copo de leite (200 g)",
+      "Oito colheres de sopa de feijão (120 g)",
+      "Um prato raso de macarrão (125 g)",
+      "Cinco colheres de sopa de arroz (100 g)"
+    ],
+    "correta": 2,
+    "justificativa": "Na tabela de proteínas de baixo valor biológico, o feijão em 8 colheres de sopa (120 g) fornece 9,4 g de proteína.",
+    "porque_erradas": {
+      "0": "O bife de 100 g fornece 23 g.",
+      "1": "O copo de leite fornece 7,0 g.",
+      "3": "O macarrão fornece 4,0 g.",
+      "4": "O arroz fornece 2,0 g."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 91
+    },
+    "ambiguidade": null
+  },
+  {
+    "id": "Q-A5-14",
+    "modulo": "A5",
+    "tema": "rim",
+    "subtema": "Lipídios no conservador",
+    "prioridade": "I",
+    "dificuldade": 3,
+    "enunciado": "Sobre os lipídios no tratamento conservador, os slides apresentam:",
+    "alternativas": [
+      "Um único valor: 25 a 50% do VET, sem divergência",
+      "Um único valor: abaixo de 30% do VET, sem divergência",
+      "Dois valores de diretrizes diferentes — 25 a 50% do VET na tabela do KDOQI e abaixo de 30% do VET no slide de dislipidemia do KDIGO — sem conciliação entre eles",
+      "Nenhuma recomendação quantitativa de lipídios",
+      "Apenas a recomendação de saturados abaixo de 7% do VET"
+    ],
+    "correta": 2,
+    "justificativa": "A tabela do conservador (KDOQI 2020) traz 25 a 50% do VET, com saturados abaixo de 7%, mono até 20%, poli 10% e colesterol abaixo de 200 mg/dia. Já o slide de dislipidemia (KDIGO) traz abaixo de 30% do VET para adultos e crianças. Os slides não conciliam os dois.",
+    "porque_erradas": {
+      "0": "Existe também o valor do slide de dislipidemia.",
+      "1": "Existe também o valor da tabela do KDOQI.",
+      "3": "As duas recomendações são quantitativas.",
+      "4": "O detalhamento dos saturados é só parte da tabela."
+    },
+    "fonte": {
+      "arquivo": "Aula_NEFRO",
+      "pagina": 76
+    },
+    "ambiguidade": "lipidios-conservador"
+  }
+]

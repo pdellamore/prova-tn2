@@ -1,0 +1,270 @@
+{
+  "id": "A3",
+  "titulo": "DRC: conceito, diagnóstico e estadiamento",
+  "preteste": [
+    "Q-A3-01",
+    "Q-A3-02"
+  ],
+  "blocos": [
+    {
+      "id": "A3-b1",
+      "titulo": "O que é DRC e de onde ela vem",
+      "prioridade": "E",
+      "pontos": [
+        "**DRC:** anomalias da estrutura ou da função renal presentes por **mais de 3 meses**, com implicações para a saúde. Há **perda irreversível de néfrons**.",
+        "**Critérios KDIGO — basta um deles, por mais de 3 meses:** TFG **< 60 mL/min/1,73 m²** (categorias G3a a G5) **ou** um marcador de lesão renal (por exemplo albuminúria ≥ 30 mg/g).",
+        "A TFG normal de um adulto jovem fica em torno de **125 mL/min/1,73 m²**.",
+        "**Etiologia — a coluna 'Principais' tem três: diabetes mellitus, hipertensão arterial e glomerulonefrites.** As duas colunas 'Secundárias': pielonefrite/nefrolitíase, doença policística e nefropatia intersticial crônica; e doença cardiovascular e malformações congênitas.",
+        "**Fatores de risco:** DM, HAS, obesidade, idade, doença cardiovascular, histórico familiar e tabagismo."
+      ],
+      "cuidado": [
+        "São **> 3 meses**, não 3 semanas nem 3 anos.",
+        "**Sem marcador de lesão renal, G1 e G2 não preenchem critério de DRC** — está escrito no rodapé do próprio quadro do KDIGO.",
+        "São **três** principais. **Glomerulonefrites está na coluna das principais**, não nas secundárias — é a troca mais fácil de cair."
+      ],
+      "ambiguidade": null,
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 30
+      },
+      "checagem": {
+        "pergunta": "Paciente com TFG de 95 mL/min/1,73 m² e albuminúria de 12 mg/g, assim há 8 meses. Tem DRC?",
+        "alternativas": [
+          "Tem: já é G1 e todo G1 é DRC",
+          "Não tem: TFG ≥ 60 e albuminúria A1, sem marcador de lesão, não preenchem critério",
+          "Tem, porque passou de 3 meses",
+          "Não dá para dizer sem a creatinina sérica",
+          "Tem: qualquer albuminúria acima de 10 mg/g já é marcador de lesão"
+        ],
+        "correta": 1,
+        "justificativa": "O rodapé do quadro KDIGO é explícito: **na ausência de evidência de lesão renal, nem G1 nem G2 preenchem os critérios de DRC**. A albuminúria de 12 mg/g é A1 (< 30 mg/g), ou seja, normal a levemente aumentada.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 46
+        }
+      }
+    },
+    {
+      "id": "A3-b2",
+      "titulo": "Categorias de TFG (G1 a G5)",
+      "prioridade": "E",
+      "pontos": [
+        "Decore a escada: **90 · 60 · 45 · 30 · 15**. Cada degrau é o piso da categoria.",
+        "O **G3 é dividido em a e b** — é aí que a maioria dos erros acontece.",
+        "O **G5 é < 15**, não ≤ 15."
+      ],
+      "tabela": {
+        "cabecalho": [
+          "Categoria",
+          "TFG (mL/min/1,73 m²)",
+          "Termo"
+        ],
+        "linhas": [
+          [
+            "**G1**",
+            "≥ 90",
+            "Normal ou alta"
+          ],
+          [
+            "**G2**",
+            "60–89",
+            "Levemente diminuída"
+          ],
+          [
+            "**G3a**",
+            "45–59",
+            "Leve a moderadamente diminuída"
+          ],
+          [
+            "**G3b**",
+            "30–44",
+            "Moderada a gravemente diminuída"
+          ],
+          [
+            "**G4**",
+            "15–29",
+            "Gravemente diminuída"
+          ],
+          [
+            "**G5**",
+            "< 15",
+            "**Falência renal**"
+          ]
+        ]
+      },
+      "cuidado": [
+        "**G3a = 45 a 59** e **G3b = 30 a 44**. Trocar os dois é o erro mais comum desta aula."
+      ],
+      "apoio": {
+        "tipo": "mnemonico",
+        "texto": "Os pisos descem de 30 em 30 e depois de 15 em 15: **90 → 60 → 45 → 30 → 15**. Apoio de memória, os valores são os do slide."
+      },
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 46
+      },
+      "checagem": {
+        "pergunta": "TFG de 38 mL/min/1,73 m² corresponde a qual categoria?",
+        "alternativas": [
+          "G2",
+          "G3a",
+          "G3b",
+          "G4",
+          "G5"
+        ],
+        "correta": 2,
+        "justificativa": "**G3b = 30 a 44**. O 38 cai no meio dessa faixa. G3a seria 45 a 59 e G4, 15 a 29.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 46
+        }
+      }
+    },
+    {
+      "id": "A3-b3",
+      "titulo": "Albuminúria (A1 a A3) e o quadro de prognóstico",
+      "prioridade": "E",
+      "pontos": [
+        "**A1:** < 30 mg/g — normal a levemente aumentada.",
+        "**A2:** 30 a 300 mg/g — **moderadamente** aumentada (é a antiga 'microalbuminúria').",
+        "**A3:** > 300 mg/g — **gravemente** aumentada (a antiga 'macroalbuminúria').",
+        "O prognóstico é lido no cruzamento **G × A**, por cores: **verde** = baixo risco (se não houver outros marcadores, nem é DRC); **amarelo** = risco moderadamente aumentado; **laranja** = alto risco; **vermelho** = risco muito alto.",
+        "A leitura é em duas direções: piora com a **queda da TFG** e com o **aumento da albuminúria**."
+      ],
+      "cuidado": [
+        "Os termos mudaram: 'microalbuminúria' hoje é **moderadamente aumentada (A2)** e 'macroalbuminúria' é **gravemente aumentada (A3)**.",
+        "Atenção às unidades do quadro: o slide traz mg/g e também mmol (A1 < 3 mg/mmol; A2 3–30; A3 > 30 mg/mmol)."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 47
+      },
+      "checagem": {
+        "pergunta": "Relação albumina/creatinina urinária de 150 mg/g corresponde a:",
+        "alternativas": [
+          "A1, normal a levemente aumentada",
+          "A2, moderadamente aumentada",
+          "A3, gravemente aumentada",
+          "A2 apenas se a TFG estiver abaixo de 60",
+          "Não é classificável sem proteinúria de 24 h"
+        ],
+        "correta": 1,
+        "justificativa": "**A2 = 30 a 300 mg/g.** A categoria de albuminúria independe da TFG; as duas entram juntas só na leitura do prognóstico.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 47
+        }
+      }
+    },
+    {
+      "id": "A3-b4",
+      "titulo": "Por que a DRC mata pelo coração",
+      "prioridade": "I",
+      "pontos": [
+        "Quanto **menor a TFG, maior a prevalência de doença cardiovascular** — a curva dos slides é direta.",
+        "O paciente com DRC acumula: **grau de inflamação crônica**, **calcificação e aterosclerose**, **resistência à insulina**, **anemia**, **alterações do metabolismo proteico** e **disbiose intestinal**.",
+        "O desfecho que o slide desenha é: **inflamação → mortalidade**.",
+        "**Síndrome urêmica** afeta: trato gastrointestinal, sistema musculoesquelético, alterações endócrinas e metabólicas, pele, nervos periféricos e sistema nervoso central."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 42
+      },
+      "checagem": {
+        "pergunta": "Segundo o slide, qual é o elo final entre as alterações da DRC e o desfecho clínico?",
+        "alternativas": [
+          "A hipercalemia aguda",
+          "A inflamação, que leva à mortalidade",
+          "A perda de peso",
+          "A acidose metabólica isolada",
+          "A anemia, que é a única causa de óbito"
+        ],
+        "correta": 1,
+        "justificativa": "O esquema do slide converge para **inflamação → mortalidade**, reunindo calcificação/aterosclerose, resistência à insulina, anemia, alteração do metabolismo proteico e disbiose.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 42
+        }
+      }
+    },
+    {
+      "id": "A3-b5",
+      "titulo": "Provas de função renal e caminhos do tratamento",
+      "prioridade": "I",
+      "pontos": [
+        "**Diagnóstico** se apoia em três pernas: exame urinário, exame de imagem e **taxa de filtração glomerular**.",
+        "**Depuração de creatinina medida:** ClCr = (**creatinina urinária × volume urinário**) ÷ **creatinina sérica**.",
+        "**Cockcroft-Gault (mL/min):** (140 − idade) × peso ÷ (72 × creatinina sérica); **× 0,85 se mulher**.",
+        "**MDRD (mL/min/1,73 m²):** 186 × creatinina^−1,154 × idade^−0,203 × **0,742 se mulher**.",
+        "**Tratamento:** fase **não dialítica (conservadora)** ou fase **dialítica / terapia renal substitutiva** — hemodiálise, diálise peritoneal ou transplante renal."
+      ],
+      "cuidado": [
+        "O fator da mulher muda conforme a fórmula: **0,85 no Cockcroft-Gault** e **0,742 no MDRD**.",
+        "O Cockcroft-Gault dá mL/min; o MDRD dá mL/min/**1,73 m²**."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 50
+      },
+      "checagem": {
+        "pergunta": "Na fórmula de Cockcroft-Gault, qual é o fator aplicado para o sexo feminino?",
+        "alternativas": [
+          "0,742",
+          "0,85",
+          "1,154",
+          "0,203",
+          "Não há fator para o sexo feminino nessa fórmula"
+        ],
+        "correta": 1,
+        "justificativa": "**0,85 é do Cockcroft-Gault.** O 0,742 é o fator do MDRD; 1,154 e 0,203 são expoentes da creatinina e da idade no MDRD.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 50
+        }
+      }
+    },
+    {
+      "id": "A3-b6",
+      "titulo": "Metas clínicas no paciente com DRC",
+      "prioridade": "C",
+      "pontos": [
+        "**Sódio da dieta:** < 1,5 g/dia (preferencialmente).",
+        "**Exercício aeróbico** de intensidade moderada, **30 a 60 min, 4 a 7 dias por semana**; **IMC entre 18,5 e 25 kg/m²**; parar de fumar.",
+        "**Albuminúria:** IECA ou BRA, com alvo **< 500 a 1.000 mg/dia**.",
+        "**Pressão arterial:** **≤ 130/80** para diabéticos com nefropatia e não diabéticos com proteinúria; **< 140/90** para quem não tem proteinúria.",
+        "**Dislipidemia:** LDL **< 70 a 100 mg/dL** ou redução de 50% do valor inicial.",
+        "*(slide 45)* **Diabetes:** HbA1c **6,5 a 7,5%**. **Anemia:** Hb **10 a 11**. **Mineral:** cálcio e fósforo na faixa normal e **25(OH)D ≥ 30 ng/mL**."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 43
+      },
+      "checagem": {
+        "pergunta": "Qual é a meta de pressão arterial para o paciente com DRC e proteinúria?",
+        "alternativas": [
+          "< 160/100",
+          "< 140/90",
+          "≤ 130/80",
+          "≤ 120/70",
+          "Não há meta definida nos slides"
+        ],
+        "correta": 2,
+        "justificativa": "**≤ 130/80** para diabéticos com nefropatia e para não diabéticos **com** proteinúria. Sem proteinúria, a meta afrouxa para < 140/90.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 43
+        }
+      },
+      "ambiguidade": "sodio-drc"
+    }
+  ],
+  "feynman": [
+    "Que DRC é alteração de estrutura ou função por mais de 3 meses",
+    "Os dois critérios: TFG < 60 ou marcador de lesão renal",
+    "Que G1 e G2 sem marcador de lesão não são DRC",
+    "A escada 90 / 60 / 45 / 30 / 15 e a divisão do G3 em a e b",
+    "As faixas A1 < 30, A2 30–300 e A3 > 300 mg/g",
+    "Como se lê o quadro de prognóstico, nas duas direções",
+    "A fórmula de Cockcroft-Gault e o 0,85 da mulher"
+  ]
+}

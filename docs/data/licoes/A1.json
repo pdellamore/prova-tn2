@@ -1,0 +1,153 @@
+{
+  "id": "A1",
+  "titulo": "Fisiologia renal",
+  "preteste": [
+    "Q-A1-01"
+  ],
+  "blocos": [
+    {
+      "id": "A1-b1",
+      "titulo": "O que o rim produz e o que ele faz",
+      "prioridade": "C",
+      "pontos": [
+        "O rim **produz**: renina, eritropoietina, **1,25-di-hidroxicolecalciferol** (a vitamina D ativa), prostaglandinas e cininas.",
+        "É **órgão-alvo de muitos hormônios**, cataboliza proteínas de baixo peso molecular e faz **gliconeogênese**.",
+        "Funções principais: manter volume e composição iônica dos líquidos corporais e excretar os produtos fixos de degradação — **creatinina, ureia e ácido úrico**.",
+        "Também elimina toxinas exógenas, **regula a pressão arterial**, degrada peptídeos circulantes (**insulina**) e cuida da homeostase de **cálcio, fósforo e magnésio** e do equilíbrio ácido-básico."
+      ],
+      "apoio": {
+        "tipo": "mnemonico",
+        "texto": "Para o que o rim **produz**, pense em **RE-PRO-CI**: **RE**nina, **E**ritropoietina, **PRO**staglandinas, **CI**ninas — e a vitamina D ativa no meio. Apoio de memória, não acrescenta nada ao slide."
+      },
+      "ambiguidade": null,
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 4
+      },
+      "checagem": {
+        "pergunta": "Qual destas **não** é produzida pelo rim, segundo o slide?",
+        "alternativas": [
+          "Renina",
+          "Eritropoietina",
+          "Insulina",
+          "Prostaglandinas",
+          "1,25-di-hidroxicolecalciferol"
+        ],
+        "correta": 2,
+        "justificativa": "A insulina aparece do outro lado: o rim **degrada** peptídeos circulantes, entre eles a insulina. Produzir, ele produz renina, eritropoietina, vitamina D ativa, prostaglandinas e cininas.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 7
+        }
+      }
+    },
+    {
+      "id": "A1-b2",
+      "titulo": "Anatomia e o néfron",
+      "prioridade": "C",
+      "pontos": [
+        "Posição **retroperitoneal**, estendendo-se da **12ª vértebra até a 3ª lombar** (o slide não especifica se torácica).",
+        "O **rim direito é mais caudal** (mais baixo) e o **esquerdo é ligeiramente maior**.",
+        "Peso **115 a 170 g**; medida **11 × 6 × 2,5 cm**.",
+        "O **néfron é a unidade funcional**. O **glomérulo faz a ultrafiltração** — o processo inicial da formação da urina.",
+        "A força propulsora é a **pressão hidráulica** da ação bombeadora do coração; a taxa de filtração do glomérulo é muito maior que a de outros capilares e é proporcional à pressão de ultrafiltração."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 10
+      },
+      "checagem": {
+        "pergunta": "Sobre a anatomia renal apresentada, assinale a correta:",
+        "alternativas": [
+          "O rim esquerdo é mais caudal e o direito, ligeiramente maior.",
+          "O rim direito é mais caudal e o esquerdo é ligeiramente maior.",
+          "Os rins pesam de 200 a 250 g cada.",
+          "Os rins se estendem da 7ª vértebra torácica à 1ª lombar.",
+          "A unidade funcional do rim é o cálice renal."
+        ],
+        "correta": 1,
+        "justificativa": "Direito mais caudal, esquerdo ligeiramente maior; peso de 115 a 170 g; de T12 a L3; e a unidade funcional é o **néfron**.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 10
+        }
+      }
+    },
+    {
+      "id": "A1-b3",
+      "titulo": "Sódio e potássio",
+      "prioridade": "C",
+      "pontos": [
+        "**Sódio:** menos de **1%** do sódio filtrado é excretado na urina — quase tudo é reabsorvido ao longo dos néfrons.",
+        "Retêm sódio: **hormônio do crescimento, cortisol, insulina e estrogênio**.",
+        "**Potássio:** no indivíduo saudável, **excreção = ingestão**. Com aumento da ingestão, o rim aumenta a excreção em até **10 vezes**; 10 a 15% do K é excretado na urina.",
+        "Depois de uma restrição de potássio, leva cerca de **14 dias** para chegar a um novo equilíbrio.",
+        "Influenciam a excreção de K: **velocidade do fluxo tubular, equilíbrio ácido-básico e aldosterona**."
+      ],
+      "cuidado": [
+        "O número do sódio é **< 1% excretado** e o do potássio é **até 10× de aumento na excreção**. São coisas diferentes e trocar um pelo outro é pegadinha fácil.",
+        "Os **14 dias** são para o novo equilíbrio **após restrição de potássio**."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 13
+      },
+      "checagem": {
+        "pergunta": "Depois de uma restrição de potássio na dieta, em quanto tempo o rim chega a um novo equilíbrio?",
+        "alternativas": [
+          "24 horas",
+          "3 dias",
+          "7 dias",
+          "14 dias",
+          "30 dias"
+        ],
+        "correta": 3,
+        "justificativa": "O slide dá **14 dias** para o novo equilíbrio após restrição de potássio.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 15
+        }
+      }
+    },
+    {
+      "id": "A1-b4",
+      "titulo": "Fósforo, magnésio e ácido-base",
+      "prioridade": "C",
+      "pontos": [
+        "**Fósforo:** a concentração sanguínea depende da **ingestão dietética**; a excreção depende da **filtração glomerular e da reabsorção tubular**.",
+        "Causas de **hipofosfatemia grave**: uso prolongado de quelantes, recuperação de **queimaduras graves**, **alcalose respiratória grave**, DM mal controlado e alcoolismo ou abstinência alcoólica.",
+        "**Magnésio:** concentração plasmática de **1,6 a 2,0 mEq/L**. Os rins **filtram 70 a 80%** do magnésio plasmático e **excretam apenas 2 a 3%** da carga filtrada.",
+        "Depleção de magnésio por causa renal: diurese pós-transplante e pós-obstrutiva, **fase diurética da IRA**, expansão de volume, hipercalcemia, cetoacidose metabólica e diuréticos.",
+        "**Ácido-base:** ganho líquido de ácido → **acidose**; perda → **alcalose**. A compensação é feita por **pulmões e rins**."
+      ],
+      "ambiguidade": "quelantes-hipofosfatemia",
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 21
+      },
+      "checagem": {
+        "pergunta": "Sobre o magnésio: quanto os rins filtram e quanto excretam da carga filtrada?",
+        "alternativas": [
+          "Filtram 2 a 3% e excretam 70 a 80%",
+          "Filtram 70 a 80% e excretam 2 a 3%",
+          "Filtram 100% e excretam 50%",
+          "Filtram 30% e excretam 30%",
+          "Filtram 70 a 80% e excretam 20 a 30%"
+        ],
+        "correta": 1,
+        "justificativa": "Filtram **70 a 80%** do magnésio plasmático e excretam só **2 a 3%** da carga filtrada. É o inverso do que a alternativa A diz.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 21
+        }
+      }
+    }
+  ],
+  "feynman": [
+    "Cinco coisas que o rim produz (e que a insulina ele **degrada**, não produz)",
+    "Que o néfron é a unidade funcional e o glomérulo faz a ultrafiltração",
+    "Que menos de 1% do sódio filtrado é excretado",
+    "Que depois de restringir potássio leva 14 dias para o novo equilíbrio",
+    "Que o rim filtra 70–80% do magnésio e excreta só 2–3%"
+  ]
+}

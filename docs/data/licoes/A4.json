@@ -1,0 +1,227 @@
+{
+  "id": "A4",
+  "titulo": "Avaliação nutricional na DRC",
+  "preteste": [
+    "Q-A4-01"
+  ],
+  "blocos": [
+    {
+      "id": "A4-b1",
+      "titulo": "Os dois extremos do mesmo paciente",
+      "prioridade": "I",
+      "pontos": [
+        "**Desnutrição energético-proteica (DEP):** prevalente na DRC, **aumenta a taxa de morbimortalidade** e está ligada ao **estado inflamatório**.",
+        "**Sobrepeso e obesidade:** prevalência em alta, associação com doenças cardiovasculares — mas o slide descreve também um **caráter protetor**.",
+        "A avaliação se apoia em: anamnese, história alimentar, exame físico, exames laboratoriais, antropometria (com **peso seco**) e avaliação subjetiva."
+      ],
+      "cuidado": [
+        "O 'caráter protetor' do sobrepeso está escrito no slide. Se a alternativa disser que obesidade na DRC só traz prejuízo, ela contraria a aula."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 54
+      },
+      "checagem": {
+        "pergunta": "Como o slide descreve o sobrepeso e a obesidade na DRC?",
+        "alternativas": [
+          "Prevalência em queda e sem associação com doença cardiovascular",
+          "Prevalência em alta, associação com doença cardiovascular e caráter protetor",
+          "Prevalência em alta e contraindicação absoluta ao transplante",
+          "Prevalência irrelevante perto da desnutrição",
+          "Fator de risco isolado para hipercalemia"
+        ],
+        "correta": 1,
+        "justificativa": "O slide lista exatamente estas três coisas juntas: **↑ prevalência, associação com doenças cardiovasculares e caráter protetor**.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 54
+        }
+      }
+    },
+    {
+      "id": "A4-b2",
+      "titulo": "Consenso de terminologia: quem triagem, quem diagnostica",
+      "prioridade": "E",
+      "pontos": [
+        "**Recomendação 1 — triagem:** o **MST** é recomendado para triagem de risco de desnutrição na DRC, aplicado **pelo menos mensalmente**. *Evidência A, força 1. Slide 58.*",
+        "**Recomendação 2:** padronizar o **Processo de Cuidado em Nutrição (PCN)** e sua terminologia (TPCN). *Evidência B, força 1. Slide 70.*",
+        "**Recomendação 5:** a DEP pode ser definida por **etiologia + inflamação**, em quatro grupos: (1) doença crônica com inflamação continuada; (2) doença crônica com inflamação mínima ou não percebida; (3) doença ou injúria aguda com inflamação grave; (4) baixa ingestão crônica pura, não relacionada à doença. *Evidência B, força 1. Slide 55.*",
+        "**Recomendação 6 — diagnóstico:** a **ASG (SGA)** é o instrumento de diagnóstico de DEP **mais bem validado** na DRC; a **MCC** (Malnutrition Clinical Characteristics) também pode ser recomendada. *Evidência A para a ASG e B para a MCC; força 1. Slide 69.*"
+      ],
+      "cuidado": [
+        "**MST = triagem** (mensal). **ASG = diagnóstico** (mais bem validado). Inverter os papéis é a pegadinha clássica deste bloco."
+      ],
+      "apoio": {
+        "tipo": "mnemonico",
+        "texto": "**M** de MST é **M**ensal e é a porta de entrada; **A** de ASG é a **A**valiação que fecha o diagnóstico. Apoio de memória."
+      },
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 58
+      },
+      "checagem": {
+        "pergunta": "Qual instrumento é o mais bem validado para o diagnóstico de desnutrição energético-proteica na DRC?",
+        "alternativas": [
+          "MST",
+          "ASG (SGA)",
+          "MCC",
+          "MAN",
+          "NRS-2002"
+        ],
+        "correta": 1,
+        "justificativa": "A **ASG** é a mais bem validada para diagnóstico (evidência A). O **MST** é triagem, e a **MCC** também pode ser recomendada, mas com evidência B.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 69
+        }
+      }
+    },
+    {
+      "id": "A4-b3",
+      "titulo": "O escore MST, pergunta por pergunta",
+      "prioridade": "E",
+      "pontos": [
+        "**1) Teve perda recente e não intencional de peso?** Não = **0** · Não sabe = **2**.",
+        "**2) Se sim, de quanto (em kg)?** 1–5 = **1** · 6–10 = **2** · 11–15 = **3** · > 15 = **4** · Não sabe = **2**.",
+        "**3) Tem se alimentado mal por redução do apetite?** Não = **0** · Sim = **1**.",
+        "**Interpretação: soma ≥ 2 = risco de desnutrição.**"
+      ],
+      "cuidado": [
+        "'Não sabe' **pontua**: 2 na pergunta 1 e 2 na pergunta 2. Não é zero.",
+        "O ponto de corte é **≥ 2**, então 2 pontos já é risco."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 59
+      },
+      "checagem": {
+        "pergunta": "Paciente diz que perdeu peso, mas não sabe quanto, e nega redução do apetite. Qual o escore MST?",
+        "alternativas": [
+          "0 ponto, sem risco",
+          "1 ponto, sem risco",
+          "2 pontos, com risco",
+          "3 pontos, com risco",
+          "4 pontos, com risco"
+        ],
+        "correta": 2,
+        "justificativa": "Perdeu peso leva à pergunta 2; 'não sabe quanto' vale **2**. Apetite preservado vale **0**. Total **2** — e **≥ 2 já é risco de desnutrição**.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 59
+        }
+      }
+    },
+    {
+      "id": "A4-b4",
+      "titulo": "ASG adaptada ao paciente renal",
+      "prioridade": "I",
+      "pontos": [
+        "É um escore quantitativo. **História médica relatada pelo paciente:** alterações no peso nos últimos 6 meses, ingestão alimentar, sintomas gastrointestinais, capacidade funcional e comorbidades — cada item de 1 a 5.",
+        "**Exame físico:** perda de gordura subcutânea e sinais de perda muscular — também de 1 a 5 cada.",
+        "**Escores:** até **8** = adequado · **9 a 23** = risco nutricional ou desnutrição **leve** · **24 a 31** = **moderada** · **32 a 39** = **grave** · **acima de 40** = **gravíssima**."
+      ],
+      "cuidado": [
+        "Os pontos de corte sobem de 8 em 8 a partir de 24: **24–31**, **32–39**. Guarde as pontas: 8 e 40."
+      ],
+      "ambiguidade": "asg-escore",
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 57
+      },
+      "checagem": {
+        "pergunta": "Um escore de 28 pontos na ASG adaptada ao renal corresponde a:",
+        "alternativas": [
+          "Estado nutricional adequado",
+          "Risco nutricional ou desnutrição leve",
+          "Desnutrição moderada",
+          "Desnutrição grave",
+          "Desnutrição gravíssima"
+        ],
+        "correta": 2,
+        "justificativa": "**24 a 31 = desnutrição moderada.** Leve é 9 a 23 e grave é 32 a 39.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 57
+        }
+      }
+    },
+    {
+      "id": "A4-b5",
+      "titulo": "Antropometria, consumo e o PNA",
+      "prioridade": "I",
+      "pontos": [
+        "**Antropometria:** peso e estatura para o IMC, **% de perda de peso**, dobras cutâneas, **CB e AMB**, circunferência abdominal e bioimpedância elétrica. Usar sempre o **peso seco**.",
+        "**Consumo alimentar:** recordatório de 24 h, registro alimentar de **3 a 7 dias** e questionário de frequência de consumo.",
+        "**PNA — equivalente proteico do aparecimento de nitrogênio:** **PNA = (NUU + 0,031 × peso corporal) × 6,25**.",
+        "**Limitações do PNA:** depende do balanço nitrogenado; o PNA de **1 dia** pode não representar o hábito; e ele **subestima ingestões muito altas**."
+      ],
+      "cuidado": [
+        "Decore o **0,031** e o **6,25** do PNA, e que ele **subestima** — nunca superestima — ingestões muito altas."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 62
+      },
+      "checagem": {
+        "pergunta": "Qual é uma limitação do PNA descrita no slide?",
+        "alternativas": [
+          "Superestima ingestões muito altas",
+          "Subestima ingestões muito altas",
+          "Não serve para pacientes em diálise",
+          "Exige coleta de urina de 7 dias seguidos",
+          "Só é válido quando a albumina está acima de 4 g/dL"
+        ],
+        "correta": 1,
+        "justificativa": "O slide lista três limitações: dependência do balanço nitrogenado, o PNA de 1 dia poder não ser o habitual e o fato de **subestimar ingestões muito altas**.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 62
+        }
+      }
+    },
+    {
+      "id": "A4-b6",
+      "titulo": "Laboratório e exame físico",
+      "prioridade": "I",
+      "pontos": [
+        "**Valores desejáveis:** albumina **> 4 g/dL** · transferrina **250 a 450 mg/dL** · contagem total de linfócitos **1.500 a 4.000/mm³**.",
+        "Outros parâmetros acompanhados: ureia, creatinina, colesterol e frações e proteína C reativa.",
+        "**Exame físico — gordura subcutânea:** face, tríceps, bíceps, joelho e quadríceps.",
+        "**Exame físico — massa muscular:** **têmporas, clavícula, ombros, escápula** e o **músculo adutor do polegar**.",
+        "**Edema e ascite:** tornozelo, sacro e abdômen."
+      ],
+      "apoio": {
+        "tipo": "mnemonico",
+        "texto": "Para a massa muscular, siga o caminho de cima para baixo: **têmpora → clavícula → ombro → escápula → polegar**. Apoio de memória; os pontos são os do slide."
+      },
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 63
+      },
+      "checagem": {
+        "pergunta": "Qual é o valor desejável de albumina na avaliação nutricional da DRC, segundo o slide?",
+        "alternativas": [
+          "> 2,5 g/dL",
+          "> 3,0 g/dL",
+          "> 3,5 g/dL",
+          "> 4 g/dL",
+          "> 4,5 g/dL"
+        ],
+        "correta": 3,
+        "justificativa": "O quadro de valores desejáveis traz albumina **> 4 g/dL**, transferrina 250–450 mg/dL e linfócitos totais 1.500–4.000/mm³. Os cortes de 3,5 e 3,8 g/dL aparecem em outro contexto: os critérios de desnutrição em hemodiálise.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 63
+        }
+      }
+    }
+  ],
+  "feynman": [
+    "Que a DEP é prevalente e ligada à inflamação, e que o sobrepeso tem caráter protetor descrito no slide",
+    "Que o MST é triagem mensal e a ASG é o diagnóstico mais validado",
+    "As três perguntas do MST e que ≥ 2 já é risco",
+    "As faixas da ASG renal: 8 / 9–23 / 24–31 / 32–39 / acima de 40",
+    "A fórmula do PNA e que ele subestima ingestões muito altas",
+    "Albumina > 4 g/dL, transferrina 250–450, linfócitos 1.500–4.000"
+  ]
+}

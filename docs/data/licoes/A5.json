@@ -1,0 +1,349 @@
+{
+  "id": "A5",
+  "titulo": "Terapia nutricional no tratamento conservador",
+  "preteste": [
+    "Q-A5-01",
+    "Q-A5-02"
+  ],
+  "blocos": [
+    {
+      "id": "A5-b1",
+      "titulo": "Objetivos, energia e macronutrientes",
+      "prioridade": "E",
+      "pontos": [
+        "**Objetivos:** controlar os distúrbios metabólicos e a sintomatologia urêmica; **diminuir o ritmo de progressão** da DRC; prevenir **hiperparatireoidismo secundário** e desnutrição energético-proteica; manter ou recuperar o estado nutricional; e **evitar ou adiar a diálise**.",
+        "**Energia: 25 a 35 kcal/kg/dia** para metabolicamente estáveis, da DRC 1–5D e pós-transplante. Ajustar por idade, sexo, atividade física, composição corporal, meta de peso, estágio da doença e doenças concomitantes ou inflamação.",
+        "**Carboidratos: 50 a 65% do VET.**",
+        "**Lipídios (tabela KDOQI):** 25 a 50% do VET · **saturados < 7%** · monoinsaturados **até 20%** · poli-insaturados **10%** · colesterol **< 200 mg/dia**."
+      ],
+      "ambiguidade": "lipidios-conservador",
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 76
+      },
+      "checagem": {
+        "pergunta": "Qual a faixa de energia recomendada no tratamento conservador, para o paciente metabolicamente estável?",
+        "alternativas": [
+          "20 a 25 kcal/kg/dia",
+          "25 a 35 kcal/kg/dia",
+          "30 a 40 kcal/kg/dia",
+          "35 a 45 kcal/kg/dia",
+          "Depende só do IMC"
+        ],
+        "correta": 1,
+        "justificativa": "**25 a 35 kcal/kg/dia**, para metabolicamente estáveis da DRC 1–5D e pós-transplante, ajustando por idade, sexo, atividade, composição corporal, meta de peso, estágio e inflamação.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 76
+        }
+      }
+    },
+    {
+      "id": "A5-b2",
+      "titulo": "Proteína — o ponto mais cobrável da aula",
+      "prioridade": "E",
+      "pontos": [
+        "A pergunta que organiza tudo: **tem diabetes?** e **está em diálise?**",
+        "Na opção muito hipoproteica, os cetoácidos entram justamente para **completar a necessidade proteica** — o slide diz que os 0,28–0,43 g/kg mais os análogos equivalem a 0,55–0,60 g/kg/dia.",
+        "A recomendação do KDOQI vem com grau: **1A** para reduzir risco de doença renal terminal e morte e **2C** para qualidade de vida."
+      ],
+      "tabela": {
+        "cabecalho": [
+          "Situação",
+          "Proteína (g/kg/dia)"
+        ],
+        "linhas": [
+          [
+            "DRC 3–5, **sem diabetes**, metabolicamente estável",
+            "**0,55–0,60** ou **0,28–0,43 + cetoácidos/análogos**"
+          ],
+          [
+            "DRC 3–5, **com diabetes**",
+            "**0,6–0,8**"
+          ],
+          [
+            "Hemodiálise ou diálise peritoneal (com ou sem DM) — BRASPEN",
+            "**1,0–1,2**"
+          ],
+          [
+            "KDIGO 2024, G3–G5",
+            "**0,8** · evitar > 1,3 se risco de progressão"
+          ]
+        ]
+      },
+      "cuidado": [
+        "**0,55–0,60 = sem DM** · **0,6–0,8 = com DM** · **0,28–0,43 + cetoácidos = muito hipoproteica** · **1,0–1,2 = diálise**.",
+        "Leia sempre **de qual diretriz** a alternativa está falando: KDOQI 2020 e KDIGO 2024 dão números diferentes para a mesma situação."
+      ],
+      "ambiguidade": "proteina-drc",
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 82
+      },
+      "checagem": {
+        "pergunta": "Paciente com DRC estágio 4, diabético, metabolicamente estável. Qual a oferta proteica pelo KDOQI 2020?",
+        "alternativas": [
+          "0,28 a 0,43 g/kg/dia com cetoácidos",
+          "0,55 a 0,60 g/kg/dia",
+          "0,6 a 0,8 g/kg/dia",
+          "0,8 a 1,0 g/kg/dia",
+          "1,0 a 1,2 g/kg/dia"
+        ],
+        "correta": 2,
+        "justificativa": "**Com diabetes, 0,6 a 0,8 g/kg/dia**, sob supervisão clínica próxima, para manter o estado nutricional estável e otimizar o controle glicêmico. Os 0,55–0,60 e a opção com cetoácidos são para quem **não** tem diabetes; 1,0–1,2 é diálise.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 84
+        }
+      },
+      "elaboracao": null
+    },
+    {
+      "id": "A5-b3",
+      "titulo": "Metabolicamente instável: quando não restringir",
+      "prioridade": "E",
+      "pontos": [
+        "Toda a restrição proteica depende de o paciente estar **metabolicamente estável**. Os slides listam o que tira essa condição:",
+        "**Inflamação ativa** · **doenças infecciosas ativas** · **hospitalização nas últimas 2 semanas** · **diabetes mal controlado**.",
+        "**Doenças consumptivas** (por exemplo, câncer) · **perda de peso significativa de curto prazo** · uso de **antibióticos** · uso de **imunossupressores**.",
+        "O KDIGO 2024 repete a trava: **não prescrever dieta hipoproteica nem muito hipoproteica em pessoas metabolicamente instáveis**."
+      ],
+      "cuidado": [
+        "'Internado há uma semana por pneumonia' = **instável** por dois motivos (internação < 2 semanas e infecção ativa). Não se restringe proteína, mesmo que ele não esteja desnutrido."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 85
+      },
+      "checagem": {
+        "pergunta": "Qual destas situações NÃO aparece entre as que tornam o paciente metabolicamente instável?",
+        "alternativas": [
+          "Hospitalização nas últimas 2 semanas",
+          "Uso de antibióticos",
+          "Diabetes mal controlado",
+          "Sobrepeso com IMC de 27 kg/m²",
+          "Perda de peso significativa de curto prazo"
+        ],
+        "correta": 3,
+        "justificativa": "O slide lista inflamação ativa, infecção ativa, internação há menos de 2 semanas, DM mal controlado, doenças consumptivas, perda de peso significativa recente, antibióticos e imunossupressores. **Sobrepeso não está na lista.**",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 85
+        }
+      }
+    },
+    {
+      "id": "A5-b4",
+      "titulo": "Como fazer a restrição: opção 01 × opção 02",
+      "prioridade": "E",
+      "pontos": [
+        "As duas opções começam igual: **sem diabetes**, **metabolicamente estável** e **sem desnutrição ou risco de desnutrição**. O que muda é o estágio e o que vem depois.",
+        "A opção 02 acrescenta três perguntas: é **idoso que pode se beneficiar de tratamento conservador otimizado**? **precisa ganhar tempo** para se preparar para a terapia renal substitutiva? **há disponibilidade** do suplemento com cetoanálogos?",
+        "Na opção 02, a dieta exclui **alimentos de origem animal** e é suplementada com cetoanálogos — e é preciso orientar a **quantidade e a distribuição dos comprimidos ao longo do dia**."
+      ],
+      "tabela": {
+        "cabecalho": [
+          "",
+          "Opção 01 — convencional",
+          "Opção 02 — com cetoanálogos"
+        ],
+        "linhas": [
+          [
+            "Proteína",
+            "**0,6 g/kg/dia**",
+            "**0,3 a 0,4 g/kg/dia** + cetoanálogos"
+          ],
+          [
+            "Estágio da DRC",
+            "**3, 4 ou 5**",
+            "**4 ou 5**"
+          ],
+          [
+            "Dose do suplemento",
+            "—",
+            "**1 comprimido / 5 kg de peso / dia**"
+          ]
+        ]
+      },
+      "cuidado": [
+        "**A opção 01 cobre os estágios 3, 4 e 5; a opção 02, só 4 ou 5.** É o detalhe mais cobrado deste bloco."
+      ],
+      "apoio": {
+        "tipo": "mnemonico",
+        "texto": "Opção **0**1 começa no **3**; opção **0**2 começa no **4**. Quanto mais restrita a dieta, mais avançado precisa ser o estágio. Apoio de memória."
+      },
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 97
+      },
+      "checagem": {
+        "pergunta": "A dieta de 0,3 a 0,4 g/kg/dia suplementada com cetoanálogos (opção 02) é indicada para quais estágios da DRC?",
+        "alternativas": [
+          "1 ou 2",
+          "3, 4 ou 5",
+          "Apenas 3",
+          "4 ou 5",
+          "Apenas 5, e só em diálise"
+        ],
+        "correta": 3,
+        "justificativa": "**Opção 02: estágio 4 ou 5.** A opção 01, de 0,6 g/kg/dia, é que serve para 3, 4 ou 5.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 99
+        }
+      }
+    },
+    {
+      "id": "A5-b5",
+      "titulo": "Cetoácidos: como funcionam",
+      "prioridade": "E",
+      "pontos": [
+        "**Transaminação hepática:** o nitrogênio disponível é **incorporado à cadeia carbônica do aminoácido** (é como o slide escreve), formando o **aminoácido essencial correspondente**.",
+        "**Vantagem A:** supre as necessidades de aminoácidos essenciais.",
+        "**Vantagem B:** **diminui a disponibilidade de nitrogênio** e, com isso, **reduz a formação de compostos tóxicos** vindos do metabolismo.",
+        "**Dose: 1 comprimido para cada 5 kg de peso por dia.** O slide registra também o custo alto (20 comprimidos ≈ R$ 130; 100 ≈ R$ 430).",
+        "Exemplos de pares do slide: α-cetoglutarato → glutamato · oxaloacetato → aspartato · piruvato → alanina."
+      ],
+      "cuidado": [
+        "O efeito é **diminuir** a disponibilidade de nitrogênio. Alternativa que disser que os cetoácidos **aumentam** o nitrogênio para a síntese de ureia está invertendo o mecanismo."
+      ],
+      "apoio": {
+        "tipo": "analogia",
+        "texto": "O cetoácido é um esqueleto de aminoácido sem a plaquinha de nitrogênio. Ele **pega emprestado** o nitrogênio que já está sobrando no corpo em vez de trazer mais — por isso sobra menos nitrogênio para virar toxina. Apoio de memória."
+      },
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 94
+      },
+      "checagem": {
+        "pergunta": "Qual é o efeito dos cetoácidos sobre o nitrogênio?",
+        "alternativas": [
+          "Aumentam a disponibilidade de nitrogênio para a síntese de ureia",
+          "Diminuem a disponibilidade de nitrogênio e reduzem a formação de compostos tóxicos",
+          "Não interferem no nitrogênio, só no potássio",
+          "Aumentam a excreção renal de nitrogênio",
+          "Bloqueiam a transaminação hepática"
+        ],
+        "correta": 1,
+        "justificativa": "Pela transaminação hepática o nitrogênio já disponível é incorporado à cadeia carbônica, então **sobra menos nitrogênio livre** e se formam **menos compostos tóxicos**.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 94
+        }
+      }
+    },
+    {
+      "id": "A5-b6",
+      "titulo": "Alto e baixo valor biológico",
+      "prioridade": "C",
+      "pontos": [
+        "**Alto valor biológico (g de proteína por porção):** carne bovina, 1 bife médio de 100 g = **23** · frango, 1 peito pequeno de 100 g = **22** · peixe, 1 filé de 100 g = **19** · leite, 1 copo de 200 g = **7** · iogurte, 1 pote de 200 g = **7** · queijo, 1 fatia média de 30 g = **7** · ovo, 1 unidade de 50 g = **6,4**.",
+        "**Baixo valor biológico:** feijão, 8 colheres de sopa (120 g) = **9,4** · ervilha, 5 colheres (100 g) = **6,7** · lentilha, 8 colheres (120 g) = **6,0** · pão, 1 unidade de 50 g = **5,0** · macarrão, 1 prato raso (125 g) = **4,0** · arroz, 5 colheres (100 g) = **2,0** · batata, 1 unidade (110 g) = **2,0**.",
+        "Dietas à base de plantas (KDIGO 2024) aparecem associadas a **menor progressão e menor mortalidade** — a Tabela 21 reúne **6 estudos observacionais e 1 ensaio clínico randomizado** (CORDIOPREV)."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 90
+      },
+      "checagem": {
+        "pergunta": "Quantos gramas de proteína tem 1 bife médio de carne bovina (100 g), segundo o slide?",
+        "alternativas": [
+          "7 g",
+          "9,4 g",
+          "19 g",
+          "22 g",
+          "23 g"
+        ],
+        "correta": 4,
+        "justificativa": "Carne bovina **23 g**; frango 22 g; peixe 19 g. Os 7 g são do leite, do iogurte e do queijo, e 9,4 g é o feijão.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 90
+        }
+      }
+    },
+    {
+      "id": "A5-b7",
+      "titulo": "Minerais e vitaminas no conservador",
+      "prioridade": "E",
+      "pontos": [
+        "**Potássio 50 a 75 mEq** · **sódio até 2.000 mg** (o KDIGO 2024 traz **< 2 g de sódio**, < 90 mmol ou **< 5 g de cloreto de sódio**) · **cálcio 1.400 a 1.600 mg** · **fósforo 750 mg**.",
+        "**Ferro** 8 mg (homens) e 15 mg (mulheres) · **zinco** 10 a 15 mg (homens) e 8 a 12 mg (mulheres) · **selênio** 55 mcg.",
+        "**Vitaminas A e K: não suplementar** (dieta por via oral) · **E** 400 a 800 UI · **D** conforme a deficiência.",
+        "*(slide 106)* **Tiamina** 1,1 a 1,2 mg · **piridoxina 5 mg** · **B12** 2,4 mcg · **vitamina C** 75 a 90 mg · **ácido fólico 1 mg** · niacina 14 a 16 mg · biotina 30 mcg · ácido pantotênico 5 mg."
+      ],
+      "cuidado": [
+        "**A e K não se suplementam** no conservador — é o item que mais aparece em alternativa errada.",
+        "Fósforo **750 mg** é do conservador. Na HD o número é outro (700 mg) e na DP, outro ainda.",
+        "O sódio aparece com **três números** na aula (< 1,5 g no quadro de metas, 2.000 mg aqui e < 2 g no KDIGO). Veja o ponto de atenção."
+      ],
+      "ambiguidade": "riboflavina",
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 104
+      },
+      "checagem": {
+        "pergunta": "Quais vitaminas o slide manda NÃO suplementar no tratamento conservador com dieta por via oral?",
+        "alternativas": [
+          "C e ácido fólico",
+          "D e E",
+          "A e K",
+          "B12 e piridoxina",
+          "Nenhuma: todas devem ser suplementadas"
+        ],
+        "correta": 2,
+        "justificativa": "**A e K: não suplementar.** A vitamina E tem faixa (400 a 800 UI), a D vai conforme a deficiência, e as do complexo B e a C têm valores definidos.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 105
+        }
+      }
+    },
+    {
+      "id": "A5-b8",
+      "titulo": "Manejo prático: potássio, sódio, ferro, cálcio e fósforo",
+      "prioridade": "E",
+      "pontos": [
+        "**Potássio:** com **TFG < 15 mL/min** o potássio sérico sobe. Usar a técnica de **remolho e cocção** e restringir alimentos ricos em K.",
+        "**Sódio:** controlar a pressão arterial, restringir o consumo e **excluir o sal light, que é rico em potássio**.",
+        "**Ferro:** suplementar por causa da dieta restrita em proteínas, junto com **eritropoetina recombinante humana**.",
+        "**Cálcio e fósforo:** manejo individualizado conforme o avanço da doença; **calcitriol** para a doença óssea.",
+        "**Carambola:** contém uma neurotoxina, a **'carambotoxina'** → **restrição severa**."
+      ],
+      "cuidado": [
+        "**Sal light é proibido** na DRC: ele troca sódio por potássio.",
+        "**Carambola é restrição severa**, não 'consumo moderado'."
+      ],
+      "fonte": {
+        "arquivo": "Aula_NEFRO",
+        "pagina": 108
+      },
+      "checagem": {
+        "pergunta": "Por que o sal light é excluído na DRC?",
+        "alternativas": [
+          "Porque tem mais sódio que o sal comum",
+          "Porque é rico em potássio",
+          "Porque contém fósforo inorgânico",
+          "Porque interfere na absorção do calcitriol",
+          "Porque contém a carambotoxina"
+        ],
+        "correta": 1,
+        "justificativa": "O sal light substitui parte do cloreto de sódio por **cloreto de potássio** — e potássio é exatamente o que precisa ser controlado. A carambotoxina é da carambola.",
+        "fonte": {
+          "arquivo": "Aula_NEFRO",
+          "pagina": 108
+        }
+      }
+    }
+  ],
+  "feynman": [
+    "Energia 25–35 kcal/kg e carboidratos 50–65% do VET",
+    "A tabela de proteína: 0,55–0,60 sem DM, 0,6–0,8 com DM, 1,0–1,2 em diálise",
+    "Que o KDIGO 2024 diz 0,8 e por que isso não anula o KDOQI",
+    "O que torna o paciente metabolicamente instável",
+    "Que a opção 01 cobre estágios 3–5 e a opção 02 só 4–5",
+    "O mecanismo dos cetoácidos: transaminação e menos nitrogênio livre",
+    "A dose de 1 comprimido por 5 kg de peso por dia",
+    "Que vitaminas A e K não se suplementam, e que sal light e carambola saem da dieta"
+  ]
+}

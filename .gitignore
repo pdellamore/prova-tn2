@@ -1,0 +1,10 @@
+# Material original da disciplina: NÃO vai para o repositório nem para o site.
+slides/
+slides-texto/
+
+# Subprodutos
+capturas/
+entregas/*.html
+__pycache__/
+*.pyc
+.DS_Store

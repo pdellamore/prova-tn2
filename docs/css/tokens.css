@@ -1,0 +1,157 @@
+/* ───────────────────────────────────────────────────────────
+   Caderno clínico — tokens
+   Papel quente no claro, ardósia no escuro.
+   Rim = azul-petróleo · Fígado = âmbar-vinho
+   Prioridade: E tijolo · I âmbar · C cinza
+   ─────────────────────────────────────────────────────────── */
+
+@font-face {
+  font-family: "Fraunces";
+  src: url("../assets/fonts/fraunces-latin.woff2") format("woff2");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA,
+    U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191,
+    U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Fraunces";
+  src: url("../assets/fonts/fraunces-latin-ext.woff2") format("woff2");
+  font-weight: 300 700;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7,
+    U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF,
+    U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+:root {
+  --papel: #faf7f1;
+  --superficie: #fffdf8;
+  --superficie-2: #f2ede3;
+  --linha: #ded5c4;
+  --linha-forte: #c4b89f;
+  --tinta: #1a1714;
+  --tinta-fraca: #5d564c;
+
+  --rim: #0e6e73;
+  --rim-forte: #0a4f53;
+  --rim-fraco: #e0efef;
+  --figado: #a4471f;
+  --figado-forte: #7d3315;
+  --figado-fraco: #f8e8de;
+
+  --essencial: #b3261e;
+  --essencial-fraco: #f8e4e2;
+  --importante: #8f5600;
+  --importante-fraco: #fbeed6;
+  --complementar: #6b6459;
+  --complementar-fraco: #ece8e0;
+
+  --ok: #1a6f47;
+  --ok-fraco: #e0f0e7;
+  --erro: #b3261e;
+  --erro-fraco: #f8e4e2;
+  --aviso-fundo: #fdf3e0;
+  --aviso-linha: #d9a441;
+
+  --sombra: 0 1px 2px rgba(26, 23, 20, 0.05), 0 2px 10px rgba(26, 23, 20, 0.04);
+  --sombra-alta: 0 4px 24px rgba(26, 23, 20, 0.1);
+
+  --serif: "Fraunces", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  --curva: cubic-bezier(0.22, 1, 0.36, 1);
+
+  --r-p: 8px;
+  --r-m: 14px;
+  --r-g: 20px;
+  --largura: 44rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-tema="claro"]) {
+    --papel: #121417;
+    --superficie: #1a1e22;
+    --superficie-2: #23282d;
+    --linha: #343b42;
+    --linha-forte: #4a535c;
+    --tinta: #eef0ee;
+    --tinta-fraca: #a7aeb4;
+
+    --rim: #4fd1c5;
+    --rim-forte: #7ee0d6;
+    --rim-fraco: #102f2e;
+    --figado: #f0a35e;
+    --figado-forte: #f7bd86;
+    --figado-fraco: #33200f;
+
+    --essencial: #ff7b6f;
+    --essencial-fraco: #3a1c1a;
+    --importante: #e3a93a;
+    --importante-fraco: #342814;
+    --complementar: #9aa0a6;
+    --complementar-fraco: #262a2e;
+
+    --ok: #52c68c;
+    --ok-fraco: #122a1f;
+    --erro: #ff7b6f;
+    --erro-fraco: #3a1c1a;
+    --aviso-fundo: #2d2413;
+    --aviso-linha: #a8822f;
+
+    --sombra: 0 1px 2px rgba(0, 0, 0, 0.3), 0 2px 10px rgba(0, 0, 0, 0.25);
+    --sombra-alta: 0 4px 24px rgba(0, 0, 0, 0.45);
+  }
+}
+
+:root[data-tema="escuro"] {
+  --papel: #121417;
+  --superficie: #1a1e22;
+  --superficie-2: #23282d;
+  --linha: #343b42;
+  --linha-forte: #4a535c;
+  --tinta: #eef0ee;
+  --tinta-fraca: #a7aeb4;
+
+  --rim: #4fd1c5;
+  --rim-forte: #7ee0d6;
+  --rim-fraco: #102f2e;
+  --figado: #f0a35e;
+  --figado-forte: #f7bd86;
+  --figado-fraco: #33200f;
+
+  --essencial: #ff7b6f;
+  --essencial-fraco: #3a1c1a;
+  --importante: #e3a93a;
+  --importante-fraco: #342814;
+  --complementar: #9aa0a6;
+  --complementar-fraco: #262a2e;
+
+  --ok: #52c68c;
+  --ok-fraco: #122a1f;
+  --erro: #ff7b6f;
+  --erro-fraco: #3a1c1a;
+  --aviso-fundo: #2d2413;
+  --aviso-linha: #a8822f;
+
+  --sombra: 0 1px 2px rgba(0, 0, 0, 0.3), 0 2px 10px rgba(0, 0, 0, 0.25);
+  --sombra-alta: 0 4px 24px rgba(0, 0, 0, 0.45);
+}
+
+/* Cada tela declara de qual órgão é; tudo o mais herda daqui. */
+[data-orgao="rim"] {
+  --orgao: var(--rim);
+  --orgao-forte: var(--rim-forte);
+  --orgao-fraco: var(--rim-fraco);
+}
+[data-orgao="figado"] {
+  --orgao: var(--figado);
+  --orgao-forte: var(--figado-forte);
+  --orgao-fraco: var(--figado-fraco);
+}
+:root {
+  --orgao: var(--rim);
+  --orgao-forte: var(--rim-forte);
+  --orgao-fraco: var(--rim-fraco);
+}

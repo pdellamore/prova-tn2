@@ -25,6 +25,31 @@
   "desc": "Dez escores MST seguidos certos."
  },
  {
+  "id": "dez-seguidos-liquidoshd",
+  "titulo": "Torneira calibrada",
+  "desc": "Dez cálculos seguidos de líquidos na hemodiálise sem errar."
+ },
+ {
+  "id": "dez-seguidos-childpugh",
+  "titulo": "Child de olhos fechados",
+  "desc": "Dez escores Child-Pugh seguidos sem errar."
+ },
+ {
+  "id": "dez-seguidos-pesoseco",
+  "titulo": "Peso sem água",
+  "desc": "Dez pesos secos seguidos sem errar."
+ },
+ {
+  "id": "dez-seguidos-pesoajustado",
+  "titulo": "Um quarto da diferença",
+  "desc": "Dez pesos ajustados seguidos sem errar."
+ },
+ {
+  "id": "dez-seguidos-sld",
+  "titulo": "Leitura do rótulo",
+  "desc": "Dez classificações MASLD, MetALD ou ALD seguidas sem errar."
+ },
+ {
   "id": "explicou-A3",
   "titulo": "Explicou a DRC",
   "desc": "Escreveu a DRC com as próprias palavras."
@@ -73,5 +98,25 @@
   "id": "explicou-B7",
   "titulo": "Explicou a TN na cirrose",
   "desc": "Escreveu a terapia nutricional da cirrose com as próprias palavras."
+ },
+ {
+  "id": "pegadinha-limpa",
+  "titulo": "Nenhuma pegadinha",
+  "desc": "Uma rodada inteira de “Pegadinha ou não?” sem errar."
+ },
+ {
+  "id": "numeros-na-ponta",
+  "titulo": "Números na ponta da língua",
+  "desc": "Uma rodada inteira de “Qual é o número?” sem errar."
+ },
+ {
+  "id": "ligou-de-primeira",
+  "titulo": "Ligou de primeira",
+  "desc": "Uma tabela inteira ligada sem nenhuma tentativa errada."
+ },
+ {
+  "id": "caso-redondo",
+  "titulo": "Caso redondo",
+  "desc": "Um caso clínico conduzido sem errar nenhum passo."
  }
 ]

@@ -88,6 +88,66 @@
   "ambiguidade": null
  },
  {
+  "id": "Q-A1-04",
+  "modulo": "A1",
+  "tema": "rim",
+  "subtema": "Fisiologia renal",
+  "prioridade": "C",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Segundo os slides, quais hormônios **retêm** sódio?",
+  "alternativas": [
+   "Aldosterona, renina e angiotensina II",
+   "Hormônio do crescimento, cortisol, insulina e estrogênio",
+   "Paratormônio, calcitonina e vitamina D ativa",
+   "Eritropoietina, prostaglandinas e cininas",
+   "Glucagon, adrenalina e hormônio tireoidiano"
+  ],
+  "correta": 1,
+  "justificativa": "A lista do slide de homeostase do sódio é **hormônio do crescimento, cortisol, insulina e estrogênio**. Vale guardar que são hormônios que não costumam vir à cabeça quando se pensa em sódio — é justamente aí que a prova pega.",
+  "porque_erradas": {
+   "0": "A aldosterona retém sódio, mas não é a lista que o slide apresenta; renina e angiotensina II aparecem no eixo de regulação, não nesta lista.",
+   "2": "Paratormônio, calcitonina e vitamina D ativa pertencem ao metabolismo de cálcio e fósforo.",
+   "3": "Eritropoietina, prostaglandinas e cininas estão na lista do que o rim **produz**.",
+   "4": "Esses hormônios não aparecem no slide de retenção de sódio."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 14
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-A1-05",
+  "modulo": "A1",
+  "tema": "rim",
+  "subtema": "Fisiologia renal",
+  "prioridade": "C",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Sobre o manejo renal do magnésio, assinale a alternativa que corresponde aos slides.",
+  "alternativas": [
+   "Concentração plasmática de 1,6 a 2,0 mEq/L; o rim filtra 70 a 80% e excreta 2 a 3% da carga filtrada",
+   "Concentração plasmática de 1,6 a 2,0 mEq/L; o rim filtra 2 a 3% e excreta 70 a 80% da carga filtrada",
+   "Concentração plasmática de 8,5 a 10,5 mEq/L; o rim filtra quase todo o magnésio e excreta menos de 1%",
+   "Concentração plasmática de 3,5 a 5,5 mEq/L; o rim filtra 50% e excreta 10% da carga filtrada",
+   "O magnésio não é filtrado no glomérulo: a excreção é inteiramente por secreção tubular"
+  ],
+  "correta": 0,
+  "justificativa": "O slide traz **1,6 a 2,0 mEq/L** de magnésio plasmático, com **70 a 80% filtrados** e apenas **2 a 3% da carga filtrada excretada** — ou seja, a reabsorção tubular é quase completa.",
+  "porque_erradas": {
+   "1": "Os números estão trocados de lugar.",
+   "2": "Essa faixa é a do cálcio em mg/dL, e o 'menos de 1%' é o do sódio excretado.",
+   "3": "Essa faixa lembra a do potássio sérico em mEq/L.",
+   "4": "O slide descreve filtração glomerular seguida de reabsorção, não excreção só por secreção."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 21
+  },
+  "ambiguidade": null
+ },
+ {
   "id": "Q-A2-01",
   "modulo": "A2",
   "tema": "rim",
@@ -1636,6 +1696,156 @@
   }
  },
  {
+  "id": "Q-A7-01",
+  "modulo": "A7",
+  "tema": "rim",
+  "subtema": "Diálise peritoneal",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Segundo o KDOQI 2020 apresentado nos slides, qual é a recomendação proteica para o paciente em diálise peritoneal **sem** intercorrências?",
+  "alternativas": [
+   "0,55 a 0,60 g/kg/dia",
+   "0,8 g/kg/dia",
+   "1,0 a 1,2 g/kg/dia",
+   "1,20 a 1,30 g/kg/dia",
+   "1,40 a 1,50 g/kg/dia"
+  ],
+  "correta": 3,
+  "justificativa": "O slide de proteínas da DP traz **1,20 a 1,30 g/kg/dia**, reservando **1,40 a 1,50 g/kg/dia** para **repleção e peritonite**.",
+  "porque_erradas": {
+   "0": "É a recomendação do tratamento conservador sem diabetes (KDOQI).",
+   "1": "É a sugestão do KDIGO 2024 para a DRC G3–G5 em tratamento conservador.",
+   "2": "É a recomendação da hemodiálise.",
+   "4": "É a faixa da DP em repleção ou peritonite, não a habitual."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 139
+  },
+  "ambiguidade": "proteina-dp"
+ },
+ {
+  "id": "Q-A7-02",
+  "modulo": "A7",
+  "tema": "rim",
+  "subtema": "Diálise peritoneal",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "preteste": false,
+  "enunciado": "Mulher de 44 anos em CAPD, sem edema e com pressão arterial controlada, pergunta quanto de líquido pode beber por dia. Com base nos slides, a conduta é:",
+  "alternativas": [
+   "Prescrever 500 mL mais o volume da diurese",
+   "Limitar a 1.000 mL por dia",
+   "Não restringir: na DP a restrição só é indicada com PA elevada e edema",
+   "Limitar a 800 mL por dia, como na hiponatremia",
+   "Limitar a 1,5 L por dia em qualquer paciente em DP"
+  ],
+  "correta": 2,
+  "justificativa": "A tabela da DP diz, no item Líquidos: **restrição na presença de PA elevada e edema**. Sem esses dois achados, não há indicação de restringir. A fórmula de 500 mL + diurese e o teto de 1.000 mL pertencem à **hemodiálise**.",
+  "porque_erradas": {
+   "0": "É a prescrição da hemodiálise para quem tem diurese residual.",
+   "1": "É o teto da hemodiálise para o paciente anúrico.",
+   "3": "Esse volume pertence à restrição hídrica da ascite com hiponatremia grave, no bloco do fígado.",
+   "4": "Não há teto fixo para a DP nos slides."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 140
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-A7-03",
+  "modulo": "A7",
+  "tema": "rim",
+  "subtema": "Diálise peritoneal",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Sobre a energia e os carboidratos na diálise peritoneal, assinale a alternativa correta.",
+  "alternativas": [
+   "Energia de 25 a 35 kcal/kg/dia, sem considerar a glicose do dialisato, e carboidratos de 50 a 60% do VET",
+   "Energia de 25 a 35 kcal/kg/dia incluindo a glicose do dialisato, e carboidratos de 35% do VET por via oral",
+   "Energia de 30 a 45 kcal/kg/dia e carboidratos de 60 a 70% do VET",
+   "Energia de 20 a 30 kcal/kg/dia e carboidratos livres",
+   "Energia calculada apenas pelo dialisato, com dieta isenta de carboidratos"
+  ],
+  "correta": 1,
+  "justificativa": "A tabela da DP marca com asterisco que tanto a energia quanto os carboidratos **incluem a glicose do dialisato**: **25 a 35 kcal/kg/dia** e **35% do VET por via oral**.",
+  "porque_erradas": {
+   "0": "Os 50 a 60% de carboidrato são da hemodiálise, e a energia da DP inclui sim o dialisato.",
+   "2": "Essa faixa de energia e de carboidratos é da insuficiência renal aguda.",
+   "3": "20 a 30 kcal/kg é a cirrose compensada, no bloco do fígado.",
+   "4": "Dieta isenta de carboidratos não aparece em nenhum slide."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 138
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-A7-04",
+  "modulo": "A7",
+  "tema": "rim",
+  "subtema": "Diálise peritoneal",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Comparando as tabelas de minerais da hemodiálise e da diálise peritoneal, qual afirmação está correta?",
+  "alternativas": [
+   "O potássio é mais permissivo na DP (até 76 mEq) do que na HD (50 a 70 mEq)",
+   "O potássio é mais restrito na DP (até 40 mEq) do que na HD",
+   "O fósforo é mais restrito na DP (700 mg) do que na HD (1.000 mg)",
+   "O sódio é mais permissivo na DP (3.000 mg) do que na HD (2.300 mg)",
+   "O cálcio é idêntico nas duas, em 700 mg"
+  ],
+  "correta": 0,
+  "justificativa": "As tabelas trazem potássio **até 76 mEq na DP** contra **50 a 70 mEq na HD**. O fósforo também é mais permissivo na DP (1.000–1.200 mg contra 700 mg), o sódio é igual (2.300 mg) e o cálcio da DP vai de 1.000 a 1.500 mg contra 1.000 mg na HD.",
+  "porque_erradas": {
+   "1": "Inverte a comparação e usa um número que não existe nos slides.",
+   "2": "Inverte os dois valores: 700 mg é da HD e 1.000 a 1.200 mg é da DP.",
+   "3": "O sódio é o mesmo nas duas tabelas: até 2.300 mg.",
+   "4": "Nenhuma das duas tabelas traz 700 mg de cálcio."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 140
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-A7-05",
+  "modulo": "A7",
+  "tema": "rim",
+  "subtema": "Diálise peritoneal",
+  "prioridade": "I",
+  "dificuldade": 1,
+  "preteste": false,
+  "enunciado": "Entre os objetivos do protocolo assistencial de Nutrição na diálise peritoneal, qual é característico dessa modalidade?",
+  "alternativas": [
+   "Prevenir a toxicidade urêmica",
+   "Adequar a dieta ao hábito alimentar do paciente",
+   "Prevenir a obesidade e a hiperlipidemia",
+   "Reduzir a frequência das sessões",
+   "Manter o Kt/V acima de 1,2 por sessão"
+  ],
+  "correta": 2,
+  "justificativa": "O protocolo da DP lista **prevenir a obesidade e a hiperlipidemia** e **incentivar a atividade física**, justamente porque a **glicose do dialisato** é absorvida e soma calorias.",
+  "porque_erradas": {
+   "0": "Aparece no protocolo da hemodiálise.",
+   "1": "Também é do protocolo da hemodiálise.",
+   "3": "Não é um objetivo nutricional, e não consta dos slides.",
+   "4": "O Kt/V de 1,2 por sessão é o da hemodiálise; na CAPD é 2,0 por semana."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 137
+  },
+  "ambiguidade": null
+ },
+ {
   "id": "Q-A8-01",
   "modulo": "A8",
   "tema": "rim",
@@ -1752,6 +1962,226 @@
   "fonte": {
    "arquivo": "Aula_NEFRO",
    "pagina": 150
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-A8-05",
+  "modulo": "A8",
+  "tema": "rim",
+  "subtema": "Transplante renal",
+  "prioridade": "I",
+  "dificuldade": 1,
+  "preteste": false,
+  "enunciado": "Até quando vai o **pós-transplante renal imediato**, segundo os slides?",
+  "alternativas": [
+   "Até 1 semana",
+   "Até 2 semanas",
+   "Até 6 semanas",
+   "Até 3 meses",
+   "Até 6 meses"
+  ],
+  "correta": 2,
+  "justificativa": "O slide divide o pós-transplante em **imediato, até 6 semanas**, e **tardio**, depois disso. O corte importa porque as recomendações de proteína mudam muito entre as duas fases (1,3 a 1,5 g/kg no imediato × 0,55 a 0,60 g/kg no tardio).",
+  "porque_erradas": {
+   "0": "Prazo curto demais para o que o slide chama de fase imediata.",
+   "1": "Não é o corte apresentado.",
+   "3": "3 meses já está na fase tardia.",
+   "4": "6 meses já está bem dentro da fase tardia."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 146
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-A8-06",
+  "modulo": "A8",
+  "tema": "rim",
+  "subtema": "Transplante renal",
+  "prioridade": "C",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "O estudo citado nos slides (Kidney International, 2010) comparou 50 g/dia e 140 g/dia de proteína no pós-transplante renal tardio. Qual foi o achado?",
+  "alternativas": [
+   "A dieta hiperproteica elevou a TFG",
+   "A dieta hiperproteica reduziu a TFG",
+   "A dieta hipoproteica elevou a TFG",
+   "Não houve diferença entre os grupos",
+   "A dieta hiperproteica aumentou a incidência de rejeição crônica"
+  ],
+  "correta": 0,
+  "justificativa": "O slide registra que a dieta **hiperproteica elevou a TFG**. É um dado que vale saber porque contrasta com a recomendação conservadora de 0,55 a 0,60 g/kg para o pós-TR tardio apresentada na mesma aula — o slide mostra o estudo, não troca a recomendação.",
+  "porque_erradas": {
+   "1": "O slide diz o contrário.",
+   "2": "O efeito descrito é da dieta hiperproteica.",
+   "3": "Houve diferença: a TFG subiu com mais proteína.",
+   "4": "Rejeição crônica não é o desfecho citado no slide."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 154
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-A9-01",
+  "modulo": "A9",
+  "tema": "rim",
+  "subtema": "Nefrolitíase",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Homem de 31 anos com cálculo ureteral de 9 mm. Segundo os slides, a expectativa de eliminação espontânea é:",
+  "alternativas": [
+   "Alta: cálculos até 10 mm saem espontaneamente",
+   "Cerca de 50% dos casos",
+   "Baixa: cálculos maiores que 7 mm raramente são eliminados",
+   "Nula: só sai com litotripsia",
+   "Não é possível estimar pelo tamanho"
+  ],
+  "correta": 2,
+  "justificativa": "O slide divide por tamanho: **< 5 mm eliminados espontaneamente**, **5 a 7 mm em cerca de 50% dos casos** e **> 7 mm raramente eliminados**. Nove milímetros está na última faixa.",
+  "porque_erradas": {
+   "0": "O limite da eliminação espontânea é 5 mm, não 10 mm.",
+   "1": "Os 50% são da faixa de 5 a 7 mm.",
+   "3": "O slide diz **raramente** eliminados, o que não é o mesmo que impossível.",
+   "4": "O slide estima justamente pelo tamanho do cálculo."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 160
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-A9-02",
+  "modulo": "A9",
+  "tema": "rim",
+  "subtema": "Nefrolitíase",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Paciente com nefrolitíase recorrente e diagnóstico de hiperoxalúria. Qual conduta nutricional os slides indicam?",
+  "alternativas": [
+   "Restringir purinas e evitar bebidas alcoólicas",
+   "Restringir alimentos ricos em oxalatos e restringir vitamina C",
+   "Controlar o cálcio alimentar e as purinas",
+   "Restringir cálcio e sódio",
+   "Restringir proteína vegetal e aumentar vitamina C"
+  ],
+  "correta": 1,
+  "justificativa": "A tabela de terapia nutricional traz, para a **hiperoxalúria**, duas recomendações: **restringir alimentos com alto teor de oxalatos** e **restrição de vitamina C**.",
+  "porque_erradas": {
+   "0": "É a conduta da hiperuricosúria.",
+   "2": "O controle do cálcio alimentar é da hipercalciúria absortiva tipo II.",
+   "3": "A restrição de cálcio é justamente o que os objetivos gerais mandam evitar.",
+   "4": "A vitamina C deve ser restringida, não aumentada, nessa situação."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 167
+  },
+  "ambiguidade": null,
+  "elaboracao": {
+   "pergunta": "Por que a vitamina C entra na restrição justamente na hiperoxalúria?",
+   "opcoes": [
+    "Porque a recomendação aparece na linha da hiperoxalúria, ao lado da restrição de oxalatos",
+    "Porque a vitamina C acidifica a urina e dissolve o cálculo",
+    "Porque a vitamina C aumenta a absorção intestinal de cálcio"
+   ],
+   "correta": 0,
+   "justificativa": "O slide associa a restrição de vitamina C **somente** à hiperoxalúria, na mesma linha da restrição de oxalatos. Ele não explica o mecanismo, então o que se guarda é o pareamento."
+  }
+ },
+ {
+  "id": "Q-A9-03",
+  "modulo": "A9",
+  "tema": "rim",
+  "subtema": "Nefrolitíase",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "preteste": false,
+  "enunciado": "Sobre o cálcio da dieta na nefrolitíase, qual afirmação corresponde aos slides?",
+  "alternativas": [
+   "A restrição de cálcio é a primeira medida em qualquer cálculo de oxalato de cálcio",
+   "O objetivo geral é evitar a restrição de cálcio; o controle do cálcio alimentar aparece só na hipercalciúria absortiva tipo II",
+   "O cálcio deve ser suplementado em todos os casos, para ligar o oxalato no intestino",
+   "O cálcio não tem relação com a formação de cálculos",
+   "A restrição de cálcio está indicada sempre que houver história familiar"
+  ],
+  "correta": 1,
+  "justificativa": "Os objetivos da terapia nutricional pedem **ingestões balanceadas de Ca e oxalato** e listam **evitar a restrição de cálcio**. A única linha da tabela que manda controlar o cálcio alimentar é a da **hipercalciúria absortiva tipo II**.",
+  "porque_erradas": {
+   "0": "É o oposto do que o slide recomenda como regra geral.",
+   "2": "Os slides não indicam suplementar cálcio na litíase.",
+   "3": "Cálcio, sódio, potássio e magnésio estão entre os fatores dietéticos listados.",
+   "4": "A história familiar é um dado de prevalência, não um gatilho de restrição."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 166
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-A9-04",
+  "modulo": "A9",
+  "tema": "rim",
+  "subtema": "Nefrolitíase",
+  "prioridade": "I",
+  "dificuldade": 1,
+  "preteste": false,
+  "enunciado": "Qual é o perfil epidemiológico da nefrolitíase descrito nos slides?",
+  "alternativas": [
+   "Mulheres acima de 60 anos, com prevalência de 2 a 3%",
+   "Homens jovens de 20 a 40 anos, raça branca, prevalência de 10 a 12% e caráter recorrente",
+   "Crianças e adolescentes, com prevalência de 10 a 12%",
+   "Homens acima de 65 anos, com prevalência de 40 a 60%",
+   "Sem predomínio de sexo ou idade"
+  ],
+  "correta": 1,
+  "justificativa": "O slide de prevalência traz: **10 a 12% da população**, **homens jovens de 20 a 40 anos**, **raça branca**, **história familiar em 40 a 60% dos parentes de 1º grau** e **patologia recorrente**.",
+  "porque_erradas": {
+   "0": "Inverte o sexo e a faixa etária e usa uma prevalência que não consta.",
+   "2": "A faixa citada é de adultos jovens.",
+   "3": "Os 40 a 60% se referem à história familiar em parentes de 1º grau, não à prevalência.",
+   "4": "O slide descreve predomínio claro de homens jovens."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 157
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-A9-05",
+  "modulo": "A9",
+  "tema": "rim",
+  "subtema": "Nefrolitíase",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Na crise aguda de cólica renal, qual é a conduta descrita nos slides?",
+  "alternativas": [
+   "Analgesia e hidratação",
+   "Intervenção dietoterápica imediata com restrição de oxalatos",
+   "Manejo cirúrgico de urgência em todos os casos",
+   "Restrição hídrica para reduzir a pressão no ureter",
+   "Início de quelantes de fósforo"
+  ],
+  "correta": 0,
+  "justificativa": "O slide separa claramente: **crise aguda (cólica renal) → analgesia e hidratação**; **crise recorrente → manejo médico e cirúrgico + intervenções dietoterápicas**.",
+  "porque_erradas": {
+   "1": "A dietoterapia aparece na crise recorrente, não na aguda.",
+   "2": "O manejo cirúrgico está na coluna da crise recorrente, e não para todos.",
+   "3": "O slide indica hidratação, não restrição hídrica.",
+   "4": "Quelantes de fósforo pertencem ao manejo da hiperfosfatemia na DRC em diálise."
+  },
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 161
   },
   "ambiguidade": null
  },
@@ -1936,316 +2366,6 @@
   "ambiguidade": null
  },
  {
-  "id": "Q-A7-01",
-  "modulo": "A7",
-  "tema": "rim",
-  "subtema": "Diálise peritoneal",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": true,
-  "enunciado": "Segundo o KDOQI 2020 apresentado nos slides, qual é a recomendação proteica para o paciente em diálise peritoneal **sem** intercorrências?",
-  "alternativas": [
-   "0,55 a 0,60 g/kg/dia",
-   "0,8 g/kg/dia",
-   "1,0 a 1,2 g/kg/dia",
-   "1,20 a 1,30 g/kg/dia",
-   "1,40 a 1,50 g/kg/dia"
-  ],
-  "correta": 3,
-  "justificativa": "O slide de proteínas da DP traz **1,20 a 1,30 g/kg/dia**, reservando **1,40 a 1,50 g/kg/dia** para **repleção e peritonite**.",
-  "porque_erradas": {
-   "0": "É a recomendação do tratamento conservador sem diabetes (KDOQI).",
-   "1": "É a sugestão do KDIGO 2024 para a DRC G3–G5 em tratamento conservador.",
-   "2": "É a recomendação da hemodiálise.",
-   "4": "É a faixa da DP em repleção ou peritonite, não a habitual."
-  },
-  "fonte": {
-   "arquivo": "Aula_NEFRO",
-   "pagina": 139
-  },
-  "ambiguidade": "proteina-dp"
- },
- {
-  "id": "Q-A7-02",
-  "modulo": "A7",
-  "tema": "rim",
-  "subtema": "Diálise peritoneal",
-  "prioridade": "E",
-  "dificuldade": 3,
-  "preteste": false,
-  "enunciado": "Mulher de 44 anos em CAPD, sem edema e com pressão arterial controlada, pergunta quanto de líquido pode beber por dia. Com base nos slides, a conduta é:",
-  "alternativas": [
-   "Prescrever 500 mL mais o volume da diurese",
-   "Limitar a 1.000 mL por dia",
-   "Não restringir: na DP a restrição só é indicada com PA elevada e edema",
-   "Limitar a 800 mL por dia, como na hiponatremia",
-   "Limitar a 1,5 L por dia em qualquer paciente em DP"
-  ],
-  "correta": 2,
-  "justificativa": "A tabela da DP diz, no item Líquidos: **restrição na presença de PA elevada e edema**. Sem esses dois achados, não há indicação de restringir. A fórmula de 500 mL + diurese e o teto de 1.000 mL pertencem à **hemodiálise**.",
-  "porque_erradas": {
-   "0": "É a prescrição da hemodiálise para quem tem diurese residual.",
-   "1": "É o teto da hemodiálise para o paciente anúrico.",
-   "3": "Esse volume pertence à restrição hídrica da ascite com hiponatremia grave, no bloco do fígado.",
-   "4": "Não há teto fixo para a DP nos slides."
-  },
-  "fonte": {
-   "arquivo": "Aula_NEFRO",
-   "pagina": 140
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-A7-03",
-  "modulo": "A7",
-  "tema": "rim",
-  "subtema": "Diálise peritoneal",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Sobre a energia e os carboidratos na diálise peritoneal, assinale a alternativa correta.",
-  "alternativas": [
-   "Energia de 25 a 35 kcal/kg/dia, sem considerar a glicose do dialisato, e carboidratos de 50 a 60% do VET",
-   "Energia de 25 a 35 kcal/kg/dia incluindo a glicose do dialisato, e carboidratos de 35% do VET por via oral",
-   "Energia de 30 a 45 kcal/kg/dia e carboidratos de 60 a 70% do VET",
-   "Energia de 20 a 30 kcal/kg/dia e carboidratos livres",
-   "Energia calculada apenas pelo dialisato, com dieta isenta de carboidratos"
-  ],
-  "correta": 1,
-  "justificativa": "A tabela da DP marca com asterisco que tanto a energia quanto os carboidratos **incluem a glicose do dialisato**: **25 a 35 kcal/kg/dia** e **35% do VET por via oral**.",
-  "porque_erradas": {
-   "0": "Os 50 a 60% de carboidrato são da hemodiálise, e a energia da DP inclui sim o dialisato.",
-   "2": "Essa faixa de energia e de carboidratos é da insuficiência renal aguda.",
-   "3": "20 a 30 kcal/kg é a cirrose compensada, no bloco do fígado.",
-   "4": "Dieta isenta de carboidratos não aparece em nenhum slide."
-  },
-  "fonte": {
-   "arquivo": "Aula_NEFRO",
-   "pagina": 138
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-A7-04",
-  "modulo": "A7",
-  "tema": "rim",
-  "subtema": "Diálise peritoneal",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Comparando as tabelas de minerais da hemodiálise e da diálise peritoneal, qual afirmação está correta?",
-  "alternativas": [
-   "O potássio é mais permissivo na DP (até 76 mEq) do que na HD (50 a 70 mEq)",
-   "O potássio é mais restrito na DP (até 40 mEq) do que na HD",
-   "O fósforo é mais restrito na DP (700 mg) do que na HD (1.000 mg)",
-   "O sódio é mais permissivo na DP (3.000 mg) do que na HD (2.300 mg)",
-   "O cálcio é idêntico nas duas, em 700 mg"
-  ],
-  "correta": 0,
-  "justificativa": "As tabelas trazem potássio **até 76 mEq na DP** contra **50 a 70 mEq na HD**. O fósforo também é mais permissivo na DP (1.000–1.200 mg contra 700 mg), o sódio é igual (2.300 mg) e o cálcio da DP vai de 1.000 a 1.500 mg contra 1.000 mg na HD.",
-  "porque_erradas": {
-   "1": "Inverte a comparação e usa um número que não existe nos slides.",
-   "2": "Inverte os dois valores: 700 mg é da HD e 1.000 a 1.200 mg é da DP.",
-   "3": "O sódio é o mesmo nas duas tabelas: até 2.300 mg.",
-   "4": "Nenhuma das duas tabelas traz 700 mg de cálcio."
-  },
-  "fonte": {
-   "arquivo": "Aula_NEFRO",
-   "pagina": 140
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-A7-05",
-  "modulo": "A7",
-  "tema": "rim",
-  "subtema": "Diálise peritoneal",
-  "prioridade": "I",
-  "dificuldade": 1,
-  "preteste": false,
-  "enunciado": "Entre os objetivos do protocolo assistencial de Nutrição na diálise peritoneal, qual é característico dessa modalidade?",
-  "alternativas": [
-   "Prevenir a toxicidade urêmica",
-   "Adequar a dieta ao hábito alimentar do paciente",
-   "Prevenir a obesidade e a hiperlipidemia",
-   "Reduzir a frequência das sessões",
-   "Manter o Kt/V acima de 1,2 por sessão"
-  ],
-  "correta": 2,
-  "justificativa": "O protocolo da DP lista **prevenir a obesidade e a hiperlipidemia** e **incentivar a atividade física**, justamente porque a **glicose do dialisato** é absorvida e soma calorias.",
-  "porque_erradas": {
-   "0": "Aparece no protocolo da hemodiálise.",
-   "1": "Também é do protocolo da hemodiálise.",
-   "3": "Não é um objetivo nutricional, e não consta dos slides.",
-   "4": "O Kt/V de 1,2 por sessão é o da hemodiálise; na CAPD é 2,0 por semana."
-  },
-  "fonte": {
-   "arquivo": "Aula_NEFRO",
-   "pagina": 137
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-A9-01",
-  "modulo": "A9",
-  "tema": "rim",
-  "subtema": "Nefrolitíase",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": true,
-  "enunciado": "Homem de 31 anos com cálculo ureteral de 9 mm. Segundo os slides, a expectativa de eliminação espontânea é:",
-  "alternativas": [
-   "Alta: cálculos até 10 mm saem espontaneamente",
-   "Cerca de 50% dos casos",
-   "Baixa: cálculos maiores que 7 mm raramente são eliminados",
-   "Nula: só sai com litotripsia",
-   "Não é possível estimar pelo tamanho"
-  ],
-  "correta": 2,
-  "justificativa": "O slide divide por tamanho: **< 5 mm eliminados espontaneamente**, **5 a 7 mm em cerca de 50% dos casos** e **> 7 mm raramente eliminados**. Nove milímetros está na última faixa.",
-  "porque_erradas": {
-   "0": "O limite da eliminação espontânea é 5 mm, não 10 mm.",
-   "1": "Os 50% são da faixa de 5 a 7 mm.",
-   "3": "O slide diz **raramente** eliminados, o que não é o mesmo que impossível.",
-   "4": "O slide estima justamente pelo tamanho do cálculo."
-  },
-  "fonte": {
-   "arquivo": "Aula_NEFRO",
-   "pagina": 160
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-A9-02",
-  "modulo": "A9",
-  "tema": "rim",
-  "subtema": "Nefrolitíase",
-  "prioridade": "E",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Paciente com nefrolitíase recorrente e diagnóstico de hiperoxalúria. Qual conduta nutricional os slides indicam?",
-  "alternativas": [
-   "Restringir purinas e evitar bebidas alcoólicas",
-   "Restringir alimentos ricos em oxalatos e restringir vitamina C",
-   "Controlar o cálcio alimentar e as purinas",
-   "Restringir cálcio e sódio",
-   "Restringir proteína vegetal e aumentar vitamina C"
-  ],
-  "correta": 1,
-  "justificativa": "A tabela de terapia nutricional traz, para a **hiperoxalúria**, duas recomendações: **restringir alimentos com alto teor de oxalatos** e **restrição de vitamina C**.",
-  "porque_erradas": {
-   "0": "É a conduta da hiperuricosúria.",
-   "2": "O controle do cálcio alimentar é da hipercalciúria absortiva tipo II.",
-   "3": "A restrição de cálcio é justamente o que os objetivos gerais mandam evitar.",
-   "4": "A vitamina C deve ser restringida, não aumentada, nessa situação."
-  },
-  "fonte": {
-   "arquivo": "Aula_NEFRO",
-   "pagina": 167
-  },
-  "ambiguidade": null,
-  "elaboracao": {
-   "pergunta": "Por que a vitamina C entra na restrição justamente na hiperoxalúria?",
-   "opcoes": [
-    "Porque a recomendação aparece na linha da hiperoxalúria, ao lado da restrição de oxalatos",
-    "Porque a vitamina C acidifica a urina e dissolve o cálculo",
-    "Porque a vitamina C aumenta a absorção intestinal de cálcio"
-   ],
-   "correta": 0,
-   "justificativa": "O slide associa a restrição de vitamina C **somente** à hiperoxalúria, na mesma linha da restrição de oxalatos. Ele não explica o mecanismo, então o que se guarda é o pareamento."
-  }
- },
- {
-  "id": "Q-A9-03",
-  "modulo": "A9",
-  "tema": "rim",
-  "subtema": "Nefrolitíase",
-  "prioridade": "E",
-  "dificuldade": 3,
-  "preteste": false,
-  "enunciado": "Sobre o cálcio da dieta na nefrolitíase, qual afirmação corresponde aos slides?",
-  "alternativas": [
-   "A restrição de cálcio é a primeira medida em qualquer cálculo de oxalato de cálcio",
-   "O objetivo geral é evitar a restrição de cálcio; o controle do cálcio alimentar aparece só na hipercalciúria absortiva tipo II",
-   "O cálcio deve ser suplementado em todos os casos, para ligar o oxalato no intestino",
-   "O cálcio não tem relação com a formação de cálculos",
-   "A restrição de cálcio está indicada sempre que houver história familiar"
-  ],
-  "correta": 1,
-  "justificativa": "Os objetivos da terapia nutricional pedem **ingestões balanceadas de Ca e oxalato** e listam **evitar a restrição de cálcio**. A única linha da tabela que manda controlar o cálcio alimentar é a da **hipercalciúria absortiva tipo II**.",
-  "porque_erradas": {
-   "0": "É o oposto do que o slide recomenda como regra geral.",
-   "2": "Os slides não indicam suplementar cálcio na litíase.",
-   "3": "Cálcio, sódio, potássio e magnésio estão entre os fatores dietéticos listados.",
-   "4": "A história familiar é um dado de prevalência, não um gatilho de restrição."
-  },
-  "fonte": {
-   "arquivo": "Aula_NEFRO",
-   "pagina": 166
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-A9-04",
-  "modulo": "A9",
-  "tema": "rim",
-  "subtema": "Nefrolitíase",
-  "prioridade": "I",
-  "dificuldade": 1,
-  "preteste": false,
-  "enunciado": "Qual é o perfil epidemiológico da nefrolitíase descrito nos slides?",
-  "alternativas": [
-   "Mulheres acima de 60 anos, com prevalência de 2 a 3%",
-   "Homens jovens de 20 a 40 anos, raça branca, prevalência de 10 a 12% e caráter recorrente",
-   "Crianças e adolescentes, com prevalência de 10 a 12%",
-   "Homens acima de 65 anos, com prevalência de 40 a 60%",
-   "Sem predomínio de sexo ou idade"
-  ],
-  "correta": 1,
-  "justificativa": "O slide de prevalência traz: **10 a 12% da população**, **homens jovens de 20 a 40 anos**, **raça branca**, **história familiar em 40 a 60% dos parentes de 1º grau** e **patologia recorrente**.",
-  "porque_erradas": {
-   "0": "Inverte o sexo e a faixa etária e usa uma prevalência que não consta.",
-   "2": "A faixa citada é de adultos jovens.",
-   "3": "Os 40 a 60% se referem à história familiar em parentes de 1º grau, não à prevalência.",
-   "4": "O slide descreve predomínio claro de homens jovens."
-  },
-  "fonte": {
-   "arquivo": "Aula_NEFRO",
-   "pagina": 157
-  },
-  "ambiguidade": null
- },
- {
-  "id": "Q-A9-05",
-  "modulo": "A9",
-  "tema": "rim",
-  "subtema": "Nefrolitíase",
-  "prioridade": "I",
-  "dificuldade": 2,
-  "preteste": false,
-  "enunciado": "Na crise aguda de cólica renal, qual é a conduta descrita nos slides?",
-  "alternativas": [
-   "Analgesia e hidratação",
-   "Intervenção dietoterápica imediata com restrição de oxalatos",
-   "Manejo cirúrgico de urgência em todos os casos",
-   "Restrição hídrica para reduzir a pressão no ureter",
-   "Início de quelantes de fósforo"
-  ],
-  "correta": 0,
-  "justificativa": "O slide separa claramente: **crise aguda (cólica renal) → analgesia e hidratação**; **crise recorrente → manejo médico e cirúrgico + intervenções dietoterápicas**.",
-  "porque_erradas": {
-   "1": "A dietoterapia aparece na crise recorrente, não na aguda.",
-   "2": "O manejo cirúrgico está na coluna da crise recorrente, e não para todos.",
-   "3": "O slide indica hidratação, não restrição hídrica.",
-   "4": "Quelantes de fósforo pertencem ao manejo da hiperfosfatemia na DRC em diálise."
-  },
-  "fonte": {
-   "arquivo": "Aula_NEFRO",
-   "pagina": 161
-  },
-  "ambiguidade": null
- },
- {
   "id": "Q-B1-01",
   "modulo": "B1",
   "tema": "figado",
@@ -2372,6 +2492,66 @@
   "fonte": {
    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
    "pagina": 13
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B1-05",
+  "modulo": "B1",
+  "tema": "figado",
+  "subtema": "Fisiologia hepática",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Nos slides, qual é a diferença entre **transaminação** e **desaminação** no metabolismo hepático de proteínas?",
+  "alternativas": [
+   "A transaminação converte amônia em ureia; a desaminação produz glicose a partir de aminoácidos",
+   "A transaminação é fundamental para produzir glicose a partir de aminoácidos no jejum; a desaminação remove o grupo amina e converte rapidamente a amônia em ureia",
+   "Ambas ocorrem apenas no músculo esquelético, não no fígado",
+   "A transaminação sintetiza albumina; a desaminação sintetiza fatores de coagulação",
+   "A transaminação ocorre no jejum e a desaminação apenas no estado alimentado"
+  ],
+  "correta": 1,
+  "justificativa": "O slide liga a **transaminação** à produção de **glicose a partir de aminoácidos no jejum** (gliconeogênese) e a **desaminação** à **remoção do grupo amina com rápida conversão da amônia em ureia**. Esse segundo passo é o que explica a hiperamonemia quando o fígado falha.",
+  "porque_erradas": {
+   "0": "As duas definições estão invertidas.",
+   "2": "O slide descreve as duas como funções hepáticas.",
+   "3": "Síntese de albumina e de fatores de coagulação são outras funções, não estas.",
+   "4": "O slide não faz essa divisão por estado alimentado."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 12
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B1-06",
+  "modulo": "B1",
+  "tema": "figado",
+  "subtema": "Fisiologia hepática",
+  "prioridade": "C",
+  "dificuldade": 1,
+  "preteste": false,
+  "enunciado": "Entre os dados gerais do fígado apresentados em aula, qual está correto?",
+  "alternativas": [
+   "Pesa cerca de 300 a 500 g e recebe 5% do débito cardíaco",
+   "Corresponde a 10 a 15% da massa corporal",
+   "Contém 13% do sangue do corpo e recebe 25% do débito cardíaco",
+   "Recebe 70 a 80% do sangue pela artéria hepática",
+   "Não tem capacidade de autorregeneração"
+  ],
+  "correta": 2,
+  "justificativa": "O slide de abertura traz o fígado como maior órgão, **~1,5 a 2 kg**, **2,4 a 4,5% da massa corporal**, com **13% do sangue do corpo** e **25% do débito cardíaco**, além da **capacidade de autorregeneração**.",
+  "porque_erradas": {
+   "0": "O peso é de cerca de 1,5 a 2 kg, e o débito cardíaco recebido é de 25%.",
+   "1": "A faixa do slide é 2,4 a 4,5% da massa corporal.",
+   "3": "São 70 a 80% pela **veia porta** e 20 a 30% pela artéria hepática.",
+   "4": "A autorregeneração é justamente um dos pontos destacados."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 5
   },
   "ambiguidade": null
  },
@@ -2522,6 +2702,66 @@
   "fonte": {
    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
    "pagina": 19
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B2-06",
+  "modulo": "B2",
+  "tema": "figado",
+  "subtema": "Avaliação laboratorial hepática",
+  "prioridade": "I",
+  "dificuldade": 1,
+  "preteste": false,
+  "enunciado": "Qual é a proporção das frações da bilirrubina total, segundo os slides?",
+  "alternativas": [
+   "50% indireta e 50% direta",
+   "70 a 80% indireta e 20 a 30% direta",
+   "70 a 80% direta e 20 a 30% indireta",
+   "90% direta e 10% indireta",
+   "A proporção varia e não é definida nos slides"
+  ],
+  "correta": 1,
+  "justificativa": "O slide traz **bilirrubina total = 70 a 80% indireta e 20 a 30% direta**. Repare que a proporção é a mesma dos números do suprimento sanguíneo do fígado (70 a 80% porta / 20 a 30% artéria) — é fácil confundir qual número pertence a qual tabela.",
+  "porque_erradas": {
+   "0": "Não é a divisão apresentada.",
+   "2": "As frações estão invertidas: o predomínio é da indireta.",
+   "3": "Valor inventado para a fração direta.",
+   "4": "Os slides definem a proporção."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 20
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B2-07",
+  "modulo": "B2",
+  "tema": "figado",
+  "subtema": "Avaliação laboratorial hepática",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": false,
+  "enunciado": "Homem de 48 anos com transaminases elevadas e relação **AST/ALT de 2,6**. O que os slides dizem sobre essa relação?",
+  "alternativas": [
+   "Sugere etiologia alcoólica, e a razão tende a se elevar conforme a progressão da doença hepática",
+   "Sugere hepatite viral aguda",
+   "Sugere colestase extra-hepática",
+   "Indica lesão muscular, excluindo causa hepática",
+   "Não tem valor diagnóstico, pois AST e ALT são equivalentes"
+  ],
+  "correta": 0,
+  "justificativa": "O slide registra dois pontos sobre a razão AST/ALT: **> 2 sugere etiologia alcoólica** e a razão **tende a se elevar conforme a doença hepática progride**. Por isso ela é lida junto com a história, e não isoladamente.",
+  "porque_erradas": {
+   "1": "Na hepatite viral aguda o padrão típico não é esse predomínio de AST.",
+   "2": "Colestase se avalia por FA e GGT, não por essa razão.",
+   "3": "A AST também está no músculo estriado, mas o slide usa a razão > 2 para etiologia alcoólica.",
+   "4": "O slide diferencia as duas: a ALT é mais específica do hepatócito."
+  },
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 18
   },
   "ambiguidade": null
  },

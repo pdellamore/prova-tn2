@@ -8,8 +8,13 @@ import { esc, rico, selo, caixaFonte, anunciar, bip } from "../ui.js";
 import * as kdigo from "../calc/kdigo.js";
 import * as cockcroft from "../calc/cockcroft.js";
 import * as mst from "../calc/mst.js";
+import * as childpugh from "../calc/childpugh.js";
+import * as pesoseco from "../calc/pesoseco.js";
+import * as pesoajustado from "../calc/pesoajustado.js";
+import * as liquidoshd from "../calc/liquidoshd.js";
+import * as sld from "../calc/sld.js";
 
-const CALCS = { kdigo, cockcroft, mst };
+const CALCS = { kdigo, cockcroft, mst, liquidoshd, childpugh, pesoseco, pesoajustado, sld };
 
 export async function desenhar(raiz, { args }) {
   const id = args[0];
@@ -38,10 +43,6 @@ function indice(raiz) {
           </a>`;
         })
         .join("")}
-    </div>
-    <div class="cartao" style="margin-top:1rem">
-      <p class="olho">Chegam depois</p>
-      <p style="margin:0;font-size:.93rem;color:var(--tinta-fraca)">Peso seco por desconto de ascite e edema, peso ajustado da MASLD, Child-Pugh, prescrição de líquidos na HD e a classificação MASLD × MetALD × ALD entram com o conteúdo de sexta e sábado.</p>
     </div>
   </section>`;
 }

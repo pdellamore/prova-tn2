@@ -1,0 +1,534 @@
+[
+ {
+  "id": "L-prot-rim",
+  "titulo": "Proteína em cada situação do rim",
+  "trilha": "rim",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 128
+  },
+  "nota": "A escada é conservador < hemodiálise < diálise peritoneal. A IRA contínua é a maior de todas.",
+  "pares": [
+   {
+    "esquerda": "Tratamento conservador, sem diabetes",
+    "direita": "0,55 a 0,60 g/kg"
+   },
+   {
+    "esquerda": "Tratamento conservador, com diabetes",
+    "direita": "0,6 a 0,8 g/kg"
+   },
+   {
+    "esquerda": "Dieta muito restrita com cetoácidos",
+    "direita": "0,28 a 0,43 g/kg"
+   },
+   {
+    "esquerda": "Hemodiálise",
+    "direita": "1,0 a 1,2 g/kg"
+   },
+   {
+    "esquerda": "Diálise peritoneal",
+    "direita": "1,2 a 1,3 g/kg"
+   },
+   {
+    "esquerda": "Diálise peritoneal com peritonite",
+    "direita": "1,4 a 1,5 g/kg"
+   },
+   {
+    "esquerda": "Transplante renal, fase imediata",
+    "direita": "1,3 a 1,5 g/kg"
+   },
+   {
+    "esquerda": "IRA em terapia renal contínua",
+    "direita": "1,7 a 2,5 g/kg"
+   }
+  ]
+ },
+ {
+  "id": "L-prot-figado",
+  "titulo": "Proteína em cada situação do fígado",
+  "trilha": "figado",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 9
+  },
+  "nota": "Repare que, na obesidade, a proteína sobe enquanto a energia desce — e que na encefalopatia não se restringe nada.",
+  "pares": [
+   {
+    "esquerda": "Cirrose compensada",
+    "direita": "1,2 g/kg"
+   },
+   {
+    "esquerda": "Cirrose descompensada ou desnutrida",
+    "direita": "1,2 a 1,5 g/kg"
+   },
+   {
+    "esquerda": "Cirrose compensada com obesidade",
+    "direita": "> 1,5 g/kg de peso ideal"
+   },
+   {
+    "esquerda": "MASLD em perda de peso",
+    "direita": "1,2 g/kg de peso ajustado"
+   },
+   {
+    "esquerda": "Pré-transplante, repleção",
+    "direita": "1,5 g/kg"
+   },
+   {
+    "esquerda": "Pós-transplante imediato, sem obesidade",
+    "direita": "1,5 a 2,0 g/kg"
+   },
+   {
+    "esquerda": "Encefalopatia hepática",
+    "direita": "não reduzir a ingestão"
+   }
+  ]
+ },
+ {
+  "id": "L-energia",
+  "titulo": "Energia em cada situação",
+  "trilha": "figado",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 11
+  },
+  "nota": "Na obesidade, as duas faixas são calculadas sobre o peso ideal.",
+  "pares": [
+   {
+    "esquerda": "Cirrose compensada",
+    "direita": "20 a 30 kcal/kg"
+   },
+   {
+    "esquerda": "Cirrose descompensada ou desnutrida",
+    "direita": "30 a 35 kcal/kg"
+   },
+   {
+    "esquerda": "Cirrose com obesidade grau I ou II",
+    "direita": "25 a 35 kcal/kg de peso ideal"
+   },
+   {
+    "esquerda": "Cirrose com obesidade grau III",
+    "direita": "20 a 25 kcal/kg de peso ideal"
+   },
+   {
+    "esquerda": "Pré-transplante, manutenção",
+    "direita": "30 kcal/kg"
+   },
+   {
+    "esquerda": "Pré-transplante, repleção",
+    "direita": "35 kcal/kg"
+   },
+   {
+    "esquerda": "Pós-transplante, primeiras 48 a 72 h",
+    "direita": "10 a 15 kcal/kg"
+   },
+   {
+    "esquerda": "IRA",
+    "direita": "30 a 45 kcal/kg"
+   }
+  ]
+ },
+ {
+  "id": "L-sodio",
+  "titulo": "Sódio e líquidos",
+  "trilha": "rim",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 132
+  },
+  "nota": "Os alvos de sódio mudam de aula para aula; o do pós-transplante hepático é o mais alto.",
+  "pares": [
+   {
+    "esquerda": "Hemodiálise",
+    "direita": "2.300 mg de sódio por dia"
+   },
+   {
+    "esquerda": "Ascite na cirrose",
+    "direita": "< 2 g de sódio (5 g de sal)"
+   },
+   {
+    "esquerda": "Pós-transplante hepático tardio",
+    "direita": "< 2.300 mg (~6 g de sal)"
+   },
+   {
+    "esquerda": "Líquidos na hemodiálise com diurese",
+    "direita": "500 mL + a diurese"
+   },
+   {
+    "esquerda": "Líquidos na hemodiálise, anúrico",
+    "direita": "no máximo 1.000 mL"
+   },
+   {
+    "esquerda": "Líquidos na ascite com Na < 120–125",
+    "direita": "800 mL a 1,5 L"
+   },
+   {
+    "esquerda": "Líquidos na diálise peritoneal",
+    "direita": "só com PA elevada e edema"
+   },
+   {
+    "esquerda": "Líquidos na ascite, caso geral",
+    "direita": "sem restrição"
+   }
+  ]
+ },
+ {
+  "id": "L-escores",
+  "titulo": "Escores: quem usa o quê",
+  "trilha": "figado",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 46
+  },
+  "nota": "O MELD e o Child só têm em comum a bilirrubina e o INR.",
+  "pares": [
+   {
+    "esquerda": "Child-Pugh",
+    "direita": "bilirrubina, albumina, ascite, encefalopatia e TP"
+   },
+   {
+    "esquerda": "MELD",
+    "direita": "creatinina, bilirrubina total e INR"
+   },
+   {
+    "esquerda": "MELD-Na",
+    "direita": "o MELD mais o sódio sérico"
+   },
+   {
+    "esquerda": "RFH-NPT",
+    "direita": "triagem específica para cirrose, valoriza fluidos"
+   },
+   {
+    "esquerda": "RFH-GA",
+    "direita": "IMC com peso seco, medida do braço e ingestão"
+   },
+   {
+    "esquerda": "GLIM na cirrose",
+    "direita": "etiológico sempre presente, fenotípico pela massa muscular"
+   },
+   {
+    "esquerda": "FIB-4",
+    "direita": "triagem para descartar fibrose avançada"
+   },
+   {
+    "esquerda": "MST",
+    "direita": "triagem de desnutrição, risco a partir de 2 pontos"
+   }
+  ]
+ },
+ {
+  "id": "L-confundiveis",
+  "titulo": "Conceitos que se confundem",
+  "trilha": "figado",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 19
+  },
+  "nota": "Cada par aqui é uma troca que a prova costuma fazer.",
+  "pares": [
+   {
+    "esquerda": "Marcador de lesão hepática aguda",
+    "direita": "TP / INR"
+   },
+   {
+    "esquerda": "Marcador de doença hepática crônica",
+    "direita": "albumina"
+   },
+   {
+    "esquerda": "Enzima mais específica do fígado",
+    "direita": "ALT"
+   },
+   {
+    "esquerda": "Relação que sugere etiologia alcoólica",
+    "direita": "AST/ALT > 2"
+   },
+   {
+    "esquerda": "Confirma origem hepática da fosfatase alcalina",
+    "direita": "GGT"
+   },
+   {
+    "esquerda": "Armazena vitamina A e produz colágeno",
+    "direita": "célula estrelada"
+   },
+   {
+    "esquerda": "Macrófago residente do fígado",
+    "direita": "célula de Kupffer"
+   },
+   {
+    "esquerda": "Único vírus hepatotrópico de DNA",
+    "direita": "hepatite B"
+   }
+  ]
+ },
+ {
+  "id": "L-fluidos",
+  "titulo": "Descontos de peso por fluidos",
+  "trilha": "figado",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 25
+  },
+  "nota": "Dois sistemas distintos: o percentual (recomendado pelas diretrizes) e o absoluto, em quilos.",
+  "pares": [
+   {
+    "esquerda": "Ascite leve, percentual",
+    "direita": "−5%"
+   },
+   {
+    "esquerda": "Ascite moderada, percentual",
+    "direita": "−10%"
+   },
+   {
+    "esquerda": "Ascite severa, percentual",
+    "direita": "−15%"
+   },
+   {
+    "esquerda": "Ascite leve, absoluto",
+    "direita": "−2,2 kg"
+   },
+   {
+    "esquerda": "Ascite moderada, absoluto",
+    "direita": "−6 kg"
+   },
+   {
+    "esquerda": "Ascite grave, absoluto",
+    "direita": "−14 kg"
+   },
+   {
+    "esquerda": "Edema grave, absoluto",
+    "direita": "−10 kg"
+   }
+  ]
+ },
+ {
+  "id": "L-composicao",
+  "titulo": "Composição corporal: método e limite",
+  "trilha": "figado",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 53
+  },
+  "nota": "A pergunta que resolve quase tudo: o método sofre ou não com o fluido?",
+  "pares": [
+   {
+    "esquerda": "Recomendada na prática clínica",
+    "direita": "tomografia em L3"
+   },
+   {
+    "esquerda": "Superestimam a massa livre de gordura com fluido",
+    "direita": "bioimpedância e DEXA"
+   },
+   {
+    "esquerda": "Alternativa da DEXA na ascite sem edema",
+    "direita": "IMMA"
+   },
+   {
+    "esquerda": "Medida útil da bioimpedância",
+    "direita": "ângulo de fase"
+   },
+   {
+    "esquerda": "Só pode ser usada sem edema",
+    "direita": "circunferência da panturrilha"
+   },
+   {
+    "esquerda": "Sofrem menos influência de fluidos",
+    "direita": "circunferência do braço e CMB"
+   },
+   {
+    "esquerda": "Avalia a qualidade do músculo",
+    "direita": "escala Hounsfield"
+   },
+   {
+    "esquerda": "Superestima em pacientes com obesidade",
+    "direita": "antropometria"
+   }
+  ]
+ },
+ {
+  "id": "L-sld",
+  "titulo": "A família SLD",
+  "trilha": "figado",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 4
+  },
+  "nota": "O prognóstico piora na mesma ordem: ALD > MetALD > MASLD > sem esteatose.",
+  "pares": [
+   {
+    "esquerda": "Esteatose associada à disfunção metabólica",
+    "direita": "MASLD"
+   },
+   {
+    "esquerda": "A forma com inflamação, que exige biópsia",
+    "direita": "MASH"
+   },
+   {
+    "esquerda": "MASLD somada a consumo aumentado de álcool",
+    "direita": "MetALD"
+   },
+   {
+    "esquerda": "Doença hepática associada ao álcool",
+    "direita": "ALD"
+   },
+   {
+    "esquerda": "Faixa semanal de MetALD em mulheres",
+    "direita": "140 a 350 g"
+   },
+   {
+    "esquerda": "Faixa semanal de MetALD em homens",
+    "direita": "210 a 420 g"
+   },
+   {
+    "esquerda": "Perda de peso que reduz a esteatose",
+    "direita": "3 a 5%"
+   },
+   {
+    "esquerda": "Perda de peso que regride a fibrose",
+    "direita": "10%"
+   }
+  ]
+ },
+ {
+  "id": "L-cuidados-rim",
+  "titulo": "Nefrologia: o que não fazer",
+  "trilha": "rim",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 108
+  },
+  "nota": "Metade das pegadinhas da prova do rim está nesta lista.",
+  "pares": [
+   {
+    "esquerda": "Sal light na DRC",
+    "direita": "proibido, é rico em potássio"
+   },
+   {
+    "esquerda": "Carambola na DRC",
+    "direita": "proibida, contém neurotoxina"
+   },
+   {
+    "esquerda": "Vitaminas A e K no conservador",
+    "direita": "não suplementar"
+   },
+   {
+    "esquerda": "Restrição proteica em paciente instável",
+    "direita": "não restringir"
+   },
+   {
+    "esquerda": "Cálcio da dieta na nefrolitíase",
+    "direita": "não restringir como regra"
+   },
+   {
+    "esquerda": "Vitamina C na hiperoxalúria",
+    "direita": "evitar"
+   },
+   {
+    "esquerda": "Cetoanálogos da opção 02",
+    "direita": "só nos estágios 4 e 5"
+   },
+   {
+    "esquerda": "Glicose do dialisato na DP",
+    "direita": "entra na conta da energia"
+   }
+  ]
+ },
+ {
+  "id": "L-encefalopatia",
+  "titulo": "Encefalopatia hepática: o que a evidência mostra",
+  "trilha": "figado",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 33
+  },
+  "nota": "Três suplementos, três graus diferentes de evidência.",
+  "pares": [
+   {
+    "esquerda": "BCAA sobre a encefalopatia",
+    "direita": "reduzem (RR 0,79)"
+   },
+   {
+    "esquerda": "BCAA sobre a mortalidade",
+    "direita": "sem efeito (RR 0,89)"
+   },
+   {
+    "esquerda": "Zinco sobre a encefalopatia",
+    "direita": "melhora (RR 0,66), mas com viés"
+   },
+   {
+    "esquerda": "Zinco sobre a albumina",
+    "direita": "sem efeito"
+   },
+   {
+    "esquerda": "L-carnitina",
+    "direita": "sem benefício nos estudos citados"
+   },
+   {
+    "esquerda": "Probióticos",
+    "direita": "benefícios em 3 estudos, não é padrão"
+   },
+   {
+    "esquerda": "Proteína total na EH",
+    "direita": "não reduzir"
+   },
+   {
+    "esquerda": "Proteína animal na EH",
+    "direita": "restringir só com intolerância"
+   }
+  ]
+ },
+ {
+  "id": "L-vias",
+  "titulo": "Vias de alimentação e seus gatilhos",
+  "trilha": "figado",
+  "prioridade": "E",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 12
+  },
+  "nota": "O gatilho menor é sempre o da via mais invasiva.",
+  "pares": [
+   {
+    "esquerda": "Suplemento nutricional oral",
+    "direita": "via oral abaixo de 70%"
+   },
+   {
+    "esquerda": "Nutrição enteral",
+    "direita": "via oral abaixo de 60%"
+   },
+   {
+    "esquerda": "Nutrição parenteral",
+    "direita": "inviabilidade do TGI"
+   },
+   {
+    "esquerda": "Posição da sonda, primeira escolha",
+    "direita": "gástrica"
+   },
+   {
+    "esquerda": "Varizes esofágicas",
+    "direita": "não contraindicam a sonda"
+   },
+   {
+    "esquerda": "Gastrostomia",
+    "direita": "cuidado na ascite severa e na coagulopatia"
+   },
+   {
+    "esquerda": "Fórmula de escolha",
+    "direita": "polimérica padrão"
+   },
+   {
+    "esquerda": "Restrição hídrica",
+    "direita": "fórmula hipercalórica e hiperproteica"
+   }
+  ]
+ }
+]

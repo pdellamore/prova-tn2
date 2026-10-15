@@ -175,9 +175,17 @@
   ],
   "missoes": [
    {
+    "id": "sab-cards",
+    "titulo": "Revisão espaçada de ontem",
+    "desc": "os cards que venceram hoje voltam primeiro — rim e fígado misturados",
+    "rota": "#/flashcards",
+    "tipo": "cards",
+    "alvo": 35
+   },
+   {
     "id": "sab-licoes",
     "titulo": "Lições B5 a B8",
-    "desc": "chega com o conteúdo de sábado",
+    "desc": "MASLD, avaliação na cirrose, terapia nutricional e transplante hepático",
     "rota": "#/trilha",
     "tipo": "licoes",
     "modulos": [
@@ -188,15 +196,47 @@
     ]
    },
    {
-    "id": "sab-cards",
-    "titulo": "Cards de rim e fígado misturados",
-    "desc": "intercalação: os dois blocos na mesma sessão",
-    "rota": "#/flashcards",
-    "tipo": "cards",
-    "alvo": 35
+    "id": "sab-calc",
+    "titulo": "Cálculos do fígado",
+    "desc": "Child-Pugh, peso seco, peso ajustado e a classificação MASLD × MetALD × ALD",
+    "rota": "#/calculos",
+    "tipo": "calculo",
+    "calculos": [
+     "childpugh",
+     "pesoseco",
+     "pesoajustado",
+     "sld"
+    ]
+   },
+   {
+    "id": "sab-caso",
+    "titulo": "Monte o caso",
+    "desc": "dois casos clínicos conduzidos passo a passo",
+    "rota": "#/jogos/caso",
+    "tipo": "jogo",
+    "jogo": "caso",
+    "alvo": 2
+   },
+   {
+    "id": "sab-chefao",
+    "titulo": "Chefão do Fígado",
+    "desc": "20 questões cronometradas, com o gabarito só no final",
+    "rota": "#/chefao/figado",
+    "tipo": "chefao",
+    "chefao": "figado"
+   },
+   {
+    "id": "sab-feyn",
+    "titulo": "Explicar B4 e B7 com suas palavras",
+    "desc": "cirrose e terapia nutricional, no campo da técnica Feynman",
+    "rota": "#/licao/B7",
+    "tipo": "feynman",
+    "modulos": [
+     "B4",
+     "B7"
+    ]
    }
-  ],
-  "atrasada": "O conteúdo de sábado ainda está sendo montado."
+  ]
  },
  {
   "id": "dom",
@@ -205,9 +245,44 @@
   "rotulo": "Domingo, 18 de outubro",
   "titulo": "Revisão intercalada",
   "orgao": "rim",
-  "foco": "Rim e fígado misturados, a lista de **Cuidado na prova**, o caderno de erros → **Chefão Final** com 40 questões.",
+  "foco": "Rim e fígado misturados, os mini-jogos da lista de **Cuidado na prova**, o caderno de erros → **Chefão Final** com 40 questões. À noite, a revisão ultrarrápida.",
   "modulos": [],
   "missoes": [
+   {
+    "id": "dom-cards",
+    "titulo": "Revisão geral de cards",
+    "desc": "tudo que vencer no dia, das duas trilhas",
+    "rota": "#/flashcards",
+    "tipo": "cards",
+    "alvo": 50
+   },
+   {
+    "id": "dom-pegadinha",
+    "titulo": "Pegadinha ou não?",
+    "desc": "duas rodadas das afirmações de “Cuidado na prova”, contra o relógio",
+    "rota": "#/jogos/vf",
+    "tipo": "jogo",
+    "jogo": "vf",
+    "alvo": 2
+   },
+   {
+    "id": "dom-numero",
+    "titulo": "Qual é o número?",
+    "desc": "duas rodadas de cortes, g/kg, mEq e mg",
+    "rota": "#/jogos/numero",
+    "tipo": "jogo",
+    "jogo": "numero",
+    "alvo": 2
+   },
+   {
+    "id": "dom-ligar",
+    "titulo": "Ligar colunas",
+    "desc": "três tabelas comparativas embaralhadas",
+    "rota": "#/jogos/ligar",
+    "tipo": "jogo",
+    "jogo": "ligar",
+    "alvo": 3
+   },
    {
     "id": "dom-erros",
     "titulo": "Refazer só os erros",
@@ -216,15 +291,14 @@
     "tipo": "livre"
    },
    {
-    "id": "dom-cards",
-    "titulo": "Revisão geral de cards",
-    "desc": "tudo que vencer no dia",
-    "rota": "#/flashcards",
-    "tipo": "cards",
-    "alvo": 50
+    "id": "dom-chefao",
+    "titulo": "Chefão Final",
+    "desc": "40 questões de rim e fígado misturadas, em 90 minutos",
+    "rota": "#/chefao/final",
+    "tipo": "chefao",
+    "chefao": "final"
    }
-  ],
-  "atrasada": "Os mini-jogos e o Chefão Final entram no domingo."
+  ]
  },
  {
   "id": "seg",
@@ -239,10 +313,19 @@
    {
     "id": "seg-relampago",
     "titulo": "Revisão relâmpago",
-    "desc": "os números essenciais, em sequência",
-    "rota": "#/flashcards",
+    "desc": "só os cards essenciais e os que você mais errou, em sequência",
+    "rota": "#/flashcards/relampago",
     "tipo": "cards",
     "alvo": 20
+   },
+   {
+    "id": "seg-numero",
+    "titulo": "Uma rodada de números",
+    "desc": "os cortes que mais caem, para chegar com eles na ponta da língua",
+    "rota": "#/jogos/numero",
+    "tipo": "jogo",
+    "jogo": "numero",
+    "alvo": 1
    },
    {
     "id": "seg-erros",

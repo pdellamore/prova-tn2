@@ -1,0 +1,1042 @@
+[
+ {
+  "id": "V-001",
+  "modulo": "A2",
+  "prioridade": "E",
+  "afirmacao": "Proteinúria acima de 3,5 g em 24 horas é critério isolado de síndrome nefrótica.",
+  "verdadeiro": true,
+  "explicacao": "É critério **isolado**: sozinho já define. Os demais achados (hipoalbuminemia, edema, dislipidemia) acompanham, mas não são exigidos em conjunto.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 29
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-002",
+  "modulo": "A2",
+  "prioridade": "E",
+  "afirmacao": "A dieta da síndrome nefrótica é hiperproteica, para repor a proteína perdida na urina.",
+  "verdadeiro": false,
+  "explicacao": "A dieta é **normoproteica**. Aumentar a proteína não repõe a perda e sobrecarrega o glomérulo.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 81
+  },
+  "ambiguidade": "secao-dietoterapia"
+ },
+ {
+  "id": "V-003",
+  "modulo": "A3",
+  "prioridade": "E",
+  "afirmacao": "Para o diagnóstico de doença renal crônica, as alterações precisam estar presentes há mais de 3 meses.",
+  "verdadeiro": true,
+  "explicacao": "**DRC = alterações de estrutura ou função por mais de 3 meses, com implicações para a saúde.** Abaixo disso, é lesão aguda.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 30
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-004",
+  "modulo": "A3",
+  "prioridade": "E",
+  "afirmacao": "Um paciente com TFG de 75 mL/min/1,73 m² e sem nenhum marcador de lesão renal tem DRC estágio G2.",
+  "verdadeiro": false,
+  "explicacao": "**G1 e G2 só são DRC se houver marcador de lesão renal.** Sem marcador, uma TFG de 75 é apenas uma TFG reduzida, não DRC.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 46
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-005",
+  "modulo": "A3",
+  "prioridade": "E",
+  "afirmacao": "O estágio G3a corresponde a uma TFG de 45 a 59 mL/min/1,73 m².",
+  "verdadeiro": true,
+  "explicacao": "**G3a = 45 a 59** e **G3b = 30 a 44**. O G4 vai de 15 a 29 e o G5 fica abaixo de 15.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 46
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-006",
+  "modulo": "A5",
+  "prioridade": "E",
+  "afirmacao": "A restrição proteica no tratamento conservador só vale para pacientes metabolicamente estáveis.",
+  "verdadeiro": true,
+  "explicacao": "A recomendação é explícita quanto a isso: **só em adultos metabolicamente estáveis**. Instabilidade metabólica derruba a restrição.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 83
+  },
+  "ambiguidade": "proteina-drc"
+ },
+ {
+  "id": "V-007",
+  "modulo": "A5",
+  "prioridade": "E",
+  "afirmacao": "Os cetoanálogos da opção 02 podem ser usados em qualquer estágio da DRC, do 3 ao 5.",
+  "verdadeiro": false,
+  "explicacao": "A **opção 02 (dieta muito restrita + cetoanálogos) é só para os estágios 4 e 5**. Quem aceita do 3 ao 5 é a opção 01.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 99
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-008",
+  "modulo": "A5",
+  "prioridade": "E",
+  "afirmacao": "O sal light é uma boa alternativa para o paciente com DRC em tratamento conservador.",
+  "verdadeiro": false,
+  "explicacao": "**O sal light é proibido na DRC**: ele troca sódio por **potássio**, justamente o que se está controlando.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 108
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-009",
+  "modulo": "A5",
+  "prioridade": "I",
+  "afirmacao": "A carambola deve ser evitada pelo paciente com DRC por conter uma neurotoxina.",
+  "verdadeiro": true,
+  "explicacao": "A **carambola contém neurotoxina** e é citada nominalmente entre as proibições.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 107
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-010",
+  "modulo": "A5",
+  "prioridade": "E",
+  "afirmacao": "As vitaminas A e K devem ser suplementadas rotineiramente no tratamento conservador da DRC.",
+  "verdadeiro": false,
+  "explicacao": "**A e K são exatamente as que NÃO se suplementam.** O risco é de acúmulo.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 105
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-011",
+  "modulo": "A6",
+  "prioridade": "E",
+  "afirmacao": "O alvo de Kt/V na hemodiálise é de 1,2 por sessão.",
+  "verdadeiro": true,
+  "explicacao": "**HD: Kt/V 1,2 por sessão.** Na **CAPD** o alvo é **2,0 por semana** — unidades diferentes.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 115
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-012",
+  "modulo": "A6",
+  "prioridade": "E",
+  "afirmacao": "O alvo de Kt/V na diálise peritoneal é de 1,2 por sessão, igual ao da hemodiálise.",
+  "verdadeiro": false,
+  "explicacao": "Na **diálise peritoneal (CAPD) o alvo é 2,0 por SEMANA**. O 1,2 por sessão é da hemodiálise.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 115
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-013",
+  "modulo": "A6",
+  "prioridade": "E",
+  "afirmacao": "Para diagnosticar desnutrição no paciente em hemodiálise pelos critérios apresentados, basta um item alterado.",
+  "verdadeiro": true,
+  "explicacao": "Os critérios da NKF e da ISRNM funcionam assim: **basta um item** entre bioquímicos, massa corporal e massa muscular.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 124
+  },
+  "ambiguidade": "prealbumina-hd"
+ },
+ {
+  "id": "V-014",
+  "modulo": "A6",
+  "prioridade": "E",
+  "afirmacao": "A prescrição de líquidos na hemodiálise é de 500 mL mais o volume da diurese.",
+  "verdadeiro": true,
+  "explicacao": "**500 mL + diurese.** No paciente **anúrico**, o teto é de **1.000 mL/dia**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 132
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-015",
+  "modulo": "A6",
+  "prioridade": "E",
+  "afirmacao": "O ganho de peso interdialítico aceitável é de 3 a 5% do peso corporal.",
+  "verdadeiro": true,
+  "explicacao": "**3 a 5% do peso corporal** é a faixa aceitável entre as sessões.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 132
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-016",
+  "modulo": "A7",
+  "prioridade": "E",
+  "afirmacao": "Na diálise peritoneal, a glicose absorvida do dialisato precisa entrar no cálculo da energia e dos carboidratos.",
+  "verdadeiro": true,
+  "explicacao": "A glicose do dialisato é absorvida e **conta na energia e nos carboidratos** — por isso os carboidratos por via oral ficam em torno de **35% do VET**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 137
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-017",
+  "modulo": "A7",
+  "prioridade": "E",
+  "afirmacao": "A necessidade proteica na diálise peritoneal é menor do que na hemodiálise.",
+  "verdadeiro": false,
+  "explicacao": "É **maior**: a DP perde mais proteína pelo dialisato. A escada é **conservador < HD (1,0–1,2) < DP (1,2–1,3)**, chegando a **1,4–1,5 na peritonite**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 139
+  },
+  "ambiguidade": "proteina-dp"
+ },
+ {
+  "id": "V-018",
+  "modulo": "A8",
+  "prioridade": "E",
+  "afirmacao": "No pós-transplante renal imediato, a oferta proteica recomendada é maior do que na fase tardia.",
+  "verdadeiro": true,
+  "explicacao": "**Imediato (até 6 semanas): 1,3 a 1,5 g/kg.** **Tardio: 0,55 a 0,60 g/kg.** A fase aguda é catabólica; depois volta a lógica de preservar o enxerto.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 151
+  },
+  "ambiguidade": "proteina-tx-renal"
+ },
+ {
+  "id": "V-019",
+  "modulo": "A9",
+  "prioridade": "E",
+  "afirmacao": "O paciente com nefrolitíase por cálculo de oxalato de cálcio deve restringir o cálcio da dieta.",
+  "verdadeiro": false,
+  "explicacao": "**Não se restringe cálcio como regra.** Menos cálcio na luz intestinal significa **mais oxalato livre** para ser absorvido.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 166
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-020",
+  "modulo": "A9",
+  "prioridade": "I",
+  "afirmacao": "A suplementação de vitamina C deve ser evitada em quem tem hiperoxalúria.",
+  "verdadeiro": true,
+  "explicacao": "A vitamina C é **precursora de oxalato**; a restrição é específica para a **hiperoxalúria**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 167
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-021",
+  "modulo": "A9",
+  "prioridade": "I",
+  "afirmacao": "Cálculos maiores que 7 mm raramente são eliminados espontaneamente.",
+  "verdadeiro": true,
+  "explicacao": "**< 5 mm costumam sair sozinhos; 5 a 7 mm saem em cerca de 50%; > 7 mm raramente.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 160
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-022",
+  "modulo": "A10",
+  "prioridade": "E",
+  "afirmacao": "Na insuficiência renal aguda, a oligoanúria é o primeiro marcador diagnóstico.",
+  "verdadeiro": false,
+  "explicacao": "A oligoanúria é o **segundo** marcador, presente em **50 a 70%** dos casos. O primeiro é o **aumento da creatinina** (> 50% ou 0,5 mg/dL).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 174
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-023",
+  "modulo": "A10",
+  "prioridade": "E",
+  "afirmacao": "Para converter o nitrogênio ureico em nitrogênio, multiplica-se a ureia por 0,467.",
+  "verdadeiro": true,
+  "explicacao": "**N = ureia × 0,467.** É a conversão usada no cálculo do aparecimento de nitrogênio ureico (UNA).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 178
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-024",
+  "modulo": "A10",
+  "prioridade": "E",
+  "afirmacao": "Na IRA tratada com terapia renal substitutiva contínua, a oferta proteica chega a 1,7 a 2,5 g/kg.",
+  "verdadeiro": true,
+  "explicacao": "**Sem TRS: 1,3 a 1,5. Intermitente: cerca de 1,5. Contínua: 1,7 a 2,5 g/kg** — a modalidade contínua é a que mais perde aminoácidos.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 181
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-025",
+  "modulo": "B1",
+  "prioridade": "I",
+  "afirmacao": "Cerca de 70 a 80% do sangue que chega ao fígado vem da veia porta.",
+  "verdadeiro": true,
+  "explicacao": "**70 a 80% pela veia porta** (sangue venoso, rico em nutrientes) e **20 a 30% pela artéria hepática** (sangue arterial, rico em oxigênio).",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 5
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-026",
+  "modulo": "B1",
+  "prioridade": "I",
+  "afirmacao": "As células de Kupffer são as responsáveis por armazenar vitamina A e produzir colágeno na fibrose.",
+  "verdadeiro": false,
+  "explicacao": "Quem armazena **vitamina A** e produz **colágeno** são as **células estreladas**. As de **Kupffer** são os macrófagos residentes.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 39
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-027",
+  "modulo": "B2",
+  "prioridade": "E",
+  "afirmacao": "A ALT é mais específica do fígado do que a AST.",
+  "verdadeiro": true,
+  "explicacao": "A **ALT é mais específica**; a AST também aparece em músculo e outros tecidos. Por isso a relação **AST/ALT > 2 aponta para álcool**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 18
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-028",
+  "modulo": "B2",
+  "prioridade": "E",
+  "afirmacao": "A albumina é o melhor marcador de lesão hepática aguda, por ter meia-vida curta.",
+  "verdadeiro": false,
+  "explicacao": "É o contrário: a albumina tem **meia-vida longa (~20 dias)** e serve para a doença **crônica**. Quem marca a **aguda** é o **TP/INR**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 19
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-029",
+  "modulo": "B2",
+  "prioridade": "E",
+  "afirmacao": "Albumina, transferrina, pré-albumina e RBP são proteínas de fase aguda negativas.",
+  "verdadeiro": true,
+  "explicacao": "São **negativas**: caem na inflamação. Por isso não servem isoladamente como marcadores nutricionais em quem está inflamado.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 15
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-030",
+  "modulo": "B2",
+  "prioridade": "I",
+  "afirmacao": "A fosfatase alcalina elevada confirma origem hepática quando a GGT também está elevada.",
+  "verdadeiro": true,
+  "explicacao": "A **FA também vem de osso e placenta**; é a **GGT** que confirma a origem hepática.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 21
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-031",
+  "modulo": "B3",
+  "prioridade": "I",
+  "afirmacao": "A hepatite B é a única dos vírus hepatotrópicos que tem DNA como material genético.",
+  "verdadeiro": true,
+  "explicacao": "**A B é a única DNA**; as demais são RNA. Ela também é a que tem vacina e cronifica em parte dos casos.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 31
+  },
+  "ambiguidade": "hepatites-ae"
+ },
+ {
+  "id": "V-032",
+  "modulo": "B3",
+  "prioridade": "E",
+  "afirmacao": "As hepatites A e E são transmitidas por sangue e fluidos corporais.",
+  "verdadeiro": false,
+  "explicacao": "**A e E são de transmissão fecal-oral.** Por sangue e fluidos corporais vão **B, C e D**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 29
+  },
+  "ambiguidade": "hepatites-ae"
+ },
+ {
+  "id": "V-033",
+  "modulo": "B4",
+  "prioridade": "E",
+  "afirmacao": "A cirrose é uma doença específica, com etiologia própria.",
+  "verdadeiro": false,
+  "explicacao": "**A cirrose não é uma doença: é o estágio final da doença hepática crônica**, independentemente do agente etiológico.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 42
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-034",
+  "modulo": "B4",
+  "prioridade": "E",
+  "afirmacao": "Na cirrose compensada, a mortalidade é predominantemente por comorbidades; na descompensada, por causa hepática.",
+  "verdadeiro": true,
+  "explicacao": "É exatamente a inversão que o quadro apresenta — e uma das trocas mais fáceis de cair numa alternativa.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 48
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-035",
+  "modulo": "B4",
+  "prioridade": "E",
+  "afirmacao": "O MELD inclui a albumina entre suas variáveis.",
+  "verdadeiro": false,
+  "explicacao": "**O MELD usa creatinina, bilirrubina total e INR** (mais o sódio no MELD-Na). Quem usa **albumina** é o **Child-Pugh**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 46
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-036",
+  "modulo": "B4",
+  "prioridade": "E",
+  "afirmacao": "No Child-Pugh, quanto maior a albumina, menor a pontuação.",
+  "verdadeiro": true,
+  "explicacao": "**Albumina > 3,5 vale 1 ponto e < 3,0 vale 3.** Com a bilirrubina é o contrário — é a inversão clássica.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "ambiguidade": "child-c"
+ },
+ {
+  "id": "V-037",
+  "modulo": "B4",
+  "prioridade": "E",
+  "afirmacao": "O diagnóstico de peritonite bacteriana espontânea exige contagem de polimorfonucleares acima de 250 células/mm³.",
+  "verdadeiro": true,
+  "explicacao": "**PMN > 250 células/mm³**, na ausência de fonte intra-abdominal tratável.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 59
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-038",
+  "modulo": "B4",
+  "prioridade": "E",
+  "afirmacao": "A ascite de grau 3 é a que mede entre 3 e 10 cm à ultrassonografia.",
+  "verdadeiro": false,
+  "explicacao": "**Grau 1 (leve) < 3 cm · grau 2 (moderada) 3 a 10 cm · grau 3 (tensa) > 10 cm.** A de 3 a 10 cm é a de **grau 2**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 57
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-039",
+  "modulo": "B4",
+  "prioridade": "E",
+  "afirmacao": "A paracentese de grande volume sem reposição de albumina é um gatilho clássico de síndrome hepatorrenal.",
+  "verdadeiro": true,
+  "explicacao": "Está entre os gatilhos listados, junto com **sangramento de varizes, uso excessivo de diuréticos e infecção bacteriana**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 63
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-040",
+  "modulo": "B4",
+  "prioridade": "I",
+  "afirmacao": "O rastreio de carcinoma hepatocelular no cirrótico é feito a cada 6 meses.",
+  "verdadeiro": true,
+  "explicacao": "**A cada 6 meses**, porque o início é insidioso. O CHC responde por **80% dos cânceres primários do fígado**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 65
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-041",
+  "modulo": "B5",
+  "prioridade": "E",
+  "afirmacao": "Define-se esteatose hepática a partir de 5% do peso total do fígado em gordura.",
+  "verdadeiro": true,
+  "explicacao": "**Ao menos 5% do peso total do fígado.** Os 33% e 66% separam os **graus**, e são medidos em **% de hepatócitos**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 2
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-042",
+  "modulo": "B5",
+  "prioridade": "E",
+  "afirmacao": "Para o diagnóstico de MASLD é preciso ter pelo menos dois fatores cardiometabólicos.",
+  "verdadeiro": false,
+  "explicacao": "**Basta 1 fator cardiometabólico** — e estar em tratamento (anti-hipertensivo, hipolipemiante, para DM2) já conta.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 8
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-043",
+  "modulo": "B5",
+  "prioridade": "E",
+  "afirmacao": "Enzimas hepáticas normais excluem o diagnóstico de MASLD.",
+  "verdadeiro": false,
+  "explicacao": "**Não é incomum os pacientes estarem com enzimas normais**, e a **dosagem isolada de enzimas não é recomendada** como rastreio em sobrepeso/obesidade.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 23
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-044",
+  "modulo": "B5",
+  "prioridade": "E",
+  "afirmacao": "A MASH não entra no fluxo diagnóstico porque só pode ser identificada por biópsia.",
+  "verdadeiro": true,
+  "explicacao": "Ela exigiria **esteatose + inflamação lobular + balonização** — e, **como a única forma de identificar é a biópsia, não está no fluxo**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 25
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-045",
+  "modulo": "B5",
+  "prioridade": "E",
+  "afirmacao": "O que melhor prediz os desfechos hepáticos é a presença de MASH, e não o grau de fibrose.",
+  "verdadeiro": false,
+  "explicacao": "É o contrário: **a fibrose é o fator prognóstico para desfechos hepáticos** (descompensação com HR 8,46). A MASH **parece não aumentar tanto** o risco de eventos.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 28
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-046",
+  "modulo": "B5",
+  "prioridade": "E",
+  "afirmacao": "Uma perda de 7% do peso corporal está associada à melhora da esteato-hepatite.",
+  "verdadeiro": true,
+  "explicacao": "A escada é **3–5% esteatose · 7% esteato-hepatite · 10% regressão e estabilização da fibrose**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 35
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-047",
+  "modulo": "B5",
+  "prioridade": "E",
+  "afirmacao": "A proteína na MASLD durante a perda de peso é calculada sobre o peso atual.",
+  "verdadeiro": false,
+  "explicacao": "É sobre o **peso ajustado**: **1,2 g/kg de peso ajustado**, sendo **peso ajustado = (PA − PI) × 0,25 + PI**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 43
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-048",
+  "modulo": "B5",
+  "prioridade": "E",
+  "afirmacao": "Na comparação entre dietas low carb e low fat isocalóricas, não houve diferença no conteúdo de gordura hepática.",
+  "verdadeiro": true,
+  "explicacao": "**Sem diferença.** O que apareceu foi o benefício de **trocar carboidrato por proteína (não por gordura)** e **saturada por insaturada**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 42
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-049",
+  "modulo": "B5",
+  "prioridade": "E",
+  "afirmacao": "Na esteatose medida por exame de imagem, apenas a restrição calórica demonstrou benefício.",
+  "verdadeiro": true,
+  "explicacao": "No **escore** calculado, mediterrânea e restrição calórica funcionaram; na **imagem**, **só a restrição calórica** — daí ela ter que fazer parte da intervenção.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 47
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-050",
+  "modulo": "B5",
+  "prioridade": "I",
+  "afirmacao": "A vitamina E é terapia de primeira linha na esteato-hepatite.",
+  "verdadeiro": false,
+  "explicacao": "**Não é de 1ª linha.** O uso é focado em **adultos sem DM2 com esteato-hepatite** (800 UI/dia por 12 a 24 meses), com cautela pelo risco de **sangramento e AVC hemorrágico**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 50
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-051",
+  "modulo": "B5",
+  "prioridade": "E",
+  "afirmacao": "Para mulheres, a faixa de consumo de álcool que caracteriza MetALD é de 140 a 350 g por semana.",
+  "verdadeiro": true,
+  "explicacao": "**Mulheres 140 a 350 g/semana (20 a 50 g/dia); homens 210 a 420 g/semana (30 a 60 g/dia).** Abaixo, MASLD; acima, ALD.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 11
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-052",
+  "modulo": "B6",
+  "prioridade": "E",
+  "afirmacao": "Paciente com Child-Pugh C deve passar pela triagem nutricional antes da avaliação.",
+  "verdadeiro": false,
+  "explicacao": "**Child-Pugh C e/ou IMC < 18,5 kg/m² vão direto para a avaliação nutricional**, sem triagem.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 24
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-053",
+  "modulo": "B6",
+  "prioridade": "E",
+  "afirmacao": "A RFH-NPT foi desenvolvida especificamente para pacientes com cirrose e valoriza o acúmulo de fluidos.",
+  "verdadeiro": true,
+  "explicacao": "É a característica que a distingue das tradicionais — e foi **traduzida e adaptada pela UFRGS/HCPA**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 27
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-054",
+  "modulo": "B6",
+  "prioridade": "E",
+  "afirmacao": "A RFH-NPT foi a ferramenta mais sensível tanto no estudo ambulatorial quanto no hospitalar.",
+  "verdadeiro": false,
+  "explicacao": "Ela **inverte**: foi a **menos** sensível nos ambulatoriais (**67%**) e a **mais** sensível nos hospitalizados (**90,9%**).",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 31
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-055",
+  "modulo": "B6",
+  "prioridade": "E",
+  "afirmacao": "O desconto percentual para ascite moderada é de 10% do peso aferido.",
+  "verdadeiro": true,
+  "explicacao": "**Ascite: leve −5%, moderada −10%, severa −15%.** O **edema bilateral** desconta **5%**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 25
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-056",
+  "modulo": "B6",
+  "prioridade": "E",
+  "afirmacao": "A bioimpedância subestima a massa livre de gordura em pacientes com ascite.",
+  "verdadeiro": false,
+  "explicacao": "**Superestima.** BIA e DEXA sofrem influência dos fluidos; por isso a **tomografia em L3** é a recomendada e, na BIA, usa-se o **ângulo de fase**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 50
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-057",
+  "modulo": "B6",
+  "prioridade": "E",
+  "afirmacao": "A circunferência da panturrilha só deve ser usada em pacientes sem edema.",
+  "verdadeiro": true,
+  "explicacao": "**Só sem edema.** **CB e CMB** sofrem **menor** influência do acúmulo de fluidos.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 42
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-058",
+  "modulo": "B6",
+  "prioridade": "E",
+  "afirmacao": "No GLIM aplicado à cirrose, o critério etiológico é preenchido por todos os pacientes.",
+  "verdadeiro": true,
+  "explicacao": "**Todos os cirróticos preenchem pela fisiopatologia da doença (ou por PCR-us)** — o que decide é a parte fenotípica, da qual só a **massa muscular** é validada.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 62
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-059",
+  "modulo": "B6",
+  "prioridade": "E",
+  "afirmacao": "Doze horas de jejum no paciente com cirrose equivalem a 72 horas em um indivíduo saudável.",
+  "verdadeiro": true,
+  "explicacao": "É a **aceleração do jejum**: sem estoque de glicogênio, o organismo já parte para **oxidação de gordura e gliconeogênese a partir de aminoácidos**. É a justificativa da ceia.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 16
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-060",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "Na cirrose compensada, as necessidades energéticas são bem maiores do que as de pessoas saudáveis.",
+  "verdadeiro": false,
+  "explicacao": "**Em geral não são maiores**, especialmente com baixa atividade física: **20 a 30 kcal/kg e 1,2 g/kg**. O hipermetabolismo aparece em **30 a 35%** dos pacientes.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 8
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-061",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "Indica-se suplemento nutricional oral quando a via oral atinge menos de 70% das necessidades.",
+  "verdadeiro": true,
+  "explicacao": "**SNO em < 70%** e **enteral em < 60%**. O número menor é o da via mais invasiva.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 12
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-062",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "A presença de varizes esofágicas contraindica a passagem de sonda enteral.",
+  "verdadeiro": false,
+  "explicacao": "**Não contraindica.** A **posição gástrica é a primeira escolha**; o cuidado é com a **gastrostomia** em ascite severa, coagulopatia e varizes gástricas extensas.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 13
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-063",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "A ceia deve ter cerca de 50 g de carboidratos de baixo índice glicêmico e cerca de 13 g de proteína.",
+  "verdadeiro": true,
+  "explicacao": "**200–250 até 700 kcal, ~50 g de CHO de baixo IG e ~13 g de proteína.** Segundo a EASL, é **o lanche mais importante**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 18
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-064",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "A restrição de sódio na ascite deve ser a mais severa possível, abaixo de 1,5 g por dia.",
+  "verdadeiro": false,
+  "explicacao": "**A restrição severa (< 1,5 g/dia) é desaconselhada**, porque reduz a palatabilidade. O alvo é **moderado: < 2 g de Na/dia (5 g de sal)**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 24
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-065",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "A restrição hídrica na ascite só é indicada com sódio sérico abaixo de 120 a 125 mmol/L.",
+  "verdadeiro": true,
+  "explicacao": "**Não é necessária na grande maioria.** Só na **hiponatremia dilucional grave**, e aí com **800 mL a 1,5 L/dia**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 25
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-066",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "Na encefalopatia hepática, a proteína deve ser restringida para reduzir a produção de amônia.",
+  "verdadeiro": false,
+  "explicacao": "**Não se restringe.** A restrição **não reduziu a gravidade** da EH e **pode agravar o catabolismo**. O 0,5 g/kg/dia é a recomendação **antiga** (ACG, 2001).",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 30
+  },
+  "ambiguidade": "proteina-eh"
+ },
+ {
+  "id": "V-067",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "Os BCAA reduzem a mortalidade total em pacientes com cirrose e encefalopatia.",
+  "verdadeiro": false,
+  "explicacao": "**Reduzem a encefalopatia (RR 0,79), mas não a mortalidade (RR 0,89, com intervalo cruzando o 1).**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 33
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-068",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "Os BCAA são metabolizados no músculo, e não no fígado.",
+  "verdadeiro": true,
+  "explicacao": "São metabolizados **no músculo** e transformados em **glutamato**, que fixa a amônia e permite eliminá-la como **glutamina** — por isso funcionam com o fígado doente.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 31
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-069",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "A suplementação de zinco é o tratamento padrão da encefalopatia hepática.",
+  "verdadeiro": false,
+  "explicacao": "**Não é tratamento padrão.** Ela melhorou a encefalopatia (RR 0,66) mas **não a albumina**, e a maioria dos estudos tem **alto risco de viés**. Repõe-se quando o **zinco sérico está < 60 mcg/dL**, com **< 50 mg/dia**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 39
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-070",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "A dose de reposição de vitamina D na cirrose é de 6.000 UI por dia ou 50.000 UI por semana.",
+  "verdadeiro": true,
+  "explicacao": "**Suplementar abaixo de 20 ng/mL, com alvo de 30.** **Reposição: 6.000 UI/dia ou 50.000 UI/semana.** **Manutenção: 1.500 a 2.000 UI/dia.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 20
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-071",
+  "modulo": "B7",
+  "prioridade": "E",
+  "afirmacao": "Na nutrição parenteral, recomenda-se que todos os pacientes recebam reposição de tiamina.",
+  "verdadeiro": true,
+  "explicacao": "**Na NP, todos.** Na **TNE**, a dose prévia é só para os de **alto risco** de síndrome de realimentação.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 14
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-072",
+  "modulo": "B8",
+  "prioridade": "E",
+  "afirmacao": "Um IMC acima de 40 kg/m² é contraindicação absoluta ao transplante hepático.",
+  "verdadeiro": false,
+  "explicacao": "É contraindicação **relativa**. As absolutas listadas são **outras doenças em estágio avançado**, **álcool e drogas nos últimos 6 meses** e **falta de suporte psicossocial**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 42
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-073",
+  "modulo": "B8",
+  "prioridade": "E",
+  "afirmacao": "No pré-operatório do transplante hepático, a repleção do estado nutricional usa 35 kcal/kg e 1,5 g/kg.",
+  "verdadeiro": true,
+  "explicacao": "**Manutenção: 30 kcal/kg e 1,2 g/kg. Repleção: 35 kcal/kg e 1,5 g/kg.** Idealmente começando **2 semanas antes**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 51
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-074",
+  "modulo": "B8",
+  "prioridade": "E",
+  "afirmacao": "No pré-operatório do transplante, devem ser preferidas fórmulas enriquecidas com BCAA e imunomoduladores.",
+  "verdadeiro": false,
+  "explicacao": "**Fórmulas PADRÃO.** Os produtos especializados **não possuem resultados consistentes** sobre a morbimortalidade pós-transplante.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 51
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-075",
+  "modulo": "B8",
+  "prioridade": "E",
+  "afirmacao": "No pós-operatório imediato do transplante, começa-se com 10 a 15 kcal/kg nas primeiras 48 a 72 horas.",
+  "verdadeiro": true,
+  "explicacao": "Depois se progride até **30 a 35 kcal/kg e 1,5 a 2,0 g/kg** (sem obesidade) ou **25 a 30 kcal/kg e 2,0 g/kg de peso ideal** (com obesidade).",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 53
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-076",
+  "modulo": "B8",
+  "prioridade": "I",
+  "afirmacao": "O jejum pré-operatório recomendado é de 6 horas para sólidos e no máximo 2 horas para líquidos.",
+  "verdadeiro": true,
+  "explicacao": "E ainda se recomenda **bebida rica em carboidratos na noite anterior e de 2 a 4 h antes**, para hidratar e **reduzir a resistência à insulina**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 52
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-077",
+  "modulo": "A4",
+  "prioridade": "I",
+  "afirmacao": "O escore MST é um instrumento de diagnóstico nutricional.",
+  "verdadeiro": false,
+  "explicacao": "O **MST é triagem** (aplicada pelo menos mensalmente na DRC). Quem dá o **diagnóstico** é a **ASG**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 59
+  },
+  "ambiguidade": "asg-escore"
+ },
+ {
+  "id": "V-078",
+  "modulo": "A1",
+  "prioridade": "C",
+  "afirmacao": "O néfron é a unidade funcional do rim.",
+  "verdadeiro": true,
+  "explicacao": "Cada rim tem cerca de **1 milhão de néfrons**, e é neles que acontecem filtração, reabsorção e secreção.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 10
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "V-079",
+  "modulo": "A5",
+  "prioridade": "E",
+  "afirmacao": "O potássio no tratamento conservador da DRC fica entre 50 e 75 mEq por dia.",
+  "verdadeiro": true,
+  "explicacao": "**50 a 75 mEq/dia.** O sódio fica em **≤ 2 g** e o fósforo, em **750 mg**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 104
+  },
+  "ambiguidade": "sodio-drc"
+ },
+ {
+  "id": "V-080",
+  "modulo": "B5",
+  "prioridade": "I",
+  "afirmacao": "A maior prevalência regional de MASLD é a da América Latina.",
+  "verdadeiro": true,
+  "explicacao": "**44,4%** na América Latina, contra 25,1% na Europa Ocidental — os extremos do mapa apresentado.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 17
+  },
+  "ambiguidade": null
+ }
+]

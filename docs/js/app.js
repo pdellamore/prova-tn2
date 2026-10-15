@@ -14,6 +14,7 @@ import * as questoes from "./screens/questoes.js";
 import * as flashcards from "./screens/flashcards.js";
 import * as calculos from "./screens/calculos.js";
 import * as chefao from "./screens/chefao.js";
+import * as jogos from "./screens/jogos.js";
 import * as painel from "./screens/painel.js";
 import * as erros from "./screens/erros.js";
 import * as config from "./screens/config.js";
@@ -26,6 +27,7 @@ const TELAS = {
   flashcards,
   calculos,
   chefao,
+  jogos,
   painel,
   erros,
   config,

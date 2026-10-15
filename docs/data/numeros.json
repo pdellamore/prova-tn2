@@ -1,0 +1,1190 @@
+[
+ {
+  "id": "N-001",
+  "modulo": "A2",
+  "prioridade": "E",
+  "pergunta": "Proteinúria que define síndrome nefrótica",
+  "resposta": "> 3,5 g/24 h",
+  "distratores": [
+   "> 0,5 g/24 h",
+   "> 1,5 g/24 h",
+   "> 300 mg/24 h"
+  ],
+  "explicacao": "**> 3,5 g em 24 h**, critério isolado. Os 300 mg marcam a albuminúria A2 da DRC, outra escala.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 29
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-002",
+  "modulo": "A3",
+  "prioridade": "E",
+  "pergunta": "Tempo mínimo de alteração para falar em DRC",
+  "resposta": "3 meses",
+  "distratores": [
+   "1 mês",
+   "6 meses",
+   "12 meses"
+  ],
+  "explicacao": "**Mais de 3 meses** de alteração de estrutura ou função, com implicações para a saúde.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 30
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-003",
+  "modulo": "A3",
+  "prioridade": "E",
+  "pergunta": "TFG que separa o estágio G3a do G3b",
+  "resposta": "45 mL/min/1,73 m²",
+  "distratores": [
+   "30 mL/min/1,73 m²",
+   "60 mL/min/1,73 m²",
+   "15 mL/min/1,73 m²"
+  ],
+  "explicacao": "**G3a = 45 a 59 · G3b = 30 a 44.** O 60 separa G2 de G3a; o 30, G3b de G4; o 15, G4 de G5.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 46
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-004",
+  "modulo": "A3",
+  "prioridade": "E",
+  "pergunta": "Albuminúria que define a categoria A3",
+  "resposta": "> 300 mg/g",
+  "distratores": [
+   "> 30 mg/g",
+   "> 150 mg/g",
+   "> 1.000 mg/g"
+  ],
+  "explicacao": "**A1 < 30 · A2 de 30 a 300 · A3 > 300 mg/g.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 47
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-005",
+  "modulo": "A5",
+  "prioridade": "E",
+  "pergunta": "Proteína no tratamento conservador sem diabetes (KDOQI)",
+  "resposta": "0,55 a 0,60 g/kg",
+  "distratores": [
+   "0,6 a 0,8 g/kg",
+   "0,8 g/kg",
+   "1,0 a 1,2 g/kg"
+  ],
+  "explicacao": "**0,55 a 0,60 g/kg** sem DM. **Com DM: 0,6 a 0,8.** A **KDIGO 2024** fala em **0,8** — é a divergência sinalizada.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 83
+  },
+  "ambiguidade": "proteina-drc"
+ },
+ {
+  "id": "N-006",
+  "modulo": "A5",
+  "prioridade": "E",
+  "pergunta": "Proteína da dieta muito restrita com cetoácidos",
+  "resposta": "0,28 a 0,43 g/kg",
+  "distratores": [
+   "0,55 a 0,60 g/kg",
+   "0,6 a 0,8 g/kg",
+   "0,8 a 1,0 g/kg"
+  ],
+  "explicacao": "**0,28 a 0,43 g/kg + cetoanálogos**, e só nos **estágios 4 e 5**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 99
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-007",
+  "modulo": "A5",
+  "prioridade": "E",
+  "pergunta": "Fósforo no tratamento conservador",
+  "resposta": "750 mg/dia",
+  "distratores": [
+   "700 mg/dia",
+   "800 mg/dia",
+   "1.000 a 1.200 mg/dia"
+  ],
+  "explicacao": "**Conservador 750 · HD 700 · transplante renal na rejeição crônica 800 · DP 1.000 a 1.200 mg/dia.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 104
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-008",
+  "modulo": "A6",
+  "prioridade": "E",
+  "pergunta": "Alvo de Kt/V na hemodiálise",
+  "resposta": "1,2 por sessão",
+  "distratores": [
+   "2,0 por semana",
+   "1,7 por sessão",
+   "1,0 por sessão"
+  ],
+  "explicacao": "**HD: 1,2 por sessão.** O **2,0 por semana** é o alvo da **CAPD**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 115
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-009",
+  "modulo": "A6",
+  "prioridade": "E",
+  "pergunta": "Proteína na hemodiálise",
+  "resposta": "1,0 a 1,2 g/kg",
+  "distratores": [
+   "0,55 a 0,60 g/kg",
+   "1,2 a 1,3 g/kg",
+   "1,4 a 1,5 g/kg"
+  ],
+  "explicacao": "**HD: 1,0 a 1,2.** **DP: 1,2 a 1,3**, subindo a **1,4 a 1,5** na repleção ou peritonite.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 128
+  },
+  "ambiguidade": "proteina-dp"
+ },
+ {
+  "id": "N-010",
+  "modulo": "A6",
+  "prioridade": "E",
+  "pergunta": "Sódio na hemodiálise",
+  "resposta": "2.300 mg/dia",
+  "distratores": [
+   "2.000 mg/dia",
+   "1.500 mg/dia",
+   "3.000 mg/dia"
+  ],
+  "explicacao": "**2.300 mg/dia na HD.** No conservador, o alvo citado é **≤ 2 g** — e o material traz três alvos diferentes para o sódio na DRC.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 129
+  },
+  "ambiguidade": "sodio-drc"
+ },
+ {
+  "id": "N-011",
+  "modulo": "A6",
+  "prioridade": "E",
+  "pergunta": "Volume de líquidos no paciente anúrico em hemodiálise",
+  "resposta": "1.000 mL/dia",
+  "distratores": [
+   "500 mL/dia",
+   "800 mL/dia",
+   "1.500 mL/dia"
+  ],
+  "explicacao": "**Anúrico: no máximo 1.000 mL/dia.** Com diurese: **500 mL + o volume da diurese**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 132
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-012",
+  "modulo": "A6",
+  "prioridade": "I",
+  "pergunta": "Piridoxina recomendada na hemodiálise",
+  "resposta": "10 mg/dia",
+  "distratores": [
+   "5 mg/dia",
+   "1,5 mg/dia",
+   "50 mg/dia"
+  ],
+  "explicacao": "**10 mg/dia de piridoxina (B6).**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 130
+  },
+  "ambiguidade": "riboflavina"
+ },
+ {
+  "id": "N-013",
+  "modulo": "A7",
+  "prioridade": "E",
+  "pergunta": "Carboidratos por via oral na diálise peritoneal",
+  "resposta": "35% do VET",
+  "distratores": [
+   "50% do VET",
+   "60% do VET",
+   "25% do VET"
+  ],
+  "explicacao": "**Cerca de 35% do VET por via oral**, porque a **glicose do dialisato** já entra na conta.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 137
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-014",
+  "modulo": "A7",
+  "prioridade": "E",
+  "pergunta": "Potássio na diálise peritoneal",
+  "resposta": "até 76 mEq/dia",
+  "distratores": [
+   "50 a 75 mEq/dia",
+   "até 40 mEq/dia",
+   "até 100 mEq/dia"
+  ],
+  "explicacao": "**Até 76 mEq/dia na DP.** Os **50 a 75 mEq** são do tratamento conservador.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 139
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-015",
+  "modulo": "A8",
+  "prioridade": "E",
+  "pergunta": "Energia no pós-transplante renal imediato",
+  "resposta": "30 a 35 kcal/kg",
+  "distratores": [
+   "25 a 35 kcal/kg",
+   "20 a 25 kcal/kg",
+   "35 a 40 kcal/kg"
+  ],
+  "explicacao": "**Imediato (até 6 semanas): 30 a 35 kcal/kg e 1,3 a 1,5 g/kg de peso atual.** **Tardio: 25 a 35 kcal/kg e 0,55 a 0,60 g/kg.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 151
+  },
+  "ambiguidade": "proteina-tx-renal"
+ },
+ {
+  "id": "N-016",
+  "modulo": "A9",
+  "prioridade": "E",
+  "pergunta": "Prevalência de nefrolitíase na população",
+  "resposta": "10 a 12%",
+  "distratores": [
+   "1 a 2%",
+   "20 a 30%",
+   "5%"
+  ],
+  "explicacao": "**10 a 12%**, mais comum em **homens de 20 a 40 anos**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 157
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-017",
+  "modulo": "A9",
+  "prioridade": "E",
+  "pergunta": "Tamanho de cálculo que sai espontaneamente em cerca de 50% dos casos",
+  "resposta": "5 a 7 mm",
+  "distratores": [
+   "< 5 mm",
+   "> 7 mm",
+   "> 10 mm"
+  ],
+  "explicacao": "**< 5 mm costumam sair · 5 a 7 mm em cerca de 50% · > 7 mm raramente.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 160
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-018",
+  "modulo": "A10",
+  "prioridade": "E",
+  "pergunta": "Aumento de creatinina que caracteriza IRA",
+  "resposta": "> 50% ou 0,5 mg/dL",
+  "distratores": [
+   "> 20% ou 0,3 mg/dL",
+   "> 100% ou 1,0 mg/dL",
+   "> 0,3 mg/dL em 48 h"
+  ],
+  "explicacao": "**Mais de 50% ou 0,5 mg/dL.** O **> 0,3 mg/dL em 48 h** é o critério da **síndrome hepatorrenal**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 174
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-019",
+  "modulo": "A10",
+  "prioridade": "E",
+  "pergunta": "Fator de conversão da ureia em nitrogênio",
+  "resposta": "0,467",
+  "distratores": [
+   "0,25",
+   "0,6",
+   "1,2"
+  ],
+  "explicacao": "**N = ureia × 0,467**, usado no cálculo do UNA.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 178
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-020",
+  "modulo": "A10",
+  "prioridade": "E",
+  "pergunta": "Proteína na IRA com terapia renal substitutiva contínua",
+  "resposta": "1,7 a 2,5 g/kg",
+  "distratores": [
+   "1,3 a 1,5 g/kg",
+   "cerca de 1,5 g/kg",
+   "1,0 a 1,2 g/kg"
+  ],
+  "explicacao": "**Sem TRS: 1,3 a 1,5 · intermitente: ~1,5 · contínua: 1,7 a 2,5 g/kg.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 181
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-021",
+  "modulo": "B1",
+  "prioridade": "I",
+  "pergunta": "Proporção do sangue hepático que vem da veia porta",
+  "resposta": "70 a 80%",
+  "distratores": [
+   "20 a 30%",
+   "50%",
+   "90%"
+  ],
+  "explicacao": "**70 a 80% pela veia porta** e **20 a 30% pela artéria hepática**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 5
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-022",
+  "modulo": "B1",
+  "prioridade": "I",
+  "pergunta": "Volume diário de bile produzido pelo fígado",
+  "resposta": "500 a 600 mL",
+  "distratores": [
+   "100 a 200 mL",
+   "1.000 a 1.200 mL",
+   "50 mL"
+  ],
+  "explicacao": "**500 a 600 mL por dia.**",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 11
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-023",
+  "modulo": "B2",
+  "prioridade": "E",
+  "pergunta": "Relação AST/ALT que aponta para etiologia alcoólica",
+  "resposta": "> 2",
+  "distratores": [
+   "> 1",
+   "> 3",
+   "< 0,5"
+  ],
+  "explicacao": "**AST/ALT > 2** sugere **álcool**. A **ALT** é a mais específica do fígado.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 18
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-024",
+  "modulo": "B2",
+  "prioridade": "I",
+  "pergunta": "Meia-vida aproximada da albumina",
+  "resposta": "20 dias",
+  "distratores": [
+   "2 dias",
+   "7 dias",
+   "45 dias"
+  ],
+  "explicacao": "**Cerca de 20 dias** — por isso ela serve para a doença **crônica**, e não para a aguda.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 19
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-025",
+  "modulo": "B3",
+  "prioridade": "I",
+  "pergunta": "Taxa de cronificação da hepatite C",
+  "resposta": "50 a 85%",
+  "distratores": [
+   "5 a 10%",
+   "cerca de 60%",
+   "mais de 95%"
+  ],
+  "explicacao": "**A C cronifica em 50 a 85%**, mas tem **cura em cerca de 95%** com tratamento. Os **~60%** são da hepatite B.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 31
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-026",
+  "modulo": "B3",
+  "prioridade": "I",
+  "pergunta": "Valor calórico do álcool",
+  "resposta": "7,1 kcal/g",
+  "distratores": [
+   "4 kcal/g",
+   "9 kcal/g",
+   "5,5 kcal/g"
+  ],
+  "explicacao": "**7,1 kcal/g** — caloria sem valor nutricional.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 34
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-027",
+  "modulo": "B4",
+  "prioridade": "E",
+  "pergunta": "Pontuação do Child-Pugh que define a classe B",
+  "resposta": "7 a 9 pontos",
+  "distratores": [
+   "5 a 6 pontos",
+   "> 10 pontos",
+   "10 a 12 pontos"
+  ],
+  "explicacao": "**A = 5 a 6 (< 5%) · B = 7 a 9 (20%) · C = > 10 (55%)**, como está grafado no slide.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "ambiguidade": "child-c"
+ },
+ {
+  "id": "N-028",
+  "modulo": "B4",
+  "prioridade": "E",
+  "pergunta": "Mortalidade em 1 ano do Child-Pugh C",
+  "resposta": "55%",
+  "distratores": [
+   "20%",
+   "< 5%",
+   "80%"
+  ],
+  "explicacao": "**A < 5% · B 20% · C 55%.**",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "ambiguidade": "child-c"
+ },
+ {
+  "id": "N-029",
+  "modulo": "B4",
+  "prioridade": "E",
+  "pergunta": "Tamanho da ascite de grau 2 à ultrassonografia",
+  "resposta": "3 a 10 cm",
+  "distratores": [
+   "< 3 cm",
+   "> 10 cm",
+   "1 a 5 cm"
+  ],
+  "explicacao": "**Grau 1 < 3 cm · grau 2 de 3 a 10 cm · grau 3 > 10 cm.**",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 57
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-030",
+  "modulo": "B4",
+  "prioridade": "E",
+  "pergunta": "Contagem de PMN que define peritonite bacteriana espontânea",
+  "resposta": "> 250 células/mm³",
+  "distratores": [
+   "> 100 células/mm³",
+   "> 500 células/mm³",
+   "> 1.000 células/mm³"
+  ],
+  "explicacao": "**PMN > 250 células/mm³**, sem fonte intra-abdominal tratável.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 59
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-031",
+  "modulo": "B4",
+  "prioridade": "E",
+  "pergunta": "Critério de creatinina na síndrome hepatorrenal",
+  "resposta": "> 0,3 mg/dL em 48 h",
+  "distratores": [
+   "> 0,5 mg/dL em 48 h",
+   "> 50% em 48 h",
+   "> 1,5 mg/dL absoluto"
+  ],
+  "explicacao": "**> 0,3 mg/dL em 48 h ou > 50% em 7 dias**, ou redução do débito urinário.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 63
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-032",
+  "modulo": "B4",
+  "prioridade": "E",
+  "pergunta": "Intervalo do rastreio de carcinoma hepatocelular",
+  "resposta": "6 meses",
+  "distratores": [
+   "3 meses",
+   "12 meses",
+   "24 meses"
+  ],
+  "explicacao": "**A cada 6 meses.** O CHC é **80% dos cânceres primários do fígado**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 65
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-033",
+  "modulo": "B5",
+  "prioridade": "E",
+  "pergunta": "Percentual de gordura hepática que define esteatose",
+  "resposta": "5%",
+  "distratores": [
+   "10%",
+   "33%",
+   "66%"
+  ],
+  "explicacao": "**Ao menos 5% do peso total do fígado.** Os 33% e 66% separam os **graus**, em % de hepatócitos.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 2
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-034",
+  "modulo": "B5",
+  "prioridade": "E",
+  "pergunta": "Corte de HbA1c entre os fatores cardiometabólicos",
+  "resposta": "≥ 5,7%",
+  "distratores": [
+   "≥ 6,5%",
+   "≥ 7,0%",
+   "≥ 5,0%"
+  ],
+  "explicacao": "**≥ 5,7%** — é o corte de **pré-diabetes**, não o de diabetes.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-035",
+  "modulo": "B5",
+  "prioridade": "E",
+  "pergunta": "Corte de circunferência da cintura para mulheres na MASLD",
+  "resposta": "> 80 cm",
+  "distratores": [
+   "> 88 cm",
+   "> 94 cm",
+   "> 102 cm"
+  ],
+  "explicacao": "**> 94 cm (homens) e > 80 cm (mulheres)**, ou equivalente por etnia.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-036",
+  "modulo": "B5",
+  "prioridade": "E",
+  "pergunta": "Corte de triglicerídeos entre os fatores cardiometabólicos",
+  "resposta": "≥ 150 mg/dL",
+  "distratores": [
+   "≥ 200 mg/dL",
+   "≥ 130 mg/dL",
+   "≥ 100 mg/dL"
+  ],
+  "explicacao": "**TG ≥ 150 mg/dL ou tratamento hipolipemiante.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-037",
+  "modulo": "B5",
+  "prioridade": "E",
+  "pergunta": "Consumo diário de álcool que caracteriza MetALD em homens",
+  "resposta": "30 a 60 g/dia",
+  "distratores": [
+   "20 a 50 g/dia",
+   "10 a 30 g/dia",
+   "60 a 90 g/dia"
+  ],
+  "explicacao": "**Homens 30 a 60 g/dia (210 a 420 g/semana); mulheres 20 a 50 g/dia (140 a 350 g/semana).**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 11
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-038",
+  "modulo": "B5",
+  "prioridade": "E",
+  "pergunta": "Perda de peso associada à regressão e estabilização da fibrose",
+  "resposta": "10%",
+  "distratores": [
+   "3 a 5%",
+   "7%",
+   "15%"
+  ],
+  "explicacao": "**3–5% esteatose · 7% esteato-hepatite · 10% fibrose.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 35
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-039",
+  "modulo": "B5",
+  "prioridade": "E",
+  "pergunta": "Déficit calórico recomendado na MASLD",
+  "resposta": "500 a 1.000 kcal/dia",
+  "distratores": [
+   "200 a 400 kcal/dia",
+   "1.200 a 1.500 kcal/dia",
+   "1.500 a 2.000 kcal/dia"
+  ],
+  "explicacao": "**Déficit de 500 a 1.000 kcal/dia OU dieta de 1.200 a 1.500 kcal** — são duas formas diferentes de prescrever.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 35
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-040",
+  "modulo": "B5",
+  "prioridade": "E",
+  "pergunta": "Proteína na MASLD durante a perda de peso",
+  "resposta": "1,2 g/kg de peso ajustado",
+  "distratores": [
+   "1,2 g/kg de peso atual",
+   "0,8 g/kg de peso ideal",
+   "1,5 g/kg de peso ajustado"
+  ],
+  "explicacao": "**1,2 g/kg de PESO AJUSTADO**, sendo **peso ajustado = (PA − PI) × 0,25 + PI**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 43
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-041",
+  "modulo": "B5",
+  "prioridade": "I",
+  "pergunta": "Dose de vitamina E usada na esteato-hepatite",
+  "resposta": "800 UI/dia",
+  "distratores": [
+   "400 UI/dia",
+   "100 UI/dia",
+   "2.000 UI/dia"
+  ],
+  "explicacao": "Nos estudos, **400 a 800 UI/dia**; o uso descrito é **800 UI/dia por 12 a 24 meses**, em **adultos sem DM2 com esteato-hepatite**, e **não é 1ª linha**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 50
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-042",
+  "modulo": "B6",
+  "prioridade": "E",
+  "pergunta": "Prevalência de desnutrição na cirrose descompensada",
+  "resposta": "50%",
+  "distratores": [
+   "20%",
+   "30 a 46%",
+   "> 40%"
+  ],
+  "explicacao": "**20% na compensada e 50% na descompensada.** Os **30 a 46%** e **> 40%** são de **sarcopenia**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 9
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-043",
+  "modulo": "B6",
+  "prioridade": "E",
+  "pergunta": "IMC que, junto com o Child C, manda pular a triagem",
+  "resposta": "< 18,5 kg/m²",
+  "distratores": [
+   "< 20 kg/m²",
+   "< 22 kg/m²",
+   "< 16 kg/m²"
+  ],
+  "explicacao": "**Child-Pugh C e/ou IMC < 18,5 kg/m² → avaliação nutricional direta.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 24
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-044",
+  "modulo": "B6",
+  "prioridade": "E",
+  "pergunta": "Desconto percentual da ascite severa",
+  "resposta": "15%",
+  "distratores": [
+   "5%",
+   "10%",
+   "20%"
+  ],
+  "explicacao": "**Ascite: 5% leve, 10% moderada, 15% severa.** **Edema bilateral: 5%.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 25
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-045",
+  "modulo": "B6",
+  "prioridade": "E",
+  "pergunta": "Desconto absoluto da ascite grave",
+  "resposta": "14 kg",
+  "distratores": [
+   "6 kg",
+   "10 kg",
+   "2,2 kg"
+  ],
+  "explicacao": "**Ascite: −2,2 kg leve, −6 kg moderada, −14 kg grave.** Os **−10 kg** são do **edema grave**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 34
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-046",
+  "modulo": "B6",
+  "prioridade": "E",
+  "pergunta": "Ponto de corte de circunferência do braço para mulheres com cirrose descompensada",
+  "resposta": "< 28 cm",
+  "distratores": [
+   "< 30 cm",
+   "< 24 cm",
+   "< 23,5 cm"
+  ],
+  "explicacao": "**< 28 cm mulheres e < 30 cm homens**, com mortalidade mais que dobrada (HR 2,41).",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 43
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-047",
+  "modulo": "B6",
+  "prioridade": "E",
+  "pergunta": "Ponto de corte de SMI para homens",
+  "resposta": "< 50 cm²/m²",
+  "distratores": [
+   "< 39 cm²/m²",
+   "< 45 cm²/m²",
+   "< 55 cm²/m²"
+  ],
+  "explicacao": "**Homens < 50 cm²/m² e mulheres < 39 cm²/m²**, com **SMI = área em L3 / altura²**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 49
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-048",
+  "modulo": "B6",
+  "prioridade": "E",
+  "pergunta": "Ângulo de fase que identificou desnutrição pela ASG",
+  "resposta": "≤ 5,52°",
+  "distratores": [
+   "≤ 4,2°",
+   "≤ 6,5°",
+   "≤ 5,0°"
+  ],
+  "explicacao": "**≤ 5,52°**, com sensibilidade e especificidade > 70% e **risco de morte 3× maior em 6 meses**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 51
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-049",
+  "modulo": "B6",
+  "prioridade": "E",
+  "pergunta": "Ingestão abaixo da qual a RFH-GA classifica como “insuficiente”",
+  "resposta": "500 kcal/dia",
+  "distratores": [
+   "800 kcal/dia",
+   "1.000 kcal/dia",
+   "300 kcal/dia"
+  ],
+  "explicacao": "**Adequado = atinge as necessidades · inadequado = não atinge, mas > 500 kcal/dia · insuficiente = < 500 kcal/dia.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 60
+  },
+  "ambiguidade": "rfh-ga-cmb"
+ },
+ {
+  "id": "N-050",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Energia na cirrose compensada",
+  "resposta": "20 a 30 kcal/kg",
+  "distratores": [
+   "30 a 35 kcal/kg",
+   "25 a 35 kcal/kg",
+   "35 a 40 kcal/kg"
+  ],
+  "explicacao": "**Compensada: 20 a 30 kcal/kg e 1,2 g/kg.** **Descompensada ou desnutrida: 30 a 35 (ou > 35) e 1,2 a 1,5.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 8
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-051",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Proteína na cirrose compensada com obesidade",
+  "resposta": "> 1,5 g/kg de peso ideal",
+  "distratores": [
+   "1,2 g/kg de peso atual",
+   "0,8 g/kg de peso ideal",
+   "1,0 g/kg de peso ajustado"
+  ],
+  "explicacao": "Dieta **moderadamente hipocalórica (−500 a −800 kcal/dia)** com **> 1,5 g/kg de peso ideal**, para não comprometer as reservas proteicas.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 7
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-052",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Energia na cirrose com obesidade grau III",
+  "resposta": "20 a 25 kcal/kg de peso ideal",
+  "distratores": [
+   "25 a 35 kcal/kg de peso ideal",
+   "30 a 35 kcal/kg",
+   "15 a 20 kcal/kg de peso ideal"
+  ],
+  "explicacao": "**Grau I/II (IMC 30–40): 25 a 35 kcal/kg de peso ideal. Grau III (IMC ≥ 40): 20 a 25.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 11
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-053",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Percentual das necessidades abaixo do qual se indica nutrição enteral",
+  "resposta": "60%",
+  "distratores": [
+   "70%",
+   "50%",
+   "80%"
+  ],
+  "explicacao": "**SNO em < 70% · enteral em < 60%.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 12
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-054",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Carboidratos recomendados na ceia",
+  "resposta": "~50 g de baixo índice glicêmico",
+  "distratores": [
+   "~20 g",
+   "~80 g",
+   "~100 g"
+  ],
+  "explicacao": "**~50 g de CHO de baixo IG e ~13 g de proteína**, com **200–250 até 700 kcal**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 18
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-055",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Alvo sérico de vitamina D na cirrose",
+  "resposta": "30 ng/mL",
+  "distratores": [
+   "20 ng/mL",
+   "40 ng/mL",
+   "50 ng/mL"
+  ],
+  "explicacao": "**Suplementar abaixo de 20 ng/mL; alvo de 30 ng/mL.** Reposição **6.000 UI/dia ou 50.000 UI/semana**; manutenção **1.500 a 2.000 UI/dia**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 20
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-056",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Restrição de sódio recomendada na ascite",
+  "resposta": "< 2 g/dia",
+  "distratores": [
+   "< 1,5 g/dia",
+   "< 2,3 g/dia",
+   "< 3 g/dia"
+  ],
+  "explicacao": "**< 2 g de Na/dia (5 g de sal).** A restrição mais severa (**< 1,5 g**) é **desaconselhada** por reduzir a palatabilidade.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 24
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-057",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Sódio sérico abaixo do qual se restringe líquido na ascite",
+  "resposta": "120 a 125 mmol/L",
+  "distratores": [
+   "130 a 135 mmol/L",
+   "135 mmol/L",
+   "110 mmol/L"
+  ],
+  "explicacao": "**Só com Na sérico < 120 a 125 mmol/L**, e aí **800 mL a 1,5 L/dia**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 25
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-058",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Fibras recomendadas na encefalopatia hepática",
+  "resposta": "> 25 g/dia",
+  "distratores": [
+   "> 15 g/dia",
+   "20 a 25 g/dia",
+   "> 40 g/dia"
+  ],
+  "explicacao": "**> 25 g/dia.** Os **20 a 25 g** são da **diálise peritoneal** — números parecidos, aulas diferentes.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 30
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-059",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Relação BCAA/aromáticos na cirrose",
+  "resposta": "< 1,0",
+  "distratores": [
+   "3,0 a 3,5",
+   "2,0",
+   "0,25"
+  ],
+  "explicacao": "**No saudável, 3,0 a 3,5; na cirrose, < 1,0.** O **0,25 g/kg/dia** é a dose de BCAA da ESPEN.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 31
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-060",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Dose oral de BCAA recomendada pela ESPEN",
+  "resposta": "0,25 g/kg/dia",
+  "distratores": [
+   "0,5 g/kg/dia",
+   "1,2 g/kg/dia",
+   "0,1 g/kg/dia"
+  ],
+  "explicacao": "**0,25 g/kg/dia**, na **cirrose avançada**. O **0,5 g/kg/dia** é a proteína total da recomendação antiga do ACG.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 35
+  },
+  "ambiguidade": "proteina-eh"
+ },
+ {
+  "id": "N-061",
+  "modulo": "B7",
+  "prioridade": "E",
+  "pergunta": "Zinco sérico que sugere deficiência",
+  "resposta": "< 60 mcg/dL",
+  "distratores": [
+   "< 50 mcg/dL",
+   "< 80 mcg/dL",
+   "< 100 mcg/dL"
+  ],
+  "explicacao": "**< 60 mcg/dL sugere deficiência**; a **dose de reposição é < 50 mg de zinco elementar/dia, VO**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 39
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-062",
+  "modulo": "B8",
+  "prioridade": "E",
+  "pergunta": "MELD-Na que indica o transplante hepático",
+  "resposta": "> 15",
+  "distratores": [
+   "> 10",
+   "> 20",
+   "> 25"
+  ],
+  "explicacao": "**MELD-Na > 15** — mas a **perda de qualidade de vida indica independentemente do MELD**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 42
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-063",
+  "modulo": "B8",
+  "prioridade": "E",
+  "pergunta": "Tempo de abstinência de álcool e drogas exigido antes do transplante",
+  "resposta": "6 meses",
+  "distratores": [
+   "3 meses",
+   "12 meses",
+   "2 anos"
+  ],
+  "explicacao": "**Uso de álcool e drogas nos últimos 6 meses** é contraindicação.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 42
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-064",
+  "modulo": "B8",
+  "prioridade": "E",
+  "pergunta": "Energia da manutenção do estado nutricional no pré-operatório",
+  "resposta": "30 kcal/kg/dia",
+  "distratores": [
+   "35 kcal/kg/dia",
+   "25 kcal/kg/dia",
+   "20 kcal/kg/dia"
+  ],
+  "explicacao": "**Manutenção: 30 kcal/kg e 1,2 g/kg. Repleção: 35 kcal/kg e 1,5 g/kg.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 51
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-065",
+  "modulo": "B8",
+  "prioridade": "E",
+  "pergunta": "Quando iniciar a nutrição após o transplante hepático",
+  "resposta": "12 a 24 h",
+  "distratores": [
+   "48 a 72 h",
+   "6 h",
+   "5 dias"
+  ],
+  "explicacao": "**12 a 24 h após a cirurgia, se houver estabilidade hemodinâmica.** As **48 a 72 h** são o tempo em que se mantém a oferta reduzida de 10 a 15 kcal/kg.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 53
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "N-066",
+  "modulo": "B8",
+  "prioridade": "E",
+  "pergunta": "Sódio recomendado no pós-operatório tardio do transplante",
+  "resposta": "< 2.300 mg/dia",
+  "distratores": [
+   "< 2.000 mg/dia",
+   "< 1.500 mg/dia",
+   "< 3.000 mg/dia"
+  ],
+  "explicacao": "**< 2.300 mg/dia (~6 g de sal).** Os **2 g (5 g de sal)** são o alvo da **ascite**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 55
+  },
+  "ambiguidade": null
+ }
+]

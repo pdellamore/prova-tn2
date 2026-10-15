@@ -101,6 +101,11 @@ export async function desenhar(raiz, { c }) {
         <div class="linha-entre"><h2 style="margin:0">Chefões</h2><span class="fonte">simulados cronometrados</span></div>
         <p style="margin:.35rem 0 .6rem;color:var(--tinta-fraca);font-size:.93rem">No fim de cada trilha há um simulado com o gabarito só no final — e, no domingo, o Chefão Final com rim e fígado misturados.</p>
         <div class="acoes" style="margin:0"><a class="btn btn-forte" href="#/chefao">Ver os chefões</a></div>
+      </div>
+      <div class="cartao">
+        <div class="linha-entre"><h2 style="margin:0">Mini-jogos</h2><span class="fonte">rodadas de 2 a 5 minutos</span></div>
+        <p style="margin:.35rem 0 .6rem;color:var(--tinta-fraca);font-size:.93rem">Pegadinha ou não?, Qual é o número?, Ligar colunas e Monte o caso — para quando não der para sentar e estudar uma lição inteira.</p>
+        <div class="acoes" style="margin:0"><a class="btn" href="#/jogos">Ver os mini-jogos</a></div>
       </div>`;
   };
 

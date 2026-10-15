@@ -1,0 +1,729 @@
+[
+ {
+  "id": "C-01",
+  "titulo": "DRC estágio 4, sem diabetes",
+  "trilha": "rim",
+  "prioridade": "E",
+  "modulo": "A5",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 83
+  },
+  "abertura": "Homem de 58 anos, DRC não dialítica, **TFG de 24 mL/min/1,73 m²**, sem diabetes, **metabolicamente estável**, 70 kg.",
+  "passos": [
+   {
+    "pergunta": "Em que estágio da DRC ele está?",
+    "opcoes": [
+     "G3b",
+     "G4",
+     "G5",
+     "G3a"
+    ],
+    "correta": 1,
+    "justificativa": "**G4 = TFG de 15 a 29 mL/min/1,73 m².** O G3b vai de 30 a 44 e o G5 fica abaixo de 15."
+   },
+   {
+    "pergunta": "Qual a oferta proteica pelo KDOQI, já que ele é metabolicamente estável?",
+    "opcoes": [
+     "0,8 g/kg",
+     "0,55 a 0,60 g/kg",
+     "1,0 a 1,2 g/kg",
+     "0,28 a 0,43 g/kg"
+    ],
+    "correta": 1,
+    "justificativa": "**Sem diabetes e metabolicamente estável: 0,55 a 0,60 g/kg.** Os 0,28 a 0,43 exigiriam **cetoanálogos**, e a KDIGO 2024 fala em 0,8 — divergência sinalizada no material."
+   },
+   {
+    "pergunta": "Ele pergunta se pode usar sal light. O que responder?",
+    "opcoes": [
+     "Pode, por ter menos sódio",
+     "Pode, com moderação",
+     "Não, porque é rico em potássio",
+     "Não, porque é rico em fósforo"
+    ],
+    "correta": 2,
+    "justificativa": "**O sal light é proibido na DRC:** ele troca sódio por **potássio**, justamente o que se está controlando."
+   }
+  ],
+  "fecho": "Fecha com **potássio de 50 a 75 mEq, sódio ≤ 2 g e fósforo de 750 mg**, sem suplementar **A nem K**."
+ },
+ {
+  "id": "C-02",
+  "titulo": "Primeira sessão de hemodiálise",
+  "trilha": "rim",
+  "prioridade": "E",
+  "modulo": "A6",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 132
+  },
+  "abertura": "Mulher de 64 anos, entrou em **hemodiálise** há um mês, 60 kg, **diurese residual de 600 mL/dia**.",
+  "passos": [
+   {
+    "pergunta": "Qual a oferta proteica?",
+    "opcoes": [
+     "0,55 a 0,60 g/kg",
+     "1,0 a 1,2 g/kg",
+     "1,2 a 1,3 g/kg",
+     "1,4 a 1,5 g/kg"
+    ],
+    "correta": 1,
+    "justificativa": "**Hemodiálise: 1,0 a 1,2 g/kg.** Os 1,2 a 1,3 são da **diálise peritoneal**, e 1,4 a 1,5 da **peritonite**."
+   },
+   {
+    "pergunta": "Qual a prescrição de líquidos?",
+    "opcoes": [
+     "600 mL/dia",
+     "1.000 mL/dia",
+     "1.100 mL/dia",
+     "1.500 mL/dia"
+    ],
+    "correta": 2,
+    "justificativa": "**500 mL + a diurese = 500 + 600 = 1.100 mL/dia.** O teto de 1.000 mL vale para o paciente **anúrico**."
+   },
+   {
+    "pergunta": "Ela ganhou 3,5 kg entre duas sessões. Isso está dentro do aceitável?",
+    "opcoes": [
+     "Sim, está entre 3 e 5% do peso",
+     "Não, passa de 5% do peso",
+     "Não, o limite é sempre 1 kg",
+     "Sim, não há limite definido"
+    ],
+    "correta": 1,
+    "justificativa": "**3,5 kg em 60 kg são 5,8%**, acima da faixa. O ganho interdialítico aceitável é de **3 a 5% do peso corporal** — para ela, de **1,8 a 3,0 kg**."
+   }
+  ],
+  "fecho": "**Kt/V alvo de 1,2 por sessão**, **fósforo de 700 mg** e **sódio de 2.300 mg**."
+ },
+ {
+  "id": "C-03",
+  "titulo": "Diálise peritoneal com peritonite",
+  "trilha": "rim",
+  "prioridade": "E",
+  "modulo": "A7",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 139
+  },
+  "abertura": "Homem de 45 anos em **CAPD**, 72 kg, internado com **peritonite**.",
+  "passos": [
+   {
+    "pergunta": "Qual a oferta proteica nesse momento?",
+    "opcoes": [
+     "1,0 a 1,2 g/kg",
+     "1,2 a 1,3 g/kg",
+     "1,4 a 1,5 g/kg",
+     "0,8 g/kg"
+    ],
+    "correta": 2,
+    "justificativa": "Na **peritonite ou na repleção, 1,4 a 1,5 g/kg** — a perda proteica pelo dialisato aumenta."
+   },
+   {
+    "pergunta": "Como entra a glicose do dialisato no cálculo?",
+    "opcoes": [
+     "Não entra, é absorvida apenas localmente",
+     "Entra na energia e nos carboidratos, reduzindo os CHO por via oral a cerca de 35% do VET",
+     "Entra só na energia",
+     "Entra só nos carboidratos"
+    ],
+    "correta": 1,
+    "justificativa": "A glicose absorvida **conta na energia e nos carboidratos**, por isso os carboidratos **por via oral** ficam em torno de **35% do VET**."
+   },
+   {
+    "pergunta": "Qual o alvo de Kt/V dele?",
+    "opcoes": [
+     "1,2 por sessão",
+     "2,0 por semana",
+     "1,7 por semana",
+     "1,2 por semana"
+    ],
+    "correta": 1,
+    "justificativa": "**CAPD: 2,0 por semana.** O **1,2 por sessão** é da hemodiálise."
+   }
+  ],
+  "fecho": "Fibras de **20 a 25 g/dia**, potássio **até 76 mEq** e fósforo de **1.000 a 1.200 mg**."
+ },
+ {
+  "id": "C-04",
+  "titulo": "Insuficiência renal aguda na UTI",
+  "trilha": "rim",
+  "prioridade": "I",
+  "modulo": "A10",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 181
+  },
+  "abertura": "Mulher de 70 anos, 58 kg, **IRA** em terapia renal substitutiva **contínua**, em UTI.",
+  "passos": [
+   {
+    "pergunta": "Qual a oferta proteica?",
+    "opcoes": [
+     "1,3 a 1,5 g/kg",
+     "cerca de 1,5 g/kg",
+     "1,7 a 2,5 g/kg",
+     "0,8 g/kg"
+    ],
+    "correta": 2,
+    "justificativa": "**Contínua: 1,7 a 2,5 g/kg** — é a modalidade que mais perde aminoácidos. Sem TRS seriam 1,3 a 1,5; intermitente, cerca de 1,5."
+   },
+   {
+    "pergunta": "E a oferta energética?",
+    "opcoes": [
+     "20 a 25 kcal/kg",
+     "25 a 30 kcal/kg",
+     "30 a 45 kcal/kg",
+     "45 a 60 kcal/kg"
+    ],
+    "correta": 2,
+    "justificativa": "**30 a 45 kcal/kg**, com **carboidratos de 60 a 70%** do VET."
+   },
+   {
+    "pergunta": "A creatinina dela subiu 0,6 mg/dL em 24 h. Isso preenche o critério de IRA?",
+    "opcoes": [
+     "Sim, passa de 0,5 mg/dL",
+     "Não, precisaria passar de 1,0 mg/dL",
+     "Não, precisaria dobrar",
+     "Só se houver oligoanúria"
+    ],
+    "correta": 0,
+    "justificativa": "**Aumento de mais de 50% ou de 0,5 mg/dL** caracteriza IRA. A **oligoanúria é o segundo marcador**, presente em 50 a 70% dos casos."
+   }
+  ],
+  "fecho": "Lembre do cálculo do **UNA**, em que **N = ureia × 0,467**."
+ },
+ {
+  "id": "C-05",
+  "titulo": "MASLD com síndrome metabólica",
+  "trilha": "figado",
+  "prioridade": "E",
+  "modulo": "B5",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "abertura": "Homem de 43 anos, **esteatose grau II** à ultrassonografia. **IMC 32,2 · CC 110 cm · glicemia 110 · HbA1c 5,6% · PA 120/80 · TG 306 · HDL 41.** Peso 112 kg, peso ideal 80 kg. Bebe cerca de **200 g de álcool por semana**.",
+  "passos": [
+   {
+    "pergunta": "Quantos fatores cardiometabólicos ele preenche?",
+    "opcoes": [
+     "Um",
+     "Dois",
+     "Três",
+     "Cinco"
+    ],
+    "correta": 2,
+    "justificativa": "**IMC/CC, glicemia de jejum ≥ 100 e TG ≥ 150.** A PA está abaixo de 130/85, a HbA1c abaixo de 5,7% e o HDL acima do corte masculino de ≤ 40."
+   },
+   {
+    "pergunta": "Qual a classificação da esteatose dele?",
+    "opcoes": [
+     "MASLD",
+     "MetALD",
+     "ALD",
+     "Outras causas"
+    ],
+    "correta": 0,
+    "justificativa": "A faixa de MetALD em homens começa em **210 g por semana**; com **200 g** ele fica **abaixo** do piso. Com fatores cardiometabólicos presentes, é **MASLD**."
+   },
+   {
+    "pergunta": "Qual a oferta proteica durante a perda de peso?",
+    "opcoes": [
+     "134 g/dia (peso atual)",
+     "96 g/dia (peso ideal)",
+     "106 g/dia (peso ajustado)",
+     "80 g/dia"
+    ],
+    "correta": 2,
+    "justificativa": "**Peso ajustado = (112 − 80) × 0,25 + 80 = 88 kg.** Com **1,2 g/kg de peso ajustado**, cerca de **106 g/dia**."
+   },
+   {
+    "pergunta": "Qual a meta inicial de perda de peso para reduzir a esteatose?",
+    "opcoes": [
+     "3 a 5%",
+     "7%",
+     "10%",
+     "15%"
+    ],
+    "correta": 0,
+    "justificativa": "**3 a 5% reduz a esteatose.** Os 7% melhoram a esteato-hepatite e os 10% regridem a fibrose."
+   }
+  ],
+  "fecho": "Déficit de **500 a 1.000 kcal/dia**, padrão **mediterrâneo adaptado**, **menos frutose de bebidas açucaradas** e **redução do álcool**."
+ },
+ {
+  "id": "C-06",
+  "titulo": "Cirrose compensada, primeira consulta",
+  "trilha": "figado",
+  "prioridade": "E",
+  "modulo": "B7",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 8
+  },
+  "abertura": "Mulher de 55 anos, **cirrose compensada**, **Child-Pugh A**, IMC 24 kg/m², 62 kg, sem ascite e sem edema.",
+  "passos": [
+   {
+    "pergunta": "Ela precisa passar pela triagem nutricional?",
+    "opcoes": [
+     "Não, Child A vai direto à avaliação",
+     "Sim, Child A ou B com IMC acima de 18,5 passa pela triagem",
+     "Não, só se descompensar",
+     "Sim, mas só se tiver ascite"
+    ],
+    "correta": 1,
+    "justificativa": "**Child-Pugh A/B com IMC > 18,5 → triagem com ferramentas.** Quem pula a triagem é **Child C e/ou IMC < 18,5**."
+   },
+   {
+    "pergunta": "Qual a prescrição energética e proteica?",
+    "opcoes": [
+     "20 a 30 kcal/kg e 1,2 g/kg",
+     "30 a 35 kcal/kg e 1,2 a 1,5 g/kg",
+     "25 kcal/kg e 0,8 g/kg",
+     "35 kcal/kg e 1,5 g/kg"
+    ],
+    "correta": 0,
+    "justificativa": "Na **cirrose compensada**, as necessidades **não são maiores** que as de pessoas saudáveis: **20 a 30 kcal/kg e 1,2 g/kg**."
+   },
+   {
+    "pergunta": "Mesmo compensada e sem queixas, o que não pode faltar no plano?",
+    "opcoes": [
+     "Restrição de sódio abaixo de 1,5 g",
+     "A ceia, com cerca de 50 g de CHO de baixo IG e 13 g de proteína",
+     "Restrição proteica preventiva",
+     "Suplemento de BCAA"
+    ],
+    "correta": 1,
+    "justificativa": "A **ceia** é o lanche mais importante segundo a EASL, porque cobre o intervalo **jantar → café da manhã** — e **12 h de jejum no cirrótico equivalem a 72 h**."
+   }
+  ],
+  "fecho": "Fracionar em **3 refeições e 2 a 3 lanches, a cada 3 a 4 h**, e monitorar micronutrientes **ao menos anualmente**."
+ },
+ {
+  "id": "C-07",
+  "titulo": "Cirrose descompensada com ascite",
+  "trilha": "figado",
+  "prioridade": "E",
+  "modulo": "B7",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 24
+  },
+  "abertura": "Homem de 61 anos, **cirrose descompensada**, **ascite moderada**, **edema bilateral**, desnutrido. Peso aferido **84 kg**. **Sódio sérico de 133 mmol/L.**",
+  "passos": [
+   {
+    "pergunta": "Qual o peso seco pelo desconto percentual?",
+    "opcoes": [
+     "79,8 kg",
+     "75,6 kg",
+     "71,4 kg",
+     "84 kg"
+    ],
+    "correta": 2,
+    "justificativa": "**Ascite moderada −10% + edema bilateral −5% = 15%.** **84 × 0,85 = 71,4 kg.**"
+   },
+   {
+    "pergunta": "Qual a prescrição energética, usando esse peso?",
+    "opcoes": [
+     "1.428 a 1.785 kcal (20 a 25 kcal/kg)",
+     "2.142 a 2.499 kcal (30 a 35 kcal/kg)",
+     "2.520 a 2.940 kcal (sobre o peso aferido)",
+     "1.000 kcal, para reduzir a ascite"
+    ],
+    "correta": 1,
+    "justificativa": "**Desnutrido e descompensado: 30 a 35 kcal/kg** sobre o peso seco. **71,4 × 30 ≈ 2.142** e **× 35 ≈ 2.499 kcal**."
+   },
+   {
+    "pergunta": "Qual a conduta com sódio e líquidos?",
+    "opcoes": [
+     "Sódio < 1,5 g e líquidos a 1 L",
+     "Sódio < 2 g e sem restrição de líquidos",
+     "Sem restrição de sódio e líquidos a 800 mL",
+     "Sódio < 2 g e líquidos a 800 mL"
+    ],
+    "correta": 1,
+    "justificativa": "**Sódio < 2 g/dia (5 g de sal)**; a restrição severa é desaconselhada. **Líquidos só com Na sérico < 120 a 125 mmol/L** — com **133**, não se restringe."
+   },
+   {
+    "pergunta": "Ele está com IMC de 31 pelo peso corrigido. Vale propor perda de peso?",
+    "opcoes": [
+     "Sim, meta de 5 a 10%",
+     "Sim, com déficit de 500 a 800 kcal",
+     "Não, não se faz intervenção para perda de peso em descompensados",
+     "Sim, mas só depois da paracentese"
+    ],
+    "correta": 2,
+    "justificativa": "**Não se realizam intervenções para perda de peso em pacientes descompensados.** A perda moderada fica reservada à **cirrose compensada com obesidade**."
+   }
+  ],
+  "fecho": "Avaliar **tiamina antes da TNE** se houver risco de realimentação, e considerar **multivitamínico com zinco por 2 semanas**."
+ },
+ {
+  "id": "C-08",
+  "titulo": "Encefalopatia hepática grau II",
+  "trilha": "figado",
+  "prioridade": "E",
+  "modulo": "B7",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 30
+  },
+  "abertura": "Mulher de 57 anos, cirrose por MASH, internada com **encefalopatia hepática grau II**, em uso de **lactulose**. 64 kg.",
+  "passos": [
+   {
+    "pergunta": "Qual a conduta com a proteína?",
+    "opcoes": [
+     "Restringir a 0,5 g/kg e progredir",
+     "Suspender por 48 h",
+     "Não reduzir a ingestão proteica",
+     "Reduzir à metade da prescrição"
+    ],
+    "correta": 2,
+    "justificativa": "**Não se reduz a proteína na EH:** a restrição **não reduziu a gravidade** e **pode agravar o catabolismo**. O 0,5 g/kg é a recomendação **antiga** do ACG, de 2001."
+   },
+   {
+    "pergunta": "Ela pode continuar comendo carne?",
+    "opcoes": [
+     "Não, proteína animal é proibida na EH",
+     "Sim, restringir proteína animal só com intolerância comprovada",
+     "Só proteína vegetal, sempre",
+     "Só laticínios"
+    ],
+    "correta": 1,
+    "justificativa": "**Restringir proteína animal não é tratamento padrão** — só para quem tem **intolerância comprovada**. A orientação inclui fontes animais, **incentivando laticínios**, e vegetais."
+   },
+   {
+    "pergunta": "Quanto de fibra recomendar?",
+    "opcoes": [
+     "Mais de 25 g/dia",
+     "20 a 25 g/dia",
+     "Mais de 40 g/dia",
+     "Não há recomendação"
+    ],
+    "correta": 0,
+    "justificativa": "**Fibras > 25 g/dia** entram como recomendação explícita na EH. Os 20 a 25 g são da **diálise peritoneal**."
+   },
+   {
+    "pergunta": "Vale suplementar BCAA? E o que esperar?",
+    "opcoes": [
+     "Sim, e reduzem a mortalidade",
+     "Sim, reduzem a encefalopatia, mas não a mortalidade",
+     "Não, não têm efeito nenhum",
+     "Só por via intravenosa"
+    ],
+    "correta": 1,
+    "justificativa": "A Cochrane mostrou **redução da encefalopatia (RR 0,79)** e **nenhum efeito sobre mortalidade (RR 0,89)**. A ESPEN sugere **0,25 g/kg/dia por via oral** na cirrose avançada."
+   }
+  ],
+  "fecho": "A lactulose trata a encefalopatia e, de quebra, causa **diarreia e má absorção** — o que entra na avaliação."
+ },
+ {
+  "id": "C-09",
+  "titulo": "Avaliação da sarcopenia na cirrose",
+  "trilha": "figado",
+  "prioridade": "E",
+  "modulo": "B6",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 54
+  },
+  "abertura": "Homem de 66 anos, **cirrose Child-Pugh B**, **ascite leve**, sem edema de membros. Força de preensão de **20 kgf** (maior de 3 medidas na mão não dominante).",
+  "passos": [
+   {
+    "pergunta": "A força de preensão dele está reduzida?",
+    "opcoes": [
+     "Não, está acima de 12 kgf",
+     "Sim, está abaixo de 22 kgf",
+     "Não, o corte masculino é 10 kgf",
+     "Não é possível dizer sem a tomografia"
+    ],
+    "correta": 1,
+    "justificativa": "Para **homens com 60 anos ou mais, o corte é ≤ 22 kgf**; com **20 kgf**, está reduzida. Os cortes de 12 e 10 kgf são **femininos**."
+   },
+   {
+    "pergunta": "Qual método de composição corporal seria o mais adequado?",
+    "opcoes": [
+     "Bioimpedância, por ser portátil",
+     "DEXA, pelo IMMA",
+     "Tomografia em L3, por não sofrer influência de fluidos",
+     "Circunferência da panturrilha"
+    ],
+    "correta": 2,
+    "justificativa": "A **tomografia em L3 é a recomendada** justamente por **não sofrer influência do acúmulo de fluidos** — e seria usada de preferência se ele já fosse fazer o exame por outro motivo."
+   },
+   {
+    "pergunta": "Sem acesso à tomografia, o que já basta para intervir?",
+    "opcoes": [
+     "Nada, é preciso medir massa muscular",
+     "A força de preensão reduzida",
+     "Apenas o IMC",
+     "Apenas a albumina sérica"
+    ],
+    "correta": 1,
+    "justificativa": "O estudo ambulatorial conclui que **a FAM reduzida já seria suficiente para implementar intervenções de manejo da sarcopenia**, mesmo sem avaliar objetivamente a massa muscular."
+   }
+  ],
+  "fecho": "À beira do leito, **CB e CMB** são as medidas que **menos sofrem com fluidos**; a **panturrilha, só sem edema**."
+ },
+ {
+  "id": "C-10",
+  "titulo": "Candidato a transplante hepático",
+  "trilha": "figado",
+  "prioridade": "E",
+  "modulo": "B8",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 51
+  },
+  "abertura": "Homem de 52 anos, **cirrose avançada**, **MELD-Na de 19**, desnutrido, 64 kg. Parou de beber há **8 meses**.",
+  "passos": [
+   {
+    "pergunta": "Ele tem indicação de transplante?",
+    "opcoes": [
+     "Não, o MELD-Na precisa passar de 25",
+     "Sim, MELD-Na acima de 15",
+     "Não, por causa do histórico de álcool",
+     "Só se tiver ascite refratária"
+    ],
+    "correta": 1,
+    "justificativa": "**MELD-Na > 15** indica. E a **perda de qualidade de vida indica independentemente do MELD**."
+   },
+   {
+    "pergunta": "O histórico de álcool contraindica?",
+    "opcoes": [
+     "Sim, qualquer histórico contraindica",
+     "Não, a contraindicação é o uso nos últimos 6 meses",
+     "Sim, por 2 anos",
+     "Depende apenas do MELD"
+    ],
+    "correta": 1,
+    "justificativa": "A contraindicação é o **uso de álcool e drogas nos últimos 6 meses**; ele está abstinente há 8."
+   },
+   {
+    "pergunta": "Qual a prescrição no pré-operatório, já que está desnutrido?",
+    "opcoes": [
+     "30 kcal/kg e 1,2 g/kg",
+     "35 kcal/kg e 1,5 g/kg",
+     "25 kcal/kg e 1,0 g/kg",
+     "20 kcal/kg e 0,8 g/kg"
+    ],
+    "correta": 1,
+    "justificativa": "**Repleção: 35 kcal/kg e 1,5 g/kg**, idealmente começando **2 semanas antes**. A manutenção seria 30 kcal/kg e 1,2 g/kg."
+   },
+   {
+    "pergunta": "Que tipo de fórmula usar na suplementação?",
+    "opcoes": [
+     "Enriquecida com BCAA",
+     "Imunomoduladora, com arginina e ômega-3",
+     "Polimérica padrão",
+     "Fórmula com probióticos"
+    ],
+    "correta": 2,
+    "justificativa": "**Fórmulas padrão.** Os produtos especializados (BCAA ou imunomoduladores) **não têm resultados consistentes** sobre a morbimortalidade pós-transplante."
+   }
+  ],
+  "fecho": "Jejum pré-operatório de **6 h para sólidos e no máximo 2 h para líquidos**, com **bebida rica em carboidratos** na véspera e 2 a 4 h antes."
+ },
+ {
+  "id": "C-11",
+  "titulo": "Primeiras horas do pós-transplante",
+  "trilha": "figado",
+  "prioridade": "E",
+  "modulo": "B8",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 53
+  },
+  "abertura": "Mulher de 48 anos, 70 kg, sem obesidade, **16 horas após transplante hepático**, hemodinamicamente estável, TGI viável.",
+  "passos": [
+   {
+    "pergunta": "Já se começa a nutrir?",
+    "opcoes": [
+     "Não, só após 72 h",
+     "Sim, o início é em 12 a 24 h se houver estabilidade",
+     "Só após extubar",
+     "Só por via parenteral"
+    ],
+    "correta": 1,
+    "justificativa": "O início precoce — **12 a 24 h** com estabilidade hemodinâmica — **reduz infecção, tempo de UTI e de ventilação mecânica**."
+   },
+   {
+    "pergunta": "Por qual via?",
+    "opcoes": [
+     "Parenteral, para poupar o TGI",
+     "Oral ou enteral, priorizando o TGI",
+     "Somente oral",
+     "Aguardar a avaliação fonoaudiológica"
+    ],
+    "correta": 1,
+    "justificativa": "A ordem é **VO → TNE → TNP**, **priorizando o TGI** pelo trofismo e integridade da mucosa — embora **iniciar a NP cedo seja melhor do que esperar a NE ficar viável**."
+   },
+   {
+    "pergunta": "Com quanto começar?",
+    "opcoes": [
+     "700 a 1.050 kcal (10 a 15 kcal/kg)",
+     "2.100 a 2.450 kcal (30 a 35 kcal/kg)",
+     "1.750 kcal (25 kcal/kg)",
+     "Dieta livre"
+    ],
+    "correta": 0,
+    "justificativa": "**10 a 15 kcal/kg nas primeiras 48 a 72 h** — 70 kg dão **700 a 1.050 kcal** —, progredindo depois até **30 a 35 kcal/kg e 1,5 a 2,0 g/kg**."
+   }
+  ],
+  "fecho": "No **pós-operatório tardio**, o foco vira **evitar ganho de peso**: **< 10% do VET em saturadas e açúcares**, **< 2.300 mg de sódio** e segurança alimentar."
+ },
+ {
+  "id": "C-12",
+  "titulo": "Síndrome nefrótica",
+  "trilha": "rim",
+  "prioridade": "E",
+  "modulo": "A2",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 29
+  },
+  "abertura": "Mulher de 34 anos com **edema**, **proteinúria de 6 g em 24 h**, **albumina sérica baixa** e **dislipidemia**.",
+  "passos": [
+   {
+    "pergunta": "O que fecha o diagnóstico de síndrome nefrótica?",
+    "opcoes": [
+     "A combinação de edema e dislipidemia",
+     "A proteinúria acima de 3,5 g em 24 h, isoladamente",
+     "A albumina baixa, isoladamente",
+     "É preciso ter os quatro achados"
+    ],
+    "correta": 1,
+    "justificativa": "**A proteinúria > 3,5 g/24 h é critério isolado.** Os demais achados acompanham, mas não precisam estar todos presentes."
+   },
+   {
+    "pergunta": "Qual a oferta proteica?",
+    "opcoes": [
+     "Hiperproteica, para repor a perda urinária",
+     "Normoproteica",
+     "Hipoproteica, 0,6 g/kg",
+     "Depende da TFG"
+    ],
+    "correta": 1,
+    "justificativa": "A dieta é **normoproteica**. Aumentar a proteína **não repõe a perda** e sobrecarrega o glomérulo."
+   },
+   {
+    "pergunta": "E os lipídios?",
+    "opcoes": [
+     "Livres",
+     "Menos de 30% do VET",
+     "De 25 a 50% do VET",
+     "Menos de 20% do VET"
+    ],
+    "correta": 1,
+    "justificativa": "**Menos de 30% do VET.** O material sinaliza que, no tratamento conservador, há **duas faixas diferentes** para lipídios — mas, aqui, o slide da tríade é claro."
+   }
+  ],
+  "fecho": "Os slides 73 a 81 ficam sob o divisor “Tratamento Conservador”, mas descrevem a **tríade da síndrome nefrótica** — ambiguidade sinalizada no material."
+ },
+ {
+  "id": "C-13",
+  "titulo": "Nefrolitíase recorrente",
+  "trilha": "rim",
+  "prioridade": "I",
+  "modulo": "A9",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 166
+  },
+  "abertura": "Homem de 33 anos, terceiro episódio de cólica renal. Imagem mostra **cálculo de 8 mm**. Ele conta que **cortou todo o cálcio da dieta** por conta própria.",
+  "passos": [
+   {
+    "pergunta": "O cálculo de 8 mm tende a sair sozinho?",
+    "opcoes": [
+     "Sim, a maioria sai",
+     "Em cerca de 50% dos casos",
+     "Raramente",
+     "Sempre, com hidratação"
+    ],
+    "correta": 2,
+    "justificativa": "**< 5 mm costumam sair · 5 a 7 mm em cerca de 50% · > 7 mm raramente.**"
+   },
+   {
+    "pergunta": "O que dizer sobre o corte do cálcio?",
+    "opcoes": [
+     "Está certo, reduz a formação de cálculos",
+     "Está errado: não se restringe cálcio como regra",
+     "Está certo apenas se o cálculo for de oxalato",
+     "Depende da calciúria"
+    ],
+    "correta": 1,
+    "justificativa": "**Não se restringe cálcio como regra.** Menos cálcio na luz intestinal deixa **mais oxalato livre** para ser absorvido."
+   },
+   {
+    "pergunta": "Ele toma 1 g de vitamina C por dia. O que avaliar?",
+    "opcoes": [
+     "Nada, a vitamina C é segura",
+     "Evitar, se houver hiperoxalúria",
+     "Aumentar, para acidificar a urina",
+     "Trocar por vitamina D"
+    ],
+    "correta": 1,
+    "justificativa": "A vitamina C é **precursora de oxalato**; a restrição é específica da **hiperoxalúria**."
+   }
+  ],
+  "fecho": "A base de tudo é **aumentar líquidos**, com ingestões **balanceadas de cálcio e oxalato** e controle de **proteína animal, sódio e purinas**."
+ },
+ {
+  "id": "C-14",
+  "titulo": "Classificar a esteatose pelo álcool",
+  "trilha": "figado",
+  "prioridade": "E",
+  "modulo": "B5",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 11
+  },
+  "abertura": "Mulher de 49 anos, **esteatose à ultrassonografia**, **IMC 27**, **PA 136/88 mmHg**. Relata **4 taças de vinho (150 mL a 12%) por dia**, todos os dias.",
+  "passos": [
+   {
+    "pergunta": "Quantos fatores cardiometabólicos ela preenche, pelos dados dados?",
+    "opcoes": [
+     "Nenhum",
+     "Um",
+     "Dois",
+     "Três"
+    ],
+    "correta": 2,
+    "justificativa": "**IMC ≥ 25** e **PA ≥ 130/85** — dois fatores. Basta um para a parte metabólica da definição."
+   },
+   {
+    "pergunta": "Qual o consumo semanal aproximado de álcool?",
+    "opcoes": [
+     "Cerca de 140 g",
+     "Cerca de 280 a 390 g",
+     "Cerca de 500 g",
+     "Menos de 100 g"
+    ],
+    "correta": 1,
+    "justificativa": "**1 taça de vinho ≈ 1 dose padrão ≈ 10 a 14 g.** São **28 doses por semana**, ou seja, **cerca de 280 a 390 g**."
+   },
+   {
+    "pergunta": "Como classificar?",
+    "opcoes": [
+     "MASLD",
+     "MetALD",
+     "ALD",
+     "Outras causas"
+    ],
+    "correta": 1,
+    "justificativa": "Para mulheres, a faixa de **MetALD é de 140 a 350 g por semana**. O consumo dela cai dentro dessa faixa, com fatores cardiometabólicos presentes: **MetALD**."
+   },
+   {
+    "pergunta": "O que isso muda no prognóstico?",
+    "opcoes": [
+     "Nada, o risco é igual ao da MASLD",
+     "O risco fica entre o da MASLD e o da ALD",
+     "O risco é menor que o da MASLD",
+     "Não há dados comparativos"
+    ],
+    "correta": 1,
+    "justificativa": "A ordem é **ALD > MetALD > MASLD > sem esteatose**, tanto em mortalidade (3,57 · 2,94 · 2,30) quanto em descompensação (10,2 · 7,69 · 4,73)."
+   }
+  ],
+  "fecho": "A distinção depende do **consumo autorrelatado, frequentemente subestimado** — por isso o slide sugere o **AUDIT** como rastreio."
+ }
+]

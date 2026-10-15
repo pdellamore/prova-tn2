@@ -10,15 +10,17 @@ import { esc, rico, selo, caixaFonte, apoio, atencaoDobra, anunciar, bip } from 
 
 export async function desenhar(raiz, { c, args }) {
   const filtro = args[0] || "";
+  const relampago = filtro === "relampago";
   const liberados = c.modulos.filter((m) => m.disponivel).map((m) => m.id);
-  let base = cardsDoModulo(c, filtro && c.moduloPorId[filtro] ? [filtro] : liberados);
+  let base = cardsDoModulo(c, !relampago && filtro && c.moduloPorId[filtro] ? [filtro] : liberados);
   if (ler().prefs.cortarC) base = base.filter((f) => f.prioridade !== "C");
 
-  const orgao = filtro && c.moduloPorId[filtro] ? c.moduloPorId[filtro].trilha : "rim";
+  const orgao = !relampago && filtro && c.moduloPorId[filtro] ? c.moduloPorId[filtro].trilha : "rim";
   raiz.dataset.orgao = orgao;
 
   const cont = contagemHoje(base);
-  let sessao = fila(base, { maxNovos: 15 });
+  // Na véspera não interessa o que venceu: interessa o essencial e o que ela erra.
+  let sessao = relampago ? filaRelampago(base) : fila(base, { maxNovos: 15 });
   // cards errados voltam no fim desta mesma sessão
   const volta = [];
   let i = 0;
@@ -56,7 +58,7 @@ export async function desenhar(raiz, { c, args }) {
     const st = estadoCard(f.id);
     const mod = c.moduloPorId[f.modulo];
     raiz.innerHTML = `<section>
-      <p class="olho">Flashcards · ${i + 1} de ${sessao.length}${volta.length ? ` (+${volta.length} para repetir)` : ""}</p>
+      <p class="olho">${relampago ? "Revisão relâmpago" : "Flashcards"} · ${i + 1} de ${sessao.length}${volta.length ? ` (+${volta.length} para repetir)` : ""}</p>
       <div class="card-pilha">
         <div class="card-face">
           <div class="card-topo">
@@ -133,4 +135,20 @@ export async function desenhar(raiz, { c, args }) {
   }
 
   pintar();
+}
+
+/**
+ * Fila da revisão relâmpago: só os essenciais, com os que ela mais errou na
+ * frente. Ignora as datas da repetição espaçada — é a passada da véspera.
+ */
+export function filaRelampago(base, estado = ler(), teto = 40) {
+  const erros = (f) => {
+    const st = estado.cards[f.id];
+    if (!st) return 0;
+    return (st.erros || 0) + (st.caixa <= 1 ? 1 : 0);
+  };
+  return [...base]
+    .filter((f) => f.prioridade === "E")
+    .sort((a, b) => erros(b) - erros(a) || Math.random() - 0.5)
+    .slice(0, teto);
 }

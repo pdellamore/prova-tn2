@@ -126,6 +126,10 @@ def main() -> int:
     ambiguidades = ler("ambiguidades.json") or []
     badges = ler("badges.json") or []
     chefoes = ler("chefoes.json") or []
+    vf = ler("vf.json") or []
+    numeros = ler("numeros.json") or []
+    ligar = ler("ligar.json") or []
+    casos = ler("casos.json") or []
 
     ids_modulo = {m["id"] for m in modulos}
     ids_amb = {a["id"] for a in ambiguidades}
@@ -313,6 +317,103 @@ def main() -> int:
             texto = " ".join(b.get("pontos", [])) + " " + " ".join(b.get("cuidado", []) or [])
             checar_fonte(rot, b.get("fonte"), paginas, texto)
 
+    # ── mini-jogos ──
+    for a in vf:
+        rot = f"vf.json[{a.get('id','?')}]"
+        registrar("vf.json", a["id"])
+        for campo in ("modulo", "prioridade", "afirmacao", "explicacao"):
+            if vazio(a.get(campo)):
+                erro(f"{rot}: campo '{campo}' vazio")
+        if a.get("modulo") not in ids_modulo:
+            erro(f"{rot}: módulo '{a.get('modulo')}' não existe")
+        if a.get("prioridade") not in ("E", "I", "C"):
+            erro(f"{rot}: prioridade deve ser E, I ou C")
+        if not isinstance(a.get("verdadeiro"), bool):
+            erro(f"{rot}: campo 'verdadeiro' precisa ser true ou false")
+        if "**" in (a.get("afirmacao") or ""):
+            erro(f"{rot}: a afirmação tem negrito, o que destaca a parte decisiva e entrega a resposta")
+        if a.get("ambiguidade") and a["ambiguidade"] not in ids_amb:
+            erro(f"{rot}: ambiguidade '{a['ambiguidade']}' não existe")
+        checar_fonte(rot, a.get("fonte"), paginas, f"{a.get('afirmacao','')} {a.get('explicacao','')}")
+    verdadeiras = sum(1 for a in vf if a.get("verdadeiro"))
+    if vf and not 0.35 <= verdadeiras / len(vf) <= 0.65:
+        aviso(
+            f"vf.json: {verdadeiras} de {len(vf)} afirmações são verdadeiras — "
+            "um desequilíbrio grande ensina a chutar pelo padrão, não pelo conteúdo"
+        )
+
+    for n in numeros:
+        rot = f"numeros.json[{n.get('id','?')}]"
+        registrar("numeros.json", n["id"])
+        for campo in ("modulo", "prioridade", "pergunta", "resposta", "explicacao"):
+            if vazio(n.get(campo)):
+                erro(f"{rot}: campo '{campo}' vazio")
+        if n.get("modulo") not in ids_modulo:
+            erro(f"{rot}: módulo '{n.get('modulo')}' não existe")
+        if n.get("prioridade") not in ("E", "I", "C"):
+            erro(f"{rot}: prioridade deve ser E, I ou C")
+        dist = n.get("distratores") or []
+        if len(dist) != 3:
+            erro(f"{rot}: tem {len(dist)} distratores, deveriam ser 3")
+        if n.get("resposta") in dist:
+            erro(f"{rot}: a resposta certa aparece também entre os distratores")
+        if len(set(dist)) != len(dist):
+            erro(f"{rot}: distratores repetidos")
+        for d in dist:
+            if vazio(d):
+                erro(f"{rot}: distrator vazio")
+        if n.get("ambiguidade") and n["ambiguidade"] not in ids_amb:
+            erro(f"{rot}: ambiguidade '{n['ambiguidade']}' não existe")
+        checar_fonte(rot, n.get("fonte"), paginas, f"{n.get('pergunta','')} {n.get('explicacao','')}")
+
+    for t in ligar:
+        rot = f"ligar.json[{t.get('id','?')}]"
+        registrar("ligar.json", t["id"])
+        for campo in ("titulo", "trilha", "prioridade", "pares"):
+            if vazio(t.get(campo)):
+                erro(f"{rot}: campo '{campo}' vazio")
+        if t.get("trilha") not in ("rim", "figado"):
+            erro(f"{rot}: trilha deve ser 'rim' ou 'figado'")
+        pares = t.get("pares") or []
+        if len(pares) < 4:
+            erro(f"{rot}: só {len(pares)} pares — a tabela fica fácil demais com menos de 4")
+        esquerdas = [x.get("esquerda") for x in pares]
+        direitas = [x.get("direita") for x in pares]
+        for lado, lista in (("esquerda", esquerdas), ("direita", direitas)):
+            if any(vazio(x) for x in lista):
+                erro(f"{rot}: há item vazio na coluna da {lado}")
+            if len(set(lista)) != len(lista):
+                erro(f"{rot}: a coluna da {lado} tem itens repetidos — ficaria sem par único")
+        checar_fonte(rot, t.get("fonte"), paginas, t.get("titulo", "") + " " + (t.get("nota") or ""))
+
+    for x in casos:
+        rot = f"casos.json[{x.get('id','?')}]"
+        registrar("casos.json", x["id"])
+        for campo in ("titulo", "trilha", "prioridade", "modulo", "abertura", "passos", "fecho"):
+            if vazio(x.get(campo)):
+                erro(f"{rot}: campo '{campo}' vazio")
+        if x.get("trilha") not in ("rim", "figado"):
+            erro(f"{rot}: trilha deve ser 'rim' ou 'figado'")
+        if x.get("modulo") not in ids_modulo:
+            erro(f"{rot}: módulo '{x.get('modulo')}' não existe")
+        for k, passo in enumerate(x.get("passos") or []):
+            rotp = f"{rot}.passo{k + 1}"
+            if vazio(passo.get("pergunta")) or vazio(passo.get("justificativa")):
+                erro(f"{rotp}: sem pergunta ou sem justificativa")
+            ops = passo.get("opcoes") or []
+            if len(ops) < 3:
+                erro(f"{rotp}: tem {len(ops)} opções, deveriam ser ao menos 3")
+            if len(set(ops)) != len(ops):
+                erro(f"{rotp}: opções repetidas")
+            for i, o in enumerate(ops):
+                if vazio(o):
+                    erro(f"{rotp}: opção {i + 1} vazia")
+                if "**" in o:
+                    erro(f"{rotp}: opção {i + 1} tem negrito, o que entrega o gabarito")
+            if not isinstance(passo.get("correta"), int) or not 0 <= passo["correta"] < len(ops):
+                erro(f"{rotp}: campo 'correta' fora da faixa das opções")
+        checar_fonte(rot, x.get("fonte"), paginas, f"{x.get('abertura','')} {x.get('fecho','')}")
+
     # ── cronograma ──
     ids_missao: set[str] = set()
     for d in cronograma:
@@ -340,6 +441,12 @@ def main() -> int:
                     erro(f"{rot}: módulo '{mid}' não existe")
             if ms.get("tipo") == "chefao" and ms.get("chefao") not in ids_chefao:
                 erro(f"{rot}: missão de chefão aponta para '{ms.get('chefao')}', que não existe")
+            if ms.get("tipo") == "jogo" and ms.get("jogo") not in ("vf", "numero", "ligar", "caso"):
+                erro(f"{rot}: missão de mini-jogo aponta para '{ms.get('jogo')}', que não existe")
+            if ms.get("tipo") == "calculo":
+                for cid in ms.get("calculos", []) or []:
+                    if not (RAIZ / "docs" / "js" / "calc" / f"{cid}.js").exists():
+                        erro(f"{rot}: missão de cálculo aponta para '{cid}', sem arquivo em docs/js/calc/")
 
     # ── relatório ──
     com_licao = sum(1 for m in modulos if (DADOS / "licoes" / (m["id"] + ".json")).exists())
@@ -347,6 +454,10 @@ def main() -> int:
     print(f"módulos: {len(modulos)} ({disponiveis} disponíveis) · lições escritas: {com_licao}")
     print(f"questões: {len(questoes)} · flashcards: {len(flashcards)} · ambiguidades: {len(ambiguidades)}")
     print(f"dias no cronograma: {len(cronograma)} · conquistas: {len(badges)} · chefões: {len(chefoes)}")
+    print(
+        f"mini-jogos: {len(vf)} afirmações V/F · {len(numeros)} números · "
+        f"{len(ligar)} tabelas · {len(casos)} casos clínicos"
+    )
 
     if avisos:
         print(f"\n{len(avisos)} aviso(s):")

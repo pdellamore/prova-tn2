@@ -36,6 +36,10 @@ export function progressoMissao(c, m, e = ler()) {
     const feitos = (m.calculos || []).filter((id) => (e.chefoes["calc:" + id]?.resolvidos || 0) > 0).length;
     return { feito: feitos, alvo: (m.calculos || []).length };
   }
+  if (m.tipo === "jogo") {
+    const r = e.chefoes["jogo:" + m.jogo]?.rodadas || 0;
+    return { feito: Math.min(r, m.alvo), alvo: m.alvo };
+  }
   if (m.tipo === "chefao") {
     const t = (e.chefoes[m.chefao]?.tentativas || []).length;
     return { feito: t ? 1 : 0, alvo: 1 };

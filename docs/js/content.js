@@ -17,13 +17,14 @@ let base = null;
 
 export async function conteudo() {
   if (base) return base;
-  const [modulos, cronograma, flashcards, questoes, badges, ambiguidades] = await Promise.all([
+  const [modulos, cronograma, flashcards, questoes, badges, ambiguidades, chefoes] = await Promise.all([
     carregar("modulos.json"),
     carregar("cronograma.json"),
     carregar("flashcards.json"),
     carregar("questoes.json"),
     carregar("badges.json"),
     carregar("ambiguidades.json"),
+    carregar("chefoes.json"),
   ]);
   const porId = (lista) => Object.fromEntries(lista.map((x) => [x.id, x]));
   base = {
@@ -32,6 +33,7 @@ export async function conteudo() {
     flashcards,
     questoes,
     badges,
+    chefoes,
     ambiguidades: porId(ambiguidades),
     moduloPorId: porId(modulos),
     questaoPorId: porId(questoes),

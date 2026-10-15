@@ -1,0 +1,164 @@
+{
+ "id": "B2",
+ "titulo": "Avaliação laboratorial hepática",
+ "preteste": [
+  "Q-B2-01",
+  "Q-B2-02"
+ ],
+ "blocos": [
+  {
+   "id": "B2-b1",
+   "titulo": "Lesão do hepatócito: AST e ALT",
+   "prioridade": "E",
+   "pontos": [
+    "AST e ALT são **indicadores sensíveis de lesão nos hepatócitos**.",
+    "**AST (TGO):** encontrada no fígado (mitocôndrias e citoplasma), mas **também nos músculos estriados, coração e rins** — por isso é **menos específica** que a ALT.",
+    "**ALT (TGP):** presente **predominantemente no citoplasma dos hepatócitos**. É o **marcador mais específico** de lesão e necrose das células hepáticas. **Em estágios iniciais da doença hepática, a ALT costuma estar maior que a AST.**",
+    "**A relação AST/ALT > 2 pode sugerir etiologia alcoólica.**",
+    "**A razão AST/ALT tende a se elevar conforme a progressão da doença hepática.**"
+   ],
+   "cuidado": [
+    "**ALT = mais específica** (está dentro do hepatócito). AST sobe também por músculo, coração e rim.",
+    "**AST/ALT > 2 → pensar em álcool.** E essa razão sobe com a progressão da doença, então ela também é pista de doença avançada."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 18
+   },
+   "apoio": {
+    "tipo": "mnemonico",
+    "texto": "**A**L**T** tem **T** de **tecido hepático** e é a mais específica; **AST** espalha-se pelo corpo. Apoio de memória; a informação é a do slide."
+   },
+   "checagem": {
+    "pergunta": "Homem com AST de 180 U/L e ALT de 70 U/L. O que essa relação sugere, segundo o slide?",
+    "alternativas": [
+     "Doença hepática em estágio inicial",
+     "Etiologia alcoólica, pois a relação AST/ALT é maior que 2",
+     "Lesão muscular isolada, sem envolvimento hepático",
+     "Colestase",
+     "Nada: a relação AST/ALT não tem valor diagnóstico"
+    ],
+    "correta": 1,
+    "justificativa": "180 ÷ 70 ≈ 2,6, ou seja, **AST/ALT > 2**, que o slide descreve como sugestivo de **etiologia alcoólica**. No início da doença hepática, a ALT costuma ser maior que a AST — o contrário do que se vê aqui.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 18
+    }
+   }
+  },
+  {
+   "id": "B2-b2",
+   "titulo": "Função de síntese: TP/INR e albumina",
+   "prioridade": "E",
+   "pontos": [
+    "**Tempo de protrombina (TP) → INR:** mede o tempo, em segundos, que o plasma leva para formar um coágulo. É o **exame mais rápido e confiável para detectar insuficiência ou lesão hepática AGUDA**, porque o fígado produz **quase todos os fatores de coagulação**.",
+    "**Albumina:** principal proteína plasmática (**50% das proteínas**), sintetizada **exclusivamente pelo fígado**. Processos inflamatórios **inibem** sua produção. Por ter **meia-vida longa (~20 dias)**, alterações refletem **processos mais crônicos** (por exemplo, cirrose)."
+   ],
+   "cuidado": [
+    "**Agudo → TP/INR. Crônico → albumina.** A meia-vida de 20 dias é exatamente o que torna a albumina lenta demais para o quadro agudo.",
+    "A albumina cai na inflamação **mesmo sem desnutrição** — ela é proteína de fase aguda negativa."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 19
+   },
+   "checagem": {
+    "pergunta": "Paciente dá entrada com hepatite fulminante há 2 dias. Qual exame melhor reflete a função hepática neste momento?",
+    "alternativas": [
+     "Albumina sérica",
+     "Tempo de protrombina / INR",
+     "Fosfatase alcalina",
+     "Gama-glutamiltransferase",
+     "Bilirrubina indireta"
+    ],
+    "correta": 1,
+    "justificativa": "O slide define o **TP/INR** como o **exame mais rápido e confiável para insuficiência ou lesão hepática aguda**. A **albumina**, com meia-vida de cerca de **20 dias**, ainda não teria tempo de cair em 48 horas — ela reflete processos crônicos.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 19
+    }
+   }
+  },
+  {
+   "id": "B2-b3",
+   "titulo": "Excreção: as bilirrubinas",
+   "prioridade": "I",
+   "pontos": [
+    "O fígado é o principal órgão responsável por **processar e excretar** a bilirrubina através da bile.",
+    "**Bilirrubina total = 70 a 80% indireta e 20 a 30% direta.**",
+    "**Bilirrubina indireta (não conjugada):** recém-formada a partir da **destruição de hemácias** na circulação. Reflete **falha na captação e conjugação hepática** e outras condições, como **anemia hemolítica**.",
+    "**Bilirrubina direta (conjugada):** já passou pelo fígado; por isso é **mais sensível para detectar doença hepática**, pois reflete **dificuldade na excreção da bile** ou **obstrução dos canais biliares**."
+   ],
+   "cuidado": [
+    "**A direta é a mais sensível para doença hepática.** A indireta aponta mais para hemólise e falha de captação/conjugação.",
+    "A proporção é **70–80% indireta**, não o contrário."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 20
+   },
+   "checagem": {
+    "pergunta": "Qual fração da bilirrubina é descrita como mais sensível para detectar doença hepática, e por quê?",
+    "alternativas": [
+     "A indireta, porque reflete destruição de hemácias",
+     "A direta, porque já passou pelo fígado e reflete dificuldade de excreção biliar ou obstrução",
+     "A indireta, porque corresponde a 70 a 80% do total",
+     "A direta, porque é a primeira a se formar",
+     "As duas têm sensibilidade igual"
+    ],
+    "correta": 1,
+    "justificativa": "A **bilirrubina direta (conjugada)** já passou pelo fígado, e por isso o slide a descreve como **mais sensível para doença hepática** — reflete dificuldade na excreção da bile ou obstrução dos canais biliares.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 20
+    }
+   }
+  },
+  {
+   "id": "B2-b4",
+   "titulo": "Colestase: FA e GGT",
+   "prioridade": "E",
+   "pontos": [
+    "**Fosfatase alcalina (FA):** enzima da **membrana canalicular biliar**. O aumento acentuado indica **interrupção do fluxo da bile (colestase)** ou alteração da arquitetura do fígado. **Também está presente nos ossos e na placenta.**",
+    "**Gama-glutamiltransferase (GGT):** enzima associada às membranas e ao **retículo endoplasmático**. A produção **aumenta na presença de álcool ou de certos medicamentos (como anticonvulsivantes)**, servindo como marcador de consumo de álcool ou de **estase biliar**. **É usada para confirmar se a elevação da FA é de origem hepática.**",
+    "**Lesão hepática e impacto nas funções:** alterações no metabolismo dos nutrientes; alterações em proteínas plasmáticas e hormonais; alterações no transporte de moléculas; **acúmulo de substâncias potencialmente tóxicas**."
+   ],
+   "cuidado": [
+    "**FA sobe também por osso e placenta.** Por isso a **GGT confirma a origem hepática** da elevação da FA — é esse o par que cai.",
+    "GGT elevada: pensar em **álcool, medicamentos (anticonvulsivantes) ou estase biliar**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 21
+   },
+   "checagem": {
+    "pergunta": "Gestante com fosfatase alcalina elevada e GGT normal. Qual a leitura mais adequada pelos slides?",
+    "alternativas": [
+     "Colestase confirmada",
+     "A FA pode não ter origem hepática — ela também está presente em ossos e placenta, e a GGT serve justamente para confirmar a origem hepática",
+     "Consumo de álcool",
+     "Lesão de hepatócito em fase inicial",
+     "Obstrução de canais biliares por cálculo"
+    ],
+    "correta": 1,
+    "justificativa": "O slide registra que a **FA também está presente nos ossos e na placenta** e que a **GGT é utilizada para confirmar se a elevação da FA é de origem hepática**. Com GGT normal, a origem hepática não está confirmada.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 21
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "Que AST e ALT marcam lesão do hepatócito, e qual é a mais específica",
+  "Que AST/ALT > 2 sugere álcool e que a razão sobe com a progressão",
+  "Por que TP/INR serve para o agudo e albumina para o crônico",
+  "Que a albumina tem meia-vida de cerca de 20 dias e cai na inflamação",
+  "A diferença entre bilirrubina direta e indireta, e qual é mais sensível",
+  "Que a FA também vem de osso e placenta, e que a GGT confirma a origem hepática"
+ ]
+}

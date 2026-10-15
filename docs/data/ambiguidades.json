@@ -1,155 +1,255 @@
 [
-  {
-    "id": "proteina-drc",
-    "titulo": "Proteína na DRC conservadora",
-    "resumo": "Os slides trazem **dois números diferentes** para a mesma situação, de diretrizes diferentes. Nenhum dos dois é 'o errado'.",
-    "lados": [
-      "**KDOQI 2020 / BRASPEN** (slides 82–83): DRC 3–5 sem diabetes, metabolicamente estável → **0,55–0,60 g/kg/dia**, ou 0,28–0,43 g/kg/dia com cetoácidos.",
-      "**KDIGO 2024** (slide 86): sugere manter **0,8 g/kg/dia** em adultos com DRC G3–G5; evitar mais de 1,3 g/kg/dia em quem tem risco de progressão."
-    ],
-    "fontes": [
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 82
-      },
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 86
-      }
-    ],
-    "nota": "Na prova, veja de qual diretriz a alternativa fala: KDOQI 2020 ou KDIGO 2024."
-  },
-  {
-    "id": "lipidios-conservador",
-    "titulo": "Lipídios no tratamento conservador",
-    "resumo": "Dois slides da **mesma seção** (Tratamento Conservador) dão percentuais que não se conciliam.",
-    "lados": [
-      "**KDOQI 2020** (slide 76), tabela do conservador: **25 a 50% do VET**, com saturados < 7%, mono até 20%, poli 10% e colesterol < 200 mg/dia.",
-      "**KDIGO 2012** (slide 80), slide de dislipidemia: **< 30% do VET** para adultos e crianças, com dieta mediterrânea, restrição de saturados e muita fibra."
-    ],
-    "fontes": [
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 76
-      },
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 80
-      }
-    ],
-    "nota": "Os dois slides vêm depois do divisor 'Tratamento Conservador' (slide 72). Na prova, veja de qual diretriz a alternativa fala: KDOQI 2020 ou KDIGO 2012."
-  },
-  {
-    "id": "asg-escore",
-    "titulo": "O 40 da ASG renal",
-    "resumo": "A faixa de desnutrição grave termina em 39 e a gravíssima começa 'acima de 40': **40 pontos exatos ficam sem classe** no slide.",
-    "lados": [
-      "Slide 57: até 8 = adequado · 9–23 = risco ou desnutrição leve · 24–31 = moderada · 32–39 = grave · **acima de 40** = gravíssima.",
-      "Pela lógica das outras faixas, 40 deveria entrar na gravíssima (≥ 40), mas o slide não diz isso."
-    ],
-    "fontes": [
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 57
-      }
-    ],
-    "nota": "Se um item cair exatamente em 40 pontos, o slide não resolve. Guarde as pontas: 8 e 40."
-  },
-  {
-    "id": "riboflavina",
-    "titulo": "Riboflavina 1,1 a 13 mg",
-    "resumo": "A tabela de vitaminas do conservador traz uma faixa improvável; é quase certo um erro de digitação de **1,3 mg**.",
-    "lados": [
-      "Slide 105: Riboflavina — **1,1 a 13 mg**.",
-      "As demais vitaminas do mesmo quadro têm faixas estreitas (tiamina 1,1–1,2 mg; piridoxina 5 mg)."
-    ],
-    "fontes": [
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 105
-      }
-    ],
-    "nota": "Decore as outras vitaminas; esta provavelmente não cai com esse intervalo."
-  },
-  {
-    "id": "albumina-nefrotica",
-    "titulo": "Hipoalbuminemia na síndrome nefrótica",
-    "resumo": "A unidade do slide não bate com a prática clínica.",
-    "lados": [
-      "Slide 29: hipoalbuminemia — **alb ↓ 3 g/L**.",
-      "Em g/dL (unidade usada no resto da aula, por exemplo albumina desejável > 4 g/dL) o corte seria **3 g/dL**."
-    ],
-    "fontes": [
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 29
-      }
-    ],
-    "nota": "O que importa para a prova é o critério isolado: proteinúria acima de 3,5 g em 24 h."
-  },
-  {
-    "id": "quelantes-hipofosfatemia",
-    "titulo": "Quelantes na hipofosfatemia grave",
-    "resumo": "O slide lista 'uso prolongado de quelantes K' entre as causas de hipofosfatemia grave — provavelmente quelantes **de fósforo**.",
-    "lados": [
-      "Slide 20: 'Uso prolongado de quelantes K'.",
-      "O contexto é homeostase do fósforo, e quem baixa fósforo é o quelante de fósforo."
-    ],
-    "fontes": [
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 20
-      }
-    ],
-    "nota": "Se cair, a lista de causas é o que importa, não a sigla do quelante."
-  },
-  {
-    "id": "secao-dietoterapia",
-    "titulo": "A quem pertencem os slides 73 a 81?",
-    "resumo": "Os slides de **Dietoterapia** vêm depois do divisor 'Tratamento Conservador' (slide 72), mas falam de **proteinúria, edema e hiperlipidemia** — a tríade da síndrome nefrótica, que a aula já havia apresentado nos slides 25 a 29. O slide não diz a qual das duas situações essas recomendações pertencem.",
-    "lados": [
-      "**Pela seção:** o slide 72 abre 'Tratamento Conservador' e tudo de 73 a 81 vem depois dele, com as fontes KDOQI 2020 (73 a 76) e KDIGO 2012 (79 a 81). Nessa leitura, os números são do tratamento conservador da DRC.",
-      "**Pelo conteúdo:** a 'tríade do manejo nutricional' (proteinúria, edema e hiperlipidemia — slide 74), a hipoalbuminemia como causa da dislipidemia (slide 79) e o 'melhora do edema / eleva a albumina sérica' (slide 81) descrevem a síndrome nefrótica."
-    ],
-    "fontes": [
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 72
-      },
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 74
-      },
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 80
-      }
-    ],
-    "nota": "Os números não mudam: lipídio < 30% do VET, dieta normoproteica e os sete objetivos estão escritos nesses slides. O que o slide não define é o rótulo da condição. Se a alternativa amarrar o número a uma condição específica, releia o enunciado com cuidado."
-  },
-  {
-    "id": "sodio-drc",
-    "titulo": "Sódio na DRC: três números",
-    "resumo": "A mesma aula dá **três alvos de sódio** para o paciente com DRC, em slides diferentes, sem conciliá-los.",
-    "lados": [
-      "**Slide 43** (quadro de metas clínicas): restrição de sódio da dieta **< 1,5 g/dia**, preferencialmente.",
-      "**Slide 89** (KDIGO): **< 2 g de sódio por dia** (< 90 mmol, < 5 g de cloreto de sódio).",
-      "**Slide 104** (tabela do tratamento conservador): sódio **até 2.000 mg/dia** — o mesmo valor do slide 89, mas ainda diferente do slide 43."
-    ],
-    "fontes": [
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 43
-      },
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 89
-      },
-      {
-        "arquivo": "Aula_NEFRO",
-        "pagina": 104
-      }
-    ],
-    "nota": "Se a alternativa citar a diretriz ou o quadro, siga esse. Sem isso: 2 g (2.000 mg) aparece em dois slides, e o 1,5 g só no quadro de metas clínicas."
-  }
+ {
+  "id": "proteina-drc",
+  "titulo": "Proteína na DRC conservadora",
+  "resumo": "Os slides trazem **dois números diferentes** para a mesma situação, de diretrizes diferentes. Nenhum dos dois é 'o errado'.",
+  "lados": [
+   "**KDOQI 2020 / BRASPEN** (slides 82–83): DRC 3–5 sem diabetes, metabolicamente estável → **0,55–0,60 g/kg/dia**, ou 0,28–0,43 g/kg/dia com cetoácidos.",
+   "**KDIGO 2024** (slide 86): sugere manter **0,8 g/kg/dia** em adultos com DRC G3–G5; evitar mais de 1,3 g/kg/dia em quem tem risco de progressão."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 82
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 86
+   }
+  ],
+  "nota": "Na prova, veja de qual diretriz a alternativa fala: KDOQI 2020 ou KDIGO 2024."
+ },
+ {
+  "id": "lipidios-conservador",
+  "titulo": "Lipídios no tratamento conservador",
+  "resumo": "Dois slides da **mesma seção** (Tratamento Conservador) dão percentuais que não se conciliam.",
+  "lados": [
+   "**KDOQI 2020** (slide 76), tabela do conservador: **25 a 50% do VET**, com saturados < 7%, mono até 20%, poli 10% e colesterol < 200 mg/dia.",
+   "**KDIGO 2012** (slide 80), slide de dislipidemia: **< 30% do VET** para adultos e crianças, com dieta mediterrânea, restrição de saturados e muita fibra."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 76
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 80
+   }
+  ],
+  "nota": "Os dois slides vêm depois do divisor 'Tratamento Conservador' (slide 72). Na prova, veja de qual diretriz a alternativa fala: KDOQI 2020 ou KDIGO 2012."
+ },
+ {
+  "id": "asg-escore",
+  "titulo": "O 40 da ASG renal",
+  "resumo": "A faixa de desnutrição grave termina em 39 e a gravíssima começa 'acima de 40': **40 pontos exatos ficam sem classe** no slide.",
+  "lados": [
+   "Slide 57: até 8 = adequado · 9–23 = risco ou desnutrição leve · 24–31 = moderada · 32–39 = grave · **acima de 40** = gravíssima.",
+   "Pela lógica das outras faixas, 40 deveria entrar na gravíssima (≥ 40), mas o slide não diz isso."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 57
+   }
+  ],
+  "nota": "Se um item cair exatamente em 40 pontos, o slide não resolve. Guarde as pontas: 8 e 40."
+ },
+ {
+  "id": "riboflavina",
+  "titulo": "Riboflavina 1,1 a 13 mg",
+  "resumo": "A tabela de vitaminas do conservador traz uma faixa improvável; é quase certo um erro de digitação de **1,3 mg**.",
+  "lados": [
+   "Slide 105: Riboflavina — **1,1 a 13 mg**.",
+   "As demais vitaminas do mesmo quadro têm faixas estreitas (tiamina 1,1–1,2 mg; piridoxina 5 mg)."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 105
+   }
+  ],
+  "nota": "Decore as outras vitaminas; esta provavelmente não cai com esse intervalo."
+ },
+ {
+  "id": "albumina-nefrotica",
+  "titulo": "Hipoalbuminemia na síndrome nefrótica",
+  "resumo": "A unidade do slide não bate com a prática clínica.",
+  "lados": [
+   "Slide 29: hipoalbuminemia — **alb ↓ 3 g/L**.",
+   "Em g/dL (unidade usada no resto da aula, por exemplo albumina desejável > 4 g/dL) o corte seria **3 g/dL**."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 29
+   }
+  ],
+  "nota": "O que importa para a prova é o critério isolado: proteinúria acima de 3,5 g em 24 h."
+ },
+ {
+  "id": "quelantes-hipofosfatemia",
+  "titulo": "Quelantes na hipofosfatemia grave",
+  "resumo": "O slide lista 'uso prolongado de quelantes K' entre as causas de hipofosfatemia grave — provavelmente quelantes **de fósforo**.",
+  "lados": [
+   "Slide 20: 'Uso prolongado de quelantes K'.",
+   "O contexto é homeostase do fósforo, e quem baixa fósforo é o quelante de fósforo."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 20
+   }
+  ],
+  "nota": "Se cair, a lista de causas é o que importa, não a sigla do quelante."
+ },
+ {
+  "id": "secao-dietoterapia",
+  "titulo": "A quem pertencem os slides 73 a 81?",
+  "resumo": "Os slides de **Dietoterapia** vêm depois do divisor 'Tratamento Conservador' (slide 72), mas falam de **proteinúria, edema e hiperlipidemia** — a tríade da síndrome nefrótica, que a aula já havia apresentado nos slides 25 a 29. O slide não diz a qual das duas situações essas recomendações pertencem.",
+  "lados": [
+   "**Pela seção:** o slide 72 abre 'Tratamento Conservador' e tudo de 73 a 81 vem depois dele, com as fontes KDOQI 2020 (73 a 76) e KDIGO 2012 (79 a 81). Nessa leitura, os números são do tratamento conservador da DRC.",
+   "**Pelo conteúdo:** a 'tríade do manejo nutricional' (proteinúria, edema e hiperlipidemia — slide 74), a hipoalbuminemia como causa da dislipidemia (slide 79) e o 'melhora do edema / eleva a albumina sérica' (slide 81) descrevem a síndrome nefrótica."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 72
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 74
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 80
+   }
+  ],
+  "nota": "Os números não mudam: lipídio < 30% do VET, dieta normoproteica e os sete objetivos estão escritos nesses slides. O que o slide não define é o rótulo da condição. Se a alternativa amarrar o número a uma condição específica, releia o enunciado com cuidado."
+ },
+ {
+  "id": "sodio-drc",
+  "titulo": "Sódio na DRC: três números",
+  "resumo": "A mesma aula dá **três alvos de sódio** para o paciente com DRC, em slides diferentes, sem conciliá-los.",
+  "lados": [
+   "**Slide 43** (quadro de metas clínicas): restrição de sódio da dieta **< 1,5 g/dia**, preferencialmente.",
+   "**Slide 89** (KDIGO): **< 2 g de sódio por dia** (< 90 mmol, < 5 g de cloreto de sódio).",
+   "**Slide 104** (tabela do tratamento conservador): sódio **até 2.000 mg/dia** — o mesmo valor do slide 89, mas ainda diferente do slide 43."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 43
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 89
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 104
+   }
+  ],
+  "nota": "Se a alternativa citar a diretriz ou o quadro, siga esse. Sem isso: 2 g (2.000 mg) aparece em dois slides, e o 1,5 g só no quadro de metas clínicas."
+ },
+ {
+  "id": "prealbumina-hd",
+  "titulo": "Pré-albumina nos critérios de desnutrição",
+  "resumo": "Os dois quadros de diagnóstico de desnutrição apresentados na aula usam **unidades diferentes** para a pré-albumina, com três ordens de grandeza de diferença.",
+  "lados": [
+   "**NKF-KDOQI 2000** (slide 124): pré-albumina **< 3,0 g/dL**.",
+   "**ISRNM / J Bras Nefrol 2011** (slide 125): pré-albumina sérica (transtirretina) **< 30 mg/mL**."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 124
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 125
+   }
+  ],
+  "nota": "A albumina, essa sim, difere de propósito entre os dois quadros: < 3,5 g/dL no NKF e < 3,8 g/dL no ISRNM. Guarde esse par, que é o que costuma cair."
+ },
+ {
+  "id": "proteina-dp",
+  "titulo": "Proteína na diálise peritoneal",
+  "resumo": "Dois slides da mesma aula dão números diferentes para a **mesma situação**, cada um citando uma diretriz.",
+  "lados": [
+   "**BRASPEN** (slide 82): a tabela traz **1,0 a 1,2 g/kg/dia** para hemodiálise **e** diálise peritoneal, sem separar as duas.",
+   "**KDOQI 2020** (slide 139): o slide específico da DP traz **1,20 a 1,30 g/kg/dia**, subindo para **1,40 a 1,50** em repleção e peritonite."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 82
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 139
+   }
+  ],
+  "nota": "Este material segue o KDOQI para a DP (1,2–1,3), porque é o slide dedicado à modalidade. Na prova, veja qual diretriz a alternativa cita."
+ },
+ {
+  "id": "proteina-tx-renal",
+  "titulo": "Proteína no pós-transplante renal tardio",
+  "resumo": "A proteína **despenca** de uma fase para a outra, e o slide apresenta os dois números sem comentar o contraste.",
+  "lados": [
+   "**Pós-TR imediato / rejeição aguda** (slide 148): **1,3 a 1,5 g/kg/dia** de peso atual, numa fase descrita como de catabolismo proteico intenso.",
+   "**Pós-TR tardio** (slide 150): **0,55 a 0,60 g/kg/dia** de peso atual — abaixo até do que se recomenda para um adulto saudável."
+  ],
+  "fontes": [
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 148
+   },
+   {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 150
+   }
+  ],
+  "nota": "O slide seguinte (154) mostra um estudo em que a dieta hiperproteica elevou a TFG, o que pode ser o racional da restrição tardia — mas essa ligação não é feita no material. Na prova, responda pela fase citada no enunciado."
+ },
+ {
+  "id": "child-c",
+  "titulo": "Child-Pugh C: o 10 fica de fora",
+  "resumo": "Do jeito que o slide está escrito, **quem tem exatamente 10 pontos não pertence a nenhuma classe**.",
+  "lados": [
+   "Slide 45: **Child A = 5–6 pontos**, **Child B = 7–9 pontos**, **Child C = > 10 pontos**.",
+   "Pela lógica das outras duas faixas (que são fechadas e contíguas), a classe C deveria começar em **≥ 10**, e é assim que o escore é usado na prática."
+  ],
+  "fontes": [
+   {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 45
+   },
+   {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 5
+   }
+  ],
+  "nota": "O mesmo quadro reaparece na aula de avaliação nutricional, com a mesma grafia. Se a questão der exatamente 10 pontos, a intenção quase certamente é Child C — mas o slide não fecha isso."
+ },
+ {
+  "id": "hepatites-ae",
+  "titulo": "“Hepatites A e E — Vírus A e B”",
+  "resumo": "O quadro das hepatites autolimitadas tem o **título e o conteúdo discordando** entre si.",
+  "lados": [
+   "Slide 32, cabeçalho: **HEPATITES A e E**. Logo abaixo, a primeira linha do mesmo bloco: **“Vírus A e B”**.",
+   "Slide 29, de transmissão, é coerente com o cabeçalho: **A e E são fecal-oral**; **B, C e D são por sangue e fluidos corporais** — e a B é descrita como de **tendência à cronificação**, o oposto de autolimitada."
+  ],
+  "fontes": [
+   {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 29
+   },
+   {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 32
+   }
+  ],
+  "nota": "Tudo indica erro de digitação no slide 32: o grupo fecal-oral e autolimitado é **A e E**. É assim que este material apresenta o conteúdo."
+ }
 ]

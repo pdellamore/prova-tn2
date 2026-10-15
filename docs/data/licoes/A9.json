@@ -1,0 +1,228 @@
+{
+ "id": "A9",
+ "titulo": "Nefrolitíase",
+ "preteste": [
+  "Q-A9-01"
+ ],
+ "blocos": [
+  {
+   "id": "A9-b1",
+   "titulo": "Quem tem cálculo renal, e por quê",
+   "prioridade": "I",
+   "pontos": [
+    "**Cálculos renais = litíase renal.**",
+    "**Prevalência:** acomete de **10 a 12% da população**; **homens jovens de 20 a 40 anos**; **raça branca**; história familiar em **40 a 60% dos parentes de 1º grau**; é uma **patologia recorrente**.",
+    "**Principal condição: supersaturação urinária** com componentes insolúveis ou pouco solúveis.",
+    "**Etiologia multifatorial:** infecções do trato urinário · distúrbios metabólicos · causas idiopáticas · anormalidades anatômicas · **hábito alimentar**.",
+    "A ingestão alimentar entra pela via de **cálcio, sódio, potássio e magnésio**; **oxalatos e purinas**; **vitamina C, fibras e líquidos**; e os **macronutrientes**."
+   ],
+   "cuidado": [
+    "A condição principal é a **supersaturação urinária**, não o excesso de cálcio na dieta.",
+    "**Homens jovens, 20 a 40 anos** — não é doença de idoso."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 157
+   },
+   "checagem": {
+    "pergunta": "Qual é a principal condição por trás da formação do cálculo renal, segundo o slide?",
+    "alternativas": [
+     "Ingestão excessiva de cálcio alimentar",
+     "Supersaturação urinária com componentes insolúveis ou pouco solúveis",
+     "Infecção urinária de repetição",
+     "Baixa ingestão de proteína animal",
+     "Alcalinização excessiva da urina"
+    ],
+    "correta": 1,
+    "justificativa": "O slide traz em destaque: **principal condição — supersaturação urinária com componentes insolúveis ou pouco solúveis**. A infecção urinária é só uma das causas da etiologia multifatorial.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 157
+    }
+   }
+  },
+  {
+   "id": "A9-b2",
+   "titulo": "O tamanho decide se sai sozinho",
+   "prioridade": "E",
+   "pontos": [
+    "**Obstrução urinária — trajetória do cálculo pelo ureter, pelo tamanho:**",
+    "**Cálculos < 5 mm:** eliminados **espontaneamente**.",
+    "**Cálculos de 5 a 7 mm:** eliminados em cerca de **50% dos casos**.",
+    "**Cálculos > 7 mm:** **raramente** eliminados.",
+    "**Quadro clínico:** dor, hematúria, obstrução e predisposição a infecção urinária.",
+    "**Diagnóstico:** história de eliminação espontânea de cálculo; cálculo diagnosticado por **exames de imagem** (raio X, ultrassonografia, tomografia); ou retirada cirúrgica/endoscópica.",
+    "**Crise aguda** (cólica renal) → **analgesia e hidratação**. **Crise recorrente** → **manejo médico e cirúrgico + intervenções dietoterápicas**."
+   ],
+   "cuidado": [
+    "Decore os dois cortes: **5 mm** e **7 mm**. Entre eles, a chance é de **cerca de 50%**.",
+    "A **dietoterapia entra na crise recorrente**, não na cólica aguda — na aguda são analgesia e hidratação."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 160
+   },
+   "apoio": {
+    "tipo": "mnemonico",
+    "texto": "**5 sai, 7 talvez, mais que 7 não sai.** Apoio de memória: os números são os do slide (< 5 mm espontâneo, 5–7 mm ~50%, > 7 mm raramente)."
+   },
+   "checagem": {
+    "pergunta": "Paciente com cálculo ureteral de 6 mm. O que esperar quanto à eliminação espontânea?",
+    "alternativas": [
+     "Eliminação espontânea praticamente certa",
+     "Eliminação em cerca de 50% dos casos",
+     "Eliminação rara, exigindo intervenção na maioria",
+     "Impossível eliminar sem cirurgia",
+     "Depende apenas da hidratação, não do tamanho"
+    ],
+    "correta": 1,
+    "justificativa": "6 mm cai na faixa de **5 a 7 mm**, com eliminação em **cerca de 50% dos casos**. Abaixo de 5 mm sai espontaneamente; acima de 7 mm raramente sai.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 160
+    }
+   }
+  },
+  {
+   "id": "A9-b3",
+   "titulo": "Objetivos da terapia nutricional",
+   "prioridade": "E",
+   "pontos": [
+    "**Dieta individualizada**, conforme o distúrbio metabólico e o hábito alimentar.",
+    "**Ingestões balanceadas de cálcio e oxalato.**",
+    "**Adequar a ingestão de proteína animal.**",
+    "**Evitar alimentos ricos em purina, sódio e restrição de cálcio** — ou seja, o alvo é **não restringir cálcio**.",
+    "**Adequada ingestão de potássio.**",
+    "**Aumentar a ingestão de líquidos.**"
+   ],
+   "cuidado": [
+    "O slide lista **evitar... restrição de cálcio**: restringir cálcio é justamente o que **não** se faz como regra. O controle do cálcio alimentar aparece só numa situação específica (hipercalciúria absortiva tipo II).",
+    "A proteína animal é **adequada**, não zerada."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 166
+   },
+   "checagem": {
+    "pergunta": "Sobre o cálcio da dieta na nefrolitíase, o que dizem os objetivos da terapia nutricional?",
+    "alternativas": [
+     "Restringir cálcio em todos os pacientes com cálculo de oxalato de cálcio",
+     "Buscar ingestão balanceada de cálcio e oxalato, evitando a restrição de cálcio",
+     "Suplementar cálcio para todos, de 1.200 a 1.500 mg/dia",
+     "Zerar o cálcio da dieta por 3 meses",
+     "Restringir cálcio apenas quando a urina estiver ácida"
+    ],
+    "correta": 1,
+    "justificativa": "Os objetivos pedem **ingestões balanceadas de Ca e oxalato** e, na mesma lista, **evitar a restrição de cálcio**. O controle do cálcio alimentar fica reservado à hipercalciúria absortiva tipo II.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 166
+    }
+   }
+  },
+  {
+   "id": "A9-b4",
+   "titulo": "A conduta depende da causa",
+   "prioridade": "E",
+   "pontos": [
+    "Cada distúrbio metabólico tem a sua recomendação — e a **vitamina C só entra em uma delas**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Causa",
+     "Recomendações"
+    ],
+    "linhas": [
+     [
+      "**Hiperuricosúria** (↑ oxalato de cálcio ou ácido úrico urinário)",
+      "restringir alimentos ricos em **purinas**; **evitar ingestão excessiva de bebidas alcoólicas** (contêm purinas)"
+     ],
+     [
+      "**Hiperuricemia** (↑ ácido úrico urinário)",
+      "restringir alimentos ricos em **purinas**"
+     ],
+     [
+      "**Hiperoxalúria** (↑ oxalato de cálcio urinário)",
+      "restringir alimentos com alto teor de **oxalatos** **e restrição de vitamina C**"
+     ],
+     [
+      "**Hipercalciúria absortiva tipo II**",
+      "**controle do cálcio alimentar** e controle da ingestão de oxalatos"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Restringir vitamina C é só na hiperoxalúria.** Essa é a troca mais cobrada do assunto.",
+    "O **álcool** aparece só na hiperuricosúria, e o motivo dado pelo slide é que **contém purinas**.",
+    "**Controlar cálcio alimentar** é exclusivo da **hipercalciúria absortiva tipo II**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 167
+   },
+   "checagem": {
+    "pergunta": "Em qual situação os slides indicam restrição de vitamina C?",
+    "alternativas": [
+     "Hiperuricosúria",
+     "Hiperuricemia",
+     "Hiperoxalúria",
+     "Hipercalciúria absortiva tipo II",
+     "Em todas as formas de nefrolitíase"
+    ],
+    "correta": 2,
+    "justificativa": "A tabela indica **restrição de vitamina C apenas na hiperoxalúria**, junto da restrição de alimentos ricos em oxalatos. Nas hiperuricosúria e hiperuricemia a restrição é de **purinas**.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 167
+    }
+   }
+  },
+  {
+   "id": "A9-b5",
+   "titulo": "Quais alimentos, afinal",
+   "prioridade": "I",
+   "pontos": [
+    "**Purinas — alimentos a evitar:** **anchova, sardinha e fígado de galinha**.",
+    "**Purinas — alimentos a consumir com moderação:** **espinafre, couve-flor, aspargo, peixes e frutos do mar, cogumelos e tofu**.",
+    "**Alimentos ricos em oxalatos:** oleaginosas, café e chá, frutas vermelhas, beterraba e chocolate."
+   ],
+   "cuidado": [
+    "O slide separa **evitar** (três itens) de **moderar** (seis). Espinafre, por exemplo, é **moderar**, não evitar."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 168
+   },
+   "checagem": {
+    "pergunta": "No quadro de purinas, quais alimentos estão na coluna dos que devem ser **evitados**?",
+    "alternativas": [
+     "Espinafre, couve-flor e aspargo",
+     "Anchova, sardinha e fígado de galinha",
+     "Cogumelos, tofu e frutos do mar",
+     "Oleaginosas, café e chocolate",
+     "Beterraba, frutas vermelhas e chá"
+    ],
+    "correta": 1,
+    "justificativa": "No quadro de alimentos ricos em **purinas**, a coluna dos que devem ser evitados traz **anchova, sardinha e fígado de galinha**. Espinafre, couve-flor, aspargo, peixes e frutos do mar, cogumelos e tofu estão na coluna de **consumo moderado**. Oleaginosas, café, chá, frutas vermelhas, beterraba e chocolate são o quadro de **oxalatos**.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 168
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "Que a condição principal é a supersaturação urinária",
+  "Prevalência de 10 a 12%, homens de 20 a 40 anos, recorrente",
+  "Os cortes de tamanho: < 5 mm, 5 a 7 mm (~50%) e > 7 mm",
+  "Que na crise aguda são analgesia e hidratação, e a dieta entra na recorrente",
+  "Que o objetivo geral é não restringir cálcio",
+  "Em qual causa entra cada restrição: purinas, oxalatos, vitamina C, cálcio",
+  "Que a vitamina C só é restringida na hiperoxalúria"
+ ]
+}

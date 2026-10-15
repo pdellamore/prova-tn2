@@ -1043,4 +1043,65 @@ main {
 .atencao-dobra > summary::-webkit-details-marker { display: none; }
 .atencao-dobra > summary::after { content: " ▾"; opacity: .6; }
 .atencao-dobra[open] > summary::after { content: " ▴"; }
-.atencao-dobra > summary:focus-visible { outline: 2px solid var(--foco); outline-offset: 3px; border-radius: 4px; }
+.atencao-dobra > summary:focus-visible { outline: 2.5px solid var(--orgao); outline-offset: 3px; border-radius: 4px; }
+
+/* ── chefões ── */
+
+.chefao-topo {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: .6rem;
+  margin-bottom: .4rem;
+}
+
+.relogio {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  font-size: 1.15rem;
+  padding: .15rem .55rem;
+  border-radius: 999px;
+  border: 1.5px solid var(--linha);
+  color: var(--tinta);
+}
+
+.relogio.apertado {
+  color: #fff;
+  background: var(--erro);
+  border-color: var(--erro);
+}
+
+.revisao-q > summary {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  cursor: pointer;
+  list-style: none;
+  font-size: .92rem;
+}
+
+.revisao-q > summary::-webkit-details-marker { display: none; }
+.revisao-q > summary::after { content: "▾"; margin-left: auto; opacity: .6; }
+.revisao-q[open] > summary::after { content: "▴"; }
+.revisao-q > summary:focus-visible { outline: 2.5px solid var(--orgao); outline-offset: 3px; border-radius: 6px; }
+
+.revisao-n {
+  flex: none;
+  width: 1.7rem;
+  height: 1.7rem;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  font-weight: 600;
+  font-size: .82rem;
+  background: var(--linha);
+  color: var(--tinta);
+}
+
+.revisao-acerto .revisao-n { background: var(--ok); color: #fff; }
+.revisao-erro .revisao-n { background: var(--erro); color: #fff; }
+
+.revisao-res { font-weight: 600; }
+.revisao-sub { color: var(--tinta-fraca); font-size: .86rem; }
+
+.revisao-q .alt { cursor: default; }

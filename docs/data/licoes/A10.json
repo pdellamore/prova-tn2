@@ -1,0 +1,193 @@
+{
+ "id": "A10",
+ "titulo": "Insuficiência renal aguda",
+ "preteste": [
+  "Q-A10-01"
+ ],
+ "blocos": [
+  {
+   "id": "A10-b1",
+   "titulo": "O que define a IRA",
+   "prioridade": "E",
+   "pontos": [
+    "**IRA:** rápida deterioração da função renal no decorrer de **horas a vários dias**, com **acúmulo de resíduos nitrogenados**.",
+    "**Caracterizada por** (qualquer um): elevação da creatinina sérica **superior a 50% ou 0,5 mg/dL acima do valor basal**; **necessidade de diálise**; **necrose tubular aguda**, mesmo sem diagnóstico patológico.",
+    "**Acúmulo de resíduos nitrogenados = principal marcador da IRA**, facilmente determinado por exames laboratoriais.",
+    "**Oligoanúria = 2º marcador**, presente em **50 a 70% dos casos**."
+   ],
+   "cuidado": [
+    "O tempo é de **horas a dias** — a DRC é de **mais de 3 meses**. Essa é a fronteira entre as duas.",
+    "A oligoanúria é o **segundo** marcador, e não está em todos: só em **50 a 70%** dos casos. Dá para ter IRA urinando normalmente."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 173
+   },
+   "checagem": {
+    "pergunta": "Qual é o principal marcador da insuficiência renal aguda, segundo o slide?",
+    "alternativas": [
+     "A oligoanúria",
+     "O acúmulo de resíduos nitrogenados",
+     "A queda da pressão arterial",
+     "A proteinúria acima de 3,5 g/24 h",
+     "A anemia normocítica normocrômica"
+    ],
+    "correta": 1,
+    "justificativa": "O slide é explícito: **acúmulo de resíduos nitrogenados é o principal marcador**, facilmente determinado por exames. A **oligoanúria é o 2º marcador**, presente em 50 a 70% dos casos.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 174
+    }
+   }
+  },
+  {
+   "id": "A10-b2",
+   "titulo": "Diagnóstico e complicações",
+   "prioridade": "I",
+   "pontos": [
+    "**Diagnóstico:** acúmulo sérico de resíduos nitrogenados (**creatinina, ureia, diminuição do volume urinário**); **depuração da creatinina — só quando a creatinina estiver estável**; distinguir perda de função aguda ou crônica; **exames de imagem / biópsia renal**.",
+    "**Complicações metabólicas:** excreção insuficiente de **sódio, potássio e água**.",
+    "**Infecções:** pulmões, ferida operatória, cateteres, vias urinárias e sepse.",
+    "**Hematológicas: anemia normocítica e normocrômica**, disfunção plaquetária.",
+    "**Nutricionais:** estado nutricional prévio, doença de base, falência de outros órgãos, complicações da própria IRA, **desnutrição, anorexia e perda de nutrientes em líquidos**."
+   ],
+   "cuidado": [
+    "**A depuração da creatinina só vale com a creatinina estável** — na IRA ela está mudando o tempo todo, então a fórmula não serve no meio do quadro agudo.",
+    "A anemia da IRA é **normocítica e normocrômica**. (Na síndrome nefrótica, o slide descreve anemia **hipocrômica e microcítica** — não confunda as duas.)"
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 176
+   },
+   "checagem": {
+    "pergunta": "Por que a depuração da creatinina tem uso limitado no diagnóstico da IRA?",
+    "alternativas": [
+     "Porque exige urina de 24 horas, impossível em paciente internado",
+     "Porque só pode ser usada quando a creatinina sérica estiver estável",
+     "Porque subestima a função renal em homens",
+     "Porque não existe fórmula validada para adultos",
+     "Porque depende do peso seco, que não é conhecido na IRA"
+    ],
+    "correta": 1,
+    "justificativa": "O slide de diagnóstico traz a ressalva: **depuração da creatinina — creatinina estiver estável**. Na fase aguda, com a creatinina subindo dia a dia, o cálculo não representa a função real.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 176
+    }
+   }
+  },
+  {
+   "id": "A10-b3",
+   "titulo": "UNA: o grau de catabolismo manda na conduta",
+   "prioridade": "E",
+   "pontos": [
+    "**UNA = taxa de aparecimento de nitrogênio ureico.**",
+    "**UNA (g/dia) = N urinário (g/dia) + N do dialisato (g/dia) + variação do N do corpo (g/dia).**",
+    "**N = ureia × 0,467** (conversão de ureia em nitrogênio).",
+    "A terapia nutricional se baseia no **grau de catabolismo proteico** associado à doença de base, medido pela UNA."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Grupo",
+     "UNA",
+     "Características"
+    ],
+    "linhas": [
+     [
+      "**1 — pacientes não catabólicos**",
+      "**< 5 g/dia**",
+      "causada por nefrotoxinas"
+     ],
+     [
+      "**2 — moderado grau de catabolismo**",
+      "**5 a 10 g/dia**",
+      "infecção, peritonite ou grau moderado de agressão"
+     ],
+     [
+      "**3 — IRA + trauma severo / queimados / sepse**",
+      "**> 10 g/dia**",
+      "tratamento complexo, **nutrição parenteral, diálise contínua** e suporte"
+     ]
+    ]
+   },
+   "cuidado": [
+    "O fator de conversão é **0,467** — não 0,6 nem 0,8.",
+    "Os cortes da UNA são **5** e **10 g/dia**. O grupo 3 é o que leva a NP e diálise contínua."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 179
+   },
+   "checagem": {
+    "pergunta": "Paciente com IRA após sepse, UNA de 13 g/dia. Em qual grupo ele se enquadra e o que isso implica?",
+    "alternativas": [
+     "Grupo 1, não catabólico, causado por nefrotoxinas",
+     "Grupo 2, catabolismo moderado, típico de infecção e peritonite",
+     "Grupo 3, hipercatabólico, com tratamento complexo, nutrição parenteral e diálise contínua",
+     "Nenhum grupo: a UNA só vai até 10 g/dia",
+     "Grupo 2, porque sepse é agressão moderada"
+    ],
+    "correta": 2,
+    "justificativa": "UNA **> 10 g/dia** é o **grupo 3**, descrito no slide como IRA com **trauma severo, queimados ou sepse**, exigindo tratamento complexo, **TN parenteral, diálise contínua** e suporte.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 179
+    }
+   }
+  },
+  {
+   "id": "A10-b4",
+   "titulo": "Energia, macronutrientes e proteína na IRA",
+   "prioridade": "E",
+   "pontos": [
+    "**Calorias: 30 a 45 kcal/kg/dia** ou **fórmula de Harris-Benedict**.",
+    "**Carboidratos: 60 a 70% do VET.** **Lipídios: 30% do VET.**",
+    "**Proteína, conforme a terapia de reposição renal (TRR):**",
+    "**Hipercatabólico sem TRR: 1,3 a 1,5 g/kg/dia.**",
+    "**TRR intermitente: cerca de 1,5 g/kg/dia.**",
+    "**TRR contínua: 1,7 a 2,5 g/kg/dia.**"
+   ],
+   "cuidado": [
+    "A IRA é a situação com **mais carboidrato (60 a 70% do VET)** e a **maior proteína (até 2,5 g/kg)** de toda a aula do rim. Diálise contínua remove muito aminoácido, por isso o número sobe.",
+    "Aqui não se restringe proteína: a lógica é o oposto da DRC conservadora."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 180
+   },
+   "apoio": {
+    "tipo": "mnemonico",
+    "texto": "Quanto **mais contínua a máquina, mais proteína**: sem TRR 1,3–1,5 → intermitente ~1,5 → contínua 1,7–2,5. Apoio de memória; os valores são os do slide."
+   },
+   "checagem": {
+    "pergunta": "Paciente hipercatabólico com IRA em terapia de reposição renal contínua. Qual a recomendação proteica?",
+    "alternativas": [
+     "0,55 a 0,60 g/kg/dia",
+     "1,0 a 1,2 g/kg/dia",
+     "1,3 a 1,5 g/kg/dia",
+     "Cerca de 1,5 g/kg/dia",
+     "1,7 a 2,5 g/kg/dia"
+    ],
+    "correta": 4,
+    "justificativa": "O slide escalona pela modalidade: **sem TRR 1,3–1,5**, **TRR intermitente cerca de 1,5** e **TRR contínua 1,7 a 2,5 g/kg/dia** — a maior recomendação proteica de toda a aula do rim.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 181
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "Que a IRA se instala em horas a dias, com acúmulo de resíduos nitrogenados",
+  "Os três critérios: creatinina > 50% ou 0,5 mg/dL acima do basal, diálise, necrose tubular aguda",
+  "Que a oligoanúria é o 2º marcador, em 50 a 70% dos casos",
+  "Que a depuração de creatinina só vale com creatinina estável",
+  "A fórmula da UNA e o fator 0,467",
+  "Os três grupos de UNA: < 5, 5 a 10 e > 10 g/dia",
+  "Energia 30 a 45 kcal/kg, CHO 60 a 70%, e a proteína por modalidade de TRR"
+ ]
+}

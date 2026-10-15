@@ -1,0 +1,211 @@
+{
+ "id": "B1",
+ "titulo": "O fígado: estrutura, células e funções",
+ "preteste": [
+  "Q-B1-01"
+ ],
+ "blocos": [
+  {
+   "id": "B1-b1",
+   "titulo": "Um órgão com dois suprimentos de sangue",
+   "prioridade": "I",
+   "pontos": [
+    "**Maior órgão do corpo humano (~1,5 a 2 kg)**, no **quadrante superior direito** do abdome, logo abaixo do diafragma. Representa **2,4 a 4,5% da massa corporal total**.",
+    "Recebe **13% do suprimento total de sangue** do corpo e **25% do débito cardíaco**. Tem **capacidade de autorregeneração**.",
+    "**Suprimento duplo — a parte que cai na prova:**",
+    "**70 a 80% vem da veia porta**, rico em **nutrientes, fármacos, toxinas e antígenos bacterianos** do TGI, pâncreas e baço. É o que permite o **controle das substâncias absorvidas em todo o intestino**.",
+    "**20 a 30% vem da artéria hepática**, rico em **O₂**, importante para a **oxigenação do órgão**.",
+    "O slide traz como curiosidade: esse suprimento justifica o fígado ser **importante foco de metástase de cânceres gastrintestinais**.",
+    "A drenagem vai para as **veias hepáticas** e destas para a **veia cava**."
+   ],
+   "cuidado": [
+    "**A maior parte do sangue é venosa (porta), não arterial.** Quem traz oxigênio é a minoria (20–30%, artéria hepática); quem traz nutrientes e toxinas é a maioria (70–80%, veia porta)."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 7
+   },
+   "apoio": {
+    "tipo": "mnemonico",
+    "texto": "**Porta = portão do intestino**: entra muito (70–80%) e entra tudo — nutriente, remédio, toxina. **Artéria = ar**: entra pouco (20–30%) e entra oxigênio. Apoio de memória; os números são os do slide."
+   },
+   "checagem": {
+    "pergunta": "De onde vem a maior parte do sangue que chega ao fígado, e o que esse sangue carrega?",
+    "alternativas": [
+     "Da artéria hepática, 70 a 80%, rico em oxigênio",
+     "Da veia porta, 70 a 80%, rico em nutrientes, fármacos, toxinas e antígenos bacterianos",
+     "Da veia cava, 70 a 80%, rico em gás carbônico",
+     "Da artéria hepática, 20 a 30%, rico em nutrientes",
+     "Metade de cada, em proporções iguais"
+    ],
+    "correta": 1,
+    "justificativa": "**70 a 80% do sangue vem da veia porta**, carregando o sangue venoso do TGI, pâncreas e baço — rico em nutrientes, fármacos, toxinas e antígenos bacterianos. Os **20 a 30% restantes vêm da artéria hepática**, ricos em oxigênio.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 7
+    }
+   }
+  },
+  {
+   "id": "B1-b2",
+   "titulo": "Três células, três papéis",
+   "prioridade": "E",
+   "pontos": [
+    "Entender a cirrose depende de saber quem faz o quê dentro do fígado."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Célula",
+     "Papel"
+    ],
+    "linhas": [
+     [
+      "**Hepatócitos**",
+      "células hepáticas responsáveis pelas **principais funções** do fígado"
+     ],
+     [
+      "**Células de Kupffer**",
+      "macrófagos dos sinusoides; na agressão crônica **liberam citocinas inflamatórias**"
+     ],
+     [
+      "**Células estreladas**",
+      "no fígado saudável **armazenam vitamina A**; na agressão crônica **passam a produzir colágeno (cicatrizes)**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Kupffer inflama, estrelada cicatriza.** Essa divisão é a base da progressão esteatose → hepatite → fibrose → cirrose.",
+    "A célula estrelada é a **vilã da fibrose** — e é a mesma que, saudável, guarda vitamina A."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 39
+   },
+   "checagem": {
+    "pergunta": "Qual célula hepática passa a produzir colágeno diante da agressão crônica?",
+    "alternativas": [
+     "O hepatócito",
+     "A célula de Kupffer",
+     "A célula estrelada",
+     "O colangiócito",
+     "O macrófago circulante"
+    ],
+    "correta": 2,
+    "justificativa": "Na progressão da doença hepática crônica, as **células de Kupffer liberam citocinas inflamatórias** e as **células estreladas passam a produzir colágeno (cicatrizes)** para regenerar o tecido — o que gera fibrose e nódulos.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 39
+    }
+   }
+  },
+  {
+   "id": "B1-b3",
+   "titulo": "As oito funções, e o que elas explicam",
+   "prioridade": "I",
+   "pontos": [
+    "**As funções primariamente relacionadas aos hepatócitos:** 1) metabolismo de carboidratos, proteínas e gorduras; 2) armazenamento e ativação de vitaminas e minerais; 3) formação e excreção da bile; 4) **conversão de amônia em ureia**; 5) metabolismo de esteroides; 6) **detoxificação** de fármacos, álcool e compostos orgânicos; 7) filtração do sangue e remoção de bactérias e partículas sólidas; 8) **síntese de albumina, fatores de coagulação e proteínas ligadoras**.",
+    "**Carboidratos:** armazenamento de glicose como glicogênio; conversão de glicogênio em glicose (glicogenólise); **síntese de glicose a partir de aminoácidos, glicerol e ácido lático**; conversão do excesso de carboidratos em triglicerídeos.",
+    "**Proteínas:** síntese de albumina, fibrinogênio e fatores de coagulação; interconversão de aminoácidos; **transaminação** (fundamental para produzir glicose a partir de aminoácidos no jejum); **desaminação** (remoção do grupo amina e rápida conversão da amônia em ureia); absorção da amônia produzida pelo intestino.",
+    "**Gorduras:** **oxidação de ácidos graxos livres em cetoácidos** para energia na inanição; **síntese de 80% do colesterol**, de fosfolipídios e lipoproteínas; produção de triglicerídeos a partir de carboidratos e proteínas.",
+    "**Bile: 500 a 600 mL/dia** — água, sais biliares, bilirrubinas, colesterol e subprodutos metabólicos. **Colestase = redução do fluxo da bile**, com acúmulo de bilirrubina, ácidos biliares e colesterol no sangue."
+   ],
+   "cuidado": [
+    "No quadro do metabolismo de carboidratos, o slide usa a palavra **“gliconeogênese” para o armazenamento de glicose na forma de glicogênio**, e no item seguinte fala em síntese de glicose a partir de aminoácidos. Leia o quadro com atenção ao que está sendo descrito, não só ao nome dado.",
+    "**Amônia → ureia** é função do fígado. Guarde isso: é o que explica a encefalopatia hepática lá na frente."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 12
+   },
+   "checagem": {
+    "pergunta": "A conversão rápida da amônia em ureia acontece em qual processo do metabolismo proteico hepático?",
+    "alternativas": [
+     "Transaminação",
+     "Desaminação",
+     "Glicogenólise",
+     "Lipogênese",
+     "Interconversão de aminoácidos"
+    ],
+    "correta": 1,
+    "justificativa": "O slide descreve a **desaminação** como a **remoção do grupo amina e rápida conversão da amônia em ureia**. A **transaminação** é descrita como fundamental para produzir glicose a partir de aminoácidos no jejum.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 12
+    }
+   }
+  },
+  {
+   "id": "B1-b4",
+   "titulo": "Proteínas de fase aguda: as que sobem e as que descem",
+   "prioridade": "E",
+   "pontos": [
+    "**Proteínas de fase aguda:** sintetizadas pelo fígado (hepatócitos) e **alteradas em resposta à inflamação**, numa reação imediata do sistema imune."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Positivas — sobem na inflamação",
+     "Negativas — caem na inflamação"
+    ],
+    "linhas": [
+     [
+      "**Proteína C-reativa**",
+      "**Albumina**"
+     ],
+     [
+      "**Fibrinogênio** (reparo tecidual)",
+      "**Transferrina**"
+     ],
+     [
+      "**Ferritina**",
+      "**Pré-albumina**"
+     ],
+     [
+      "**Ceruloplasmina**",
+      "**Proteína ligadora de retinol**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Albumina, transferrina, pré-albumina e proteína ligadora de retinol são de fase aguda NEGATIVA:** caem na inflamação **mesmo sem desnutrição**. É o erro clássico de interpretar albumina baixa como desnutrição.",
+    "As positivas são as **defensivas**; as negativas são as da **manutenção do dia a dia**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 15
+   },
+   "apoio": {
+    "tipo": "mnemonico",
+    "texto": "As quatro **negativas** são justamente as que a nutrição gosta de usar como marcador: **albumina, transferrina, pré-albumina e RBP**. Se há inflamação, elas caem por conta da inflamação. Apoio de memória; a lista é a do slide."
+   },
+   "checagem": {
+    "pergunta": "Paciente internado com infecção e albumina de 2,8 g/dL. Pelo conceito de proteína de fase aguda, o que esse valor permite concluir sobre o estado nutricional?",
+    "alternativas": [
+     "Confirma desnutrição grave",
+     "Pouco: a albumina é proteína de fase aguda negativa e cai pela própria inflamação",
+     "Confirma estado nutricional adequado, porque a albumina sobe na inflamação",
+     "Indica desidratação",
+     "Permite calcular diretamente a massa muscular"
+    ],
+    "correta": 1,
+    "justificativa": "A albumina é **proteína de fase aguda negativa**: a inflamação reduz sua concentração plasmática. Em outro slide a aula reforça que **processos inflamatórios exercem efeito inibitório na sua produção** — por isso ela não serve como marcador isolado de desnutrição no doente inflamado.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 15
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "Que o fígado recebe 25% do débito cardíaco e tem autorregeneração",
+  "Os dois suprimentos: 70–80% veia porta (nutrientes e toxinas) e 20–30% artéria hepática (oxigênio)",
+  "O papel de hepatócito, Kupffer e célula estrelada",
+  "Que a estrelada guarda vitamina A quando saudável e produz colágeno na agressão",
+  "As funções principais, com destaque para amônia → ureia e síntese de albumina",
+  "Que a bile é de 500 a 600 mL/dia e o que é colestase",
+  "Quais proteínas de fase aguda são positivas e quais são negativas"
+ ]
+}

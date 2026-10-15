@@ -1,224 +1,257 @@
 [
-  {
-    "id": "qui",
-    "data": "2026-10-15",
-    "curto": "Qui 15",
-    "rotulo": "Quinta, 15 de outubro",
-    "titulo": "Rim I",
-    "orgao": "rim",
-    "foco": "Fisiologia (rápida), síndrome nefrótica, DRC com os critérios e o KDIGO, avaliação nutricional e tratamento conservador — **proteína, cetoácidos e minerais**.",
+ {
+  "id": "qui",
+  "data": "2026-10-15",
+  "curto": "Qui 15",
+  "rotulo": "Quinta, 15 de outubro",
+  "titulo": "Rim I",
+  "orgao": "rim",
+  "foco": "Fisiologia (rápida), síndrome nefrótica, DRC com os critérios e o KDIGO, avaliação nutricional e tratamento conservador — **proteína, cetoácidos e minerais**.",
+  "modulos": [
+   "A1",
+   "A2",
+   "A3",
+   "A4",
+   "A5"
+  ],
+  "missoes": [
+   {
+    "id": "qui-pre",
+    "titulo": "Pré-teste do Rim",
+    "desc": "8 questões antes de estudar — errar aqui ajuda",
+    "rota": "#/questoes/preteste-rim",
+    "tipo": "questoes",
     "modulos": [
-      "A1",
-      "A2",
-      "A3",
-      "A4",
-      "A5"
+     "A1",
+     "A2",
+     "A3",
+     "A4",
+     "A5"
     ],
-    "missoes": [
-      {
-        "id": "qui-pre",
-        "titulo": "Pré-teste do Rim",
-        "desc": "8 questões antes de estudar — errar aqui ajuda",
-        "rota": "#/questoes/preteste-rim",
-        "tipo": "questoes",
-        "modulos": [
-          "A1",
-          "A2",
-          "A3",
-          "A4",
-          "A5"
-        ],
-        "alvo": 8
-      },
-      {
-        "id": "qui-licoes",
-        "titulo": "Lições A1 a A5",
-        "desc": "blocos de 3 a 5 minutos, com pergunta antes de cada bloco novo",
-        "rota": "#/trilha",
-        "tipo": "licoes",
-        "modulos": [
-          "A1",
-          "A2",
-          "A3",
-          "A4",
-          "A5"
-        ]
-      },
-      {
-        "id": "qui-calc",
-        "titulo": "Cálculos: KDIGO, Cockcroft-Gault e MST",
-        "desc": "exemplo resolvido e depois casos sorteados",
-        "rota": "#/calculos",
-        "tipo": "calculo",
-        "calculos": [
-          "kdigo",
-          "cockcroft",
-          "mst"
-        ]
-      },
-      {
-        "id": "qui-cards",
-        "titulo": "Flashcards do dia",
-        "desc": "30 cards com os números e critérios do Rim I",
-        "rota": "#/flashcards",
-        "tipo": "cards",
-        "alvo": 30
-      },
-      {
-        "id": "qui-feyn",
-        "titulo": "Explicar A3 e A5 com suas palavras",
-        "desc": "no fim da lição, o campo da técnica Feynman",
-        "rota": "#/licao/A3",
-        "tipo": "feynman",
-        "modulos": [
-          "A3",
-          "A5"
-        ]
-      }
+    "alvo": 8
+   },
+   {
+    "id": "qui-licoes",
+    "titulo": "Lições A1 a A5",
+    "desc": "blocos de 3 a 5 minutos, com pergunta antes de cada bloco novo",
+    "rota": "#/trilha",
+    "tipo": "licoes",
+    "modulos": [
+     "A1",
+     "A2",
+     "A3",
+     "A4",
+     "A5"
     ]
-  },
-  {
-    "id": "sex",
-    "data": "2026-10-16",
-    "curto": "Sex 16",
-    "rotulo": "Sexta, 16 de outubro",
-    "titulo": "Rim II e início do Fígado",
-    "orgao": "rim",
-    "foco": "Hemodiálise, diálise peritoneal, transplante renal, litíase e IRA → **Chefão do Rim**. Depois o fígado começa: estrutura, exames, hepatites e cirrose.",
+   },
+   {
+    "id": "qui-calc",
+    "titulo": "Cálculos: KDIGO, Cockcroft-Gault e MST",
+    "desc": "exemplo resolvido e depois casos sorteados",
+    "rota": "#/calculos",
+    "tipo": "calculo",
+    "calculos": [
+     "kdigo",
+     "cockcroft",
+     "mst"
+    ]
+   },
+   {
+    "id": "qui-cards",
+    "titulo": "Flashcards do dia",
+    "desc": "30 cards com os números e critérios do Rim I",
+    "rota": "#/flashcards",
+    "tipo": "cards",
+    "alvo": 30
+   },
+   {
+    "id": "qui-feyn",
+    "titulo": "Explicar A3 e A5 com suas palavras",
+    "desc": "no fim da lição, o campo da técnica Feynman",
+    "rota": "#/licao/A3",
+    "tipo": "feynman",
     "modulos": [
-      "A6",
-      "A7",
-      "A8",
-      "A9",
-      "A10",
-      "B1",
-      "B2",
-      "B3",
-      "B4"
-    ],
-    "missoes": [
-      {
-        "id": "sex-cards",
-        "titulo": "Revisão espaçada de ontem",
-        "desc": "os cards de quinta voltam hoje",
-        "rota": "#/flashcards",
-        "tipo": "cards",
-        "alvo": 25
-      },
-      {
-        "id": "sex-licoes",
-        "titulo": "Lições A6 a A10 e B1 a B4",
-        "desc": "chega com o conteúdo de sexta",
-        "rota": "#/trilha",
-        "tipo": "licoes",
-        "modulos": [
-          "A6",
-          "A7",
-          "A8",
-          "A9",
-          "A10",
-          "B1",
-          "B2",
-          "B3",
-          "B4"
-        ]
-      }
-    ],
-    "atrasada": "O conteúdo de sexta ainda está sendo montado. Hoje, use as lições A1 a A5 e os cálculos."
-  },
-  {
-    "id": "sab",
-    "data": "2026-10-17",
-    "curto": "Sáb 17",
-    "rotulo": "Sábado, 17 de outubro",
-    "titulo": "Fígado II",
-    "orgao": "figado",
-    "foco": "MASLD, avaliação nutricional na cirrose, terapia nutricional na cirrose (ascite e encefalopatia) e transplante hepático → **Chefão do Fígado**.",
+     "A3",
+     "A5"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "sex",
+  "data": "2026-10-16",
+  "curto": "Sex 16",
+  "rotulo": "Sexta, 16 de outubro",
+  "titulo": "Rim II e início do Fígado",
+  "orgao": "rim",
+  "foco": "Hemodiálise, diálise peritoneal, transplante renal, litíase e IRA → **Chefão do Rim**. Depois o fígado começa: estrutura, exames, hepatites e cirrose.",
+  "modulos": [
+   "A6",
+   "A7",
+   "A8",
+   "A9",
+   "A10",
+   "B1",
+   "B2",
+   "B3",
+   "B4"
+  ],
+  "missoes": [
+   {
+    "id": "sex-cards",
+    "titulo": "Revisão espaçada de ontem",
+    "desc": "os cards que venceram hoje voltam primeiro — é aqui que a memória fixa",
+    "rota": "#/flashcards",
+    "tipo": "cards",
+    "alvo": 30
+   },
+   {
+    "id": "sex-licoes",
+    "titulo": "Lições A6 a A10 e B1 a B4",
+    "desc": "fecha o rim (HD, DP, transplante, litíase, IRA) e abre o fígado",
+    "rota": "#/trilha",
+    "tipo": "licoes",
     "modulos": [
-      "B5",
-      "B6",
-      "B7",
-      "B8"
+     "A6",
+     "A7",
+     "A8",
+     "A9",
+     "A10",
+     "B1",
+     "B2",
+     "B3",
+     "B4"
+    ]
+   },
+   {
+    "id": "sex-pre-figado",
+    "titulo": "Pré-teste do Fígado",
+    "desc": "responda antes de ler a Parte B — errar aqui ajuda",
+    "rota": "#/questoes/preteste-figado",
+    "tipo": "questoes",
+    "modulos": [
+     "B1",
+     "B2",
+     "B3",
+     "B4"
     ],
-    "missoes": [
-      {
-        "id": "sab-licoes",
-        "titulo": "Lições B5 a B8",
-        "desc": "chega com o conteúdo de sábado",
-        "rota": "#/trilha",
-        "tipo": "licoes",
-        "modulos": [
-          "B5",
-          "B6",
-          "B7",
-          "B8"
-        ]
-      },
-      {
-        "id": "sab-cards",
-        "titulo": "Cards de rim e fígado misturados",
-        "desc": "intercalação: os dois blocos na mesma sessão",
-        "rota": "#/flashcards",
-        "tipo": "cards",
-        "alvo": 35
-      }
-    ],
-    "atrasada": "O conteúdo de sábado ainda está sendo montado."
-  },
-  {
-    "id": "dom",
-    "data": "2026-10-18",
-    "curto": "Dom 18",
-    "rotulo": "Domingo, 18 de outubro",
-    "titulo": "Revisão intercalada",
-    "orgao": "rim",
-    "foco": "Rim e fígado misturados, a lista de **Cuidado na prova**, o caderno de erros → **Chefão Final** com 40 questões.",
-    "modulos": [],
-    "missoes": [
-      {
-        "id": "dom-erros",
-        "titulo": "Refazer só os erros",
-        "desc": "o caderno de erros agrupado por tema",
-        "rota": "#/erros",
-        "tipo": "livre"
-      },
-      {
-        "id": "dom-cards",
-        "titulo": "Revisão geral de cards",
-        "desc": "tudo que vencer no dia",
-        "rota": "#/flashcards",
-        "tipo": "cards",
-        "alvo": 50
-      }
-    ],
-    "atrasada": "Os mini-jogos e o Chefão Final entram no domingo."
-  },
-  {
-    "id": "seg",
-    "data": "2026-10-19",
-    "curto": "Seg 19",
-    "rotulo": "Segunda, 19 de outubro",
+    "alvo": 5
+   },
+   {
+    "id": "sex-chefao",
+    "titulo": "Chefão do Rim",
+    "desc": "20 questões cronometradas, com o gabarito só no final",
+    "rota": "#/chefao/rim",
+    "tipo": "chefao",
+    "chefao": "rim"
+   },
+   {
+    "id": "sex-feyn",
+    "titulo": "Explicar A6 e B4 com suas palavras",
+    "desc": "hemodiálise e cirrose, no campo da técnica Feynman",
+    "rota": "#/licao/B4",
+    "tipo": "feynman",
+    "modulos": [
+     "A6",
+     "B4"
+    ]
+   }
+  ],
+  "atrasada": "O conteúdo de sexta ainda está sendo montado. Hoje, use as lições A1 a A5 e os cálculos."
+ },
+ {
+  "id": "sab",
+  "data": "2026-10-17",
+  "curto": "Sáb 17",
+  "rotulo": "Sábado, 17 de outubro",
+  "titulo": "Fígado II",
+  "orgao": "figado",
+  "foco": "MASLD, avaliação nutricional na cirrose, terapia nutricional na cirrose (ascite e encefalopatia) e transplante hepático → **Chefão do Fígado**.",
+  "modulos": [
+   "B5",
+   "B6",
+   "B7",
+   "B8"
+  ],
+  "missoes": [
+   {
+    "id": "sab-licoes",
+    "titulo": "Lições B5 a B8",
+    "desc": "chega com o conteúdo de sábado",
+    "rota": "#/trilha",
+    "tipo": "licoes",
+    "modulos": [
+     "B5",
+     "B6",
+     "B7",
+     "B8"
+    ]
+   },
+   {
+    "id": "sab-cards",
+    "titulo": "Cards de rim e fígado misturados",
+    "desc": "intercalação: os dois blocos na mesma sessão",
+    "rota": "#/flashcards",
+    "tipo": "cards",
+    "alvo": 35
+   }
+  ],
+  "atrasada": "O conteúdo de sábado ainda está sendo montado."
+ },
+ {
+  "id": "dom",
+  "data": "2026-10-18",
+  "curto": "Dom 18",
+  "rotulo": "Domingo, 18 de outubro",
+  "titulo": "Revisão intercalada",
+  "orgao": "rim",
+  "foco": "Rim e fígado misturados, a lista de **Cuidado na prova**, o caderno de erros → **Chefão Final** com 40 questões.",
+  "modulos": [],
+  "missoes": [
+   {
+    "id": "dom-erros",
+    "titulo": "Refazer só os erros",
+    "desc": "o caderno de erros agrupado por tema",
+    "rota": "#/erros",
+    "tipo": "livre"
+   },
+   {
+    "id": "dom-cards",
+    "titulo": "Revisão geral de cards",
+    "desc": "tudo que vencer no dia",
+    "rota": "#/flashcards",
+    "tipo": "cards",
+    "alvo": 50
+   }
+  ],
+  "atrasada": "Os mini-jogos e o Chefão Final entram no domingo."
+ },
+ {
+  "id": "seg",
+  "data": "2026-10-19",
+  "curto": "Seg 19",
+  "rotulo": "Segunda, 19 de outubro",
+  "titulo": "Revisão relâmpago",
+  "orgao": "rim",
+  "foco": "Só 15 a 20 minutos: os itens **essenciais** e os que você mais errou. Nada novo hoje.",
+  "modulos": [],
+  "missoes": [
+   {
+    "id": "seg-relampago",
     "titulo": "Revisão relâmpago",
-    "orgao": "rim",
-    "foco": "Só 15 a 20 minutos: os itens **essenciais** e os que você mais errou. Nada novo hoje.",
-    "modulos": [],
-    "missoes": [
-      {
-        "id": "seg-relampago",
-        "titulo": "Revisão relâmpago",
-        "desc": "os números essenciais, em sequência",
-        "rota": "#/flashcards",
-        "tipo": "cards",
-        "alvo": 20
-      },
-      {
-        "id": "seg-erros",
-        "titulo": "Última passada nos erros",
-        "desc": "só o que ficou em aberto",
-        "rota": "#/erros",
-        "tipo": "livre"
-      }
-    ],
-    "atrasada": "Hoje é dia de prova. Boa sorte."
-  }
+    "desc": "os números essenciais, em sequência",
+    "rota": "#/flashcards",
+    "tipo": "cards",
+    "alvo": 20
+   },
+   {
+    "id": "seg-erros",
+    "titulo": "Última passada nos erros",
+    "desc": "só o que ficou em aberto",
+    "rota": "#/erros",
+    "tipo": "livre"
+   }
+  ],
+  "atrasada": "Hoje é dia de prova. Boa sorte."
+ }
 ]

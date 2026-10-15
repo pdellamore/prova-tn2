@@ -2,7 +2,7 @@
    de conteúdo (assim uma correção no conteúdo aparece sem esperar o cache expirar).
    Se algo falhar, o site continua funcionando online. */
 
-const VERSAO = "tn2-v2";
+const VERSAO = "tn2-v3";
 const CASCA = [
   "./",
   "./index.html",
@@ -30,6 +30,7 @@ const CASCA = [
   "./js/screens/questoes.js",
   "./js/screens/flashcards.js",
   "./js/screens/calculos.js",
+  "./js/screens/chefao.js",
   "./js/screens/painel.js",
   "./js/screens/erros.js",
   "./js/screens/config.js",
@@ -48,6 +49,7 @@ const CONTEUDO = [
   "./data/questoes.json",
   "./data/ambiguidades.json",
   "./data/badges.json",
+  "./data/chefoes.json",
 ];
 
 /** As lições saem de modulos.json, para não haver lista a manter aqui. */

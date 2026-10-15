@@ -13,6 +13,7 @@ import * as licaoTela from "./screens/licao.js";
 import * as questoes from "./screens/questoes.js";
 import * as flashcards from "./screens/flashcards.js";
 import * as calculos from "./screens/calculos.js";
+import * as chefao from "./screens/chefao.js";
 import * as painel from "./screens/painel.js";
 import * as erros from "./screens/erros.js";
 import * as config from "./screens/config.js";
@@ -24,6 +25,7 @@ const TELAS = {
   questoes,
   flashcards,
   calculos,
+  chefao,
   painel,
   erros,
   config,
@@ -54,7 +56,12 @@ async function desenhar() {
   main.innerHTML = `<p class="vazio">Carregando…</p>`;
   for (const a of document.querySelectorAll(".aba")) {
     const alvo = a.dataset.rota;
-    if (alvo === nome || (nome === "licao" && alvo === "trilha") || (nome === "erros" && alvo === "painel")) {
+    if (
+      alvo === nome ||
+      (nome === "licao" && alvo === "trilha") ||
+      (nome === "chefao" && alvo === "trilha") ||
+      (nome === "erros" && alvo === "painel")
+    ) {
       a.setAttribute("aria-current", "page");
     } else {
       a.removeAttribute("aria-current");

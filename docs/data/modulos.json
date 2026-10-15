@@ -1,20 +1,150 @@
 [
-  { "id": "A1", "trilha": "rim", "titulo": "Fisiologia renal", "prioridade": "C", "duracao_min": 4, "disponivel": true },
-  { "id": "A2", "trilha": "rim", "titulo": "Síndrome nefrótica", "prioridade": "E", "duracao_min": 5, "disponivel": true },
-  { "id": "A3", "trilha": "rim", "titulo": "DRC: conceito e estadiamento", "prioridade": "E", "duracao_min": 7, "disponivel": true },
-  { "id": "A4", "trilha": "rim", "titulo": "Avaliação nutricional na DRC", "prioridade": "I", "duracao_min": 6, "disponivel": true },
-  { "id": "A5", "trilha": "rim", "titulo": "Tratamento conservador", "prioridade": "E", "duracao_min": 8, "disponivel": true },
-  { "id": "A6", "trilha": "rim", "titulo": "Hemodiálise", "prioridade": "E", "duracao_min": 6, "disponivel": false, "chega": "chega na sexta" },
-  { "id": "A7", "trilha": "rim", "titulo": "Diálise peritoneal", "prioridade": "E", "duracao_min": 5, "disponivel": false, "chega": "chega na sexta" },
-  { "id": "A8", "trilha": "rim", "titulo": "Transplante renal", "prioridade": "I", "duracao_min": 4, "disponivel": false, "chega": "chega na sexta" },
-  { "id": "A9", "trilha": "rim", "titulo": "Nefrolitíase", "prioridade": "I", "duracao_min": 4, "disponivel": false, "chega": "chega na sexta" },
-  { "id": "A10", "trilha": "rim", "titulo": "Insuficiência renal aguda", "prioridade": "I", "duracao_min": 5, "disponivel": false, "chega": "chega na sexta" },
-  { "id": "B1", "trilha": "figado", "titulo": "O fígado: estrutura e funções", "prioridade": "I", "duracao_min": 4, "disponivel": false, "chega": "chega na sexta" },
-  { "id": "B2", "trilha": "figado", "titulo": "Avaliação laboratorial hepática", "prioridade": "E", "duracao_min": 5, "disponivel": false, "chega": "chega na sexta" },
-  { "id": "B3", "trilha": "figado", "titulo": "Etiologias, hepatites e progressão", "prioridade": "I", "duracao_min": 5, "disponivel": false, "chega": "chega na sexta" },
-  { "id": "B4", "trilha": "figado", "titulo": "Cirrose e complicações", "prioridade": "E", "duracao_min": 8, "disponivel": false, "chega": "chega na sexta" },
-  { "id": "B5", "trilha": "figado", "titulo": "Esteatose hepática e MASLD", "prioridade": "E", "duracao_min": 8, "disponivel": false, "chega": "chega no sábado" },
-  { "id": "B6", "trilha": "figado", "titulo": "Avaliação nutricional na cirrose", "prioridade": "E", "duracao_min": 8, "disponivel": false, "chega": "chega no sábado" },
-  { "id": "B7", "trilha": "figado", "titulo": "Terapia nutricional na cirrose", "prioridade": "E", "duracao_min": 8, "disponivel": false, "chega": "chega no sábado" },
-  { "id": "B8", "trilha": "figado", "titulo": "Transplante hepático", "prioridade": "I", "duracao_min": 4, "disponivel": false, "chega": "chega no sábado" }
+ {
+  "id": "A1",
+  "trilha": "rim",
+  "titulo": "Fisiologia renal",
+  "prioridade": "C",
+  "duracao_min": 4,
+  "disponivel": true
+ },
+ {
+  "id": "A2",
+  "trilha": "rim",
+  "titulo": "Síndrome nefrótica",
+  "prioridade": "E",
+  "duracao_min": 5,
+  "disponivel": true
+ },
+ {
+  "id": "A3",
+  "trilha": "rim",
+  "titulo": "DRC: conceito e estadiamento",
+  "prioridade": "E",
+  "duracao_min": 7,
+  "disponivel": true
+ },
+ {
+  "id": "A4",
+  "trilha": "rim",
+  "titulo": "Avaliação nutricional na DRC",
+  "prioridade": "I",
+  "duracao_min": 6,
+  "disponivel": true
+ },
+ {
+  "id": "A5",
+  "trilha": "rim",
+  "titulo": "Tratamento conservador",
+  "prioridade": "E",
+  "duracao_min": 8,
+  "disponivel": true
+ },
+ {
+  "id": "A6",
+  "trilha": "rim",
+  "titulo": "Hemodiálise",
+  "prioridade": "E",
+  "duracao_min": 6,
+  "disponivel": true
+ },
+ {
+  "id": "A7",
+  "trilha": "rim",
+  "titulo": "Diálise peritoneal",
+  "prioridade": "E",
+  "duracao_min": 5,
+  "disponivel": true
+ },
+ {
+  "id": "A8",
+  "trilha": "rim",
+  "titulo": "Transplante renal",
+  "prioridade": "I",
+  "duracao_min": 4,
+  "disponivel": true
+ },
+ {
+  "id": "A9",
+  "trilha": "rim",
+  "titulo": "Nefrolitíase",
+  "prioridade": "I",
+  "duracao_min": 4,
+  "disponivel": true
+ },
+ {
+  "id": "A10",
+  "trilha": "rim",
+  "titulo": "Insuficiência renal aguda",
+  "prioridade": "I",
+  "duracao_min": 5,
+  "disponivel": true
+ },
+ {
+  "id": "B1",
+  "trilha": "figado",
+  "titulo": "O fígado: estrutura e funções",
+  "prioridade": "I",
+  "duracao_min": 4,
+  "disponivel": true
+ },
+ {
+  "id": "B2",
+  "trilha": "figado",
+  "titulo": "Avaliação laboratorial hepática",
+  "prioridade": "E",
+  "duracao_min": 5,
+  "disponivel": true
+ },
+ {
+  "id": "B3",
+  "trilha": "figado",
+  "titulo": "Etiologias, hepatites e progressão",
+  "prioridade": "I",
+  "duracao_min": 5,
+  "disponivel": true
+ },
+ {
+  "id": "B4",
+  "trilha": "figado",
+  "titulo": "Cirrose e complicações",
+  "prioridade": "E",
+  "duracao_min": 8,
+  "disponivel": true
+ },
+ {
+  "id": "B5",
+  "trilha": "figado",
+  "titulo": "Esteatose hepática e MASLD",
+  "prioridade": "E",
+  "duracao_min": 8,
+  "disponivel": false,
+  "chega": "chega no sábado"
+ },
+ {
+  "id": "B6",
+  "trilha": "figado",
+  "titulo": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "duracao_min": 8,
+  "disponivel": false,
+  "chega": "chega no sábado"
+ },
+ {
+  "id": "B7",
+  "trilha": "figado",
+  "titulo": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "duracao_min": 8,
+  "disponivel": false,
+  "chega": "chega no sábado"
+ },
+ {
+  "id": "B8",
+  "trilha": "figado",
+  "titulo": "Transplante hepático",
+  "prioridade": "I",
+  "duracao_min": 4,
+  "disponivel": false,
+  "chega": "chega no sábado"
+ }
 ]

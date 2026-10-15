@@ -1,11 +1,77 @@
 [
-  { "id": "primeira-licao", "titulo": "Primeiro plantão", "desc": "Concluiu a primeira lição inteira." },
-  { "id": "vinte-cards", "titulo": "Vinte de uma vez", "desc": "Revisou 20 cards em uma única sessão." },
-  { "id": "dez-seguidos-kdigo", "titulo": "KDIGO de cor", "desc": "Classificou 10 casos seguidos sem errar." },
-  { "id": "dez-seguidos-cockcroft", "titulo": "Nunca esquece o 0,85", "desc": "Dez Cockcroft-Gault seguidos certos." },
-  { "id": "dez-seguidos-mst", "titulo": "Triagem no automático", "desc": "Dez escores MST seguidos certos." },
-  { "id": "explicou-A3", "titulo": "Explicou a DRC", "desc": "Escreveu a DRC com as próprias palavras." },
-  { "id": "explicou-A5", "titulo": "Explicou o conservador", "desc": "Escreveu o tratamento conservador com as próprias palavras." },
-  { "id": "caderno-rim-zerado", "titulo": "Caderno do Rim zerado", "desc": "Refez e acertou todos os erros do bloco do rim." },
-  { "id": "rim-completo", "titulo": "Rim fechado", "desc": "Concluiu as dez lições da trilha do Rim." }
+ {
+  "id": "primeira-licao",
+  "titulo": "Primeiro plantão",
+  "desc": "Concluiu a primeira lição inteira."
+ },
+ {
+  "id": "vinte-cards",
+  "titulo": "Vinte de uma vez",
+  "desc": "Revisou 20 cards em uma única sessão."
+ },
+ {
+  "id": "dez-seguidos-kdigo",
+  "titulo": "KDIGO de cor",
+  "desc": "Classificou 10 casos seguidos sem errar."
+ },
+ {
+  "id": "dez-seguidos-cockcroft",
+  "titulo": "Nunca esquece o 0,85",
+  "desc": "Dez Cockcroft-Gault seguidos certos."
+ },
+ {
+  "id": "dez-seguidos-mst",
+  "titulo": "Triagem no automático",
+  "desc": "Dez escores MST seguidos certos."
+ },
+ {
+  "id": "explicou-A3",
+  "titulo": "Explicou a DRC",
+  "desc": "Escreveu a DRC com as próprias palavras."
+ },
+ {
+  "id": "explicou-A5",
+  "titulo": "Explicou o conservador",
+  "desc": "Escreveu o tratamento conservador com as próprias palavras."
+ },
+ {
+  "id": "caderno-rim-zerado",
+  "titulo": "Caderno do Rim zerado",
+  "desc": "Refez e acertou todos os erros do bloco do rim."
+ },
+ {
+  "id": "rim-completo",
+  "titulo": "Rim fechado",
+  "desc": "Concluiu as dez lições da trilha do Rim."
+ },
+ {
+  "id": "chefao-rim",
+  "titulo": "Chefão do Rim derrotado",
+  "desc": "Fechou o simulado de nefropatias com 70% ou mais."
+ },
+ {
+  "id": "chefao-figado",
+  "titulo": "Chefão do Fígado derrotado",
+  "desc": "Fechou o simulado de doenças hepáticas com 70% ou mais."
+ },
+ {
+  "id": "chefao-final",
+  "titulo": "Chefão Final derrotado",
+  "desc": "Passou nas 40 questões misturadas, no tempo da prova."
+ },
+ {
+  "id": "figado-completo",
+  "titulo": "Fígado fechado",
+  "desc": "Concluiu as oito lições da trilha do Fígado."
+ },
+ {
+  "id": "explicou-B4",
+  "titulo": "Explicou a cirrose",
+  "desc": "Escreveu a cirrose e suas complicações com as próprias palavras."
+ },
+ {
+  "id": "explicou-B7",
+  "titulo": "Explicou a TN na cirrose",
+  "desc": "Escreveu a terapia nutricional da cirrose com as próprias palavras."
+ }
 ]

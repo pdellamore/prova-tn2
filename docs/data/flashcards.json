@@ -1,1486 +1,3159 @@
 [
-  {
-    "id": "F-A1-01",
-    "modulo": "A1",
-    "tipo": "definicao",
-    "prioridade": "C",
-    "frente": "O que o rim **produz**?",
-    "verso": "Renina, eritropoietina, **1,25-di-hidroxicolecalciferol** (vitamina D ativa), prostaglandinas e cininas.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 4
-    },
-    "tags": [
-      "fisiologia"
-    ]
-  },
-  {
-    "id": "F-A1-02",
-    "modulo": "A1",
-    "tipo": "definicao",
-    "prioridade": "C",
-    "frente": "Quais são os produtos fixos de degradação metabólica que o rim excreta?",
-    "verso": "**Creatinina, ureia e ácido úrico.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 6
-    },
-    "tags": [
-      "fisiologia"
-    ]
-  },
-  {
-    "id": "F-A1-03",
-    "modulo": "A1",
-    "tipo": "definicao",
-    "prioridade": "C",
-    "frente": "Qual peptídeo circulante o rim **degrada**?",
-    "verso": "**Insulina** (o rim degrada, não produz).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 7
-    },
-    "tags": [
-      "fisiologia",
-      "pegadinha"
-    ]
-  },
-  {
-    "id": "F-A1-04",
-    "modulo": "A1",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Peso e medida dos rins",
-    "verso": "**115 a 170 g** · **11 × 6 × 2,5 cm**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 10
-    },
-    "tags": [
-      "fisiologia"
-    ]
-  },
-  {
-    "id": "F-A1-05",
-    "modulo": "A1",
-    "tipo": "definicao",
-    "prioridade": "C",
-    "frente": "Qual é a unidade funcional do rim e o que o glomérulo faz?",
-    "verso": "O **néfron** é a unidade funcional; o **glomérulo faz a ultrafiltração**, o processo inicial da formação da urina.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 12
-    },
-    "tags": [
-      "fisiologia"
-    ]
-  },
-  {
-    "id": "F-A1-06",
-    "modulo": "A1",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Quanto do sódio filtrado é excretado na urina?",
-    "verso": "**Menos de 1%.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 13
-    },
-    "tags": [
-      "sodio"
-    ]
-  },
-  {
-    "id": "F-A1-07",
-    "modulo": "A1",
-    "tipo": "definicao",
-    "prioridade": "C",
-    "frente": "Quais hormônios **retêm** sódio?",
-    "verso": "**Hormônio do crescimento, cortisol, insulina e estrogênio.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 14
-    },
-    "tags": [
-      "sodio"
-    ]
-  },
-  {
-    "id": "F-A1-08",
-    "modulo": "A1",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Após restrição de potássio, em quanto tempo há novo equilíbrio?",
-    "verso": "**14 dias.** Com ↑ ingestão, o rim aumenta a excreção em até **10×**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 15
-    },
-    "tags": [
-      "potassio"
-    ]
-  },
-  {
-    "id": "F-A1-09",
-    "modulo": "A1",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Concentração plasmática de magnésio e quanto o rim filtra e excreta",
-    "verso": "**1,6 a 2,0 mEq/L.** Filtra **70 a 80%** do magnésio plasmático e excreta só **2 a 3%** da carga filtrada.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 21
-    },
-    "tags": [
-      "magnesio"
-    ]
-  },
-  {
-    "id": "F-A1-10",
-    "modulo": "A1",
-    "tipo": "criterio",
-    "prioridade": "C",
-    "frente": "Causas de **hipofosfatemia grave**",
-    "verso": "Uso prolongado de quelantes, recuperação de **queimaduras graves**, **alcalose respiratória grave**, DM mal controlado e alcoolismo ou abstinência alcoólica.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 20
-    },
-    "tags": [
-      "fosforo"
-    ],
-    "ambiguidade": "quelantes-hipofosfatemia"
-  },
-  {
-    "id": "F-A1-11",
-    "modulo": "A1",
-    "tipo": "criterio",
-    "prioridade": "C",
-    "frente": "Depleção de magnésio por causas renais",
-    "verso": "Diurese pós-transplante e pós-obstrutiva, **fase diurética da IRA**, expansão de volume, hipercalcemia, cetoacidose metabólica e diuréticos.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 22
-    },
-    "tags": [
-      "magnesio"
-    ]
-  },
-  {
-    "id": "F-A2-01",
-    "modulo": "A2",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Critério diagnóstico **isolado** da síndrome nefrótica",
-    "verso": "**Proteinúria > 3,5 g/24 h.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 29
-    },
-    "tags": [
-      "nefrotica",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A2-02",
-    "modulo": "A2",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "O que **acompanha** a proteinúria na síndrome nefrótica?",
-    "verso": "**Hipoalbuminemia, edema periférico, hiperlipidemia e lipidúria.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 29
-    },
-    "tags": [
-      "nefrotica"
-    ]
-  },
-  {
-    "id": "F-A2-03",
-    "modulo": "A2",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "Causas da síndrome nefrótica: renais primárias × sistêmicas",
-    "verso": "**Renais primárias:** glomerulonefrite e glomeruloesclerose. **Sistêmicas:** DM, lúpus eritematoso e amiloidose.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 25
-    },
-    "tags": [
-      "nefrotica"
-    ]
-  },
-  {
-    "id": "F-A2-04",
-    "modulo": "A2",
-    "tipo": "definicao",
-    "prioridade": "E",
-    "frente": "Fisiopatologia da síndrome nefrótica, em sequência",
-    "verso": "↑ **permeabilidade da membrana basal glomerular** → **proteinúria maciça** → **hipoalbuminemia** → ↑ **reabsorção de sódio** → **edema**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 27
-    },
-    "tags": [
-      "nefrotica",
-      "mecanismo"
-    ]
-  },
-  {
-    "id": "F-A2-05",
-    "modulo": "A2",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Que tipo de anemia aparece na síndrome nefrótica?",
-    "verso": "**Hipocrômica microcítica.** (Na IRA é normocítica normocrômica.)",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 28
-    },
-    "tags": [
-      "nefrotica",
-      "pegadinha"
-    ]
-  },
-  {
-    "id": "F-A2-06",
-    "modulo": "A2",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "Manifestações sistêmicas da síndrome nefrótica",
-    "verso": "Hiperlipidemia, hipertensão arterial, distúrbios da coagulação, alterações do metabolismo da vitamina D e de Ca/minerais, e anemia hipocrômica microcítica.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 28
-    },
-    "tags": [
-      "nefrotica"
-    ]
-  },
-  {
-    "id": "F-A2-07",
-    "modulo": "A2",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Que proporção dos pacientes pode ter dislipidemia, no slide de Dietoterapia (Lipídios)?",
-    "verso": "**70 a 100%.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 80
-    },
-    "tags": [
-      "dietoterapia",
-      "numero-chave"
-    ],
-    "ambiguidade": "secao-dietoterapia"
-  },
-  {
-    "id": "F-A2-08",
-    "modulo": "A2",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Lipídios no slide de Dietoterapia (% do VET)",
-    "verso": "**< 30% do VET**, igual para adulto e criança. Padrão mediterrâneo, restrição de saturados e muita fibra.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 80
-    },
-    "tags": [
-      "dietoterapia",
-      "numero-chave"
-    ],
-    "ambiguidade": "secao-dietoterapia"
-  },
-  {
-    "id": "F-A2-09",
-    "modulo": "A2",
-    "tipo": "definicao",
-    "prioridade": "E",
-    "frente": "Tríade do manejo nutricional no slide de Dietoterapia",
-    "verso": "**Proteinúria – edema – hiperlipidemia.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 74
-    },
-    "tags": [
-      "dietoterapia"
-    ],
-    "ambiguidade": "secao-dietoterapia"
-  },
-  {
-    "id": "F-A2-10",
-    "modulo": "A2",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Dieta hiperproteica nos slides de Dietoterapia: por que **não**?",
-    "verso": "↑ catabolismo e excreção proteica, **pode acelerar a progressão**, eleva a permeabilidade da membrana basal e leva a mais perda de albumina.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 81
-    },
-    "tags": [
-      "dietoterapia",
-      "proteina"
-    ],
-    "ambiguidade": "secao-dietoterapia"
-  },
-  {
-    "id": "F-A2-11",
-    "modulo": "A2",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "O que a dieta **normoproteica** faz, segundo o slide de Dietoterapia?",
-    "verso": "Mantém o **balanço nitrogenado**, ajuda a **elevar a albumina sérica** e **melhora o edema**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 81
-    },
-    "tags": [
-      "dietoterapia",
-      "proteina"
-    ],
-    "ambiguidade": "secao-dietoterapia"
-  },
-  {
-    "id": "F-A2-12",
-    "modulo": "A2",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "Por que sobe o lipídio, segundo o slide de Dietoterapia?",
-    "verso": "↑ síntese hepática de colesterol, TG e lipoproteínas; ↓ catabolismo desses nutrientes; alteração das enzimas lipolíticas hepáticas; e hipoalbuminemia, que leva menos lipídios ao fígado.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 79
-    },
-    "tags": [
-      "dietoterapia"
-    ],
-    "ambiguidade": "secao-dietoterapia"
-  },
-  {
-    "id": "F-A2-13",
-    "modulo": "A2",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "Objetivos do manejo nutricional no slide de Dietoterapia",
-    "verso": "Compensar a desnutrição proteica, evitar o catabolismo, diminuir o ritmo de progressão, reduzir a perda urinária de proteína, melhorar a anorexia, ofertar nutrientes adequados e controlar HAS e sódio.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 73
-    },
-    "tags": [
-      "dietoterapia"
-    ],
-    "ambiguidade": "secao-dietoterapia"
-  },
-  {
-    "id": "F-A3-01",
-    "modulo": "A3",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Definição de DRC",
-    "verso": "Anomalias da **estrutura ou função renal** presentes por **mais de 3 meses**, com implicações para a saúde.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 31
-    },
-    "tags": [
-      "drc",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A3-02",
-    "modulo": "A3",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Os dois critérios KDIGO de DRC (basta um, por > 3 meses)",
-    "verso": "**TFG < 60 mL/min/1,73 m²** (G3a–G5) **ou** marcador de lesão renal (ex.: albuminúria ≥ 30 mg/g).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 30
-    },
-    "tags": [
-      "drc",
-      "kdigo"
-    ]
-  },
-  {
-    "id": "F-A3-03",
-    "modulo": "A3",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "G1 e G2 **sem** marcador de lesão renal: é DRC?",
-    "verso": "**Não.** O rodapé do quadro KDIGO diz: na ausência de evidência de lesão renal, nem G1 nem G2 preenchem os critérios de DRC.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 46
-    },
-    "tags": [
-      "drc",
-      "kdigo",
-      "pegadinha"
-    ]
-  },
-  {
-    "id": "F-A3-04",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Faixa de TFG do **G1** e do **G2**",
-    "verso": "**G1: ≥ 90** (normal ou alta) · **G2: 60 a 89** (levemente diminuída).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 46
-    },
-    "tags": [
-      "kdigo",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A3-05",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Faixa de TFG do **G3a**",
-    "verso": "**45 a 59** mL/min/1,73 m² — leve a moderadamente diminuída.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 46
-    },
-    "tags": [
-      "kdigo",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A3-06",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Faixa de TFG do **G3b**",
-    "verso": "**30 a 44** mL/min/1,73 m² — moderada a gravemente diminuída.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 46
-    },
-    "tags": [
-      "kdigo",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A3-07",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Faixa de TFG do **G4** e do **G5**",
-    "verso": "**G4: 15 a 29** (gravemente diminuída) · **G5: < 15** (falência renal). Note: é **< 15**, não ≤ 15.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 46
-    },
-    "tags": [
-      "kdigo",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A3-08",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Faixas de albuminúria A1, A2 e A3 (mg/g)",
-    "verso": "**A1 < 30** (normal a levemente ↑) · **A2 30 a 300** (moderadamente ↑) · **A3 > 300** (gravemente ↑).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 47
-    },
-    "tags": [
-      "kdigo",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A3-09",
-    "modulo": "A3",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "'Microalbuminúria' e 'macroalbuminúria' hoje se chamam como?",
-    "verso": "Micro = **moderadamente aumentada (A2)** · macro = **gravemente aumentada (A3)**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 47
-    },
-    "tags": [
-      "kdigo",
-      "pegadinha"
-    ]
-  },
-  {
-    "id": "F-A3-10",
-    "modulo": "A3",
-    "tipo": "definicao",
-    "prioridade": "E",
-    "frente": "As cores do quadro de prognóstico KDIGO",
-    "verso": "**Verde** = baixo risco (sem outro marcador, não é DRC) · **amarelo** = moderadamente aumentado · **laranja** = alto · **vermelho** = muito alto. Piora com ↓ TFG **e** ↑ albuminúria.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 47
-    },
-    "tags": [
-      "kdigo"
-    ]
-  },
-  {
-    "id": "F-A3-11",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "TFG normal de um adulto jovem",
-    "verso": "Cerca de **125 mL/min/1,73 m²**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 30
-    },
-    "tags": [
-      "kdigo"
-    ]
-  },
-  {
-    "id": "F-A3-12",
-    "modulo": "A3",
-    "tipo": "definicao",
-    "prioridade": "E",
-    "frente": "Principais etiologias da DRC",
-    "verso": "**Diabetes mellitus, hipertensão arterial e glomerulonefrites** — são as três caixas da coluna 'Principais'.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 33
-    },
-    "tags": [
-      "drc"
-    ]
-  },
-  {
-    "id": "F-A3-13",
-    "modulo": "A3",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "Fatores de risco para DRC",
-    "verso": "DM, HAS, obesidade, idade, doença cardiovascular, histórico familiar e tabagismo.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 34
-    },
-    "tags": [
-      "drc"
-    ]
-  },
-  {
-    "id": "F-A3-14",
-    "modulo": "A3",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "O que o paciente com DRC acumula e para onde isso leva",
-    "verso": "Inflamação crônica, calcificação e aterosclerose, resistência à insulina, anemia, alterações do metabolismo proteico e disbiose intestinal → **inflamação → mortalidade**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 42
-    },
-    "tags": [
-      "drc",
-      "mecanismo"
-    ]
-  },
-  {
-    "id": "F-A3-15",
-    "modulo": "A3",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "Síndrome urêmica: o que ela afeta",
-    "verso": "Trato gastrointestinal, sistema musculoesquelético, alterações endócrinas e metabólicas, pele, nervos periféricos e sistema nervoso central.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 53
-    },
-    "tags": [
-      "drc"
-    ]
-  },
-  {
-    "id": "F-A3-16",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "I",
-    "frente": "Fórmula de **Cockcroft-Gault**",
-    "verso": "**(140 − idade) × peso ÷ (72 × creatinina sérica)**, em mL/min. **× 0,85 se mulher.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 50
-    },
-    "tags": [
-      "calculo",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A3-17",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Fórmula do **MDRD** e o fator do sexo feminino",
-    "verso": "186 × creatinina^−1,154 × idade^−0,203 × **0,742 se mulher**, em mL/min/1,73 m².",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 50
-    },
-    "tags": [
-      "calculo"
-    ]
-  },
-  {
-    "id": "F-A3-18",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "I",
-    "frente": "Depuração de creatinina **medida** (não estimada)",
-    "verso": "**ClCr = (creatinina urinária × volume urinário) ÷ creatinina sérica.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 49
-    },
-    "tags": [
-      "calculo"
-    ]
-  },
-  {
-    "id": "F-A3-19",
-    "modulo": "A3",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "As três pernas do diagnóstico de DRC",
-    "verso": "**Exame urinário, exame de imagem e taxa de filtração glomerular.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 48
-    },
-    "tags": [
-      "drc"
-    ]
-  },
-  {
-    "id": "F-A3-20",
-    "modulo": "A3",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "As duas fases de tratamento da DRC",
-    "verso": "**Não dialítica (conservadora)** e **dialítica / terapia renal substitutiva** — hemodiálise, diálise peritoneal ou transplante renal.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 48
-    },
-    "tags": [
-      "drc"
-    ]
-  },
-  {
-    "id": "F-A3-21",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Meta de pressão arterial na DRC",
-    "verso": "**≤ 130/80** para diabéticos com nefropatia e não diabéticos **com** proteinúria; **< 140/90** sem proteinúria.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 43
-    },
-    "tags": [
-      "metas"
-    ]
-  },
-  {
-    "id": "F-A3-22",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Metas de LDL, HbA1c, Hb e vitamina D na DRC",
-    "verso": "**LDL < 70 a 100 mg/dL** (ou −50% do inicial) · **HbA1c 6,5 a 7,5%** · **Hb 10 a 11** · **25(OH)D ≥ 30 ng/mL**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 45
-    },
-    "tags": [
-      "metas"
-    ]
-  },
-  {
-    "id": "F-A3-23",
-    "modulo": "A3",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Metas de estilo de vida na DRC",
-    "verso": "Sódio **< 1,5 g/dia** (preferencialmente); exercício aeróbico moderado **30 a 60 min, 4 a 7 dias por semana**; **IMC 18,5 a 25 kg/m²**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 43
-    },
-    "tags": [
-      "metas"
-    ]
-  },
-  {
-    "id": "F-A4-01",
-    "modulo": "A4",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "Os dois aspectos nutricionais da DRC",
-    "verso": "**DEP** (prevalente, ↑ morbimortalidade, ligada à inflamação) e **sobrepeso/obesidade** (↑ prevalência, associação com DCV, mas com **caráter protetor** descrito no slide).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 54
-    },
-    "tags": [
-      "avaliacao"
-    ]
-  },
-  {
-    "id": "F-A4-02",
-    "modulo": "A4",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Recomendação 1 do consenso: qual instrumento de triagem e com que frequência?",
-    "verso": "**MST**, aplicado **pelo menos mensalmente**. Evidência **A**, força **1**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 58
-    },
-    "tags": [
-      "avaliacao",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A4-03",
-    "modulo": "A4",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Recomendação 6: qual instrumento de **diagnóstico** de DEP na DRC?",
-    "verso": "**ASG (SGA)** — o mais bem validado (evidência A). A **MCC** também pode ser recomendada (evidência B).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 69
-    },
-    "tags": [
-      "avaliacao",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A4-04",
-    "modulo": "A4",
-    "tipo": "criterio",
-    "prioridade": "I",
-    "frente": "Recomendação 5: os quatro grupos de definição da DEP",
-    "verso": "(1) doença crônica com inflamação continuada; (2) doença crônica com inflamação mínima ou não percebida; (3) doença ou injúria aguda com inflamação grave; (4) baixa ingestão crônica pura, não relacionada à doença. Evidência B, força 1.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 55
-    },
-    "tags": [
-      "avaliacao"
-    ]
-  },
-  {
-    "id": "F-A4-05",
-    "modulo": "A4",
-    "tipo": "criterio",
-    "prioridade": "C",
-    "frente": "Recomendação 2 do consenso",
-    "verso": "Padronizar o **Processo de Cuidado em Nutrição (PCN)** e sua terminologia (TPCN). Evidência B, força 1.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 70
-    },
-    "tags": [
-      "avaliacao"
-    ]
-  },
-  {
-    "id": "F-A4-06",
-    "modulo": "A4",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "MST — pergunta 1: perda recente e não intencional de peso",
-    "verso": "**Não = 0** · **Não sabe = 2.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 59
-    },
-    "tags": [
-      "mst",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A4-07",
-    "modulo": "A4",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "MST — pergunta 2: de quanto foi a perda (kg)?",
-    "verso": "**1–5 = 1** · **6–10 = 2** · **11–15 = 3** · **> 15 = 4** · **não sabe = 2.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 59
-    },
-    "tags": [
-      "mst",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A4-08",
-    "modulo": "A4",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "MST — pergunta 3 e ponto de corte",
-    "verso": "Come mal por ↓ apetite: **não = 0, sim = 1**. **Interpretação: ≥ 2 = risco de desnutrição.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 59
-    },
-    "tags": [
-      "mst",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A4-09",
-    "modulo": "A4",
-    "tipo": "numero",
-    "prioridade": "I",
-    "frente": "Escores da **ASG adaptada ao renal**",
-    "verso": "Até **8** = adequado · **9–23** = risco ou desnutrição leve · **24–31** = moderada · **32–39** = grave · **acima de 40** = gravíssima.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 57
-    },
-    "tags": [
-      "asg",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A4-10",
-    "modulo": "A4",
-    "tipo": "numero",
-    "prioridade": "I",
-    "frente": "Fórmula do **PNA**",
-    "verso": "**PNA = (NUU + 0,031 × peso corporal) × 6,25.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 62
-    },
-    "tags": [
-      "calculo",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A4-11",
-    "modulo": "A4",
-    "tipo": "criterio",
-    "prioridade": "I",
-    "frente": "Limitações do PNA",
-    "verso": "Depende do **balanço nitrogenado**; o PNA de **1 dia** pode não ser o habitual; e **subestima ingestões muito altas**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 62
-    },
-    "tags": [
-      "calculo",
-      "pegadinha"
-    ]
-  },
-  {
-    "id": "F-A4-12",
-    "modulo": "A4",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Valores laboratoriais **desejáveis** na avaliação nutricional da DRC",
-    "verso": "Albumina **> 4 g/dL** · transferrina **250 a 450 mg/dL** · linfócitos totais **1.500 a 4.000/mm³**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 63
-    },
-    "tags": [
-      "avaliacao",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A4-13",
-    "modulo": "A4",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "Exame físico: onde se avalia **massa muscular**?",
-    "verso": "**Têmporas, clavícula, ombros, escápula** e o **músculo adutor do polegar**. O slide 57 cita ainda costelas, quadríceps, joelho e interósseo — mas no slide 64 quadríceps e joelho aparecem sob **gordura subcutânea**, não sob músculo.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 64
-    },
-    "tags": [
-      "avaliacao"
-    ]
-  },
-  {
-    "id": "F-A4-14",
-    "modulo": "A4",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "Exame físico: onde se avalia **gordura subcutânea** e **edema/ascite**?",
-    "verso": "**Gordura:** face, tríceps, bíceps, joelho e quadríceps. **Edema/ascite:** tornozelo, sacro e abdômen.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 64
-    },
-    "tags": [
-      "avaliacao"
-    ]
-  },
-  {
-    "id": "F-A4-15",
-    "modulo": "A4",
-    "tipo": "definicao",
-    "prioridade": "I",
-    "frente": "Antropometria na DRC: que peso usar?",
-    "verso": "O **peso seco**. Avalia-se IMC, % de perda de peso, dobras cutâneas, CB e AMB, circunferência abdominal e bioimpedância.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 61
-    },
-    "tags": [
-      "avaliacao"
-    ]
-  },
-  {
-    "id": "F-A4-16",
-    "modulo": "A4",
-    "tipo": "definicao",
-    "prioridade": "C",
-    "frente": "Métodos de avaliação do consumo alimentar na DRC",
-    "verso": "Recordatório de **24 h**, registro alimentar de **3 a 7 dias** e questionário de frequência de consumo alimentar.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 61
-    },
-    "tags": [
-      "avaliacao"
-    ]
-  },
-  {
-    "id": "F-A5-01",
-    "modulo": "A5",
-    "tipo": "definicao",
-    "prioridade": "E",
-    "frente": "Objetivos da terapia nutricional no conservador",
-    "verso": "Controlar distúrbios metabólicos e sintomas urêmicos, **retardar a progressão**, prevenir **hiperparatireoidismo secundário** e DEP, manter o estado nutricional e **evitar ou adiar a diálise**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 75
-    },
-    "tags": [
-      "conservador"
-    ]
-  },
-  {
-    "id": "F-A5-02",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Energia no tratamento conservador",
-    "verso": "**25 a 35 kcal/kg/dia** (metabolicamente estáveis, DRC 1–5D e pós-transplante).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 76
-    },
-    "tags": [
-      "conservador",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-03",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Carboidratos no tratamento conservador",
-    "verso": "**50 a 65% do VET.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 76
-    },
-    "tags": [
-      "conservador",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-04",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "I",
-    "frente": "Lipídios no conservador pela tabela KDOQI",
-    "verso": "**25 a 50% do VET** · saturados **< 7%** · mono **até 20%** · poli **10%** · colesterol **< 200 mg/dia**. ⚠ Outro slide (KDIGO) traz **< 30% VET** — veja a diretriz citada.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 76
-    },
-    "tags": [
-      "conservador"
-    ],
-    "ambiguidade": "lipidios-conservador"
-  },
-  {
-    "id": "F-A5-05",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Proteína na DRC 3–5 **sem** diabetes, metabolicamente estável",
-    "verso": "**0,55 a 0,60 g/kg/dia**, ou muito hipoproteica de **0,28 a 0,43 g/kg/dia + cetoácidos/análogos** (para chegar ao equivalente de 0,55–0,60).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 83
-    },
-    "tags": [
-      "proteina",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-06",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Proteína na DRC 3–5 **com** diabetes",
-    "verso": "**0,6 a 0,8 g/kg/dia**, sob supervisão clínica próxima.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 84
-    },
-    "tags": [
-      "proteina",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-07",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Proteína em hemodiálise e diálise peritoneal pelo slide do BRASPEN",
-    "verso": "**1,0 a 1,2 g/kg/dia**, com ou sem diabetes.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 82
-    },
-    "tags": [
-      "proteina",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-08",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "O que o **KDIGO 2024** recomenda de proteína em G3–G5?",
-    "verso": "**0,8 g/kg/dia** (2C); **evitar > 1,3 g/kg/dia** em quem tem risco de progressão. ⚠ Diferente dos 0,55–0,60 do KDOQI.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 86
-    },
-    "tags": [
-      "proteina",
-      "numero-chave"
-    ],
-    "ambiguidade": "proteina-drc"
-  },
-  {
-    "id": "F-A5-09",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "O que torna o paciente **metabolicamente instável**?",
-    "verso": "Inflamação ativa, infecção ativa, **hospitalização há menos de 2 semanas**, DM mal controlado, doenças consumptivas (câncer), perda de peso significativa recente, **antibióticos** e **imunossupressores**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 85
-    },
-    "tags": [
-      "proteina",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-10",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Restrição proteica em metabolicamente instável: pode?",
-    "verso": "**Não.** O KDIGO 2024 é explícito: não prescrever dieta hipoproteica nem muito hipoproteica em pessoas metabolicamente instáveis.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 86
-    },
-    "tags": [
-      "proteina",
-      "pegadinha"
-    ]
-  },
-  {
-    "id": "F-A5-11",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Restrição proteica **opção 01**: dose e estágios",
-    "verso": "Dieta hipoproteica convencional de **0,6 g/kg/dia**, para os estágios **3, 4 ou 5**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 97
-    },
-    "tags": [
-      "proteina",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-12",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Restrição proteica **opção 02**: dose e estágios",
-    "verso": "**0,3 a 0,4 g/kg/dia com cetoanálogos**, só nos estágios **4 ou 5**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 99
-    },
-    "tags": [
-      "proteina",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-13",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "I",
-    "frente": "Pré-requisitos comuns às opções 01 e 02 de restrição proteica",
-    "verso": "**Sem diabetes**, **metabolicamente estável** e **sem desnutrição ou risco de desnutrição**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 97
-    },
-    "tags": [
-      "proteina"
-    ]
-  },
-  {
-    "id": "F-A5-14",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "I",
-    "frente": "O que a opção 02 pergunta **além** dos pré-requisitos comuns?",
-    "verso": "É **idoso que pode se beneficiar de conservador otimizado**? **Precisa ganhar tempo** para a terapia renal substitutiva? **Há disponibilidade** do suplemento com cetoanálogos?",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 99
-    },
-    "tags": [
-      "proteina"
-    ]
-  },
-  {
-    "id": "F-A5-15",
-    "modulo": "A5",
-    "tipo": "definicao",
-    "prioridade": "E",
-    "frente": "Como os cetoácidos viram aminoácidos?",
-    "verso": "Por **transaminação hepática**: o nitrogênio disponível é incorporado à cadeia carbônica, formando o **aminoácido essencial correspondente**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 94
-    },
-    "tags": [
-      "cetoacidos",
-      "mecanismo"
-    ]
-  },
-  {
-    "id": "F-A5-16",
-    "modulo": "A5",
-    "tipo": "definicao",
-    "prioridade": "E",
-    "frente": "As duas vantagens dos cetoácidos",
-    "verso": "**(A)** suprem as necessidades de aminoácidos essenciais; **(B)** **diminuem a disponibilidade de nitrogênio** e assim reduzem a formação de compostos tóxicos.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 94
-    },
-    "tags": [
-      "cetoacidos",
-      "pegadinha"
-    ]
-  },
-  {
-    "id": "F-A5-17",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Dose dos cetoanálogos",
-    "verso": "**1 comprimido para cada 5 kg de peso, por dia.**",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 95
-    },
-    "tags": [
-      "cetoacidos",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-18",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Potássio e sódio no tratamento conservador",
-    "verso": "**Potássio 50 a 75 mEq** · **sódio até 2.000 mg** (KDIGO 2024: < 2 g de Na, < 90 mmol ou < 5 g de NaCl).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 104
-    },
-    "tags": [
-      "minerais",
-      "numero-chave"
-    ],
-    "ambiguidade": "sodio-drc"
-  },
-  {
-    "id": "F-A5-19",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "E",
-    "frente": "Cálcio e fósforo no tratamento conservador",
-    "verso": "**Cálcio 1.400 a 1.600 mg** · **fósforo 750 mg**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 104
-    },
-    "tags": [
-      "minerais",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-20",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "I",
-    "frente": "Ferro, zinco e selênio no conservador",
-    "verso": "**Ferro** 8 mg (H) e 15 mg (M) · **zinco** 10 a 15 mg (H) e 8 a 12 mg (M) · **selênio** 55 mcg.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 104
-    },
-    "tags": [
-      "minerais"
-    ]
-  },
-  {
-    "id": "F-A5-21",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Quais vitaminas **não** se suplementa no conservador?",
-    "verso": "**A e K** (dieta por via oral).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 105
-    },
-    "tags": [
-      "vitaminas",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-22",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "I",
-    "frente": "Vitamina E, tiamina e piridoxina no conservador",
-    "verso": "**E: 400 a 800 UI** · **tiamina: 1,1 a 1,2 mg** · **piridoxina: 5 mg**. (A vitamina D vai conforme a deficiência.)",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 105
-    },
-    "tags": [
-      "vitaminas"
-    ]
-  },
-  {
-    "id": "F-A5-23",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "I",
-    "frente": "Vitamina C, ácido fólico e B12 no conservador",
-    "verso": "**C: 75 a 90 mg** · **ácido fólico: 1 mg** · **B12: 2,4 mcg**. (Niacina 14–16 mg, biotina 30 mcg, ácido pantotênico 5 mg.)",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 106
-    },
-    "tags": [
-      "vitaminas"
-    ]
-  },
-  {
-    "id": "F-A5-24",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Manejo do potássio no conservador",
-    "verso": "Com **TFG < 15 mL/min** o potássio sérico sobe. Usar **remolho e cocção** e restringir alimentos ricos em K.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 108
-    },
-    "tags": [
-      "minerais",
-      "numero-chave"
-    ]
-  },
-  {
-    "id": "F-A5-25",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Por que excluir o **sal light** na DRC?",
-    "verso": "Porque é **rico em potássio**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 108
-    },
-    "tags": [
-      "minerais",
-      "pegadinha"
-    ]
-  },
-  {
-    "id": "F-A5-26",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "E",
-    "frente": "Carambola na DRC",
-    "verso": "Contém uma neurotoxina, a **'carambotoxina'** → **restrição severa**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 107
-    },
-    "tags": [
-      "minerais",
-      "pegadinha"
-    ]
-  },
-  {
-    "id": "F-A5-27",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "I",
-    "frente": "Manejo de ferro, cálcio e fósforo no conservador",
-    "verso": "**Ferro:** suplementar (dieta restrita em proteína) + **eritropoetina recombinante humana**. **Ca e P:** individualizado conforme o avanço; **calcitriol** para doença óssea.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 109
-    },
-    "tags": [
-      "minerais"
-    ]
-  },
-  {
-    "id": "F-A5-28",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Proteína (g) de carne, frango e peixe — 100 g",
-    "verso": "Carne bovina **23** · frango **22** · peixe **19**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 90
-    },
-    "tags": [
-      "avb"
-    ]
-  },
-  {
-    "id": "F-A5-29",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Proteína (g) de leite, iogurte, queijo e ovo",
-    "verso": "Leite 200 g **7,0** · iogurte 200 g **7,0** · queijo 30 g **7,0** · ovo 50 g **6,4**.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 90
-    },
-    "tags": [
-      "avb"
-    ]
-  },
-  {
-    "id": "F-A5-30",
-    "modulo": "A5",
-    "tipo": "numero",
-    "prioridade": "C",
-    "frente": "Proteína (g) de feijão, arroz, pão e macarrão",
-    "verso": "Feijão 120 g **9,4** · pão 50 g **5,0** · macarrão 125 g **4,0** · arroz 100 g **2,0** (batata 110 g também 2,0).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 91
-    },
-    "tags": [
-      "bvb"
-    ]
-  },
-  {
-    "id": "F-A5-31",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "C",
-    "frente": "O que a revisão pragmática (Piccoli) contraindica na dieta hipoproteica?",
-    "verso": "**Desnutrição**, expectativa de vida muito curta, **neoplasia metastática**, síndrome MIA grave e **não adesão**. LPD 0,6 g/kg em estágios 4–5 ou 3 progressivo; vLPD 0,3 g/kg em estágio 5 ou 4 em piora rápida.",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 102
-    },
-    "tags": [
-      "proteina"
-    ]
-  },
-  {
-    "id": "F-A5-32",
-    "modulo": "A5",
-    "tipo": "criterio",
-    "prioridade": "C",
-    "frente": "O que o KDIGO 2024 diz sobre dietas à base de plantas na DRC?",
-    "verso": "Associadas a **menor progressão e menor mortalidade**. A Tabela 21 reúne **6 estudos observacionais e 1 ensaio clínico randomizado** (CORDIOPREV).",
-    "fonte": {
-      "arquivo": "Aula_NEFRO",
-      "pagina": 88
-    },
-    "tags": [
-      "proteina"
-    ]
-  }
+ {
+  "id": "F-A1-01",
+  "modulo": "A1",
+  "tipo": "definicao",
+  "prioridade": "C",
+  "frente": "O que o rim **produz**?",
+  "verso": "Renina, eritropoietina, **1,25-di-hidroxicolecalciferol** (vitamina D ativa), prostaglandinas e cininas.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 4
+  },
+  "tags": [
+   "fisiologia"
+  ]
+ },
+ {
+  "id": "F-A1-02",
+  "modulo": "A1",
+  "tipo": "definicao",
+  "prioridade": "C",
+  "frente": "Quais são os produtos fixos de degradação metabólica que o rim excreta?",
+  "verso": "**Creatinina, ureia e ácido úrico.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 6
+  },
+  "tags": [
+   "fisiologia"
+  ]
+ },
+ {
+  "id": "F-A1-03",
+  "modulo": "A1",
+  "tipo": "definicao",
+  "prioridade": "C",
+  "frente": "Qual peptídeo circulante o rim **degrada**?",
+  "verso": "**Insulina** (o rim degrada, não produz).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 7
+  },
+  "tags": [
+   "fisiologia",
+   "pegadinha"
+  ]
+ },
+ {
+  "id": "F-A1-04",
+  "modulo": "A1",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Peso e medida dos rins",
+  "verso": "**115 a 170 g** · **11 × 6 × 2,5 cm**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 10
+  },
+  "tags": [
+   "fisiologia"
+  ]
+ },
+ {
+  "id": "F-A1-05",
+  "modulo": "A1",
+  "tipo": "definicao",
+  "prioridade": "C",
+  "frente": "Qual é a unidade funcional do rim e o que o glomérulo faz?",
+  "verso": "O **néfron** é a unidade funcional; o **glomérulo faz a ultrafiltração**, o processo inicial da formação da urina.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 12
+  },
+  "tags": [
+   "fisiologia"
+  ]
+ },
+ {
+  "id": "F-A1-06",
+  "modulo": "A1",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Quanto do sódio filtrado é excretado na urina?",
+  "verso": "**Menos de 1%.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 13
+  },
+  "tags": [
+   "sodio"
+  ]
+ },
+ {
+  "id": "F-A1-07",
+  "modulo": "A1",
+  "tipo": "definicao",
+  "prioridade": "C",
+  "frente": "Quais hormônios **retêm** sódio?",
+  "verso": "**Hormônio do crescimento, cortisol, insulina e estrogênio.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 14
+  },
+  "tags": [
+   "sodio"
+  ]
+ },
+ {
+  "id": "F-A1-08",
+  "modulo": "A1",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Após restrição de potássio, em quanto tempo há novo equilíbrio?",
+  "verso": "**14 dias.** Com ↑ ingestão, o rim aumenta a excreção em até **10×**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 15
+  },
+  "tags": [
+   "potassio"
+  ]
+ },
+ {
+  "id": "F-A1-09",
+  "modulo": "A1",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Concentração plasmática de magnésio e quanto o rim filtra e excreta",
+  "verso": "**1,6 a 2,0 mEq/L.** Filtra **70 a 80%** do magnésio plasmático e excreta só **2 a 3%** da carga filtrada.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 21
+  },
+  "tags": [
+   "magnesio"
+  ]
+ },
+ {
+  "id": "F-A1-10",
+  "modulo": "A1",
+  "tipo": "criterio",
+  "prioridade": "C",
+  "frente": "Causas de **hipofosfatemia grave**",
+  "verso": "Uso prolongado de quelantes, recuperação de **queimaduras graves**, **alcalose respiratória grave**, DM mal controlado e alcoolismo ou abstinência alcoólica.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 20
+  },
+  "tags": [
+   "fosforo"
+  ],
+  "ambiguidade": "quelantes-hipofosfatemia"
+ },
+ {
+  "id": "F-A1-11",
+  "modulo": "A1",
+  "tipo": "criterio",
+  "prioridade": "C",
+  "frente": "Depleção de magnésio por causas renais",
+  "verso": "Diurese pós-transplante e pós-obstrutiva, **fase diurética da IRA**, expansão de volume, hipercalcemia, cetoacidose metabólica e diuréticos.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 22
+  },
+  "tags": [
+   "magnesio"
+  ]
+ },
+ {
+  "id": "F-A2-01",
+  "modulo": "A2",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Critério diagnóstico **isolado** da síndrome nefrótica",
+  "verso": "**Proteinúria > 3,5 g/24 h.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 29
+  },
+  "tags": [
+   "nefrotica",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A2-02",
+  "modulo": "A2",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "O que **acompanha** a proteinúria na síndrome nefrótica?",
+  "verso": "**Hipoalbuminemia, edema periférico, hiperlipidemia e lipidúria.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 29
+  },
+  "tags": [
+   "nefrotica"
+  ]
+ },
+ {
+  "id": "F-A2-03",
+  "modulo": "A2",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Causas da síndrome nefrótica: renais primárias × sistêmicas",
+  "verso": "**Renais primárias:** glomerulonefrite e glomeruloesclerose. **Sistêmicas:** DM, lúpus eritematoso e amiloidose.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 25
+  },
+  "tags": [
+   "nefrotica"
+  ]
+ },
+ {
+  "id": "F-A2-04",
+  "modulo": "A2",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "Fisiopatologia da síndrome nefrótica, em sequência",
+  "verso": "↑ **permeabilidade da membrana basal glomerular** → **proteinúria maciça** → **hipoalbuminemia** → ↑ **reabsorção de sódio** → **edema**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 27
+  },
+  "tags": [
+   "nefrotica",
+   "mecanismo"
+  ]
+ },
+ {
+  "id": "F-A2-05",
+  "modulo": "A2",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Que tipo de anemia aparece na síndrome nefrótica?",
+  "verso": "**Hipocrômica microcítica.** (Na IRA é normocítica normocrômica.)",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 28
+  },
+  "tags": [
+   "nefrotica",
+   "pegadinha"
+  ]
+ },
+ {
+  "id": "F-A2-06",
+  "modulo": "A2",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Manifestações sistêmicas da síndrome nefrótica",
+  "verso": "Hiperlipidemia, hipertensão arterial, distúrbios da coagulação, alterações do metabolismo da vitamina D e de Ca/minerais, e anemia hipocrômica microcítica.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 28
+  },
+  "tags": [
+   "nefrotica"
+  ]
+ },
+ {
+  "id": "F-A2-07",
+  "modulo": "A2",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Que proporção dos pacientes pode ter dislipidemia, no slide de Dietoterapia (Lipídios)?",
+  "verso": "**70 a 100%.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 80
+  },
+  "tags": [
+   "dietoterapia",
+   "numero-chave"
+  ],
+  "ambiguidade": "secao-dietoterapia"
+ },
+ {
+  "id": "F-A2-08",
+  "modulo": "A2",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Lipídios no slide de Dietoterapia (% do VET)",
+  "verso": "**< 30% do VET**, igual para adulto e criança. Padrão mediterrâneo, restrição de saturados e muita fibra.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 80
+  },
+  "tags": [
+   "dietoterapia",
+   "numero-chave"
+  ],
+  "ambiguidade": "secao-dietoterapia"
+ },
+ {
+  "id": "F-A2-09",
+  "modulo": "A2",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "Tríade do manejo nutricional no slide de Dietoterapia",
+  "verso": "**Proteinúria – edema – hiperlipidemia.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 74
+  },
+  "tags": [
+   "dietoterapia"
+  ],
+  "ambiguidade": "secao-dietoterapia"
+ },
+ {
+  "id": "F-A2-10",
+  "modulo": "A2",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Dieta hiperproteica nos slides de Dietoterapia: por que **não**?",
+  "verso": "↑ catabolismo e excreção proteica, **pode acelerar a progressão**, eleva a permeabilidade da membrana basal e leva a mais perda de albumina.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 81
+  },
+  "tags": [
+   "dietoterapia",
+   "proteina"
+  ],
+  "ambiguidade": "secao-dietoterapia"
+ },
+ {
+  "id": "F-A2-11",
+  "modulo": "A2",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "O que a dieta **normoproteica** faz, segundo o slide de Dietoterapia?",
+  "verso": "Mantém o **balanço nitrogenado**, ajuda a **elevar a albumina sérica** e **melhora o edema**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 81
+  },
+  "tags": [
+   "dietoterapia",
+   "proteina"
+  ],
+  "ambiguidade": "secao-dietoterapia"
+ },
+ {
+  "id": "F-A2-12",
+  "modulo": "A2",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Por que sobe o lipídio, segundo o slide de Dietoterapia?",
+  "verso": "↑ síntese hepática de colesterol, TG e lipoproteínas; ↓ catabolismo desses nutrientes; alteração das enzimas lipolíticas hepáticas; e hipoalbuminemia, que leva menos lipídios ao fígado.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 79
+  },
+  "tags": [
+   "dietoterapia"
+  ],
+  "ambiguidade": "secao-dietoterapia"
+ },
+ {
+  "id": "F-A2-13",
+  "modulo": "A2",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Objetivos do manejo nutricional no slide de Dietoterapia",
+  "verso": "Compensar a desnutrição proteica, evitar o catabolismo, diminuir o ritmo de progressão, reduzir a perda urinária de proteína, melhorar a anorexia, ofertar nutrientes adequados e controlar HAS e sódio.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 73
+  },
+  "tags": [
+   "dietoterapia"
+  ],
+  "ambiguidade": "secao-dietoterapia"
+ },
+ {
+  "id": "F-A3-01",
+  "modulo": "A3",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Definição de DRC",
+  "verso": "Anomalias da **estrutura ou função renal** presentes por **mais de 3 meses**, com implicações para a saúde.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 31
+  },
+  "tags": [
+   "drc",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A3-02",
+  "modulo": "A3",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Os dois critérios KDIGO de DRC (basta um, por > 3 meses)",
+  "verso": "**TFG < 60 mL/min/1,73 m²** (G3a–G5) **ou** marcador de lesão renal (ex.: albuminúria ≥ 30 mg/g).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 30
+  },
+  "tags": [
+   "drc",
+   "kdigo"
+  ]
+ },
+ {
+  "id": "F-A3-03",
+  "modulo": "A3",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "G1 e G2 **sem** marcador de lesão renal: é DRC?",
+  "verso": "**Não.** O rodapé do quadro KDIGO diz: na ausência de evidência de lesão renal, nem G1 nem G2 preenchem os critérios de DRC.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 46
+  },
+  "tags": [
+   "drc",
+   "kdigo",
+   "pegadinha"
+  ]
+ },
+ {
+  "id": "F-A3-04",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Faixa de TFG do **G1** e do **G2**",
+  "verso": "**G1: ≥ 90** (normal ou alta) · **G2: 60 a 89** (levemente diminuída).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 46
+  },
+  "tags": [
+   "kdigo",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A3-05",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Faixa de TFG do **G3a**",
+  "verso": "**45 a 59** mL/min/1,73 m² — leve a moderadamente diminuída.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 46
+  },
+  "tags": [
+   "kdigo",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A3-06",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Faixa de TFG do **G3b**",
+  "verso": "**30 a 44** mL/min/1,73 m² — moderada a gravemente diminuída.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 46
+  },
+  "tags": [
+   "kdigo",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A3-07",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Faixa de TFG do **G4** e do **G5**",
+  "verso": "**G4: 15 a 29** (gravemente diminuída) · **G5: < 15** (falência renal). Note: é **< 15**, não ≤ 15.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 46
+  },
+  "tags": [
+   "kdigo",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A3-08",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Faixas de albuminúria A1, A2 e A3 (mg/g)",
+  "verso": "**A1 < 30** (normal a levemente ↑) · **A2 30 a 300** (moderadamente ↑) · **A3 > 300** (gravemente ↑).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 47
+  },
+  "tags": [
+   "kdigo",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A3-09",
+  "modulo": "A3",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "'Microalbuminúria' e 'macroalbuminúria' hoje se chamam como?",
+  "verso": "Micro = **moderadamente aumentada (A2)** · macro = **gravemente aumentada (A3)**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 47
+  },
+  "tags": [
+   "kdigo",
+   "pegadinha"
+  ]
+ },
+ {
+  "id": "F-A3-10",
+  "modulo": "A3",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "As cores do quadro de prognóstico KDIGO",
+  "verso": "**Verde** = baixo risco (sem outro marcador, não é DRC) · **amarelo** = moderadamente aumentado · **laranja** = alto · **vermelho** = muito alto. Piora com ↓ TFG **e** ↑ albuminúria.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 47
+  },
+  "tags": [
+   "kdigo"
+  ]
+ },
+ {
+  "id": "F-A3-11",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "TFG normal de um adulto jovem",
+  "verso": "Cerca de **125 mL/min/1,73 m²**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 30
+  },
+  "tags": [
+   "kdigo"
+  ]
+ },
+ {
+  "id": "F-A3-12",
+  "modulo": "A3",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "Principais etiologias da DRC",
+  "verso": "**Diabetes mellitus, hipertensão arterial e glomerulonefrites** — são as três caixas da coluna 'Principais'.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 33
+  },
+  "tags": [
+   "drc"
+  ]
+ },
+ {
+  "id": "F-A3-13",
+  "modulo": "A3",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Fatores de risco para DRC",
+  "verso": "DM, HAS, obesidade, idade, doença cardiovascular, histórico familiar e tabagismo.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 34
+  },
+  "tags": [
+   "drc"
+  ]
+ },
+ {
+  "id": "F-A3-14",
+  "modulo": "A3",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "O que o paciente com DRC acumula e para onde isso leva",
+  "verso": "Inflamação crônica, calcificação e aterosclerose, resistência à insulina, anemia, alterações do metabolismo proteico e disbiose intestinal → **inflamação → mortalidade**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 42
+  },
+  "tags": [
+   "drc",
+   "mecanismo"
+  ]
+ },
+ {
+  "id": "F-A3-15",
+  "modulo": "A3",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Síndrome urêmica: o que ela afeta",
+  "verso": "Trato gastrointestinal, sistema musculoesquelético, alterações endócrinas e metabólicas, pele, nervos periféricos e sistema nervoso central.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 53
+  },
+  "tags": [
+   "drc"
+  ]
+ },
+ {
+  "id": "F-A3-16",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Fórmula de **Cockcroft-Gault**",
+  "verso": "**(140 − idade) × peso ÷ (72 × creatinina sérica)**, em mL/min. **× 0,85 se mulher.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 50
+  },
+  "tags": [
+   "calculo",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A3-17",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Fórmula do **MDRD** e o fator do sexo feminino",
+  "verso": "186 × creatinina^−1,154 × idade^−0,203 × **0,742 se mulher**, em mL/min/1,73 m².",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 50
+  },
+  "tags": [
+   "calculo"
+  ]
+ },
+ {
+  "id": "F-A3-18",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Depuração de creatinina **medida** (não estimada)",
+  "verso": "**ClCr = (creatinina urinária × volume urinário) ÷ creatinina sérica.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 49
+  },
+  "tags": [
+   "calculo"
+  ]
+ },
+ {
+  "id": "F-A3-19",
+  "modulo": "A3",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "As três pernas do diagnóstico de DRC",
+  "verso": "**Exame urinário, exame de imagem e taxa de filtração glomerular.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 48
+  },
+  "tags": [
+   "drc"
+  ]
+ },
+ {
+  "id": "F-A3-20",
+  "modulo": "A3",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "As duas fases de tratamento da DRC",
+  "verso": "**Não dialítica (conservadora)** e **dialítica / terapia renal substitutiva** — hemodiálise, diálise peritoneal ou transplante renal.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 48
+  },
+  "tags": [
+   "drc"
+  ]
+ },
+ {
+  "id": "F-A3-21",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Meta de pressão arterial na DRC",
+  "verso": "**≤ 130/80** para diabéticos com nefropatia e não diabéticos **com** proteinúria; **< 140/90** sem proteinúria.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 43
+  },
+  "tags": [
+   "metas"
+  ]
+ },
+ {
+  "id": "F-A3-22",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Metas de LDL, HbA1c, Hb e vitamina D na DRC",
+  "verso": "**LDL < 70 a 100 mg/dL** (ou −50% do inicial) · **HbA1c 6,5 a 7,5%** · **Hb 10 a 11** · **25(OH)D ≥ 30 ng/mL**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 45
+  },
+  "tags": [
+   "metas"
+  ]
+ },
+ {
+  "id": "F-A3-23",
+  "modulo": "A3",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Metas de estilo de vida na DRC",
+  "verso": "Sódio **< 1,5 g/dia** (preferencialmente); exercício aeróbico moderado **30 a 60 min, 4 a 7 dias por semana**; **IMC 18,5 a 25 kg/m²**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 43
+  },
+  "tags": [
+   "metas"
+  ]
+ },
+ {
+  "id": "F-A4-01",
+  "modulo": "A4",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Os dois aspectos nutricionais da DRC",
+  "verso": "**DEP** (prevalente, ↑ morbimortalidade, ligada à inflamação) e **sobrepeso/obesidade** (↑ prevalência, associação com DCV, mas com **caráter protetor** descrito no slide).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 54
+  },
+  "tags": [
+   "avaliacao"
+  ]
+ },
+ {
+  "id": "F-A4-02",
+  "modulo": "A4",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Recomendação 1 do consenso: qual instrumento de triagem e com que frequência?",
+  "verso": "**MST**, aplicado **pelo menos mensalmente**. Evidência **A**, força **1**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 58
+  },
+  "tags": [
+   "avaliacao",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A4-03",
+  "modulo": "A4",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Recomendação 6: qual instrumento de **diagnóstico** de DEP na DRC?",
+  "verso": "**ASG (SGA)** — o mais bem validado (evidência A). A **MCC** também pode ser recomendada (evidência B).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 69
+  },
+  "tags": [
+   "avaliacao",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A4-04",
+  "modulo": "A4",
+  "tipo": "criterio",
+  "prioridade": "I",
+  "frente": "Recomendação 5: os quatro grupos de definição da DEP",
+  "verso": "(1) doença crônica com inflamação continuada; (2) doença crônica com inflamação mínima ou não percebida; (3) doença ou injúria aguda com inflamação grave; (4) baixa ingestão crônica pura, não relacionada à doença. Evidência B, força 1.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 55
+  },
+  "tags": [
+   "avaliacao"
+  ]
+ },
+ {
+  "id": "F-A4-05",
+  "modulo": "A4",
+  "tipo": "criterio",
+  "prioridade": "C",
+  "frente": "Recomendação 2 do consenso",
+  "verso": "Padronizar o **Processo de Cuidado em Nutrição (PCN)** e sua terminologia (TPCN). Evidência B, força 1.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 70
+  },
+  "tags": [
+   "avaliacao"
+  ]
+ },
+ {
+  "id": "F-A4-06",
+  "modulo": "A4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "MST — pergunta 1: perda recente e não intencional de peso",
+  "verso": "**Não = 0** · **Não sabe = 2.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 59
+  },
+  "tags": [
+   "mst",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A4-07",
+  "modulo": "A4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "MST — pergunta 2: de quanto foi a perda (kg)?",
+  "verso": "**1–5 = 1** · **6–10 = 2** · **11–15 = 3** · **> 15 = 4** · **não sabe = 2.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 59
+  },
+  "tags": [
+   "mst",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A4-08",
+  "modulo": "A4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "MST — pergunta 3 e ponto de corte",
+  "verso": "Come mal por ↓ apetite: **não = 0, sim = 1**. **Interpretação: ≥ 2 = risco de desnutrição.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 59
+  },
+  "tags": [
+   "mst",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A4-09",
+  "modulo": "A4",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Escores da **ASG adaptada ao renal**",
+  "verso": "Até **8** = adequado · **9–23** = risco ou desnutrição leve · **24–31** = moderada · **32–39** = grave · **acima de 40** = gravíssima.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 57
+  },
+  "tags": [
+   "asg",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A4-10",
+  "modulo": "A4",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Fórmula do **PNA**",
+  "verso": "**PNA = (NUU + 0,031 × peso corporal) × 6,25.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 62
+  },
+  "tags": [
+   "calculo",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A4-11",
+  "modulo": "A4",
+  "tipo": "criterio",
+  "prioridade": "I",
+  "frente": "Limitações do PNA",
+  "verso": "Depende do **balanço nitrogenado**; o PNA de **1 dia** pode não ser o habitual; e **subestima ingestões muito altas**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 62
+  },
+  "tags": [
+   "calculo",
+   "pegadinha"
+  ]
+ },
+ {
+  "id": "F-A4-12",
+  "modulo": "A4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Valores laboratoriais **desejáveis** na avaliação nutricional da DRC",
+  "verso": "Albumina **> 4 g/dL** · transferrina **250 a 450 mg/dL** · linfócitos totais **1.500 a 4.000/mm³**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 63
+  },
+  "tags": [
+   "avaliacao",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A4-13",
+  "modulo": "A4",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Exame físico: onde se avalia **massa muscular**?",
+  "verso": "**Têmporas, clavícula, ombros, escápula** e o **músculo adutor do polegar**. O slide 57 cita ainda costelas, quadríceps, joelho e interósseo — mas no slide 64 quadríceps e joelho aparecem sob **gordura subcutânea**, não sob músculo.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 64
+  },
+  "tags": [
+   "avaliacao"
+  ]
+ },
+ {
+  "id": "F-A4-14",
+  "modulo": "A4",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Exame físico: onde se avalia **gordura subcutânea** e **edema/ascite**?",
+  "verso": "**Gordura:** face, tríceps, bíceps, joelho e quadríceps. **Edema/ascite:** tornozelo, sacro e abdômen.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 64
+  },
+  "tags": [
+   "avaliacao"
+  ]
+ },
+ {
+  "id": "F-A4-15",
+  "modulo": "A4",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Antropometria na DRC: que peso usar?",
+  "verso": "O **peso seco**. Avalia-se IMC, % de perda de peso, dobras cutâneas, CB e AMB, circunferência abdominal e bioimpedância.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 61
+  },
+  "tags": [
+   "avaliacao"
+  ]
+ },
+ {
+  "id": "F-A4-16",
+  "modulo": "A4",
+  "tipo": "definicao",
+  "prioridade": "C",
+  "frente": "Métodos de avaliação do consumo alimentar na DRC",
+  "verso": "Recordatório de **24 h**, registro alimentar de **3 a 7 dias** e questionário de frequência de consumo alimentar.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 61
+  },
+  "tags": [
+   "avaliacao"
+  ]
+ },
+ {
+  "id": "F-A5-01",
+  "modulo": "A5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "Objetivos da terapia nutricional no conservador",
+  "verso": "Controlar distúrbios metabólicos e sintomas urêmicos, **retardar a progressão**, prevenir **hiperparatireoidismo secundário** e DEP, manter o estado nutricional e **evitar ou adiar a diálise**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 75
+  },
+  "tags": [
+   "conservador"
+  ]
+ },
+ {
+  "id": "F-A5-02",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Energia no tratamento conservador",
+  "verso": "**25 a 35 kcal/kg/dia** (metabolicamente estáveis, DRC 1–5D e pós-transplante).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 76
+  },
+  "tags": [
+   "conservador",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-03",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Carboidratos no tratamento conservador",
+  "verso": "**50 a 65% do VET.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 76
+  },
+  "tags": [
+   "conservador",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-04",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Lipídios no conservador pela tabela KDOQI",
+  "verso": "**25 a 50% do VET** · saturados **< 7%** · mono **até 20%** · poli **10%** · colesterol **< 200 mg/dia**. ⚠ Outro slide (KDIGO) traz **< 30% VET** — veja a diretriz citada.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 76
+  },
+  "tags": [
+   "conservador"
+  ],
+  "ambiguidade": "lipidios-conservador"
+ },
+ {
+  "id": "F-A5-05",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Proteína na DRC 3–5 **sem** diabetes, metabolicamente estável",
+  "verso": "**0,55 a 0,60 g/kg/dia**, ou muito hipoproteica de **0,28 a 0,43 g/kg/dia + cetoácidos/análogos** (para chegar ao equivalente de 0,55–0,60).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 83
+  },
+  "tags": [
+   "proteina",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-06",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Proteína na DRC 3–5 **com** diabetes",
+  "verso": "**0,6 a 0,8 g/kg/dia**, sob supervisão clínica próxima.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 84
+  },
+  "tags": [
+   "proteina",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-07",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Proteína em hemodiálise e diálise peritoneal pelo slide do BRASPEN",
+  "verso": "**1,0 a 1,2 g/kg/dia**, com ou sem diabetes.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 82
+  },
+  "tags": [
+   "proteina",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-08",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "O que o **KDIGO 2024** recomenda de proteína em G3–G5?",
+  "verso": "**0,8 g/kg/dia** (2C); **evitar > 1,3 g/kg/dia** em quem tem risco de progressão. ⚠ Diferente dos 0,55–0,60 do KDOQI.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 86
+  },
+  "tags": [
+   "proteina",
+   "numero-chave"
+  ],
+  "ambiguidade": "proteina-drc"
+ },
+ {
+  "id": "F-A5-09",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "O que torna o paciente **metabolicamente instável**?",
+  "verso": "Inflamação ativa, infecção ativa, **hospitalização há menos de 2 semanas**, DM mal controlado, doenças consumptivas (câncer), perda de peso significativa recente, **antibióticos** e **imunossupressores**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 85
+  },
+  "tags": [
+   "proteina",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-10",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Restrição proteica em metabolicamente instável: pode?",
+  "verso": "**Não.** O KDIGO 2024 é explícito: não prescrever dieta hipoproteica nem muito hipoproteica em pessoas metabolicamente instáveis.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 86
+  },
+  "tags": [
+   "proteina",
+   "pegadinha"
+  ]
+ },
+ {
+  "id": "F-A5-11",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Restrição proteica **opção 01**: dose e estágios",
+  "verso": "Dieta hipoproteica convencional de **0,6 g/kg/dia**, para os estágios **3, 4 ou 5**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 97
+  },
+  "tags": [
+   "proteina",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-12",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Restrição proteica **opção 02**: dose e estágios",
+  "verso": "**0,3 a 0,4 g/kg/dia com cetoanálogos**, só nos estágios **4 ou 5**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 99
+  },
+  "tags": [
+   "proteina",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-13",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "I",
+  "frente": "Pré-requisitos comuns às opções 01 e 02 de restrição proteica",
+  "verso": "**Sem diabetes**, **metabolicamente estável** e **sem desnutrição ou risco de desnutrição**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 97
+  },
+  "tags": [
+   "proteina"
+  ]
+ },
+ {
+  "id": "F-A5-14",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "I",
+  "frente": "O que a opção 02 pergunta **além** dos pré-requisitos comuns?",
+  "verso": "É **idoso que pode se beneficiar de conservador otimizado**? **Precisa ganhar tempo** para a terapia renal substitutiva? **Há disponibilidade** do suplemento com cetoanálogos?",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 99
+  },
+  "tags": [
+   "proteina"
+  ]
+ },
+ {
+  "id": "F-A5-15",
+  "modulo": "A5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "Como os cetoácidos viram aminoácidos?",
+  "verso": "Por **transaminação hepática**: o nitrogênio disponível é incorporado à cadeia carbônica, formando o **aminoácido essencial correspondente**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 94
+  },
+  "tags": [
+   "cetoacidos",
+   "mecanismo"
+  ]
+ },
+ {
+  "id": "F-A5-16",
+  "modulo": "A5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "As duas vantagens dos cetoácidos",
+  "verso": "**(A)** suprem as necessidades de aminoácidos essenciais; **(B)** **diminuem a disponibilidade de nitrogênio** e assim reduzem a formação de compostos tóxicos.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 94
+  },
+  "tags": [
+   "cetoacidos",
+   "pegadinha"
+  ]
+ },
+ {
+  "id": "F-A5-17",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Dose dos cetoanálogos",
+  "verso": "**1 comprimido para cada 5 kg de peso, por dia.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 95
+  },
+  "tags": [
+   "cetoacidos",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-18",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Potássio e sódio no tratamento conservador",
+  "verso": "**Potássio 50 a 75 mEq** · **sódio até 2.000 mg** (KDIGO 2024: < 2 g de Na, < 90 mmol ou < 5 g de NaCl).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 104
+  },
+  "tags": [
+   "minerais",
+   "numero-chave"
+  ],
+  "ambiguidade": "sodio-drc"
+ },
+ {
+  "id": "F-A5-19",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Cálcio e fósforo no tratamento conservador",
+  "verso": "**Cálcio 1.400 a 1.600 mg** · **fósforo 750 mg**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 104
+  },
+  "tags": [
+   "minerais",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-20",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Ferro, zinco e selênio no conservador",
+  "verso": "**Ferro** 8 mg (H) e 15 mg (M) · **zinco** 10 a 15 mg (H) e 8 a 12 mg (M) · **selênio** 55 mcg.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 104
+  },
+  "tags": [
+   "minerais"
+  ]
+ },
+ {
+  "id": "F-A5-21",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Quais vitaminas **não** se suplementa no conservador?",
+  "verso": "**A e K** (dieta por via oral).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 105
+  },
+  "tags": [
+   "vitaminas",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-22",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Vitamina E, tiamina e piridoxina no conservador",
+  "verso": "**E: 400 a 800 UI** · **tiamina: 1,1 a 1,2 mg** · **piridoxina: 5 mg**. (A vitamina D vai conforme a deficiência.)",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 105
+  },
+  "tags": [
+   "vitaminas"
+  ]
+ },
+ {
+  "id": "F-A5-23",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Vitamina C, ácido fólico e B12 no conservador",
+  "verso": "**C: 75 a 90 mg** · **ácido fólico: 1 mg** · **B12: 2,4 mcg**. (Niacina 14–16 mg, biotina 30 mcg, ácido pantotênico 5 mg.)",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 106
+  },
+  "tags": [
+   "vitaminas"
+  ]
+ },
+ {
+  "id": "F-A5-24",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Manejo do potássio no conservador",
+  "verso": "Com **TFG < 15 mL/min** o potássio sérico sobe. Usar **remolho e cocção** e restringir alimentos ricos em K.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 108
+  },
+  "tags": [
+   "minerais",
+   "numero-chave"
+  ]
+ },
+ {
+  "id": "F-A5-25",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Por que excluir o **sal light** na DRC?",
+  "verso": "Porque é **rico em potássio**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 108
+  },
+  "tags": [
+   "minerais",
+   "pegadinha"
+  ]
+ },
+ {
+  "id": "F-A5-26",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "E",
+  "frente": "Carambola na DRC",
+  "verso": "Contém uma neurotoxina, a **'carambotoxina'** → **restrição severa**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 107
+  },
+  "tags": [
+   "minerais",
+   "pegadinha"
+  ]
+ },
+ {
+  "id": "F-A5-27",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "I",
+  "frente": "Manejo de ferro, cálcio e fósforo no conservador",
+  "verso": "**Ferro:** suplementar (dieta restrita em proteína) + **eritropoetina recombinante humana**. **Ca e P:** individualizado conforme o avanço; **calcitriol** para doença óssea.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 109
+  },
+  "tags": [
+   "minerais"
+  ]
+ },
+ {
+  "id": "F-A5-28",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Proteína (g) de carne, frango e peixe — 100 g",
+  "verso": "Carne bovina **23** · frango **22** · peixe **19**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 90
+  },
+  "tags": [
+   "avb"
+  ]
+ },
+ {
+  "id": "F-A5-29",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Proteína (g) de leite, iogurte, queijo e ovo",
+  "verso": "Leite 200 g **7,0** · iogurte 200 g **7,0** · queijo 30 g **7,0** · ovo 50 g **6,4**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 90
+  },
+  "tags": [
+   "avb"
+  ]
+ },
+ {
+  "id": "F-A5-30",
+  "modulo": "A5",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Proteína (g) de feijão, arroz, pão e macarrão",
+  "verso": "Feijão 120 g **9,4** · pão 50 g **5,0** · macarrão 125 g **4,0** · arroz 100 g **2,0** (batata 110 g também 2,0).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 91
+  },
+  "tags": [
+   "bvb"
+  ]
+ },
+ {
+  "id": "F-A5-31",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "C",
+  "frente": "O que a revisão pragmática (Piccoli) contraindica na dieta hipoproteica?",
+  "verso": "**Desnutrição**, expectativa de vida muito curta, **neoplasia metastática**, síndrome MIA grave e **não adesão**. LPD 0,6 g/kg em estágios 4–5 ou 3 progressivo; vLPD 0,3 g/kg em estágio 5 ou 4 em piora rápida.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 102
+  },
+  "tags": [
+   "proteina"
+  ]
+ },
+ {
+  "id": "F-A5-32",
+  "modulo": "A5",
+  "tipo": "criterio",
+  "prioridade": "C",
+  "frente": "O que o KDIGO 2024 diz sobre dietas à base de plantas na DRC?",
+  "verso": "Associadas a **menor progressão e menor mortalidade**. A Tabela 21 reúne **6 estudos observacionais e 1 ensaio clínico randomizado** (CORDIOPREV).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 88
+  },
+  "tags": [
+   "proteina"
+  ]
+ },
+ {
+  "id": "F-A6-01",
+  "modulo": "A6",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "O que é **diálise**, pela definição do slide?",
+  "verso": "Terapêutica empregada para **remoção de solutos urêmicos e do excesso de água**, com **restabelecimento do equilíbrio eletrolítico e ácido-básico**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 114
+  },
+  "tags": [
+   "hemodialise"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-02",
+  "modulo": "A6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Kt/V de ureia** — valores de referência",
+  "verso": "**HD = 1,2 por sessão** · **CAPD = 2,0 semanalmente**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 115
+  },
+  "tags": [
+   "hemodialise",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-03",
+  "modulo": "A6",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Frequência e duração da **hemodiálise**",
+  "verso": "Acesso vascular, **3×/semana**, **3 a 4 horas** por sessão.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 119
+  },
+  "tags": [
+   "hemodialise"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-04",
+  "modulo": "A6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Principal alteração nutricional na HD e sua prevalência",
+  "verso": "**Desnutrição**, em **18 a 70%** dos pacientes — é **fator preditor de morbimortalidade**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 120
+  },
+  "tags": [
+   "hemodialise"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-05",
+  "modulo": "A6",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "Os **quatro grupos de causas** da desnutrição na HD",
+  "verso": "**Ingestão alimentar insuficiente** · **disfunções gastrintestinais** · **hipercatabolismo** · **alterações hormonais**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 121
+  },
+  "tags": [
+   "hemodialise"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-06",
+  "modulo": "A6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Albumina no diagnóstico de desnutrição: **NKF × ISRNM**",
+  "verso": "**NKF-KDOQI 2000: < 3,5 g/dL** · **ISRNM (J Bras Nefrol 2011): < 3,8 g/dL**. Em ambos, **basta 1 item**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 124
+  },
+  "tags": [
+   "hemodialise",
+   "numeros"
+  ],
+  "ambiguidade": "prealbumina-hd"
+ },
+ {
+  "id": "F-A6-07",
+  "modulo": "A6",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Critérios de **peso e massa muscular** do NKF para desnutrição na HD",
+  "verso": "IMC **< 23 kg/m²**; perda de peso não intencional **> 5% em 3 meses**; gordura corporal **< 10%**; perda de massa muscular **> 5% em 3 meses**; **% CMB < 90%**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 124
+  },
+  "tags": [
+   "hemodialise",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-08",
+  "modulo": "A6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Proteína e energia** na hemodiálise (KDOQI 2020)",
+  "verso": "**Proteína 1,0 a 1,2 g/kg/dia** · **energia 25 a 35 kcal/kg/dia**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 128
+  },
+  "tags": [
+   "hemodialise",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-09",
+  "modulo": "A6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Minerais** na hemodiálise",
+  "verso": "Potássio **50 a 70 mEq** · sódio **até 2.300 mg** · cálcio **1.000 mg** · fósforo **700 mg** + quelantes · ferro **8 mg (H) e 15 mg (M)** · magnésio **200 a 300 mg**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 129
+  },
+  "tags": [
+   "hemodialise",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-10",
+  "modulo": "A6",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Quelantes de fósforo** citados no slide",
+  "verso": "**Hidróxido de alumínio · carbonato de cálcio · acetato de cálcio · cloridrato de sevelamer.** Agem reduzindo a absorção de fósforo.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 131
+  },
+  "tags": [
+   "hemodialise"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-11",
+  "modulo": "A6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Prescrição de líquidos** na HD",
+  "verso": "**Com diurese: 500 mL + o volume da diurese.** **Anúrico: no máximo 1.000 mL.** Ganho de peso interdialítico aceitável: **3 a 5% do peso corporal**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 132
+  },
+  "tags": [
+   "hemodialise",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-12",
+  "modulo": "A6",
+  "tipo": "conduta",
+  "prioridade": "I",
+  "frente": "Quando indicar **suplementação** na HD, e como orientar",
+  "verso": "Indicações: ingestão reduzida, hipercatabolismo, **IMC < 20 kg/m² ou redução > 10% do peso seco**. Orientação: fracionar em **3 a 5×/dia**, **após as refeições**, podendo misturar com frutas ou gelatina.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 133
+  },
+  "tags": [
+   "hemodialise"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A6-13",
+  "modulo": "A6",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "**Vitaminas** na hemodiálise",
+  "verso": "Ácido pantotênico 5 mg · ácido fólico **1 a 5 mg** · ácido ascórbico 75 a 90 mg · tiamina 1,1 a 1,2 mg · **piridoxina 10 mg** · B12 2,4 mcg.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 130
+  },
+  "tags": [
+   "hemodialise",
+   "numeros"
+  ],
+  "ambiguidade": "riboflavina"
+ },
+ {
+  "id": "F-A8-01",
+  "modulo": "A8",
+  "tipo": "comparacao",
+  "prioridade": "I",
+  "frente": "**Desnutrição × obesidade** no pré-transplante renal",
+  "verso": "**Desnutrição:** ↑ morbidade e mortalidade pós-cirúrgica. **Obesidade:** ↑ risco operatório, tempo de hospitalização e dificuldade de cicatrização.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 143
+  },
+  "tags": [
+   "transplante-renal"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A8-02",
+  "modulo": "A8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Quando termina o **pós-transplante renal imediato**?",
+  "verso": "**Até 6 semanas** após o transplante. Depois disso, é pós-TR tardio.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 146
+  },
+  "tags": [
+   "transplante-renal"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A8-03",
+  "modulo": "A8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Energia e proteína** no pós-TR **imediato** / rejeição aguda",
+  "verso": "**30 a 35 kcal/kg/dia** e **1,3 a 1,5 g/kg/dia**, ambos sobre **peso atual**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 148
+  },
+  "tags": [
+   "transplante-renal",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A8-04",
+  "modulo": "A8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Energia e proteína** no pós-TR **tardio**",
+  "verso": "**25 a 35 kcal/kg/dia** e **0,55 a 0,60 g/kg/dia**, sobre **peso atual**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 150
+  },
+  "tags": [
+   "transplante-renal",
+   "numeros"
+  ],
+  "ambiguidade": "proteina-tx-renal"
+ },
+ {
+  "id": "F-A8-05",
+  "modulo": "A8",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "O que caracteriza o **pós-TR imediato**",
+  "verso": "Efeitos metabólicos, **estresse da cirurgia**, **altas doses de imunossupressores**, **catabolismo proteico intenso**, tratamento da rejeição aguda e corticosteroides → **cicatrização lenta e maior risco de infecção**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 147
+  },
+  "tags": [
+   "transplante-renal"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A8-06",
+  "modulo": "A8",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "Alterações do **pós-TR tardio** pelos imunossupressores",
+  "verso": "Hipercatabolismo proteico, **obesidade**, hipertensão arterial, **dislipidemia**, hipercalemia, **intolerância à glicose** e alterações de vitamina D.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 149
+  },
+  "tags": [
+   "transplante-renal"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A8-07",
+  "modulo": "A8",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "**Fósforo e potássio** nas tabelas do transplante renal",
+  "verso": "Fósforo **1.200 a 1.500 mg**, caindo para **800 mg na rejeição crônica**. Potássio pelas **DRIs**, ou **1 a 3 g em hiperpotassemia e/ou oligúria**. Sódio **1 a 3 g**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 148
+  },
+  "tags": [
+   "transplante-renal",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A8-08",
+  "modulo": "A8",
+  "tipo": "estudo",
+  "prioridade": "C",
+  "frente": "Estudo de proteína no **pós-TR tardio** (Kidney International, 2010)",
+  "verso": "Comparou **50 g/dia × 140 g/dia** de proteína: a dieta **hiperproteica elevou a TFG**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 154
+  },
+  "tags": [
+   "transplante-renal"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A10-01",
+  "modulo": "A10",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "Definição de **insuficiência renal aguda**",
+  "verso": "Rápida deterioração da função renal no decorrer de **horas a vários dias**, com **acúmulo de resíduos nitrogenados**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 173
+  },
+  "tags": [
+   "ira"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A10-02",
+  "modulo": "A10",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Critérios que **caracterizam** a IRA",
+  "verso": "Creatinina sérica **> 50% ou 0,5 mg/dL acima do basal** · **necessidade de diálise** · **necrose tubular aguda**, mesmo sem diagnóstico patológico.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 173
+  },
+  "tags": [
+   "ira",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A10-03",
+  "modulo": "A10",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**1º e 2º marcadores** da IRA",
+  "verso": "**1º: acúmulo de resíduos nitrogenados.** **2º: oligoanúria**, presente em **50 a 70% dos casos**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 174
+  },
+  "tags": [
+   "ira",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A10-04",
+  "modulo": "A10",
+  "tipo": "conduta",
+  "prioridade": "I",
+  "frente": "Quando a **depuração da creatinina** pode ser usada na IRA?",
+  "verso": "**Somente quando a creatinina sérica estiver estável.** Na fase aguda, com creatinina em ascensão, o cálculo não representa a função real.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 176
+  },
+  "tags": [
+   "ira"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A10-05",
+  "modulo": "A10",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Complicações hematológicas** da IRA",
+  "verso": "**Anemia normocítica e normocrômica** e **disfunção plaquetária**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 177
+  },
+  "tags": [
+   "ira"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A10-06",
+  "modulo": "A10",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Fórmula da **UNA** e o fator de conversão",
+  "verso": "**UNA (g/dia) = N urinário + N do dialisato + variação do N do corpo.** **N = ureia × 0,467.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 178
+  },
+  "tags": [
+   "ira",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A10-07",
+  "modulo": "A10",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Os **três grupos de UNA**",
+  "verso": "**Grupo 1 (não catabólico): < 5 g/dia** — nefrotoxinas. **Grupo 2 (moderado): 5 a 10 g/dia** — infecção, peritonite. **Grupo 3 (trauma severo, queimados, sepse): > 10 g/dia** — NP, diálise contínua.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 179
+  },
+  "tags": [
+   "ira",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A10-08",
+  "modulo": "A10",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Energia e macronutrientes** na IRA",
+  "verso": "**30 a 45 kcal/kg/dia** ou **Harris-Benedict**. **Carboidratos 60 a 70% do VET** · **lipídios 30% do VET**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 180
+  },
+  "tags": [
+   "ira",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A10-09",
+  "modulo": "A10",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Proteína na IRA** conforme a terapia de reposição renal",
+  "verso": "**Hipercatabólico sem TRR: 1,3 a 1,5 g/kg/dia.** **TRR intermitente: cerca de 1,5.** **TRR contínua: 1,7 a 2,5 g/kg/dia.**",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 181
+  },
+  "tags": [
+   "ira",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A10-10",
+  "modulo": "A10",
+  "tipo": "lista",
+  "prioridade": "C",
+  "frente": "**Complicações nutricionais** da IRA",
+  "verso": "Estado nutricional prévio, doença de base, falência de outros órgãos, complicações da própria IRA, **desnutrição, anorexia e perda de nutrientes em líquidos**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 177
+  },
+  "tags": [
+   "ira"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A7-01",
+  "modulo": "A7",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "Objetivos do protocolo de Nutrição na **diálise peritoneal**",
+  "verso": "**Prevenir a desnutrição calórico-proteica** · **alcançar e manter estado nutricional adequado** · **prevenir obesidade e hiperlipidemia** · **incentivar atividade física**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 137
+  },
+  "tags": [
+   "dp"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A7-02",
+  "modulo": "A7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Energia e carboidratos** na diálise peritoneal",
+  "verso": "Energia **25 a 35 kcal/kg/dia, incluindo a glicose do dialisato**. Carboidratos **35% do VET por via oral**, também considerando o dialisato.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 138
+  },
+  "tags": [
+   "dp",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A7-03",
+  "modulo": "A7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Proteína** na diálise peritoneal",
+  "verso": "**1,20 a 1,30 g/kg/dia.** Em **repleção e peritonite: 1,40 a 1,50 g/kg/dia** (KDOQI 2020).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 139
+  },
+  "tags": [
+   "dp",
+   "numeros"
+  ],
+  "ambiguidade": "proteina-dp"
+ },
+ {
+  "id": "F-A7-04",
+  "modulo": "A7",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "Escada da **proteína** nas modalidades de tratamento da DRC",
+  "verso": "Conservador **0,55–0,60** < hemodiálise **1,0–1,2** < diálise peritoneal **1,20–1,30** < DP com peritonite **1,40–1,50**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 139
+  },
+  "tags": [
+   "dp",
+   "numeros"
+  ],
+  "ambiguidade": "proteina-dp"
+ },
+ {
+  "id": "F-A7-05",
+  "modulo": "A7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Minerais** na diálise peritoneal",
+  "verso": "Potássio **até 76 mEq** · sódio **até 2.300 mg** · cálcio **1.000 a 1.500 mg** · fósforo **1.000 a 1.200 mg** · fibras **20 a 25 g**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 140
+  },
+  "tags": [
+   "dp",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A7-06",
+  "modulo": "A7",
+  "tipo": "conduta",
+  "prioridade": "E",
+  "frente": "**Líquidos** na diálise peritoneal",
+  "verso": "**Restrição apenas na presença de pressão arterial elevada e edema** — não há prescrição fixa como na HD.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 140
+  },
+  "tags": [
+   "dp"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A7-07",
+  "modulo": "A7",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Lipídios** na diálise peritoneal",
+  "verso": "**25 a 35% do VET** — saturados < 7%, monoinsaturados até 20%, poli-insaturados 10%, colesterol < 200 mg/dia. (Na HD são 30 a 35%.)",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 138
+  },
+  "tags": [
+   "dp",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-01",
+  "modulo": "A9",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Prevalência** da nefrolitíase",
+  "verso": "**10 a 12% da população** · **homens jovens de 20 a 40 anos** · raça branca · história familiar em **40 a 60% dos parentes de 1º grau** · patologia **recorrente**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 157
+  },
+  "tags": [
+   "litiase",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-02",
+  "modulo": "A9",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Principal condição** para a formação do cálculo renal",
+  "verso": "**Supersaturação urinária** com componentes insolúveis ou pouco solúveis.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 157
+  },
+  "tags": [
+   "litiase"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-03",
+  "modulo": "A9",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Eliminação do cálculo **pelo tamanho**",
+  "verso": "**< 5 mm:** eliminados espontaneamente. **5 a 7 mm:** eliminados em cerca de **50%** dos casos. **> 7 mm:** **raramente** eliminados.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 160
+  },
+  "tags": [
+   "litiase",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-04",
+  "modulo": "A9",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "Etiologia da nefrolitíase",
+  "verso": "**Multifatorial:** infecções do trato urinário · distúrbios metabólicos · causas idiopáticas · anormalidades anatômicas · **hábito alimentar**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 158
+  },
+  "tags": [
+   "litiase"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-05",
+  "modulo": "A9",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Objetivos da terapia nutricional** na nefrolitíase",
+  "verso": "Dieta individualizada · **ingestões balanceadas de cálcio e oxalato** · adequar proteína animal · **evitar purinas, sódio e a restrição de cálcio** · potássio adequado · **aumentar líquidos**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 166
+  },
+  "tags": [
+   "litiase"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-06",
+  "modulo": "A9",
+  "tipo": "conduta",
+  "prioridade": "E",
+  "frente": "**Hiperoxalúria** — conduta nutricional",
+  "verso": "Restringir alimentos com alto teor de **oxalatos** **e restrição de vitamina C**. É a única causa em que a vitamina C é restringida.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 167
+  },
+  "tags": [
+   "litiase"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-07",
+  "modulo": "A9",
+  "tipo": "conduta",
+  "prioridade": "E",
+  "frente": "**Hiperuricosúria e hiperuricemia** — conduta nutricional",
+  "verso": "Restringir alimentos ricos em **purinas**. Na hiperuricosúria, também **evitar ingestão excessiva de bebidas alcoólicas** (contêm purinas).",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 167
+  },
+  "tags": [
+   "litiase"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-08",
+  "modulo": "A9",
+  "tipo": "conduta",
+  "prioridade": "I",
+  "frente": "**Hipercalciúria absortiva tipo II** — conduta nutricional",
+  "verso": "**Controle do cálcio alimentar** e controle da ingestão de **oxalatos**. É a única situação em que o slide manda controlar o cálcio da dieta.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 167
+  },
+  "tags": [
+   "litiase"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-09",
+  "modulo": "A9",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "Alimentos ricos em **purinas**: evitar × moderar",
+  "verso": "**Evitar:** anchova, sardinha, fígado de galinha. **Moderar:** espinafre, couve-flor, aspargo, peixes e frutos do mar, cogumelos, tofu.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 168
+  },
+  "tags": [
+   "litiase"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-10",
+  "modulo": "A9",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "Alimentos ricos em **oxalatos**",
+  "verso": "Oleaginosas, café e chá, frutas vermelhas, beterraba e chocolate.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 170
+  },
+  "tags": [
+   "litiase"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-A9-11",
+  "modulo": "A9",
+  "tipo": "conduta",
+  "prioridade": "I",
+  "frente": "**Crise aguda × crise recorrente** na nefrolitíase",
+  "verso": "**Crise aguda (cólica renal):** analgesia e hidratação. **Crise recorrente:** manejo médico e cirúrgico **+ intervenções dietoterápicas**.",
+  "fonte": {
+   "arquivo": "Aula_NEFRO",
+   "pagina": 161
+  },
+  "tags": [
+   "litiase"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B1-01",
+  "modulo": "B1",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Suprimento sanguíneo** do fígado",
+  "verso": "**70 a 80% pela veia porta** (nutrientes, fármacos, toxinas, antígenos bacterianos do TGI, pâncreas e baço) · **20 a 30% pela artéria hepática** (rico em O₂). Drena para as **veias hepáticas** e destas para a **veia cava**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 7
+  },
+  "tags": [
+   "figado"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B1-02",
+  "modulo": "B1",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Dados gerais do fígado",
+  "verso": "Maior órgão (**~1,5 a 2 kg**), quadrante superior direito; **2,4 a 4,5% da massa corporal**; **13% do sangue do corpo** e **25% do débito cardíaco**; **capacidade de autorregeneração**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 5
+  },
+  "tags": [
+   "figado",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B1-03",
+  "modulo": "B1",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Kupffer × estrelada** na doença hepática crônica",
+  "verso": "**Kupffer:** macrófagos que **liberam citocinas inflamatórias**. **Estreladas:** armazenam **vitamina A** no fígado saudável e passam a **produzir colágeno (cicatrizes)** na agressão crônica.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 39
+  },
+  "tags": [
+   "figado"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B1-04",
+  "modulo": "B1",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Funções do fígado** ligadas aos hepatócitos",
+  "verso": "Metabolismo de CHO, proteínas e gorduras · armazenamento e ativação de vitaminas e minerais · formação e excreção da bile · **conversão de amônia em ureia** · metabolismo de esteroides · **detoxificação** · filtração do sangue · **síntese de albumina, fatores de coagulação e proteínas ligadoras**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 11
+  },
+  "tags": [
+   "figado"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B1-05",
+  "modulo": "B1",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Transaminação × desaminação** no fígado",
+  "verso": "**Transaminação:** fundamental para a produção de **glicose a partir de aminoácidos no jejum**. **Desaminação:** remoção do grupo amina e **rápida conversão da amônia em ureia**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 12
+  },
+  "tags": [
+   "figado"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B1-06",
+  "modulo": "B1",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Bile** e **colestase**",
+  "verso": "Produção de **500 a 600 mL/dia** (água, sais biliares, bilirrubinas, colesterol, subprodutos). **Colestase = redução do fluxo da bile**, com acúmulo de bilirrubina, ácidos biliares e colesterol no sangue.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 13
+  },
+  "tags": [
+   "figado"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B1-07",
+  "modulo": "B1",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "Proteínas de fase aguda **positivas**",
+  "verso": "**Proteína C-reativa · fibrinogênio · ferritina · ceruloplasmina.** Sobem na inflamação, pelas funções defensivas.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 15
+  },
+  "tags": [
+   "figado"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B1-08",
+  "modulo": "B1",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "Proteínas de fase aguda **negativas**",
+  "verso": "**Albumina · transferrina · pré-albumina · proteína ligadora de retinol.** **Caem na inflamação** — por isso albumina baixa não é sinônimo de desnutrição.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 15
+  },
+  "tags": [
+   "figado"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B1-09",
+  "modulo": "B1",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "Metabolismo de **gorduras** no fígado",
+  "verso": "Oxidação de ácidos graxos livres em **cetoácidos** para energia na inanição · **síntese de 80% do colesterol**, fosfolipídios e lipoproteínas · produção de triglicerídeos a partir de carboidratos e proteínas.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 13
+  },
+  "tags": [
+   "figado"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B2-01",
+  "modulo": "B2",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**AST × ALT**",
+  "verso": "**AST (TGO):** fígado, mas também músculo estriado, coração e rins — **menos específica**. **ALT (TGP):** citoplasma do hepatócito — **marcador mais específico** de lesão e necrose hepática. No início da doença, **ALT > AST**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 18
+  },
+  "tags": [
+   "labs"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B2-02",
+  "modulo": "B2",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "O que sugere a relação **AST/ALT > 2**?",
+  "verso": "**Etiologia alcoólica.** Além disso, a razão AST/ALT **tende a se elevar conforme a progressão** da doença hepática.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 18
+  },
+  "tags": [
+   "labs",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B2-03",
+  "modulo": "B2",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**TP/INR × albumina**: qual para agudo, qual para crônico?",
+  "verso": "**TP/INR:** exame **mais rápido e confiável** para insuficiência/lesão hepática **aguda** (o fígado faz quase todos os fatores de coagulação). **Albumina:** meia-vida de **~20 dias** → reflete processos **crônicos**, como a cirrose.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 19
+  },
+  "tags": [
+   "labs"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B2-04",
+  "modulo": "B2",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Albumina** — o que o slide diz",
+  "verso": "Principal proteína plasmática (**50% das proteínas**), sintetizada **exclusivamente pelo fígado**. Processos inflamatórios **inibem** sua produção. Meia-vida **~20 dias**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 19
+  },
+  "tags": [
+   "labs"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B2-05",
+  "modulo": "B2",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Proporção das **bilirrubinas**",
+  "verso": "**Bilirrubina total = 70 a 80% indireta e 20 a 30% direta.**",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 20
+  },
+  "tags": [
+   "labs",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B2-06",
+  "modulo": "B2",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Bilirrubina indireta × direta**",
+  "verso": "**Indireta (não conjugada):** formada pela destruição de hemácias; reflete falha de **captação e conjugação** e anemia hemolítica. **Direta (conjugada):** já passou pelo fígado → **mais sensível para doença hepática**, reflete **dificuldade de excreção ou obstrução biliar**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 20
+  },
+  "tags": [
+   "labs"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B2-07",
+  "modulo": "B2",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**FA × GGT**",
+  "verso": "**FA:** membrana canalicular biliar; sobe na **colestase**, mas **também está em ossos e placenta**. **GGT:** sobe com **álcool**, medicamentos (anticonvulsivantes) e estase biliar; **confirma se a elevação da FA é de origem hepática**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 21
+  },
+  "tags": [
+   "labs"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B2-08",
+  "modulo": "B2",
+  "tipo": "lista",
+  "prioridade": "C",
+  "frente": "Impacto da lesão hepática nas funções",
+  "verso": "Alterações no **metabolismo dos nutrientes** · em **proteínas plasmáticas e hormonais** · no **transporte de moléculas** · **acúmulo de substâncias potencialmente tóxicas**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 22
+  },
+  "tags": [
+   "labs"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-01",
+  "modulo": "B3",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Os **três processos** que caracterizam a doença hepática",
+  "verso": "**1) Lesão dos hepatócitos · 2) infiltração de células inflamatórias · 3) ativação das células estreladas.** Juntos, comprometem a função e alteram a arquitetura.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 24
+  },
+  "tags": [
+   "etiologias"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-02",
+  "modulo": "B3",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Etiologias** da doença hepática",
+  "verso": "**Metabólicas:** MASLD, hemocromatose, doença de Wilson, deficiência de alfa-1 antitripsina. **Tóxicas:** álcool e medicamentos. **Virais:** hepatites cronificadas. **A sobreposição de causas acelera drasticamente a progressão.**",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 25
+  },
+  "tags": [
+   "etiologias"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-03",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "Peso das três **causas mais comuns**",
+  "verso": "**MASLD: 30 a 40% da população adulta.** **Álcool: 60% dos casos de cirrose** (Europa e América). **Hepatites virais:** ainda com impacto relevante.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 26
+  },
+  "tags": [
+   "etiologias",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-04",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "**Epidemiologia** das doenças hepáticas",
+  "verso": "**4% das mortes globais em 2019** · **11ª principal causa de morte global** · **2 milhões de mortes** globalmente.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 28
+  },
+  "tags": [
+   "etiologias",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-05",
+  "modulo": "B3",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Transmissão** das hepatites virais",
+  "verso": "**A e E: via fecal-oral.** **B, C e D: sangue e fluidos corporais.** O vírus delta (HDV) está associado à hepatite B.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 29
+  },
+  "tags": [
+   "hepatites"
+  ],
+  "ambiguidade": "hepatites-ae"
+ },
+ {
+  "id": "F-B3-06",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Hepatite B** — o que decorar",
+  "verso": "**Única com vírus de DNA.** Cerca de **60% dos casos** de hepatite viral; ~30% com infecção sintomática e **1% insuficiência hepática aguda**; **tendência à cronificação**; antiviral para evitar progressão.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 31
+  },
+  "tags": [
+   "hepatites",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-07",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Hepatite C** — o que decorar",
+  "verso": "**50 a 85% cronificam**; em geral (**80%**) assintomáticos até fases avançadas; **antivirais de ação direta com 95% de cura em 12 a 24 semanas**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 31
+  },
+  "tags": [
+   "hepatites",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-08",
+  "modulo": "B3",
+  "tipo": "conduta",
+  "prioridade": "I",
+  "frente": "Tratamento das **hepatites A e E**",
+  "verso": "**Sem antiviral específico**, em geral **autolimitadas**: **repouso, hidratação** e **dieta normal, conforme tolerância**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 32
+  },
+  "tags": [
+   "hepatites"
+  ],
+  "ambiguidade": "hepatites-ae"
+ },
+ {
+  "id": "F-B3-09",
+  "modulo": "B3",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "As **quatro fases clínicas** da hepatite viral",
+  "verso": "**1 incubação** (assintomática ou inespecífica) · **2 pré-ictérica** (sintomas, 10–20% com febre/artralgia/angioedema, **↑ AST e ALT**) · **3 ictérica** (**7 a 14 dias depois**) · **4 convalescente** (**2 a 12 semanas**, HBV e HCV podem tornar portador).",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 33
+  },
+  "tags": [
+   "hepatites",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-10",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Álcool** — calorias e metabolismo",
+  "verso": "**7,1 kcal/g**; **80 a 90% metabolizado pelo fígado** (restante por pulmões, rins e pele). Duas vias: **ADH no citoplasma** e **SOMA no retículo endoplasmático**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 34
+  },
+  "tags": [
+   "alcool",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-11",
+  "modulo": "B3",
+  "tipo": "mecanismo",
+  "prioridade": "I",
+  "frente": "Produtos do metabolismo do **álcool** e seus efeitos",
+  "verso": "**Acetaldeído, acetato e NADH** → alterações do metabolismo lipídico → **lesão hepática, inflamação e estresse oxidativo**. **Mulheres tendem a produzir mais acetaldeído.**",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 35
+  },
+  "tags": [
+   "alcool"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-12",
+  "modulo": "B3",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "**Hepatite alcoólica** — como o slide descreve",
+  "verso": "Citoplasmas dos hepatócitos **distendidos por gordura, deslocando os núcleos para a periferia**, com **inflamação e necrose** das células hepáticas.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 36
+  },
+  "tags": [
+   "alcool"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-13",
+  "modulo": "B3",
+  "tipo": "mecanismo",
+  "prioridade": "E",
+  "frente": "A **sequência da progressão** da doença hepática crônica",
+  "verso": "Agressão contínua → **Kupffer liberam citocinas inflamatórias** → **estreladas produzem colágeno (cicatrizes)** → **fibrose e nódulos** alteram o tecido e impedem as funções.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 39
+  },
+  "tags": [
+   "progressao"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-14",
+  "modulo": "B3",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Reversibilidade** por estágio",
+  "verso": "**Inflamação:** eliminar a agressão **reverte** o processo. **Fibrose:** acúmulo de colágeno, **ainda potencialmente reversível**. **Cirrose:** alteração da arquitetura, oscilando entre assintomática e descompensada.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 40
+  },
+  "tags": [
+   "progressao"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B3-15",
+  "modulo": "B3",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "**Prevalência de MASLD** na obesidade e no DM2",
+  "verso": "**Obesidade: 75%** (IC 95% 71–79%). **Diabetes tipo 2: 69%** (IC 95% 63–74%).",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 37
+  },
+  "tags": [
+   "etiologias",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-01",
+  "modulo": "B4",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "O que é **cirrose**?",
+  "verso": "**Não é uma doença, e sim o estágio final da doença hepática crônica**, independente do agente etiológico. Decorre da inflamação crônica, com **tecido fibroso difuso** e **substituição das estruturas normais por nódulos de regeneração**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 42
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-02",
+  "modulo": "B4",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "Cirrose **compensada × descompensada**",
+  "verso": "**Compensada:** fase inicial, **assintomática**, pode durar muitos anos, **mortalidade por comorbidades**. **Descompensada:** fase sintomática, complicações, agudizações e hospitalizações, **mortalidade por causa hepática**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 48
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-03",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Child-Pugh** — os cinco fatores",
+  "verso": "**Bilirrubina sérica · albumina sérica · ascite · encefalopatia · tempo de protrombina (INR).** Dois deles (**ascite e encefalopatia**) são clínicos e subjetivos.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-04",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Child-Pugh** — classes e mortalidade em 1 ano",
+  "verso": "**A = 5 a 6 pontos (< 5%)** · **B = 7 a 9 pontos (20%)** · **C = > 10 pontos (55%)**, como grafa o slide.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": "child-c"
+ },
+ {
+  "id": "F-B4-05",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Child-Pugh** — cortes de bilirrubina e albumina",
+  "verso": "**Bilirrubina:** < 2,0 (1 pt) · 2,0–3,0 (2 pts) · > 3,0 (3 pts). **Albumina:** > 3,5 (1 pt) · 3,0–3,5 (2 pts) · < 3,0 (3 pts) — **ordem invertida em relação à bilirrubina**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-06",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Child-Pugh** — cortes de tempo de protrombina",
+  "verso": "**0 a 4 seg / INR < 1,7** (1 pt) · **4,1 a 6 seg / INR 1,7–2,3** (2 pts) · **> 6 seg / INR > 2,3** (3 pts).",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 45
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-07",
+  "modulo": "B4",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Child-Pugh × MELD**",
+  "verso": "**Child:** bilirrubina, albumina, ascite, encefalopatia e TP — **tem itens subjetivos**. **MELD:** creatinina, bilirrubina total e INR (± sódio no MELD-Na) — **sem interpretação subjetiva**, usado na **fila de transplante**. O MELD **não usa albumina**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 46
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-08",
+  "modulo": "B4",
+  "tipo": "mecanismo",
+  "prioridade": "E",
+  "frente": "**Hipertensão portal** — o que é",
+  "verso": "**Aumento da resistência ao fluxo sanguíneo para dentro do fígado** e consequente **aumento sustentado da pressão na veia porta**. Causas: **fibrose e nódulos fecham os sinusoides** e os vasos do abdome dilatam.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 54
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-09",
+  "modulo": "B4",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Consequências** da hipertensão portal",
+  "verso": "**Ascite** (extravasamento peritoneal) · **circulação colateral → varizes** de esôfago e estômago, cabeça de medusa · **encefalopatia** (desvio de amônia e toxinas) · **esplenomegalia** (anemia, leucopenia, trombocitopenia).",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 54
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-10",
+  "modulo": "B4",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Ascite** — definição e causa principal",
+  "verso": "Acúmulo patológico de líquido na cavidade peritoneal; **evento sentinela**. **Hipertensão portal é a causa principal e o fator iniciante**; somam-se hipoproteinemia, desequilíbrio do RAA, obstrução linfática e translocação bacteriana.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 56
+  },
+  "tags": [
+   "ascite"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-11",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Graus da ascite** pela ultrassonografia",
+  "verso": "**Grau 1 (leve): < 3 cm**, macicez móvel negativa, manejo ambulatorial com monoterapia. **Grau 2 (moderada): 3 a 10 cm**, distensão simétrica, hospitalização frequente e diuréticos combinados. **Grau 3 (tensa): > 10 cm**, paracentese de grande volume.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 57
+  },
+  "tags": [
+   "ascite",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-12",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Paracentese diagnóstica** — quando?",
+  "verso": "Ascite **grau II ou III**, **hospitalizados**, **suspeita de infecção** e outras complicações. Analisa **infecção, proteínas totais e albumina**. **Ascite recorrente = > 3 vezes no ano.**",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 58
+  },
+  "tags": [
+   "ascite"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-13",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**PBE** — definição e diagnóstico",
+  "verso": "Infecção do líquido ascítico **na ausência de fonte intra-abdominal tratável**. **1,5 a 3% dos ambulatoriais** e **~10% dos hospitalizados**. **Diagnóstico: PMN > 250 células/mm³.** Manejo: **antibiótico logo após a paracentese + albumina**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 59
+  },
+  "tags": [
+   "ascite",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-14",
+  "modulo": "B4",
+  "tipo": "mecanismo",
+  "prioridade": "I",
+  "frente": "**Mecanismo da PBE**",
+  "verso": "**Hipertensão portal → aumento da permeabilidade intestinal → passagem de bactérias gram-negativas** para o mesentério e o líquido ascítico → ativação da resposta imune, inflamação aguda e falência de sistemas.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 60
+  },
+  "tags": [
+   "ascite"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-15",
+  "modulo": "B4",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Encefalopatia hepática** — definição",
+  "verso": "Síndrome neuropsiquiátrica causada por disfunção hepática, com **acúmulo de neurotoxinas (amônia)** pela perda da detoxificação. **Desorientação, asterixe (tremor involuntário)** e comprometimento cognitivo.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 61
+  },
+  "tags": [
+   "encefalopatia"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-16",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Varizes esofágicas** — números e quando descompensam",
+  "verso": "Atingem **40 a 70%** dos pacientes com **cirrose avançada**; **endoscopia de rastreio no momento do diagnóstico**. **A descompensação ocorre quando há sangramento**, com instabilidade hemodinâmica, queda de hemoglobina e choque.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 62
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-17",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Síndrome hepatorrenal** — definição, gatilhos e critério",
+  "verso": "**Falência renal funcional grave sem causa renal identificável.** Gatilhos: sangramento de varizes, **uso excessivo de diuréticos**, **paracenteses de grande volume sem albumina**, infecção bacteriana. Diagnóstico: **creatinina > 0,3 mg/dL em 48 h ou > 50% em 7 dias**, ou redução do débito urinário.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 63
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-18",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Carcinoma hepatocelular** — números",
+  "verso": "**80% dos casos de câncer primário de fígado**; **< 10% em fígado saudável**; aumento por **MASLD** (na Ásia, hepatites virais crônicas); início insidioso → **rastreio a cada 6 meses**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 65
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-19",
+  "modulo": "B4",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "Manifestações clínicas **mais comuns** da cirrose",
+  "verso": "**Perda de peso involuntária (que pode estar mascarada), fraqueza e anorexia.** Também comuns: hepatomegalia, ascite e icterícia. Pode haver dor epigástrica vaga com **sensação de plenitude**.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 50
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-20",
+  "modulo": "B4",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "Sinais da cirrose **visíveis ao exame físico**",
+  "verso": "Icterícia · ascite · **cabeça de medusa** · **eritema palmar** · **telangiectasias (aranhas vasculares)** · edema.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 51
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B4-21",
+  "modulo": "B4",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Qual é o **primeiro sinal de descompensação mais comum**?",
+  "verso": "**A ascite.** A recorrência envolve um segundo evento por hipertensão portal: ascite, sangramento de varizes, encefalopatia, icterícia — e ainda PBE e síndrome hepatorrenal.",
+  "fonte": {
+   "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+   "pagina": 64
+  },
+  "tags": [
+   "ascite"
+  ],
+  "ambiguidade": null
+ }
 ]

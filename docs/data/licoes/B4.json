@@ -1,0 +1,387 @@
+{
+ "id": "B4",
+ "titulo": "Cirrose e complicações",
+ "preteste": [
+  "Q-B4-01",
+  "Q-B4-02"
+ ],
+ "blocos": [
+  {
+   "id": "B4-b1",
+   "titulo": "Cirrose não é uma doença",
+   "prioridade": "E",
+   "pontos": [
+    "**Cirrose não é uma doença, mas sim o estágio final da doença hepática crônica, independente do agente etiológico.** Decorre da **inflamação crônica**, que gera **tecido fibroso difuso** e **substituição das estruturas normais por nódulos de regeneração**.",
+    "**A maior parte das manifestações clínicas ocorre em decorrência do comprometimento das funções do fígado e/ou da hipertensão portal.**",
+    "**Cessação completa da injúria pode levar à regressão da cirrose — até 80% em uso de antivirais na hepatite C.**"
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Compensada",
+     "Descompensada"
+    ],
+    "linhas": [
+     [
+      "fase inicial, **assintomática**",
+      "fase **sintomática**"
+     ],
+     [
+      "pode durar **muitos anos**",
+      "**complicações da doença**, agudizações e necessidade de **hospitalizações**"
+     ],
+     [
+      "**mortalidade por comorbidades**",
+      "**mortalidade por causa hepática**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Compensada morre de comorbidade; descompensada morre de causa hepática.** Essa inversão cai direto.",
+    "Cirrose é **estágio**, não doença: a etiologia pode ser qualquer uma."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 48
+   },
+   "checagem": {
+    "pergunta": "Qual é a diferença de mortalidade entre cirrose compensada e descompensada, segundo o slide?",
+    "alternativas": [
+     "Compensada morre por causa hepática; descompensada por comorbidades",
+     "Compensada morre por comorbidades; descompensada por causa hepática",
+     "As duas morrem predominantemente por causa hepática",
+     "As duas morrem predominantemente por comorbidades",
+     "O slide não compara mortalidade entre as duas"
+    ],
+    "correta": 1,
+    "justificativa": "O quadro de classificação é explícito: na **compensada**, **mortalidade por comorbidades**; na **descompensada**, **mortalidade por causa hepática**. Faz sentido: enquanto o fígado compensa, o que mata é o resto.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 48
+    }
+   }
+  },
+  {
+   "id": "B4-b2",
+   "titulo": "Child-Pugh: cinco itens, dois subjetivos",
+   "prioridade": "E",
+   "pontos": [
+    "**Avalia a severidade (e o prognóstico) da doença hepática.** São cinco fatores, cada um valendo 1, 2 ou 3 pontos."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Fator",
+     "1 ponto",
+     "2 pontos",
+     "3 pontos"
+    ],
+    "linhas": [
+     [
+      "**Bilirrubina sérica (mg/dL)**",
+      "< 2,0",
+      "2,0 – 3,0",
+      "> 3,0"
+     ],
+     [
+      "**Albumina sérica (g/dL)**",
+      "> 3,5",
+      "3,0 – 3,5",
+      "< 3,0"
+     ],
+     [
+      "**Ascite**",
+      "ausente",
+      "fácil controle",
+      "difícil controle"
+     ],
+     [
+      "**Encefalopatia**",
+      "nenhuma",
+      "grau I ou II",
+      "grau III e IV"
+     ],
+     [
+      "**Tempo de protrombina**",
+      "0 – 4 seg · INR < 1,7",
+      "4,1 – 6 seg · INR 1,7 – 2,3",
+      "> 6 seg · INR > 2,3"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Classes e mortalidade em 1 ano: Child A = 5–6 pontos (< 5%) · Child B = 7–9 pontos (20%) · Child C = > 10 pontos (55%)**, como está escrito no slide.",
+    "**Cuidado com a inversão da albumina:** mais albumina = menos ponto (> 3,5 vale 1 ponto; < 3,0 vale 3 pontos). Com a bilirrubina é o contrário.",
+    "**Dois dos cinco itens são clínicos e subjetivos: ascite e encefalopatia.** É exatamente essa a crítica que o MELD resolve."
+   ],
+   "ambiguidade": "child-c",
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 45
+   },
+   "apoio": {
+    "tipo": "mnemonico",
+    "texto": "**B-A-A-E-T:** **B**ilirrubina, **A**lbumina, **A**scite, **E**ncefalopatia, **T**empo de protrombina. Apoio de memória; os cortes são os do slide."
+   },
+   "checagem": {
+    "pergunta": "Paciente com bilirrubina 2,5 mg/dL (2), albumina 2,8 g/dL (3), ascite de difícil controle (3), encefalopatia grau II (2) e INR 1,8 (2). Qual a classe de Child-Pugh?",
+    "alternativas": [
+     "Child A, 5 pontos",
+     "Child B, 8 pontos",
+     "Child C, 12 pontos",
+     "Child B, 9 pontos",
+     "Child A, 6 pontos"
+    ],
+    "correta": 2,
+    "justificativa": "A soma é 2 + 3 + 3 + 2 + 2 = **12 pontos**, o que cai na classe **C** (o slide escreve “> 10 pontos”), com mortalidade em 1 ano de **55%**.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 45
+    }
+   }
+  },
+  {
+   "id": "B4-b3",
+   "titulo": "MELD: o escore da fila",
+   "prioridade": "E",
+   "pontos": [
+    "**MELD — Model for End-Stage Liver Disease:** estima a **gravidade relativa da doença e a sobrevida provável de pacientes aguardando transplante de fígado**.",
+    "**Fórmula:** 10 × {(0,957 × **creatinina**) + (0,378 × **bilirrubina total**) + (1,12 × **INR**)} + 6,43.",
+    "**MELD-Na** acrescenta o **sódio sérico** à conta.",
+    "**A vantagem sobre o Child-Pugh é não ter interpretação subjetiva:** o MELD não inclui ascite nem encefalopatia."
+   ],
+   "cuidado": [
+    "**O MELD não usa albumina.** Ele usa **creatinina, bilirrubina total e INR** (± sódio). O Child usa albumina e **não** usa creatinina.",
+    "O único item que os dois têm em comum é a **bilirrubina** e o **INR / tempo de protrombina**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 46
+   },
+   "checagem": {
+    "pergunta": "Quais variáveis entram no cálculo do MELD?",
+    "alternativas": [
+     "Bilirrubina, albumina, ascite, encefalopatia e tempo de protrombina",
+     "Creatinina, bilirrubina total e INR (e sódio sérico, no MELD-Na)",
+     "Creatinina, albumina e sódio sérico",
+     "Bilirrubina, albumina e INR",
+     "Apenas bilirrubina e creatinina"
+    ],
+    "correta": 1,
+    "justificativa": "A fórmula do slide usa **creatinina, bilirrubina total e INR**; o **MELD-Na** acrescenta o **sódio sérico**. A primeira alternativa descreve o **Child-Pugh**, cujos itens subjetivos (ascite e encefalopatia) o MELD justamente evita.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 46
+    }
+   }
+  },
+  {
+   "id": "B4-b4",
+   "titulo": "Como a cirrose aparece no paciente",
+   "prioridade": "I",
+   "pontos": [
+    "**Pode não gerar sintomas e manifestações até que a doença esteja muito avançada.**",
+    "**Mais comuns: perda de peso involuntária (que pode estar mascarada), fraqueza e anorexia.** Hepatomegalia, ascite e icterícia também são comuns.",
+    "Pode haver **dor abdominal em região epigástrica, vaga e incômoda**, causando **sensação de plenitude**.",
+    "**Visíveis ao exame físico:** icterícia, ascite, **cabeça de medusa**, **eritema palmar**, **telangiectasias (aranhas vasculares)** e edema.",
+    "**Outras manifestações:** fadiga, náuseas e **saciedade precoce**, prurido, **colúria e/ou acolia**, hepatomegalia, **esplenomegalia**, edema periférico, varizes esofágicas, encefalopatia hepática e síndrome hepatorrenal."
+   ],
+   "cuidado": [
+    "A **perda de peso pode estar mascarada** — pelo líquido da ascite e do edema. É por isso que, na avaliação nutricional, se usa **peso seco**.",
+    "**Saciedade precoce e plenitude** são o que reduz a ingestão: lembre disso quando chegar o fracionamento da dieta e a ceia."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 50
+   },
+   "checagem": {
+    "pergunta": "Por que a perda de peso na cirrose pode estar 'mascarada', como diz o slide?",
+    "alternativas": [
+     "Porque o paciente não percebe a redução do apetite",
+     "Porque o acúmulo de líquido (ascite e edema) sustenta o peso aferido apesar da perda de massa",
+     "Porque a balança do hospital é imprecisa em pacientes acamados",
+     "Porque a hepatomegalia aumenta o peso do órgão",
+     "Porque a dieta hospitalar impede a perda de peso"
+    ],
+    "correta": 1,
+    "justificativa": "A cirrose cursa com **ascite e edema**, que acrescentam peso de líquido. Por isso o slide fala em perda involuntária **que pode estar mascarada**, e a avaliação nutricional trabalha com **peso seco** e descontos.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 50
+    }
+   }
+  },
+  {
+   "id": "B4-b5",
+   "titulo": "Hipertensão portal: a chave das complicações",
+   "prioridade": "E",
+   "pontos": [
+    "**O que é:** **aumento da resistência ao fluxo sanguíneo para dentro do fígado** e consequente **aumento da pressão, de forma sustentada, na veia porta**.",
+    "**Causas:** **fibrose e nódulos no fígado “fecham” os sinusoides**; os **vasos do abdome dilatam** e aumenta o fluxo para a veia porta.",
+    "**Consequências:** desvio de sangue e **desenvolvimento de circulação colateral**; formação de **dilatações (varizes) no esôfago e no estômago**; **excesso de pressão gera extravasamento e acúmulo de líquido peritoneal**; **aumento do tamanho de órgãos como fígado e baço**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Consequência da hipertensão portal",
+     "Leva a"
+    ],
+    "linhas": [
+     [
+      "Extravasamento para a cavidade peritoneal",
+      "**ascite**"
+     ],
+     [
+      "Circulação colateral / desvio portossistêmico",
+      "**varizes esofágicas e gástricas**, cabeça de medusa"
+     ],
+     [
+      "Desvio da amônia e toxinas intestinais para a circulação sistêmica",
+      "**encefalopatia hepática**"
+     ],
+     [
+      "**Esplenomegalia**",
+      "anemia, leucopenia e **trombocitopenia → sangramento**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "Quase tudo que descompensa a cirrose sai daqui: **ascite, varizes, encefalopatia e esplenomegalia**. Se a prova pedir o mecanismo comum, é a **hipertensão portal**.",
+    "A resistência aumenta **para dentro** do fígado (sinusoides fechados), e a pressão sobe **na veia porta**, antes dele."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 54
+   },
+   "checagem": {
+    "pergunta": "Qual mecanismo explica, ao mesmo tempo, ascite, varizes esofágicas e esplenomegalia na cirrose?",
+    "alternativas": [
+     "Queda da síntese de albumina",
+     "Hipertensão portal",
+     "Colestase",
+     "Encefalopatia hepática",
+     "Deficiência de vitaminas lipossolúveis"
+    ],
+    "correta": 1,
+    "justificativa": "O slide de hipertensão portal lista justamente essas consequências: circulação colateral com **varizes**, extravasamento de **líquido peritoneal** e **aumento do baço**. A hipoproteinemia participa da ascite, mas não explica varizes nem esplenomegalia.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 54
+    }
+   }
+  },
+  {
+   "id": "B4-b6",
+   "titulo": "Ascite: o primeiro sinal, em três graus",
+   "prioridade": "E",
+   "pontos": [
+    "**Ascite:** acúmulo patológico de líquido na cavidade peritoneal. **Evento sentinela** no curso da doença.",
+    "**Hipertensão portal é a causa principal e o fator iniciante.** Somam-se **hipoproteinemia**, **desequilíbrios no sistema renina-angiotensina-aldosterona (RAA)**, **obstrução da drenagem linfática** e **translocação bacteriana entérica**.",
+    "**Na cirrose descompensada, o mais comum é a ascite como primeiro sinal de descompensação.**",
+    "**Paracentese diagnóstica:** nos que têm **ascite grau II ou III**, **hospitalizados**, com **suspeita de infecção** e outras complicações da cirrose. Analisa-se o líquido para **infecção, proteínas totais e albumina**.",
+    "**Ascite recorrente = mais de 3 vezes no ano.** Tratamento com **diuréticos, drenagem do líquido e manejo nutricional**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Grau 1 (leve)",
+     "Grau 2 (moderada)",
+     "Grau 3 (acentuada/tensa)"
+    ],
+    "linhas": [
+     [
+      "sem distensão abdominal visível; **macicez móvel negativa**",
+      "distensão abdominal **simétrica e moderada**, facilmente identificável (macicez móvel positiva ou negativa)",
+      "distensão **acentuada ou tensa**, macicez móvel positiva, possível **hérnia umbilical**"
+     ],
+     [
+      "detectável **estritamente por imagem**: USG com **fluido < 3 cm**",
+      "USG com profundidade **entre 3 e 10 cm**",
+      "USG com profundidade **> 10 cm**"
+     ],
+     [
+      "**ambulatorial**: restrição de sódio, **monoterapia** diurética",
+      "frequentemente requer **hospitalização**; **terapia combinada** de diuréticos",
+      "requer **paracentese de grande volume** inicial e hospitalização"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Os cortes da ultrassonografia são 3 cm e 10 cm.** Grau 1 < 3 · grau 2 entre 3 e 10 · grau 3 > 10.",
+    "**A ascite é o primeiro sinal de descompensação mais comum** — guarde isso como fato isolado, cai muito.",
+    "**Recorrente = > 3 vezes no ano.**"
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 56
+   },
+   "checagem": {
+    "pergunta": "Ultrassonografia mostra líquido ascítico com profundidade de 7 cm, e a paciente tem distensão abdominal simétrica. Qual o grau da ascite e o manejo geral esperado?",
+    "alternativas": [
+     "Grau 1 — ambulatorial, com restrição de sódio e monoterapia diurética",
+     "Grau 2 — frequentemente requer hospitalização e terapia combinada de diuréticos",
+     "Grau 3 — requer paracentese de grande volume e hospitalização",
+     "Grau 2 — apenas observação, sem diurético",
+     "Não é possível graduar sem a dosagem de albumina do líquido"
+    ],
+    "correta": 1,
+    "justificativa": "Profundidade **entre 3 e 10 cm** e distensão simétrica e moderada definem a **ascite grau 2**, que **frequentemente requer hospitalização** e **terapia combinada de diuréticos**.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 56
+    }
+   }
+  },
+  {
+   "id": "B4-b7",
+   "titulo": "As outras complicações",
+   "prioridade": "E",
+   "pontos": [
+    "**Peritonite bacteriana espontânea (PBE):** infecção do líquido ascítico por invasão bacteriana espontânea da cavidade peritoneal, **na ausência de qualquer fonte de infecção intra-abdominal tratável**. Ocorre em **1,5 a 3% dos ambulatoriais** e cerca de **10% dos cirróticos hospitalizados**. **Diagnóstico: polimorfonucleares (PMN) > 250 células/mm³** no líquido ascítico; manejo com **antibiótico imediatamente após a paracentese e albumina**. Mecanismo: **hipertensão portal → aumento da permeabilidade intestinal → passagem de bactérias gram-negativas** para mesentério e líquido ascítico.",
+    "**Encefalopatia hepática:** síndrome neuropsiquiátrica causada por disfunção hepática, com **acúmulo de neurotoxinas (amônia)** pela perda da função de detoxificação. Cursa com **desorientação, asterixe (tremor involuntário)** e comprometimento cognitivo.",
+    "**Varizes esofágicas:** atingem **40 a 70% dos pacientes com cirrose avançada**; colaterais venosas identificadas por **endoscopia de rastreio no momento do diagnóstico da cirrose**. **A descompensação ocorre quando há sangramento**, com instabilidade hemodinâmica, queda da hemoglobina e choque.",
+    "**Síndrome hepatorrenal (SHR):** **falência renal funcional grave na ausência de causas renais identificáveis**. **Gatilhos:** ruptura de varizes e sangramento, **uso excessivo de diuréticos**, **paracenteses de grande volume sem reposição de albumina** e infecção bacteriana. **Diagnóstico: aumento rápido da creatinina — > 0,3 mg/dL em 48 h ou > 50% em 7 dias — ou redução do débito urinário.**",
+    "**Carcinoma hepatocelular:** **80% dos casos de câncer primário de fígado**; **menos de 10% ocorre em fígado saudável**; aumento significativo por **MASLD** (na Ásia a principal causa ainda são as hepatites virais crônicas); início insidioso → **rastreio a cada 6 meses**."
+   ],
+   "cuidado": [
+    "**PBE: PMN > 250/mm³** e **sem foco intra-abdominal tratável** — é essa segunda parte que a define.",
+    "**SHR é funcional**: o rim está sadio. E o gatilho clássico é **paracentese de grande volume sem albumina**.",
+    "**Varizes só descompensam quando sangram** — existir variz não é descompensação.",
+    "**Rastreio do carcinoma hepatocelular a cada 6 meses.**"
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 63
+   },
+   "checagem": {
+    "pergunta": "Paciente cirrótico desenvolve insuficiência renal 2 dias após paracentese de grande volume sem reposição de albumina, com creatinina subindo 0,5 mg/dL e sem causa renal identificável. Qual o diagnóstico mais provável?",
+    "alternativas": [
+     "Peritonite bacteriana espontânea",
+     "Síndrome hepatorrenal",
+     "Necrose tubular aguda por contraste",
+     "Glomerulonefrite associada à hepatite",
+     "Insuficiência renal crônica agudizada"
+    ],
+    "correta": 1,
+    "justificativa": "A **síndrome hepatorrenal** é falência renal **funcional**, **sem causa renal identificável**, com **paracentese de grande volume sem reposição de albumina** entre os gatilhos clássicos. O critério temporal bate: **creatinina > 0,3 mg/dL em 48 h**.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 63
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "Que cirrose é estágio final, não doença, e vem de fibrose difusa com nódulos de regeneração",
+  "Compensada × descompensada: sintomas, duração e causa da mortalidade",
+  "Os cinco itens do Child-Pugh e as classes A, B e C",
+  "Que o MELD usa creatinina, bilirrubina e INR, e por que é melhor que o Child nesse ponto",
+  "O que é hipertensão portal e suas quatro consequências",
+  "Que a ascite é o primeiro sinal de descompensação mais comum, e os graus pela USG",
+  "PBE com PMN > 250 e sem foco intra-abdominal tratável",
+  "Que a SHR é funcional e seus gatilhos",
+  "Que o rastreio do carcinoma hepatocelular é a cada 6 meses"
+ ]
+}

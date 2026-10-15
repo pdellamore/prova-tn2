@@ -1,0 +1,282 @@
+{
+ "id": "A6",
+ "titulo": "Hemodiálise",
+ "preteste": [
+  "Q-A6-01",
+  "Q-A6-02"
+ ],
+ "blocos": [
+  {
+   "id": "A6-b1",
+   "titulo": "O que a diálise faz e como se mede",
+   "prioridade": "E",
+   "pontos": [
+    "**Diálise:** terapêutica empregada para **remoção de solutos urêmicos e do excesso de água**, com restabelecimento do equilíbrio **eletrolítico e ácido-básico**.",
+    "**Hemodiálise:** acesso vascular, **3×/semana**, duração de **3 a 4 horas**.",
+    "**Eficiência da diálise:** medida pelo **Kt/V de ureia** da sessão.",
+    "**Valores de referência: HD = 1,2 por sessão · CAPD = 2,0 semanalmente.**"
+   ],
+   "cuidado": [
+    "O Kt/V da **HD é por sessão**; o da **CAPD é semanal**. Trocar a unidade de tempo é a pegadinha clássica — 1,2 e 2,0 não são comparáveis direto."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 115
+   },
+   "apoio": {
+    "tipo": "mnemonico",
+    "texto": "**H** de HD e de **hoje**: 1,2 em cada sessão. **C** de CAPD e de **calendário**: 2,0 por semana. Apoio de memória; os valores são os do slide."
+   },
+   "checagem": {
+    "pergunta": "Um paciente em CAPD tem Kt/V semanal de 1,2. Como se lê esse número?",
+    "alternativas": [
+     "Está adequado: 1,2 é o valor de referência",
+     "Está abaixo do valor de referência, que para CAPD é 2,0 semanalmente",
+     "Não se aplica: Kt/V só vale para hemodiálise",
+     "Está adequado, porque o alvo semanal é 1,2 e o por sessão é 2,0",
+     "Está acima do alvo, que é 1,0 semanal"
+    ],
+    "correta": 1,
+    "justificativa": "O slide dá dois valores de referência: **HD = 1,2 por sessão** e **CAPD = 2,0 semanalmente**. O 1,2 é o alvo da hemodiálise por sessão, não da CAPD por semana.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 115
+    }
+   }
+  },
+  {
+   "id": "A6-b2",
+   "titulo": "Desnutrição: a principal alteração nutricional",
+   "prioridade": "E",
+   "pontos": [
+    "**A principal alteração nutricional na HD é a desnutrição**, com alta prevalência e papel de **fator preditor de morbimortalidade**.",
+    "Acomete **18 a 70%** dos pacientes.",
+    "Não tem causa única: é uma **combinação de fatores** que contribuem para a desnutrição."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Grupo de causas",
+     "O que entra"
+    ],
+    "linhas": [
+     [
+      "**Ingestão alimentar insuficiente**",
+      "anorexia, diálise inadequada, depressão, dietas restritas, medicamentos e interações, efeitos da DRC, condição financeira"
+     ],
+     [
+      "**Disfunções gastrintestinais**",
+      "náuseas, vômitos, diarreia"
+     ],
+     [
+      "**Hipercatabolismo**",
+      "perdas de nutrientes, proteínas e vitaminas; proteólise muscular; inflamação"
+     ],
+     [
+      "**Alterações hormonais**",
+      "resistência à insulina, resistência ao hormônio do crescimento, aumento de glucagon e paratormônio, hiperparatireoidismo secundário"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Diálise inadequada** aparece como causa de **ingestão insuficiente** (anorexia urêmica), e não no grupo do hipercatabolismo.",
+    "As perdas de nutrientes **na diálise** estão no grupo do **hipercatabolismo**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 121
+   },
+   "checagem": {
+    "pergunta": "Resistência à insulina, resistência ao hormônio do crescimento e hiperparatireoidismo secundário entram em qual grupo de causas da desnutrição na HD?",
+    "alternativas": [
+     "Ingestão alimentar insuficiente",
+     "Disfunções gastrintestinais",
+     "Hipercatabolismo",
+     "Alterações hormonais",
+     "Condição socioeconômica"
+    ],
+    "correta": 3,
+    "justificativa": "São exatamente os quatro itens do quadro de **alterações hormonais**: resistência à insulina, resistência ao GH, aumento de glucagon e paratormônio, e hiperparatireoidismo secundário.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 123
+    }
+   }
+  },
+  {
+   "id": "A6-b3",
+   "titulo": "Diagnóstico de desnutrição: basta 1 item",
+   "prioridade": "I",
+   "pontos": [
+    "**NKF-KDOQI 2000 — diagnóstico na presença de 1 item** (os quatro grupos do quadro):",
+    "**1. Parâmetros laboratoriais:** albumina **< 3,5 g/dL**; pré-albumina **< 3,0 g/dL** (como está escrito no slide); colesterol total **< 100 mg/dL**.",
+    "**2. Peso e gordura corporal:** IMC **< 23 kg/m²**; perda de peso não intencional **> 5% em 3 meses**; gordura corporal **< 10%**.",
+    "**3. Massa muscular:** perda de massa muscular **> 5% em 3 meses**; **% CMB < 90%**.",
+    "**4. Ingestão alimentar** (redução não intencional): proteína **< 0,8 g/kg** **ou** energia **< 25 kcal/kg**, por **2 meses consecutivos**.",
+    "**Critérios ISRNM** (quadro do J Bras Nefrol 2011): mesma estrutura, mas **albumina < 3,8 g/dL**, perda de peso de **5% em 3 meses ou 10% em 6 meses**, e CMB com **redução > 10%** em relação ao percentil 50 do NHANES II."
+   ],
+   "cuidado": [
+    "**Basta um item** para o diagnóstico — não é preciso somar critérios.",
+    "A albumina muda de diretriz para diretriz: **< 3,5 g/dL no NKF** e **< 3,8 g/dL no ISRNM**. É o par mais fácil de trocar.",
+    "IMC **< 23** (e não < 18,5): na DRC o corte é mais alto."
+   ],
+   "ambiguidade": "prealbumina-hd",
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 124
+   },
+   "checagem": {
+    "pergunta": "Paciente em HD com albumina de 3,6 g/dL. O que isso diz sobre o diagnóstico de desnutrição?",
+    "alternativas": [
+     "Nada: 3,6 está acima dos dois cortes citados nos slides",
+     "Preenche critério pelo NKF (< 3,5) mas não pelo ISRNM (< 3,8)",
+     "Preenche critério pelo ISRNM (< 3,8) mas não pelo NKF (< 3,5)",
+     "Preenche critério pelas duas diretrizes",
+     "Só serve como critério se vier junto de IMC abaixo de 23"
+    ],
+    "correta": 2,
+    "justificativa": "3,6 g/dL é **maior** que 3,5 (não fecha o NKF) e **menor** que 3,8 (fecha o ISRNM). E nos dois quadros **basta um item**, sem exigir companhia de outro critério.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 125
+    }
+   }
+  },
+  {
+   "id": "A6-b4",
+   "titulo": "Recomendações nutricionais na HD",
+   "prioridade": "E",
+   "pontos": [
+    "A tabela da HD (KDOQI 2020) é a que mais cai. Compare sempre com o conservador e com a DP."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Nutriente",
+     "Recomendação em HD"
+    ],
+    "linhas": [
+     [
+      "Energia",
+      "**25 a 35 kcal/kg/dia**"
+     ],
+     [
+      "Carboidratos",
+      "50 a 60% do VET"
+     ],
+     [
+      "Lipídios",
+      "**30 a 35% do VET** — saturados < 7%, monoinsaturados até 20%, poli-insaturados 10%, colesterol < 200 mg/dia"
+     ],
+     [
+      "**Proteína**",
+      "**1,0 a 1,2 g/kg/dia**"
+     ],
+     [
+      "Potássio",
+      "50 a 70 mEq"
+     ],
+     [
+      "Sódio",
+      "até **2.300 mg**"
+     ],
+     [
+      "Cálcio",
+      "1.000 mg"
+     ],
+     [
+      "**Fósforo**",
+      "**700 mg** + quelantes"
+     ],
+     [
+      "Ferro",
+      "8 mg (homens) e 15 mg (mulheres)"
+     ],
+     [
+      "Magnésio",
+      "200 a 300 mg"
+     ],
+     [
+      "Vitaminas",
+      "ácido pantotênico 5 mg · ácido fólico **1 a 5 mg** · ácido ascórbico 75 a 90 mg · tiamina 1,1 a 1,2 mg · **piridoxina 10 mg** · B12 2,4 mcg"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Proteína sobe com a diálise:** conservador (0,55–0,60) **<** HD (**1,0–1,2**) **<** DP (1,2–1,3). Quem dialisa perde proteína e precisa de mais.",
+    "**Fósforo: 700 mg na HD** contra 750 mg no conservador e 1.000–1.200 mg na DP.",
+    "**Piridoxina 10 mg na HD** contra 5 mg no conservador — é um dos poucos números que mudam entre as duas tabelas de vitaminas."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 129
+   },
+   "checagem": {
+    "pergunta": "Qual é a recomendação proteica para um paciente adulto em hemodiálise, segundo o KDOQI 2020 do slide?",
+    "alternativas": [
+     "0,55 a 0,60 g/kg/dia",
+     "0,6 a 0,8 g/kg/dia",
+     "1,0 a 1,2 g/kg/dia",
+     "1,2 a 1,3 g/kg/dia",
+     "1,4 a 1,5 g/kg/dia"
+    ],
+    "correta": 2,
+    "justificativa": "O slide de recomendações proteicas da hemodiálise traz **1,0 a 1,2 g/kg/dia** (KDOQI, 2020). 0,55–0,60 é o conservador, 1,2–1,3 é a diálise peritoneal e 1,4–1,5 é a DP em repleção ou peritonite.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 128
+    }
+   }
+  },
+  {
+   "id": "A6-b5",
+   "titulo": "Fósforo, líquidos e suplementação",
+   "prioridade": "E",
+   "pontos": [
+    "**Hiperfosfatemia — quelantes de fósforo** reduzem a absorção: **hidróxido de alumínio, carbonato de cálcio, acetato de cálcio e cloridrato de sevelamer**.",
+    "**Ganho de peso entre as sessões (interdialítico): 3 a 5% do peso corporal.** Avaliar o **peso seco**.",
+    "**Prescrição de líquidos:** com diurese = **500 mL + o volume da diurese**; **anúrico = no máximo 1.000 mL**.",
+    "**Quando suplementar:** ingestão alimentar reduzida, hipercatabolismo, **IMC < 20 kg/m² ou redução > 10% do peso seco**.",
+    "**Sequência das vias:** suplemento oral → nutrição enteral → nutrição parenteral, com **fórmulas específicas para renal**.",
+    "**Como orientar o suplemento:** fracionar em **3 a 5×/dia**, ingerir **após as refeições**, podendo misturar com frutas ou gelatina."
+   ],
+   "cuidado": [
+    "O suplemento é **depois** das refeições — se for antes, substitui a comida em vez de somar.",
+    "**Anúrico = 1.000 mL no máximo.** Com diurese, é 500 mL **mais** o que ele urina, não 500 mL no total.",
+    "O gatilho de suplementação é **IMC < 20**, diferente do IMC < 23 que serve para o diagnóstico de desnutrição."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 132
+   },
+   "checagem": {
+    "pergunta": "Paciente em HD com diurese residual de 600 mL/dia. Qual a prescrição de líquidos pelo slide?",
+    "alternativas": [
+     "500 mL no total",
+     "600 mL no total",
+     "1.000 mL no total",
+     "1.100 mL no total",
+     "Livre, porque ainda há diurese"
+    ],
+    "correta": 3,
+    "justificativa": "Com diurese, a conta é **500 mL + volume da diurese** = 500 + 600 = **1.100 mL**. O limite de 1.000 mL é para o paciente **anúrico**.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 132
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "Que a diálise remove solutos urêmicos e o excesso de água",
+  "Kt/V: 1,2 por sessão na HD e 2,0 por semana na CAPD",
+  "Que a principal alteração nutricional é a desnutrição, em 18 a 70%",
+  "Os quatro grupos de causas da desnutrição",
+  "Que basta 1 item para o diagnóstico, e a diferença de albumina NKF × ISRNM",
+  "Energia 25–35, proteína 1,0–1,2, fósforo 700 mg, sódio 2.300 mg",
+  "Líquidos: 500 mL + diurese, ou 1.000 mL se anúrico",
+  "Quando suplementar e como orientar o suplemento"
+ ]
+}

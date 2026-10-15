@@ -1,0 +1,202 @@
+{
+ "id": "A8",
+ "titulo": "Transplante renal",
+ "preteste": [
+  "Q-A8-01"
+ ],
+ "blocos": [
+  {
+   "id": "A8-b1",
+   "titulo": "Pré-transplante: os dois extremos pesam",
+   "prioridade": "I",
+   "pontos": [
+    "Na fase pré-transplante importam os **fatores prognósticos cirúrgicos** e o **estado nutricional do candidato**.",
+    "**Objetivos básicos do cuidado nutricional:** corrigir **déficits nutricionais preexistentes (desnutrição)** e **prevenir a obesidade**.",
+    "**Desnutrição → aumenta morbidade e mortalidade pós-cirúrgica.**",
+    "**Obesidade → aumenta risco operatório, tempo de hospitalização e dificulta a cicatrização.**",
+    "**Objetivos gerais da TN no transplante:** manter estado nutricional adequado; fornecer nutrientes para **promover o anabolismo e prevenir infecções**; prevenir obesidade, dislipidemia e DM; manter o peso ideal ou próximo dele; incentivar atividade física."
+   ],
+   "cuidado": [
+    "Os dois extremos atrapalham, mas por motivos diferentes: **desnutrição → morbimortalidade**; **obesidade → risco operatório, internação e cicatrização**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 143
+   },
+   "checagem": {
+    "pergunta": "Segundo o slide, a obesidade no candidato a transplante renal se associa principalmente a quê?",
+    "alternativas": [
+     "Aumento da morbidade e mortalidade pós-cirúrgica",
+     "Aumento do risco operatório, do tempo de hospitalização e pior cicatrização",
+     "Maior risco de rejeição crônica do enxerto",
+     "Menor sobrevida do doador",
+     "Necessidade de diálise peritoneal no pós-operatório"
+    ],
+    "correta": 1,
+    "justificativa": "O slide separa os dois: **desnutrição → ↑ morbidade e mortalidade pós-cirúrgica**; **obesidade → ↑ risco operatório, tempo de hospitalização e cicatrização**.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 143
+    }
+   }
+  },
+  {
+   "id": "A8-b2",
+   "titulo": "Pós-TR imediato: até 6 semanas, catabolismo",
+   "prioridade": "I",
+   "pontos": [
+    "**Pós-TR imediato = até 6 semanas após o transplante.**",
+    "O que acontece: **efeitos metabólicos**, **estresse da cirurgia**, **altas doses de imunossupressores** e **catabolismo proteico intenso** → catabolismo, desnutrição e excesso de produção de ureia.",
+    "Somam-se a **fase de hipercatabolismo**, o **tratamento da rejeição aguda**, as **doses de corticosteroides** e as **depleções proteicas** → **cicatrização lenta da ferida operatória e maior suscetibilidade à infecção**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Nutriente",
+     "Pós-TR imediato / rejeição aguda"
+    ],
+    "linhas": [
+     [
+      "Calorias",
+      "**30 a 35 kcal/kg/dia** (peso atual)"
+     ],
+     [
+      "Carboidratos",
+      "50% do VET"
+     ],
+     [
+      "**Proteínas**",
+      "**1,3 a 1,5 g/kg/dia** (peso atual)"
+     ],
+     [
+      "Lipídios",
+      "30 a 35% do VET"
+     ],
+     [
+      "Colesterol",
+      "≤ 300 mg"
+     ],
+     [
+      "Cálcio",
+      "1.200 a 1.500 mg"
+     ],
+     [
+      "Fósforo",
+      "1.200 a 1.500 mg · **800 mg na rejeição crônica**"
+     ],
+     [
+      "Potássio",
+      "DRIs · **1 a 3 g se hiperpotassemia e/ou oligúria**"
+     ],
+     [
+      "Sódio",
+      "1 a 3 g"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Toda a tabela do transplante usa peso atual**, e não peso ideal.",
+    "A proteína do pós-TR imediato (**1,3–1,5 g/kg**) é a **mais alta de toda a aula do rim**, junto da IRA hipercatabólica — é fase de catabolismo intenso, não de restrição."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 148
+   },
+   "checagem": {
+    "pergunta": "Paciente no 10º dia de pós-transplante renal, em tratamento de rejeição aguda. Qual a recomendação proteica?",
+    "alternativas": [
+     "0,55 a 0,60 g/kg/dia, para poupar o enxerto",
+     "0,8 g/kg/dia",
+     "1,0 a 1,2 g/kg/dia",
+     "1,3 a 1,5 g/kg/dia",
+     "2,0 g/kg/dia"
+    ],
+    "correta": 3,
+    "justificativa": "A tabela do **pós-TR imediato/rejeição aguda** traz **1,3 a 1,5 g/kg/dia de peso atual**. É uma fase de catabolismo proteico intenso por estresse cirúrgico e corticoides, e não o momento de restringir proteína.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 148
+    }
+   }
+  },
+  {
+   "id": "A8-b3",
+   "titulo": "Pós-TR tardio: depois de 6 semanas, o problema inverte",
+   "prioridade": "I",
+   "pontos": [
+    "**Pós-TR tardio = após 6 semanas.** Os **imunossupressores** passam a causar múltiplos efeitos colaterais.",
+    "O que aparece: **hipercatabolismo proteico, obesidade, hipertensão arterial sistêmica, dislipidemia, hipercalemia, intolerância à glicose** e alterações de **vitamina D**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Nutriente",
+     "Pós-TR tardio"
+    ],
+    "linhas": [
+     [
+      "Calorias",
+      "**25 a 35 kcal/kg/dia** (peso atual)"
+     ],
+     [
+      "Carboidratos",
+      "50% do VET"
+     ],
+     [
+      "**Proteínas**",
+      "**0,55 a 0,60 g/kg/dia** (peso atual)"
+     ],
+     [
+      "Lipídios",
+      "30% do VET"
+     ],
+     [
+      "Colesterol",
+      "≤ 300 mg"
+     ],
+     [
+      "Cálcio / Fósforo",
+      "1.200 a 1.500 mg · 800 mg de fósforo na rejeição crônica"
+     ],
+     [
+      "Potássio / Sódio",
+      "DRIs (1 a 3 g se hiperpotassemia/oligúria) · 1 a 3 g"
+     ]
+    ]
+   },
+   "cuidado": [
+    "A inversão é o ponto da aula: **1,3–1,5 g/kg até 6 semanas** e **0,55–0,60 g/kg depois**. O slide não comenta esse contraste.",
+    "No pós-TR tardio, um estudo citado (Kidney International, 2010) comparou **50 g/dia × 140 g/dia** de proteína: a dieta hiperproteica **elevou a TFG**."
+   ],
+   "ambiguidade": "proteina-tx-renal",
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 150
+   },
+   "checagem": {
+    "pergunta": "O que muda entre as tabelas do pós-TR imediato e do pós-TR tardio?",
+    "alternativas": [
+     "Nada: as duas tabelas são idênticas",
+     "A proteína cai de 1,3–1,5 para 0,55–0,60 g/kg/dia e a energia cai de 30–35 para 25–35 kcal/kg/dia",
+     "A proteína sobe de 0,55–0,60 para 1,3–1,5 g/kg/dia",
+     "Apenas o sódio muda, de 1–3 g para 2.300 mg",
+     "A energia passa a ser calculada pelo peso ideal"
+    ],
+    "correta": 1,
+    "justificativa": "O pós-TR imediato tem **30–35 kcal/kg e 1,3–1,5 g/kg** (fase de catabolismo). Depois de 6 semanas, a tabela passa a **25–35 kcal/kg e 0,55–0,60 g/kg**, e o foco vira obesidade, dislipidemia e DM. As duas usam **peso atual**.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 150
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "Por que desnutrição e obesidade atrapalham o transplante, cada uma do seu jeito",
+  "Que o pós-TR imediato vai até 6 semanas",
+  "Por que o pós-TR imediato é catabólico: cirurgia, corticoide, rejeição aguda",
+  "Que a proteína é 1,3–1,5 g/kg no imediato e 0,55–0,60 g/kg no tardio",
+  "Os efeitos colaterais dos imunossupressores no pós-TR tardio",
+  "Que toda a tabela usa peso atual"
+ ]
+}

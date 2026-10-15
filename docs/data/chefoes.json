@@ -1,0 +1,38 @@
+[
+ {
+  "id": "rim",
+  "titulo": "Chefão do Rim",
+  "subtitulo": "Simulado cronometrado de nefropatias",
+  "orgao": "rim",
+  "trilha": "rim",
+  "questoes": 20,
+  "minutos": 40,
+  "aprovacao": 70,
+  "badge": "chefao-rim",
+  "desc": "Vinte questões de A1 a A10, sem ver a resposta antes do fim. Igual à prova: você marca, segue e só confere no final."
+ },
+ {
+  "id": "figado",
+  "titulo": "Chefão do Fígado",
+  "subtitulo": "Simulado cronometrado de doenças hepáticas",
+  "orgao": "figado",
+  "trilha": "figado",
+  "questoes": 20,
+  "minutos": 40,
+  "aprovacao": 70,
+  "badge": "chefao-figado",
+  "desc": "Vinte questões de B1 a B8, cronometradas, com a correção comentada só no final."
+ },
+ {
+  "id": "final",
+  "titulo": "Chefão Final",
+  "subtitulo": "Rim e fígado misturados, no tempo da prova",
+  "orgao": "rim",
+  "trilha": null,
+  "questoes": 40,
+  "minutos": 90,
+  "aprovacao": 70,
+  "badge": "chefao-final",
+  "desc": "Quarenta questões embaralhando rim e fígado — intercalação de verdade. É o ensaio geral do domingo."
+ }
+]

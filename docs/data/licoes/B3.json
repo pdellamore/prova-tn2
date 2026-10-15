@@ -1,0 +1,219 @@
+{
+ "id": "B3",
+ "titulo": "Etiologias, hepatites e progressão",
+ "preteste": [
+  "Q-B3-01"
+ ],
+ "blocos": [
+  {
+   "id": "B3-b1",
+   "titulo": "O que é doença hepática e de onde vem",
+   "prioridade": "I",
+   "pontos": [
+    "**Doença hepática:** ampla gama de condições caracterizadas por **1) lesão dos hepatócitos, 2) infiltração de células inflamatórias e 3) ativação das células estreladas**. Esses processos, cumulativamente, **comprometem a função e alteram a arquitetura** do fígado. Podem ser **agudas ou crônicas, hereditárias ou adquiridas**.",
+    "**Etiologias metabólicas:** esteatose hepática associada à disfunção metabólica (MASLD), **hemocromatose, doença de Wilson, deficiência de alfa-1 antitripsina**.",
+    "**Etiologias tóxicas:** doença hepática alcoólica e **lesão hepática induzida por medicamento**.",
+    "**Etiologias virais:** hepatites virais **cronificadas**.",
+    "**A sobreposição de causas pode acelerar drasticamente a progressão.**",
+    "**Causas mais comuns, foco das aulas:** MASLD (**30 a 40% da população adulta**), doença hepática induzida por álcool (**60% dos casos de cirrose na Europa e América**) e hepatites virais, ainda com impacto relevante.",
+    "**Epidemiologia:** **4% das mortes globais em 2019**, **11ª principal causa de morte**, **2 milhões de mortes** globalmente."
+   ],
+   "cuidado": [
+    "Os **três processos** da definição caem juntos: lesão do hepatócito **+** infiltração inflamatória **+** ativação das estreladas.",
+    "**Álcool responde por 60% das cirroses** (Europa e América) e **MASLD atinge 30 a 40% dos adultos** — são números de coisas diferentes, não confunda."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 24
+   },
+   "checagem": {
+    "pergunta": "Quais são os três processos que caracterizam a doença hepática, segundo os slides?",
+    "alternativas": [
+     "Esteatose, fibrose e cirrose",
+     "Lesão dos hepatócitos, infiltração de células inflamatórias e ativação das células estreladas",
+     "Colestase, hipertensão portal e encefalopatia",
+     "Icterícia, ascite e varizes esofágicas",
+     "Hepatite, hemocromatose e doença de Wilson"
+    ],
+    "correta": 1,
+    "justificativa": "O slide define a doença hepática por **1) lesão dos hepatócitos, 2) infiltração de células inflamatórias e 3) ativação das células estreladas**, processos que cumulativamente comprometem a função e alteram a arquitetura do fígado.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 24
+    }
+   }
+  },
+  {
+   "id": "B3-b2",
+   "titulo": "Hepatites virais: quem transmite como",
+   "prioridade": "I",
+   "pontos": [
+    "Inflamação disseminada do fígado causada principalmente por **5 vírus**. A magnitude da inflamação e do dano depende da **reação imune individual**.",
+    "**Vírus identificados:** A (HAV), B (HBV), **vírus delta associado à hepatite B (HDV)**, C (HCV) e E (HEV).",
+    "**Transmissão: hepatites A e E → via fecal-oral.** **Hepatites B, C e D → sangue e fluidos corporais.**",
+    "**Hepatites A e E:** sem antiviral específico, em geral **infecções autolimitadas**; **repouso, hidratação** e **dieta normal, conforme tolerância**.",
+    "**Hepatite B:** **única com vírus de DNA**; representa cerca de **60% dos casos de hepatite viral**, com ~30% evoluindo com infecção sintomática e 1% para insuficiência hepática aguda; **tendência à cronificação**; antiviral para evitar progressão e complicações.",
+    "**Hepatite C:** prevalência crescente; **50 a 85% dos casos cronificam**; em geral (**80%**) **assintomáticos** até quadros avançados; **antivirais de ação direta → taxa de 95% de cura (12 a 24 semanas)**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Fase",
+     "O que acontece"
+    ],
+    "linhas": [
+     [
+      "**1 — Incubação**",
+      "ausência de sintomas ou sintomas inespecíficos: mal-estar, perda de apetite, náusea, dor em quadrante superior direito"
+     ],
+     [
+      "**2 — Pré-ictérica**",
+      "permanecem os sintomas; **10 a 20%** também com febre, artralgia, angioedema. **Elevação de AST e ALT**"
+     ],
+     [
+      "**3 — Ictérica**",
+      "**7 a 14 dias depois**: agravamento dos sintomas inespecíficos + **icterícia**"
+     ],
+     [
+      "**4 — Convalescente**",
+      "**2 a 12 semanas depois**, com redução progressiva até resolução completa. **HBV e HCV podem tornar o paciente portador**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**A e E = fecal-oral e autolimitadas.** **B, C e D = sangue e fluidos, cronificam.** O D anda junto do B.",
+    "**Só a hepatite B é vírus de DNA.**",
+    "**A dieta na hepatite aguda A/E é normal, conforme tolerância** — não há dieta especial."
+   ],
+   "ambiguidade": "hepatites-ae",
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 32
+   },
+   "checagem": {
+    "pergunta": "Qual hepatite viral é a única com vírus de DNA e responde por cerca de 60% dos casos?",
+    "alternativas": [
+     "Hepatite A",
+     "Hepatite B",
+     "Hepatite C",
+     "Hepatite D",
+     "Hepatite E"
+    ],
+    "correta": 1,
+    "justificativa": "O slide marca a **hepatite B** como a **única com vírus de DNA**, com **tendência à cronificação**, e traz que ela representa cerca de **60% dos casos de hepatite viral**.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 32
+    }
+   }
+  },
+  {
+   "id": "B3-b3",
+   "titulo": "Álcool: 7,1 kcal/g e duas vias",
+   "prioridade": "I",
+   "pontos": [
+    "**Álcool etílico:** fornece calorias que **não podem ser decompostas nem armazenadas** como proteína, gordura ou carboidrato.",
+    "**Metabolismo produz 7,1 kcal/g** e **80 a 90% é metabolizado pelo fígado**; o restante é excretado por **pulmões, rins e pele**.",
+    "**Duas vias metabólicas nos hepatócitos:** sistema da **álcool-desidrogenase (ADH), no citoplasma**, e **sistema de oxidação microssomal do álcool (SOMA), no retículo endoplasmático**.",
+    "**Produtos do metabolismo (acetaldeído, acetato, NADH)** → alterações metabólicas (sobretudo do metabolismo lipídico) que causam **lesão hepática, inflamação e estresse oxidativo**.",
+    "A quantidade capaz de causar dano **não é bem estabelecida** e depende de **sexo (mulheres tendem a produzir mais acetaldeído)**, **idade**, fatores genéticos, tamanho corporal e etnia.",
+    "**Hepatite alcoólica:** citoplasmas dos hepatócitos **distendidos por gordura, deslocando os núcleos para a periferia**, com **inflamação e necrose** das células. Evolução variável — pode não gerar sintoma ou progredir rapidamente à insuficiência hepática e morte."
+   ],
+   "cuidado": [
+    "**7,1 kcal/g** é o número do álcool nesta aula (não 7,0).",
+    "**ADH fica no citoplasma; SOMA/MEOS no retículo endoplasmático.** A troca entre os dois compartimentos é a pegadinha.",
+    "**Mulheres produzem mais acetaldeído** — por isso o limite de álcool é menor para elas também na classificação MetALD."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 34
+   },
+   "checagem": {
+    "pergunta": "Onde ficam as duas vias de metabolismo do álcool nos hepatócitos?",
+    "alternativas": [
+     "ADH na mitocôndria e SOMA no citoplasma",
+     "ADH no citoplasma e SOMA no retículo endoplasmático",
+     "As duas no retículo endoplasmático",
+     "ADH no retículo endoplasmático e SOMA na mitocôndria",
+     "As duas no núcleo da célula"
+    ],
+    "correta": 1,
+    "justificativa": "O slide localiza o **sistema da álcool-desidrogenase (ADH) no citoplasma dos hepatócitos** e o **sistema de oxidação microssomal do álcool (SOMA) no retículo endoplasmático**.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 34
+    }
+   }
+  },
+  {
+   "id": "B3-b4",
+   "titulo": "Progressão: o que ainda volta atrás",
+   "prioridade": "E",
+   "pontos": [
+    "**A sequência:** agressão contínua → **células de Kupffer liberam citocinas inflamatórias** → **células estreladas passam a produzir colágeno (cicatrizes)** para regenerar o tecido → **fibrose e nódulos alteram o tecido hepático e impedem a realização das funções**.",
+    "**Saudável → esteatose** (síndrome metabólica, álcool) **→ hepatite / inflamação** (vírus, medicamentos, doenças autoimunes) **→ fibrose / cicatrização → cirrose**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Estágio",
+     "Reversibilidade segundo o slide"
+    ],
+    "linhas": [
+     [
+      "Esteatose → hepatite (inflamação)",
+      "**a eliminação da agressão é capaz de reverter o processo inflamatório existente**"
+     ],
+     [
+      "Fibrose (cicatrização)",
+      "acúmulo de colágeno, **ainda potencialmente reversível**"
+     ],
+     [
+      "Cirrose",
+      "**alteração da arquitetura hepática** e oscilação entre estágios assintomáticos e de descompensação"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**A fibrose ainda é potencialmente reversível** — esse é o ponto mais cobrado do esquema. O que muda na cirrose é a **arquitetura**.",
+    "Mesmo na cirrose, outro slide registra que a **cessação completa da injúria pode levar à regressão (até 80% em uso de antivirais na hepatite C)**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+    "pagina": 40
+   },
+   "apoio": {
+    "tipo": "analogia",
+    "texto": "Kupffer é o **alarme** (chama a inflamação) e a estrelada é o **pedreiro** (põe colágeno). Enquanto só há remendo, dá para desfazer; quando o pedreiro muda a planta da casa, virou cirrose. Apoio de memória; o conteúdo é o do slide."
+   },
+   "checagem": {
+    "pergunta": "Segundo o esquema de progressão, qual estágio ainda é descrito como potencialmente reversível?",
+    "alternativas": [
+     "Apenas a esteatose",
+     "A inflamação e a fibrose",
+     "Somente a cirrose compensada",
+     "Nenhum estágio é reversível",
+     "Apenas a cirrose após transplante"
+    ],
+    "correta": 1,
+    "justificativa": "O slide diz que **a eliminação da agressão é capaz de reverter o processo inflamatório** e que a **fibrose**, com acúmulo de colágeno, é **ainda potencialmente reversível**. A cirrose é descrita como alteração da arquitetura — embora outro slide registre regressão em até 80% com antivirais na hepatite C.",
+    "fonte": {
+     "arquivo": "TN2_Fisiopatologia_Doencas_Hepaticas",
+     "pagina": 40
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "Os três processos que definem a doença hepática",
+  "As etiologias metabólicas, tóxicas e virais, e que a sobreposição acelera a progressão",
+  "Que MASLD atinge 30 a 40% dos adultos e o álcool responde por 60% das cirroses",
+  "Quais hepatites são fecal-oral e quais são por sangue e fluidos",
+  "Que só a B é DNA, que a C cronifica em 50 a 85% e tem 95% de cura",
+  "As quatro fases clínicas da hepatite viral",
+  "Que o álcool dá 7,1 kcal/g e tem duas vias: ADH no citoplasma e SOMA no retículo",
+  "A sequência Kupffer → citocinas → estrelada → colágeno → fibrose e nódulos",
+  "Que a fibrose ainda é potencialmente reversível"
+ ]
+}

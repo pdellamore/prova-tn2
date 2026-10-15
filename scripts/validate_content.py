@@ -125,6 +125,7 @@ def main() -> int:
     questoes = ler("questoes.json") or []
     ambiguidades = ler("ambiguidades.json") or []
     badges = ler("badges.json") or []
+    chefoes = ler("chefoes.json") or []
 
     ids_modulo = {m["id"] for m in modulos}
     ids_amb = {a["id"] for a in ambiguidades}
@@ -161,10 +162,38 @@ def main() -> int:
         for f in a.get("fontes", []):
             checar_fonte(rot, f, paginas, a.get("resumo", "") + " " + " ".join(a.get("lados", [])))
 
+    ids_chefao = {x["id"] for x in chefoes}
+    ids_badge = {b["id"] for b in badges}
+    for x in chefoes:
+        rot = f"chefoes.json[{x.get('id','?')}]"
+        registrar("chefoes.json", x["id"])
+        for campo in ("titulo", "orgao", "questoes", "minutos", "aprovacao", "badge", "desc"):
+            if vazio(x.get(campo)):
+                erro(f"{rot}: campo '{campo}' vazio")
+        if x.get("trilha") not in ("rim", "figado", None):
+            erro(f"{rot}: trilha deve ser 'rim', 'figado' ou null")
+        if not isinstance(x.get("questoes"), int) or x["questoes"] < 1:
+            erro(f"{rot}: 'questoes' deve ser um inteiro positivo")
+
     for b in badges:
         registrar("badges.json", b["id"])
         if vazio(b.get("titulo")) or vazio(b.get("desc")):
             erro(f"badges.json[{b['id']}]: título ou descrição vazios")
+
+    for x in chefoes:
+        if x.get("badge") and x["badge"] not in ids_badge:
+            erro(f"chefoes.json[{x['id']}]: conquista '{x['badge']}' não existe em badges.json")
+        disponiveis = [
+            q for q in questoes
+            if (mod := next((m for m in modulos if m["id"] == q["modulo"]), None))
+            and mod.get("disponivel")
+            and (not x.get("trilha") or mod["trilha"] == x["trilha"])
+        ]
+        if len(disponiveis) < x.get("questoes", 0):
+            aviso(
+                f"chefoes.json[{x['id']}]: só há {len(disponiveis)} questões liberadas para "
+                f"{x['questoes']} pedidas — o chefão aparece bloqueado até o conteúdo chegar"
+            )
 
     # ── flashcards ──
     for f in flashcards:
@@ -304,18 +333,20 @@ def main() -> int:
             for campo in ("titulo", "desc", "rota", "tipo"):
                 if vazio(ms.get(campo)):
                     erro(f"{rot}: campo '{campo}' vazio")
-            if ms.get("tipo") not in ("licoes", "questoes", "cards", "calculo", "feynman", "livre"):
+            if ms.get("tipo") not in ("licoes", "questoes", "cards", "calculo", "feynman", "chefao", "jogo", "livre"):
                 erro(f"{rot}: tipo de missão desconhecido: {ms.get('tipo')}")
             for mid in ms.get("modulos", []) or []:
                 if mid not in ids_modulo:
                     erro(f"{rot}: módulo '{mid}' não existe")
+            if ms.get("tipo") == "chefao" and ms.get("chefao") not in ids_chefao:
+                erro(f"{rot}: missão de chefão aponta para '{ms.get('chefao')}', que não existe")
 
     # ── relatório ──
     com_licao = sum(1 for m in modulos if (DADOS / "licoes" / (m["id"] + ".json")).exists())
     disponiveis = sum(1 for m in modulos if m.get("disponivel"))
     print(f"módulos: {len(modulos)} ({disponiveis} disponíveis) · lições escritas: {com_licao}")
     print(f"questões: {len(questoes)} · flashcards: {len(flashcards)} · ambiguidades: {len(ambiguidades)}")
-    print(f"dias no cronograma: {len(cronograma)} · conquistas: {len(badges)}")
+    print(f"dias no cronograma: {len(cronograma)} · conquistas: {len(badges)} · chefões: {len(chefoes)}")
 
     if avisos:
         print(f"\n{len(avisos)} aviso(s):")

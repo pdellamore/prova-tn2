@@ -1,0 +1,215 @@
+{
+ "id": "A7",
+ "titulo": "Diálise peritoneal",
+ "preteste": [
+  "Q-A7-01"
+ ],
+ "blocos": [
+  {
+   "id": "A7-b1",
+   "titulo": "Os objetivos da DP — e por que são diferentes",
+   "prioridade": "E",
+   "pontos": [
+    "Protocolo assistencial de Nutrição/Nefrologia na DP: **prevenir a desnutrição calórico-proteica**; **alcançar e manter um estado nutricional adequado**; **prevenir a obesidade e a hiperlipidemia**; **incentivar a prática de atividade física**.",
+    "O objetivo de **prevenir obesidade e hiperlipidemia** é o que distingue a DP: a **glicose do dialisato** é absorvida pelo peritônio e entra na conta de calorias do paciente.",
+    "**Kt/V na CAPD: 2,0 semanalmente** (na HD é 1,2 por sessão)."
+   ],
+   "cuidado": [
+    "Na HD o protocolo fala em prevenir toxicidade urêmica; na **DP** o protocolo acrescenta **prevenir obesidade e hiperlipidemia**. Essa diferença só existe por causa da glicose do dialisato."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 137
+   },
+   "checagem": {
+    "pergunta": "Por que prevenir obesidade e hiperlipidemia aparece entre os objetivos da diálise peritoneal, e não da hemodiálise?",
+    "alternativas": [
+     "Porque o paciente em DP é mais sedentário",
+     "Porque a glicose do dialisato é absorvida e soma calorias ao paciente",
+     "Porque a DP não remove lipídios do sangue",
+     "Porque a dieta da DP é mais rica em carboidratos por recomendação",
+     "Porque a DP é feita em casa, sem supervisão da equipe"
+    ],
+    "correta": 1,
+    "justificativa": "A solução de diálise peritoneal contém glicose, que é absorvida pelo peritônio. Por isso os slides mandam **incluir a glicose do dialisato** tanto na energia quanto nos carboidratos, e trazem a prevenção de obesidade e hiperlipidemia entre os objetivos.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 138
+    }
+   }
+  },
+  {
+   "id": "A7-b2",
+   "titulo": "Energia, carboidratos e lipídios: a conta inclui o dialisato",
+   "prioridade": "E",
+   "pontos": [
+    "**Energia: 25 a 35 kcal/kg/dia — incluindo a glicose do dialisato.**",
+    "**Carboidratos: 35% do VET por via oral**, considerando a glicose do dialisato.",
+    "**Lipídios: 25 a 35% do VET** — saturados < 7%, monoinsaturados até 20%, poli-insaturados 10%, colesterol < 200 mg/dia."
+   ],
+   "cuidado": [
+    "O **35% de carboidrato é por via oral**: o restante do VET de CHO já vem do dialisato. Na HD, os carboidratos são 50 a 60% do VET.",
+    "Lipídios: **25 a 35% na DP** contra **30 a 35% na HD** — a faixa da DP começa mais baixo."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 138
+   },
+   "checagem": {
+    "pergunta": "Na diálise peritoneal, a recomendação de 35% do VET em carboidratos se refere a quê?",
+    "alternativas": [
+     "Ao total de carboidratos do dia, somando dieta e dialisato",
+     "Aos carboidratos ingeridos por via oral, já considerando que o dialisato traz glicose",
+     "Apenas aos carboidratos simples da dieta",
+     "Aos carboidratos do dialisato, que não devem passar de 35% do VET",
+     "Ao mesmo valor usado na hemodiálise"
+    ],
+    "correta": 1,
+    "justificativa": "O slide escreve **35% VET por VO**, com a observação de que a conta **inclui a glicose do dialisato**. Ou seja: a boca entra com 35%, porque o peritônio já entrou com o resto.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 138
+    }
+   }
+  },
+  {
+   "id": "A7-b3",
+   "titulo": "Proteína na DP: a maior de todas",
+   "prioridade": "E",
+   "pontos": [
+    "**Proteína: 1,20 a 1,30 g/kg/dia** (KDOQI 2020).",
+    "**Repleção e peritonite: 1,40 a 1,50 g/kg/dia.**",
+    "A DP tem a maior recomendação proteica entre as modalidades de diálise porque há **perda proteica pelo dialisato**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Situação",
+     "Proteína (g/kg/dia)"
+    ],
+    "linhas": [
+     [
+      "Tratamento conservador (KDOQI, sem DM)",
+      "0,55 a 0,60"
+     ],
+     [
+      "Hemodiálise",
+      "1,0 a 1,2"
+     ],
+     [
+      "**Diálise peritoneal**",
+      "**1,20 a 1,30**"
+     ],
+     [
+      "**DP em repleção ou peritonite**",
+      "**1,40 a 1,50**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "A escada completa: **conservador < HD < DP < DP com peritonite**. Se a questão citar peritonite, o número sobe para 1,4–1,5."
+   ],
+   "ambiguidade": "proteina-dp",
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 139
+   },
+   "checagem": {
+    "pergunta": "Paciente em diálise peritoneal ambulatorial contínua, internada por peritonite. Qual a recomendação proteica pelo slide do KDOQI 2020?",
+    "alternativas": [
+     "0,55 a 0,60 g/kg/dia",
+     "1,0 a 1,2 g/kg/dia",
+     "1,20 a 1,30 g/kg/dia",
+     "1,40 a 1,50 g/kg/dia",
+     "Restringir proteína até a resolução do quadro infeccioso"
+    ],
+    "correta": 3,
+    "justificativa": "O slide dá dois patamares para a DP: **1,20 a 1,30 g/kg/dia** na situação habitual e **1,40 a 1,50 g/kg/dia** em **repleção e peritonite**. A peritonite aumenta a perda proteica pelo dialisato.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 139
+    }
+   }
+  },
+  {
+   "id": "A7-b4",
+   "titulo": "Minerais, líquidos e fibras",
+   "prioridade": "E",
+   "pontos": [
+    "A tabela de minerais da DP tem duas marcas registradas: o **potássio mais permissivo de todas as modalidades** e as **fibras**, que não aparecem em nenhuma outra tabela."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Item",
+     "Recomendação em DP"
+    ],
+    "linhas": [
+     [
+      "Potássio",
+      "**até 76 mEq** (menos restrito que a HD, que vai a 50–70 mEq)"
+     ],
+     [
+      "Sódio",
+      "até **2.300 mg**"
+     ],
+     [
+      "Cálcio",
+      "1.000 a 1.500 mg"
+     ],
+     [
+      "**Fósforo**",
+      "**1.000 a 1.200 mg**"
+     ],
+     [
+      "**Líquidos**",
+      "**restrição só na presença de PA elevada e edema**"
+     ],
+     [
+      "Fibras dietéticas",
+      "**20 a 25 gramas**"
+     ],
+     [
+      "Vitaminas",
+      "conforme as DRIs para idade e gênero"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Na DP não há prescrição fixa de líquidos**: só se restringe com **PA elevada e edema**. A fórmula dos 500 mL + diurese é da **hemodiálise**.",
+    "O potássio da DP é o **mais permissivo** de todos (até 76 mEq) — a troca contínua remove potássio o tempo todo.",
+    "As **fibras (20 a 25 g)** só aparecem na tabela da DP."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "Aula_NEFRO",
+    "pagina": 140
+   },
+   "checagem": {
+    "pergunta": "Qual recomendação aparece **apenas** na tabela da diálise peritoneal, e não na da hemodiálise?",
+    "alternativas": [
+     "Sódio até 2.300 mg",
+     "Fibras dietéticas de 20 a 25 gramas",
+     "Energia de 25 a 35 kcal/kg/dia",
+     "Cálcio de 1.000 mg",
+     "Colesterol abaixo de 200 mg/dia"
+    ],
+    "correta": 1,
+    "justificativa": "**Fibras dietéticas de 20 a 25 g** só constam na tabela de minerais da DP. Sódio 2.300 mg e energia 25–35 kcal/kg aparecem nas duas; o cálcio da DP é 1.000 a 1.500 mg.",
+    "fonte": {
+     "arquivo": "Aula_NEFRO",
+     "pagina": 140
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "Que os objetivos da DP incluem prevenir obesidade e hiperlipidemia, por causa da glicose do dialisato",
+  "Energia 25–35 kcal/kg incluindo o dialisato, e CHO 35% do VET por via oral",
+  "Proteína 1,20–1,30, subindo para 1,40–1,50 em repleção ou peritonite",
+  "Por que a DP exige mais proteína que a HD",
+  "Potássio até 76 mEq, fósforo 1.000–1.200 mg, fibras 20–25 g",
+  "Que a restrição de líquidos na DP só existe com PA elevada e edema",
+  "Kt/V de 2,0 por semana na CAPD"
+ ]
+}

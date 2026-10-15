@@ -36,6 +36,10 @@ export function progressoMissao(c, m, e = ler()) {
     const feitos = (m.calculos || []).filter((id) => (e.chefoes["calc:" + id]?.resolvidos || 0) > 0).length;
     return { feito: feitos, alvo: (m.calculos || []).length };
   }
+  if (m.tipo === "chefao") {
+    const t = (e.chefoes[m.chefao]?.tentativas || []).length;
+    return { feito: t ? 1 : 0, alvo: 1 };
+  }
   if (m.tipo === "feynman") {
     const feitos = (m.modulos || []).filter((id) => (e.feynman[id]?.texto || "").trim().length > 40).length;
     return { feito: feitos, alvo: (m.modulos || []).length };

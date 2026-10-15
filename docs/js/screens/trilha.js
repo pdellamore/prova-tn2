@@ -96,7 +96,12 @@ export async function desenhar(raiz, { c }) {
       <h1>Trilhas</h1>
       <p style="color:var(--tinta-fraca)">${selo("E")} essencial · ${selo("I")} importante · ${selo("C")} complementar. Você pode pular: o que ficou para trás aparece com a borda tracejada.</p>
       ${trilhaSVG(c, "rim", rim, amp)}
-      ${trilhaSVG(c, "figado", figado, amp)}`;
+      ${trilhaSVG(c, "figado", figado, amp)}
+      <div class="cartao">
+        <div class="linha-entre"><h2 style="margin:0">Chefões</h2><span class="fonte">simulados cronometrados</span></div>
+        <p style="margin:.35rem 0 .6rem;color:var(--tinta-fraca);font-size:.93rem">No fim de cada trilha há um simulado com o gabarito só no final — e, no domingo, o Chefão Final com rim e fígado misturados.</p>
+        <div class="acoes" style="margin:0"><a class="btn btn-forte" href="#/chefao">Ver os chefões</a></div>
+      </div>`;
   };
 
   pintar();

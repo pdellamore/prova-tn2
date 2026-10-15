@@ -872,4 +872,6 @@ Ordem de corte, se faltar tempo: primeiro os itens [C] (fisiologia renal, metas 
 - **A quem pertencem os slides 73–81 (Dietoterapia):** vêm depois do divisor "Tratamento Conservador" (p. 72) e citam KDOQI 2020 e KDIGO 2012, mas descrevem a tríade proteinúria–edema–hiperlipidemia (síndrome nefrótica). O slide não diz a qual das duas situações as recomendações pertencem.
 - **Sódio na DRC:** três alvos na mesma aula — **< 1,5 g/dia** (quadro de metas, p. 43), **< 2 g/dia** (KDIGO, p. 89) e **até 2.000 mg/dia** (tabela do conservador, p. 104), sem conciliação.
 - **ASG renal:** as faixas vão até "32–39 grave" e a gravíssima é "acima de 40" — **40 pontos exatos ficam sem classe**.
+- **Dose da dieta muito restrita com cetoanálogos:** os slides 82 e 83 (BRASPEN/KDOQI) trazem **0,28–0,43 g/kg/dia**; o fluxo da "opção 02" (p. 99) escreve **0,3–0,4 g/kg/dia**, para os mesmos estágios 4 e 5.
+- **Cálcio na nefrolitíase:** a linha "Evitar alimentos ricos em purina, sódio e restrição de cálcio" (p. 166) admite duas leituras — evitar a restrição de cálcio, ou restringir cálcio. A tabela da p. 167, que só manda controlar o cálcio alimentar na hipercalciúria absortiva tipo II, favorece a primeira leitura.
 </div>

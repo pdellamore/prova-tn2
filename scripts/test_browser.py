@@ -11,6 +11,12 @@ Uso:
     pip install playwright && python3 -m playwright install chromium
     python3 scripts/test_browser.py            # roda tudo
     python3 scripts/test_browser.py --fotos    # roda e grava as telas em capturas/
+
+Variáveis de ambiente:
+    TN2_PUBLICO   diretório servido localmente (padrão: docs/)
+    TN2_SUBPASTA  prefixo de caminho, para simular o GitHub Pages (ex.: /prova-tn2)
+    TN2_BASE      endereço já publicado; quando definido, não sobe servidor local
+                  (ex.: TN2_BASE=https://usuario.github.io/prova-tn2)
 """
 
 from __future__ import annotations
@@ -29,6 +35,8 @@ RAIZ = Path(__file__).resolve().parent.parent
 PUBLICO = Path(os.environ.get("TN2_PUBLICO") or (RAIZ / "docs"))
 # Com TN2_SUBPASTA=/prova-tn2 o teste roda contra uma subpasta, como no GitHub Pages.
 SUBPASTA = os.environ.get("TN2_SUBPASTA", "")
+# Com TN2_BASE o teste roda contra o site já publicado, sem servidor local.
+BASE_EXTERNA = os.environ.get("TN2_BASE", "").rstrip("/")
 CAPTURAS = RAIZ / "capturas"
 CELULAR = {"width": 390, "height": 844}
 DESKTOP = {"width": 1280, "height": 800}
@@ -361,7 +369,11 @@ def foto(page: Page, nome: str) -> None:
 
 def main() -> int:
     fotos = "--fotos" in sys.argv
-    servidor, base = servir()
+    if BASE_EXTERNA:
+        servidor, base = None, BASE_EXTERNA
+        print(f"testando o site publicado em {base}")
+    else:
+        servidor, base = servir()
     try:
         with sync_playwright() as pw:
             navegador = pw.chromium.launch()
@@ -401,7 +413,8 @@ def main() -> int:
                 ctx.close()
             navegador.close()
     finally:
-        servidor.shutdown()
+        if servidor is not None:
+            servidor.shutdown()
 
     print(f"\n{len(passos)} verificações passaram, {len(falhas)} falharam")
     if falhas:

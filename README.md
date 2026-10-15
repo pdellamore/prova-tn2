@@ -34,7 +34,21 @@ python3 -m http.server 8000
 # abra http://localhost:8000
 ```
 
-## Como publicar no GitHub Pages (passo a passo)
+## Onde o site está publicado
+
+**https://pdellamore.github.io/prova-tn2/** — repositório `pdellamore/prova-tn2`, servido da
+pasta `/docs` do branch `main`.
+
+Para republicar depois de mudar qualquer coisa:
+
+```bash
+git add -A && git commit -m "o que mudou" && git push
+```
+
+O GitHub Pages reconstrói sozinho em cerca de um minuto. Não há etapa de build: o que está em
+`docs/` é exatamente o que vai para o ar.
+
+## Como publicar em outro lugar (passo a passo)
 
 1. Crie um repositório no GitHub (pode ser público — **os PDFs e os textos dos slides não
    vão para o site**, só o material reescrito).
@@ -158,6 +172,13 @@ Para testar exatamente como o GitHub Pages serve (dentro de uma subpasta):
 ```bash
 mkdir -p /tmp/sub/meu-repo && cp -R docs/* /tmp/sub/meu-repo/
 TN2_PUBLICO=/tmp/sub TN2_SUBPASTA=/meu-repo python3 scripts/test_browser.py
+```
+
+E para rodar a suíte inteira contra o site **já publicado**, que é o teste que mais vale
+(HTTPS de verdade, service worker de verdade, subpasta de verdade):
+
+```bash
+TN2_BASE=https://pdellamore.github.io/prova-tn2 python3 scripts/test_browser.py
 ```
 
 ## Mapa do código

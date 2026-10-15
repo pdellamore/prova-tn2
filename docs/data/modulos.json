@@ -117,8 +117,7 @@
   "titulo": "Esteatose hepática e MASLD",
   "prioridade": "E",
   "duracao_min": 8,
-  "disponivel": false,
-  "chega": "chega no sábado"
+  "disponivel": true
  },
  {
   "id": "B6",
@@ -126,8 +125,7 @@
   "titulo": "Avaliação nutricional na cirrose",
   "prioridade": "E",
   "duracao_min": 8,
-  "disponivel": false,
-  "chega": "chega no sábado"
+  "disponivel": true
  },
  {
   "id": "B7",
@@ -135,8 +133,7 @@
   "titulo": "Terapia nutricional na cirrose",
   "prioridade": "E",
   "duracao_min": 8,
-  "disponivel": false,
-  "chega": "chega no sábado"
+  "disponivel": true
  },
  {
   "id": "B8",
@@ -144,7 +141,6 @@
   "titulo": "Transplante hepático",
   "prioridade": "I",
   "duracao_min": 4,
-  "disponivel": false,
-  "chega": "chega no sábado"
+  "disponivel": true
  }
 ]

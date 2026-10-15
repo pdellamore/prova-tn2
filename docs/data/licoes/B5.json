@@ -1,0 +1,521 @@
+{
+ "id": "B5",
+ "titulo": "Esteatose hepática e MASLD",
+ "preteste": [
+  "Q-B5-01",
+  "Q-B5-02"
+ ],
+ "blocos": [
+  {
+   "id": "B5-b1",
+   "titulo": "Esteatose: o corte dos 5%",
+   "prioridade": "E",
+   "pontos": [
+    "**ESTEATOSE = acúmulo/infiltração gordurosa (triglicerídeos) nos hepatócitos**, em **ao menos 5% do peso total do fígado**.",
+    "**Graus:** **leve 5–33%** dos hepatócitos · **moderada 33–66%** · **severa > 66%**.",
+    "**Diagnóstico por imagem:** ultrassonografia abdominal, tomografia computadorizada, ressonância magnética, elastografia.",
+    "**Possíveis etiologias:** síndrome metabólica · álcool · síndrome metabólica + álcool · lesão induzida por medicamentos · **hepatite viral (especialmente C)** · doenças monogênicas · **nutrição parenteral** · **desnutrição proteico-calórica**."
+   ],
+   "cuidado": [
+    "Repare na mistura de unidades: o **corte diagnóstico é 5% do peso do fígado**, mas os **graus** são dados em **% de hepatócitos** acometidos.",
+    "A lista de etiologias inclui duas que surpreendem numa prova: **nutrição parenteral** e **desnutrição proteico-calórica**. Esteatose não é sinônimo de excesso."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 2
+   },
+   "checagem": {
+    "pergunta": "Segundo o slide, a partir de qual acúmulo se considera esteatose hepática?",
+    "alternativas": [
+     "Acúmulo de gordura em ao menos 5% do peso total do fígado",
+     "Acúmulo de gordura em ao menos 33% dos hepatócitos",
+     "Acúmulo de gordura em mais de 66% do peso do fígado",
+     "Qualquer acúmulo visível de gordura à ultrassonografia",
+     "Acúmulo de gordura em ao menos 10% do peso total do fígado"
+    ],
+    "correta": 0,
+    "justificativa": "O slide define esteatose como acúmulo de triglicerídeos nos hepatócitos em **ao menos 5% do peso total do fígado**. Os 33% e os 66% são os cortes **entre os graus** (leve, moderada e severa), medidos em **% de hepatócitos**.",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 2
+    }
+   }
+  },
+  {
+   "id": "B5-b2",
+   "titulo": "A nomenclatura nova: SLD, MASLD, MetALD, ALD",
+   "prioridade": "E",
+   "pontos": [
+    "A nomenclatura **ANTERIOR** era **Doença Gordurosa Não-Alcoólica (NAFLD)**. A **ATUAL** é **esteatose hepática associada à disfunção metabólica (MASLD)**, e o **novo conceito** acrescentado é o de **doença hepática associada à disfunção metabólica e ao álcool (MetALD)**.",
+    "**Objetivos da mudança:** identificar melhor a etiologia e o papel da disfunção metabólica; **eliminar o estigma potencial do termo “gorduroso”**; auxiliar um diagnóstico pragmático, ao exigir na definição **pelo menos um fator de risco cardiometabólico**; chamar atenção ao risco de quem **não preenchia os critérios restritos de consumo de álcool**.",
+    "**Apesar da mudança do critério, a evidência sobre NAFLD pode ser extrapolada para MASLD**, porque as duas condições são **quase perfeitamente sobrepostas e correlacionadas** em grandes estudos populacionais."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Sigla",
+     "O que significa"
+    ],
+    "linhas": [
+     [
+      "**MASLD**",
+      "**M**etabolic dysfunction **A**ssociated **S**teatotic **L**iver **D**isease — esteatose associada à disfunção metabólica"
+     ],
+     [
+      "**MASH**",
+      "**M**etabolic dysfunction-**A**ssociated **S**teato**h**epatitis — a forma com inflamação"
+     ],
+     [
+      "**MetALD**",
+      "**Met**abolic and **AL**cohol associated Liver **D**isease — MASLD + consumo aumentado de álcool"
+     ],
+     [
+      "**ALD**",
+      "**A**lcohol associated **L**iver **D**isease — doença hepática associada ao álcool"
+     ],
+     [
+      "Outras causas",
+      "demais etiologias de esteatose"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**MASLD substitui NAFLD**, mas o antigo não vira lixo: o slide diz explicitamente que a evidência **pode ser extrapolada**.",
+    "A **eliminação do estigma** do termo “gorduroso” é um dos objetivos declarados — enunciado fácil de reconhecer."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 5
+   },
+   "apoio": {
+    "tipo": "mnemonico",
+    "texto": "Na sigla, o **M** inicial é sempre **metabólico** e o **A** do meio é **associado**: **MASLD** é a doença; **MASH** troca o *Liver Disease* por *steatoHepatitis*, ou seja, acrescenta **inflamação**. Apoio de memória; as definições são as do slide."
+   },
+   "checagem": {
+    "pergunta": "Qual destes é um objetivo declarado da mudança de NAFLD para MASLD?",
+    "alternativas": [
+     "Restringir o diagnóstico a quem tem biópsia hepática",
+     "Eliminar o estigma potencial associado ao termo “gorduroso”",
+     "Excluir do diagnóstico quem consome qualquer quantidade de álcool",
+     "Descartar toda a evidência anterior sobre NAFLD",
+     "Substituir a imagem pelo exame laboratorial no diagnóstico"
+    ],
+    "correta": 1,
+    "justificativa": "O slide lista quatro objetivos, e um deles é exatamente **eliminar o estigma potencial associado ao termo “gorduroso”**. Outro é tornar o diagnóstico **pragmático**, exigindo pelo menos um fator cardiometabólico — e a evidência de NAFLD **continua válida por extrapolação**.",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 6
+    }
+   }
+  },
+  {
+   "id": "B5-b3",
+   "titulo": "Definição de MASLD: quatro peças",
+   "prioridade": "E",
+   "pontos": [
+    "**MASLD = acúmulo de gordura superior a 5% do peso hepático total + ao menos 1 fator cardiometabólico + ausência de consumo significativo de álcool + ausência de outras causas de doença hepática.**"
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Fator cardiometabólico (basta 1)",
+     "Ponto de corte"
+    ],
+    "linhas": [
+     [
+      "**IMC ou CC**",
+      "IMC **≥ 25 kg/m²** (**23 kg/m² na Ásia**) ou CC **> 94 cm (H) / 80 cm (M)**, ou equivalente por etnia"
+     ],
+     [
+      "**Glicemia de jejum**",
+      "**GJ ≥ 100 mg/dL** ou **glicemia 2 h pós-TOTG ≥ 140** ou **HbA1c ≥ 5,7%** ou DM2 **ou tratamento para DM2**"
+     ],
+     [
+      "**Pressão arterial**",
+      "**PA ≥ 130/85 mmHg** ou tratamento anti-hipertensivo"
+     ],
+     [
+      "**Triglicerídeos**",
+      "**TG ≥ 150 mg/dL** ou tratamento hipolipemiante"
+     ],
+     [
+      "**HDL-colesterol**",
+      "**≤ 40 mg/dL (H)** e **≤ 50 mg/dL (M)** ou tratamento hipolipemiante"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Basta um** fator cardiometabólico — e **estar em tratamento já conta** (anti-hipertensivo, hipolipemiante, tratamento de DM2). Questão clássica: o paciente “controlado” continua preenchendo o critério.",
+    "**HbA1c ≥ 5,7%** é o corte de pré-diabetes, não de diabetes. Não espere 6,5%.",
+    "**HDL é “≤”**, com cortes **diferentes por sexo**; a CC também (**94 H / 80 M**)."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 9
+   },
+   "checagem": {
+    "pergunta": "Mulher com esteatose à ultrassonografia, IMC 23 kg/m², CC 78 cm, GJ 96 mg/dL, HbA1c 5,4%, PA 118/74 mmHg, TG 130 mg/dL, HDL 48 mg/dL, sem outras causas de hepatopatia e sem consumo de álcool. Ela preenche o critério de MASLD?",
+    "alternativas": [
+     "Sim, porque a esteatose por si só define MASLD",
+     "Não, porque não preenche nenhum fator cardiometabólico — exceto o HDL ≤ 50 mg/dL, que ela preenche",
+     "Não, porque faltam pelo menos dois fatores cardiometabólicos",
+     "Sim, porque o IMC acima de 23 kg/m² já conta para qualquer etnia",
+     "Não é possível decidir sem biópsia hepática"
+    ],
+    "correta": 1,
+    "justificativa": "O **HDL ≤ 50 mg/dL em mulheres** é um dos cinco fatores, e ela tem **48 mg/dL** — então preenche **um** fator, o que basta para MASLD. Todos os outros estão abaixo do corte: IMC < 25 (o corte de 23 é **só para a Ásia**), CC < 80, GJ < 100, HbA1c < 5,7%, PA < 130/85, TG < 150.",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 9
+    }
+   }
+  },
+  {
+   "id": "B5-b4",
+   "titulo": "A linha do álcool: MASLD, MetALD ou ALD",
+   "prioridade": "E",
+   "pontos": [
+    "**Consumo semanal para MetALD: 140–350 g (mulheres) / 210–420 g (homens).**",
+    "**Consumo diário para MetALD: 20–50 g (mulheres) / 30–60 g (homens).** Abaixo dessa faixa, a classificação é **MASLD**; acima, **ALD**.",
+    "**Na prática:** mulheres 20–50 g/dia ≈ **1,5 a 3,5 doses/dia**; homens 30–60 g/dia ≈ **2 a 4,5 doses/dia**. **1 dose padrão ≈ 10 a 14 g de álcool** — 1 lata de cerveja (350 mL a 5%), 1 taça de vinho (~150 mL a 12%), 1 dose de destilado (~30 mL a 40%).",
+    "**A distinção entre MASLD, MetALD e ALD nem sempre é simples**, porque se baseia principalmente no histórico clínico e no **consumo autorrelatado, frequentemente subestimado ou subrelatado**.",
+    "Instrumento de rastreio citado: **AUDIT** (auditscreen.org)."
+   ],
+   "cuidado": [
+    "**MetALD é uma faixa, não um ponto.** Dentro dela, o slide mostra um gradiente: perto do limite inferior é **MASLD-predominante**; perto do superior, **ALD-predominante**.",
+    "Os números **dobram** da mulher para o homem no limite inferior semanal (140 × 210) mas não no superior (350 × 420). Decore os quatro.",
+    "Confira os números multiplicando por 7: **20 × 7 = 140**, **50 × 7 = 350**, **30 × 7 = 210**, **60 × 7 = 420**. O diário e o semanal são a mesma faixa — basta decorar um par e conferir."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 11
+   },
+   "checagem": {
+    "pergunta": "Homem com esteatose e dois fatores cardiometabólicos relata consumo de 500 g de álcool por semana. Como classificar?",
+    "alternativas": [
+     "MASLD, porque há fatores cardiometabólicos presentes",
+     "MetALD, porque o consumo está dentro da faixa de 210 a 420 g por semana",
+     "ALD, porque o consumo ultrapassa o limite superior de 420 g por semana",
+     "MASH, porque a soma de álcool e disfunção metabólica gera inflamação",
+     "Não é classificável sem biópsia hepática"
+    ],
+    "correta": 2,
+    "justificativa": "Para homens, a faixa de **MetALD vai de 210 a 420 g por semana**. Com **500 g**, o consumo passa do limite superior, e a classificação é **ALD**. Abaixo de 210 g seria MASLD; a **MASH** é definição histológica, não de consumo.",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 11
+    }
+   }
+  },
+  {
+   "id": "B5-b5",
+   "titulo": "Prognóstico, prevalência e fisiopatologia",
+   "prioridade": "I",
+   "pontos": [
+    "**A etiologia impacta no prognóstico.** Risco previsto em relação a quem não tem esteatose — **mortalidade:** ALD **HR 3,57** · MetALD **HR 2,94** · MASLD **HR 2,30**. **Descompensação hepática:** ALD **HR 10,2** · MetALD **HR 7,69** · MASLD **HR 4,73**. O **consumo de álcool é fortemente correlacionado com a progressão e o prognóstico** da doença.",
+    "**Prevalência de MASLD:** **1 a cada 3 pacientes adultos** sentados na sala de espera; **8 a 9 em cada 10 pacientes com obesidade**. Por região (dados de 1990–2019), a maior é a da **América Latina, 44,4%**; a menor, Europa Ocidental, 25,1%.",
+    "**Fisiopatologia:** excesso calórico, predominância de alimentos refinados, excesso de gordura saturada, sedentarismo, alterações da microbiota intestinal, fatores genéticos, excesso de peso, gordura visceral e síndrome metabólica.",
+    "**Resistência à insulina:** no **fígado**, ↑ produção de glicose e ↑ **lipogênese de novo**; no **músculo esquelético**, ↓ síntese de glicogênio e ↓ GLUT-4 (queda da captação de glicose); no **tecido adiposo**, hipertrofia e hiperplasia com ↑ lipólise, ↑ resposta inflamatória, ↑ adipocinas e ↓ GLUT-4.",
+    "**A gordura chega ao fígado por três caminhos:** **excesso de ácidos graxos circulantes** (da lipólise do tecido adiposo), **lipídios da dieta** e **lipogênese de novo** pela resistência à insulina."
+   ],
+   "cuidado": [
+    "A ordem do prognóstico é sempre a mesma: **ALD > MetALD > MASLD > sem esteatose**. O álcool piora tudo.",
+    "Os três caminhos da gordura para o fígado são uma pergunta pronta: **AG circulantes, dieta e lipogênese de novo**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 14
+   },
+   "checagem": {
+    "pergunta": "Pelos dados do slide, qual a ordem decrescente de risco de descompensação hepática?",
+    "alternativas": [
+     "MASLD > MetALD > ALD > sem esteatose",
+     "ALD > MetALD > MASLD > sem esteatose",
+     "MetALD > ALD > MASLD > sem esteatose",
+     "ALD > MASLD > MetALD > sem esteatose",
+     "Os três subtipos têm risco equivalente"
+    ],
+    "correta": 1,
+    "justificativa": "Os HR de descompensação são **ALD 10,2 > MetALD 7,69 > MASLD 4,73**, tendo como referência quem **não tem esteatose**. O mesmo escalonamento aparece na mortalidade (3,57 > 2,94 > 2,30) — o slide conclui que o álcool está **fortemente correlacionado com a progressão**.",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 14
+    }
+   }
+  },
+  {
+   "id": "B5-b6",
+   "titulo": "Triagem, investigação e quem tem risco de quê",
+   "prioridade": "E",
+   "pontos": [
+    "**O rastreamento da MASLD deve ser considerado em adultos com IMC > 25 kg/m².**",
+    "**Em pacientes com sobrepeso/obesidade, a dosagem isolada de enzimas hepáticas NÃO é recomendada** para o rastreamento de esteatose. **Não é incomum os pacientes estarem com enzimas hepáticas normais.**",
+    "**Busca ativa em pacientes de alto risco:** **diabetes tipo 2**, **obesidade** e **elevação persistente de AST e/ou ALT por mais de 6 meses**, detectada por **pelo menos 2 testes** e **após descartadas outras causas** de doença hepática.",
+    "**MASH** exigiria a detecção concomitante de **esteatose hepática + inflamação lobular + balonização** (~25% dos pacientes). **Como a única forma de identificar é a biópsia, a MASH não está no fluxo diagnóstico.**",
+    "**Avaliação do grau de fibrose — FIB-4:** teste de triagem para **descartar fibrose avançada/significativa**, usado junto a escores não invasivos e/ou elastografia. **“Nutricionistas devem considerar calcular o escore FIB-4, se todos os componentes estiverem disponíveis, para estratificação de risco”** e para educar sobre a importância da terapia nutricional."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "",
+     "Risco principal"
+    ],
+    "linhas": [
+     [
+      "**MASLD**",
+      "eventos CV, HAS, pré-DM e DM2, doença renal e câncer — **aumenta quanto maior a “carga” de doença metabólica**"
+     ],
+     [
+      "**MASH**",
+      "estímulo de indução de fibrose; **parece não aumentar tanto** o risco de eventos comparado à MASLD"
+     ],
+     [
+      "**Fibrose**",
+      "**fator prognóstico para desfechos hepáticos** — maior risco de eventos hepáticos e descompensação (**HR 8,46**)"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Enzimas normais não excluem MASLD**, e **enzima isolada não é rastreio**. Mas AST/ALT elevadas por > 6 meses (≥ 2 testes) **são** gatilho de busca ativa. As duas afirmações convivem.",
+    "**Quem prediz desfecho hepático é a FIBROSE, não a MASH.** O FIB-4 serve para **descartar** fibrose avançada, não para confirmá-la.",
+    "**Preditores de progressão:** DM2, obesidade, **homens > 50 anos**, **mulheres pós-menopausa** e indivíduos com **múltiplos fatores cardiometabólicos**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 22
+   },
+   "checagem": {
+    "pergunta": "Por que a MASH não entra no fluxo diagnóstico apresentado?",
+    "alternativas": [
+     "Porque é rara, ocorrendo em menos de 5% dos pacientes",
+     "Porque a única forma de identificá-la é a biópsia hepática",
+     "Porque não altera o prognóstico de nenhum desfecho",
+     "Porque o FIB-4 já a identifica, tornando o fluxo desnecessário",
+     "Porque depende de elastografia, exame pouco disponível"
+    ],
+    "correta": 1,
+    "justificativa": "A definição de MASH exige **esteatose + inflamação lobular + balonização**, e o slide diz que, **pelo fato de a única forma de identificar ser a biópsia, não está no fluxo diagnóstico**. Ela ocorre em cerca de **25%** dos pacientes — não é rara.",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 25
+    }
+   }
+  },
+  {
+   "id": "B5-b7",
+   "titulo": "Clínica e avaliação nutricional",
+   "prioridade": "I",
+   "pontos": [
+    "**Manifestação clínica: assintomática, em geral, até o estágio de cirrose.** Costuma ser **achado incidental** de alterações laboratoriais ou de imagem feitas por outros motivos.",
+    "**70% dos casos são diagnosticados na primeira admissão hospitalar por descompensação da cirrose.**",
+    "**Elevação de transaminases pode estar presente, mas nem sempre. A ferritina pode estar elevada.**",
+    "**Avaliação nutricional:** peso corporal e IMC; **distribuição de gordura e composição corporal — 10 a 20% são eutróficos**; bioimpedância, DEXA, antropometria; **circunferência da cintura e do pescoço**; **relação cintura/quadril**; exames laboratoriais de controle metabólico (glicemia, perfil lipídico, enzimas hepáticas). **O excesso de adiposidade pode conviver com depleção muscular e pior funcionalidade.**",
+    "**História alimentar (R24h e recordatório habitual):** consumo atual e habitual; **explorar bem o consumo de álcool — o consumo atual pode não refletir a história prévia**; gordura trans e saturada; **qualidade dos alimentos fontes de carboidratos**; consumo energético total."
+   ],
+   "cuidado": [
+    "**10 a 20% dos pacientes com MASLD são eutróficos** — IMC normal não afasta a doença, e por isso a composição corporal entra na avaliação.",
+    "**Álcool atual ≠ álcool de sempre.** O slide pede explicitamente para investigar a história prévia."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 30
+   },
+   "checagem": {
+    "pergunta": "Sobre a apresentação clínica da MASLD, o que o slide afirma?",
+    "alternativas": [
+     "É sintomática desde o início, com dor em hipocôndrio direito",
+     "É em geral assintomática até o estágio de cirrose, e 70% são diagnosticados na primeira admissão por descompensação",
+     "As transaminases estão sempre elevadas no momento do diagnóstico",
+     "A ferritina está caracteristicamente reduzida",
+     "O diagnóstico depende de sintomas de encefalopatia"
+    ],
+    "correta": 1,
+    "justificativa": "O slide diz **“ASSINTOMÁTICA, em geral, até o estágio de cirrose”** e que **70% dos casos são diagnosticados na primeira admissão hospitalar por descompensação da cirrose**. As transaminases **podem** estar elevadas, mas **nem sempre**, e a **ferritina pode estar elevada** (não reduzida).",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 30
+    }
+   }
+  },
+  {
+   "id": "B5-b8",
+   "titulo": "Terapia nutricional: as metas de perda de peso",
+   "prioridade": "E",
+   "pontos": [
+    "**Objetivos:** controle do peso e redução de gordura corporal; manejo de comorbidades (DM2, dislipidemia, HAS) para **reduzir o risco CV**; **evitar progressão da lesão hepática e/ou promover regressão**; melhora das enzimas hepáticas; **redução de desfechos relacionados ao fígado** — esteatose e fibrose, progressão para cirrose, hepatocarcinoma e transplante hepático.",
+    "**Mudança do estilo de vida (MEV):** restrição calórica e perda de peso + exercício físico regular + padrão alimentar saudável (qualidade da dieta) + **reduzir/eliminar álcool**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Redução do peso corporal",
+     "Efeito"
+    ],
+    "linhas": [
+     [
+      "**3–5%**",
+      "**redução da esteatose**"
+     ],
+     [
+      "**7%**",
+      "**melhora da esteato-hepatite**"
+     ],
+     [
+      "**10%**",
+      "**regressão e estabilização da fibrose**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**3–5% esteatose · 7% MASH · 10% fibrose.** É a tabela mais cobrável da aula: quanto mais grave o alvo, maior a perda exigida.",
+    "**Déficit de 500 a 1.000 kcal/dia OU dieta de 1.200 a 1.500 kcal.** Se não atingir: **MEV mais intensiva, manejo farmacológico ou cirúrgico, acompanhamento com especialista**.",
+    "A **EASL-EASD-EASO** é mais granular: sobrepeso/obesidade → **≥ 5%** (esteatose) e **≥ 7–10%** (MASH e fibrose), **considerar incretinas**; **obesidade classe II ou III → considerar procedimento bariátrico**; **MASLD com peso normal → 3–5%**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 35
+   },
+   "checagem": {
+    "pergunta": "Qual perda de peso o slide associa à regressão e estabilização da fibrose?",
+    "alternativas": [
+     "3 a 5%",
+     "7%",
+     "10%",
+     "15%",
+     "Mais de 20%"
+    ],
+    "correta": 2,
+    "justificativa": "A escada é **3–5% → redução da esteatose**, **7% → melhora da esteato-hepatite** e **10% → regressão e estabilização da fibrose**. Quanto mais profundo o desfecho hepático, maior a perda necessária.",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 35
+    }
+   }
+  },
+  {
+   "id": "B5-b9",
+   "titulo": "Macronutrientes, padrão alimentar e o peso ajustado",
+   "prioridade": "E",
+   "pontos": [
+    "**Proteína: 1,2 g/kg de peso ajustado** durante o processo de perda de peso. **Peso ajustado = (PA − PI) × 0,25 + PI.**",
+    "**Distribuição de calorias (meta-análise de dietas isocalóricas):** **low carb × low fat — sem diferença** no conteúdo de gordura hepática. **Reduzir carboidrato e substituir por proteína (e não por gordura) pode ser benéfico**, assim como **substituir gordura saturada por insaturada**.",
+    "**A superioridade da restrição de carboidratos (< 40% VET) no longo prazo não é clara.** Recomendação geral: **padrão alimentar saudável, baseado em alimentos in natura e minimamente processados, equilibrado em macronutrientes**, adaptado à individualidade, **priorizando menor índice glicêmico e otimizando fibras**.",
+    "**Padrão alimentar:** o **ocidentalizado** se associa a **maior risco** de MASLD; o **mediterrâneo e o DASH**, a **proteção**. As **diretrizes recomendam o mediterrâneo como referência**, com **adaptações ao contexto brasileiro e socioeconômico**.",
+    "**Meta-análise:** no **índice de esteatose (FLI, escore calculado)**, **dieta mediterrânea e restrição calórica** foram eficazes; na **esteatose medida por exame de imagem**, **apenas a restrição calórica demonstrou benefício** → **a restrição calórica deve fazer parte da intervenção**.",
+    "**Reduzir o consumo de frutose** obtida de alimentos como xaropes e bebidas açucaradas. **Álcool: qualquer redução ajuda; abstinência em casos de fibrose avançada.**"
+   ],
+   "cuidado": [
+    "**A proteína é calculada sobre o PESO AJUSTADO**, não o atual: **(PA − PI) × 0,25 + PI**. Erro clássico de cálculo na prova.",
+    "Cuidado com a pegadinha do padrão alimentar: **mediterrânea funcionou no escore, mas na imagem só a restrição calórica funcionou**. Daí a conclusão de que a restrição calórica **tem** que fazer parte."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 43
+   },
+   "checagem": {
+    "pergunta": "Paciente com 112 kg e peso ideal de 80 kg. Qual a necessidade proteica, segundo o slide?",
+    "alternativas": [
+     "134 g/dia (1,2 g/kg de peso atual)",
+     "96 g/dia (1,2 g/kg de peso ideal)",
+     "106 g/dia (1,2 g/kg de peso ajustado)",
+     "88 g/dia (1,1 g/kg de peso ajustado)",
+     "112 g/dia (1,0 g/kg de peso atual)"
+    ],
+    "correta": 2,
+    "justificativa": "**Peso ajustado = (112 − 80) × 0,25 + 80 = 8 + 80 = 88 kg.** Com **1,2 g/kg de peso ajustado**, são **88 × 1,2 ≈ 106 g/dia**. Usar o peso atual (134 g) ou o ideal (96 g) seriam os dois erros esperados.",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 43
+    }
+   }
+  },
+  {
+   "id": "B5-b10",
+   "titulo": "Suplementação, café e farmacológico",
+   "prioridade": "I",
+   "pontos": [
+    "**Vitamina E:** nos 7 ECR revisados, as doses foram de **400 a 800 UI/dia**. O **uso terapêutico é focado principalmente em adultos sem DM2 com esteato-hepatite**, na dose de **800 UI/dia por 12 a 24 meses**. O slide marca o ponto como **contraditório** e pede **cautela**: risco de **sangramento** e **AVC hemorrágico** — **não é terapia de 1ª linha**.",
+    "**Café:** consumo regular × não consumo — **esteatose RR 0,77** (IC 0,60–0,98) e **fibrose hepática RR 0,68**. **Sem diferenças em ALT, AST e GGT**; houve **melhora na adiponectina**.",
+    "**Tratamento farmacológico (Diretriz Brasileira — ABESO 2026):** **R18** — em indivíduos com **obesidade e MASLD**, recomenda-se **tratamento farmacológico com o objetivo de perda de peso** (classe **I**, nível de evidência **B**). **R19** — em indivíduos com **MASH e fibrose hepática**, recomenda-se o uso de **semaglutida** para redução e/ou resolução da esteatose, da MASH e da fibrose (classe **I**, nível **B**)."
+   ],
+   "cuidado": [
+    "**Vitamina E não é primeira linha** e o alvo é bem estreito: **adultos sem DM2 com esteato-hepatite**.",
+    "O café reduziu **esteatose e fibrose**, mas **não mexeu nas enzimas**. Se a alternativa disser “melhora ALT e AST”, está errada.",
+    "As duas recomendações da ABESO são **classe I, nível B** — e a **semaglutida** aparece nomeada só na **R19 (MASH com fibrose)**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 50
+   },
+   "checagem": {
+    "pergunta": "Sobre o consumo regular de café na MASLD, o que a meta-análise mostrou?",
+    "alternativas": [
+     "Redução de esteatose e fibrose, sem diferenças em ALT, AST e GGT",
+     "Redução de ALT, AST e GGT, sem efeito sobre esteatose",
+     "Nenhum efeito sobre esteatose, fibrose ou enzimas",
+     "Aumento do risco de fibrose em consumidores regulares",
+     "Redução apenas da fibrose, com piora da adiponectina"
+    ],
+    "correta": 0,
+    "justificativa": "Os resultados foram **esteatose RR 0,77** e **fibrose RR 0,68** — ou seja, **redução de ambas** —, mas **sem diferenças em ALT, AST e GGT**, e com **melhora na adiponectina**.",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 51
+    }
+   }
+  },
+  {
+   "id": "B5-b11",
+   "titulo": "MASLD na cirrose e o resumo da professora",
+   "prioridade": "I",
+   "pontos": [
+    "**Resumo da terapia nutricional (slide 53):** 1) **meta de 3–5% ou 5–10% de perda de peso**, a depender do peso inicial e do estágio da MASLD; 2) **restrição calórica — déficit de 500 a 1.000 kcal/dia ou 1.200 a 1.500 kcal**; 3) **macronutrientes em distribuição padrão**, com menor teor de carboidratos podendo ser considerado, **1,2 g/kg de peso ajustado** durante a perda de peso, priorizando **fontes integrais, in natura e gorduras insaturadas** (controle de gordura animal) e **reduzindo frutose** de xaropes e bebidas açucaradas; 4) **redução do consumo de álcool — qualquer redução ajuda —, com abstinência em casos de fibrose avançada**.",
+    "**Na cirrose por MASH (EASL-EASD-EASO):** o estilo de vida é **adaptado à severidade da doença hepática e ao estado nutricional**. Com **sarcopenia ou cirrose descompensada**, **dieta hiperproteica + lanche noturno (ceia)**. Na **cirrose compensada com obesidade**, **perda de peso moderada + aporte proteico elevado + atividade física**.",
+    "**Exercício (EASL-EASD-EASO):** **> 150 min/semana** de intensidade moderada **ou 75 min** de intensidade vigorosa, ajustado à preferência e à capacidade, **minimizando o tempo sedentário**. Outros hábitos: **evitar tabagismo**; **álcool desencorajado, e evitado na fibrose avançada ou cirrose**.",
+    "**Prevenção de MASLD e CHC:** prevenir obesidade, dieta saudável, atividade física regular e **evitar tabagismo e álcool**. **Metas de longo prazo:** qualidade de vida e sobrevida, benefícios cardiometabólicos e **prevenção de cirrose, CHC, DM2 e doença cardiovascular**."
+   ],
+   "cuidado": [
+    "Na **cirrose por MASH**, a lógica se inverte em relação à MASLD simples: ali o foco era perder peso; aqui, **com sarcopenia ou descompensação, o foco é proteína e ceia**, não emagrecer."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_MASLD",
+    "pagina": 53
+   },
+   "checagem": {
+    "pergunta": "Segundo a EASL-EASD-EASO, qual a conduta num paciente com cirrose por MASH descompensada e sarcopenia?",
+    "alternativas": [
+     "Dieta hipocalórica com meta de perda de 10% do peso",
+     "Dieta hiperproteica com lanche noturno (ceia)",
+     "Restrição de proteína para evitar encefalopatia",
+     "Jejum intermitente para reduzir a esteatose",
+     "Apenas exercício físico, sem intervenção dietética"
+    ],
+    "correta": 1,
+    "justificativa": "No quadro da EASL-EASD-EASO, **sarcopenia ou cirrose descompensada → dieta hiperproteica + lanche noturno**. A perda de peso moderada fica reservada à **cirrose compensada com obesidade**, e **não se faz intervenção para perda de peso em descompensados**.",
+    "fonte": {
+     "arquivo": "TN2_MASLD",
+     "pagina": 54
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "O corte de 5% do peso do fígado e os graus leve, moderada e severa por % de hepatócitos",
+  "O que significam MASLD, MASH, MetALD e ALD, e por que o nome mudou",
+  "As quatro peças da definição de MASLD e os cinco fatores cardiometabólicos",
+  "As faixas de álcool que separam MASLD, MetALD e ALD, em g/dia e g/semana",
+  "Por que a MASH não está no fluxo diagnóstico e o que o FIB-4 faz",
+  "Que a fibrose — e não a MASH — é o que prediz desfecho hepático",
+  "A escada de perda de peso: 3–5%, 7% e 10%",
+  "Como se calcula o peso ajustado e por que a proteína é prescrita sobre ele",
+  "Por que a restrição calórica tem que fazer parte da intervenção",
+  "Que na cirrose por MASH descompensada o alvo passa a ser proteína e ceia"
+ ]
+}

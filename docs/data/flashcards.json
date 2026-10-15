@@ -3155,5 +3155,2101 @@
    "ascite"
   ],
   "ambiguidade": null
+ },
+ {
+  "id": "F-B5-01",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Esteatose hepática** — definição e corte",
+  "verso": "**Acúmulo/infiltração gordurosa (triglicerídeos) nos hepatócitos**, em **ao menos 5% do peso total do fígado**. Diagnóstico por **imagem**: USG, TC, RM, elastografia.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 2
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-02",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Graus da esteatose** (% de hepatócitos)",
+  "verso": "**Leve: 5–33%** · **Moderada: 33–66%** · **Severa: > 66%** dos hepatócitos.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 2
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-03",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Etiologias possíveis** da esteatose",
+  "verso": "Síndrome metabólica · álcool · **síndrome metabólica + álcool** · lesão por medicamentos · **hepatite viral (especialmente C)** · doenças monogênicas · **nutrição parenteral** · **desnutrição proteico-calórica**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 3
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-04",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "O que significam **MASLD, MASH, MetALD e ALD**?",
+  "verso": "**MASLD:** esteatose associada à disfunção metabólica (antiga **NAFLD**). **MASH:** esteato-hepatite associada à disfunção metabólica (com inflamação). **MetALD:** MASLD **+ consumo aumentado de álcool**. **ALD:** doença hepática associada ao álcool.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 4
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-05",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "Por que mudou de **NAFLD para MASLD**?",
+  "verso": "**Identificar melhor a etiologia** e o papel da disfunção metabólica · **eliminar o estigma do termo “gorduroso”** · **diagnóstico pragmático**, exigindo ao menos 1 fator cardiometabólico · chamar atenção ao risco de quem **não preenchia os critérios restritos de álcool**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 6
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-06",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "A evidência sobre **NAFLD ainda vale** para MASLD?",
+  "verso": "**Sim.** O slide diz que, apesar da mudança do critério, **a evidência sobre NAFLD pode ser extrapolada para MASLD**, porque as duas condições são **quase perfeitamente sobrepostas e correlacionadas** em grandes estudos populacionais.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 7
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-07",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Definição de MASLD** — as quatro peças",
+  "verso": "**Gordura > 5% do peso hepático total** + **ao menos 1 fator cardiometabólico** + **ausência de consumo significativo de álcool** + **ausência de outras causas** de doença hepática.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 8
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-08",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Fatores cardiometabólicos** — IMC e cintura",
+  "verso": "**IMC ≥ 25 kg/m²** (**ou 23 kg/m² na Ásia**) **ou CC > 94 cm (homens) / 80 cm (mulheres)**, ou equivalente por etnia.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-09",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Fatores cardiometabólicos** — glicemia",
+  "verso": "**GJ ≥ 100 mg/dL** ou **glicemia 2 h pós-TOTG ≥ 140 mg/dL** ou **HbA1c ≥ 5,7%** ou **DM2** ou **tratamento para DM2**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-10",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Fatores cardiometabólicos** — PA, TG e HDL",
+  "verso": "**PA ≥ 130/85 mmHg** ou anti-hipertensivo · **TG ≥ 150 mg/dL** ou hipolipemiante · **HDL ≤ 40 mg/dL (H) e ≤ 50 mg/dL (M)** ou hipolipemiante. **Estar em tratamento já conta como fator.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-11",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**MetALD** — consumo semanal de álcool",
+  "verso": "**140 a 350 g/semana para mulheres** e **210 a 420 g/semana para homens**. Abaixo da faixa, MASLD; acima, ALD.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 11
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-12",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**MetALD** — consumo diário de álcool",
+  "verso": "**20 a 50 g/dia para mulheres** (≈ 1,5 a 3,5 doses) e **30 a 60 g/dia para homens** (≈ 2 a 4,5 doses).",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 11
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-13",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**1 dose padrão** de álcool",
+  "verso": "**≈ 10 a 14 g de álcool**: 1 lata de cerveja (**350 mL a 5%**) · 1 taça de vinho (**~150 mL a 12%**) · 1 dose de destilado (**~30 mL a 40%**).",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 12
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-14",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "I",
+  "frente": "Por que a distinção MASLD/MetALD/ALD **não é simples**?",
+  "verso": "Porque se baseia principalmente no **histórico clínico** e no **consumo de álcool autorrelatado, frequentemente subestimado ou subrelatado**. Instrumento de rastreio citado: **AUDIT**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 10
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-15",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Etiologia e prognóstico** — os HR",
+  "verso": "**Mortalidade:** ALD **3,57** > MetALD **2,94** > MASLD **2,30**. **Descompensação hepática:** ALD **10,2** > MetALD **7,69** > MASLD **4,73**. Referência: sem esteatose.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 14
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-16",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Prevalência** de MASLD",
+  "verso": "**1 a cada 3 pacientes adultos** na sala de espera; **8 a 9 em cada 10 pacientes com obesidade**. Maior prevalência regional: **América Latina, 44,4%**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 18
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-17",
+  "modulo": "B5",
+  "tipo": "mecanismo",
+  "prioridade": "I",
+  "frente": "**Resistência à insulina** nos três tecidos",
+  "verso": "**Fígado:** continua produzindo glicose (gliconeogênese) e **↑ lipogênese de novo**. **Músculo:** ↓ síntese de glicogênio e **↓ GLUT-4** (queda da captação de glicose). **Tecido adiposo:** hipertrofia/hiperplasia, **↑ lipólise**, ↑ inflamação e adipocinas, ↓ GLUT-4.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 20
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-18",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "Por onde a **gordura chega ao fígado**?",
+  "verso": "**Três caminhos:** **excesso de ácidos graxos circulantes** (lipólise do tecido adiposo hipertrofiado), **lipídios da dieta** e **lipogênese de novo** pela resistência à insulina.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 21
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-19",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Quando rastrear** MASLD?",
+  "verso": "**O rastreamento deve ser considerado em adultos com IMC > 25 kg/m².** Em sobrepeso/obesidade, **a dosagem isolada de enzimas hepáticas NÃO é recomendada** para rastrear esteatose.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 22
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-20",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Busca ativa** em alto risco",
+  "verso": "**Diabetes tipo 2** · **obesidade** · **elevação persistente de AST e/ou ALT por > 6 meses**, por **pelo menos 2 testes** e **após descartar outras causas**. Lembre: **não é incomum as enzimas estarem normais**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 23
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-21",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**MASH** — definição e por que não está no fluxo",
+  "verso": "Exigiria **esteatose + inflamação lobular + balonização** (~**25% dos pacientes**). **Como a única forma de identificar é a biópsia, a MASH não está no fluxo diagnóstico.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 25
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-22",
+  "modulo": "B5",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**FIB-4** — para que serve",
+  "verso": "Teste de **triagem para DESCARTAR fibrose avançada/significativa**, junto a escores não invasivos e/ou elastografia. **Nutricionistas devem considerar calculá-lo**, se todos os componentes estiverem disponíveis, para **estratificação de risco** e educação.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 26
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-23",
+  "modulo": "B5",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**MASLD × MASH × fibrose** — risco de quê",
+  "verso": "**MASLD:** eventos CV, HAS, pré-DM/DM2, doença renal e câncer (↑ com a carga metabólica). **MASH:** estímulo de fibrose; **parece não aumentar tanto** os eventos. **Fibrose:** **fator prognóstico dos desfechos hepáticos** (descompensação **HR 8,46**).",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 28
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-24",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Preditores de progressão** da doença hepática",
+  "verso": "**DM2 · obesidade · homens > 50 anos · mulheres pós-menopausa · indivíduos com múltiplos fatores de risco cardiometabólicos.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 29
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-25",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Clínica** da MASLD",
+  "verso": "**Assintomática, em geral, até o estágio de cirrose**; achado incidental. **70% dos casos são diagnosticados na primeira admissão hospitalar por descompensação da cirrose.** Transaminases **nem sempre** elevadas; **ferritina pode estar elevada**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 30
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-26",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Avaliação nutricional** na MASLD",
+  "verso": "Peso e IMC; distribuição de gordura e composição corporal (**10 a 20% são eutróficos**); BIA, DEXA, antropometria; **CC e circunferência do pescoço**; **RCQ**; glicemia, perfil lipídico e enzimas. **Excesso de adiposidade pode conviver com depleção muscular.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 31
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-27",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**História alimentar** na MASLD",
+  "verso": "R24h **e** recordatório habitual; consumo **atual e habitual**; **explorar bem o álcool — o consumo atual pode não refletir a história prévia**; gordura trans e saturada; **qualidade dos carboidratos**; consumo energético total.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 32
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-28",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Perda de peso** — a escada dos desfechos",
+  "verso": "**3–5% → redução da esteatose** · **7% → melhora da esteato-hepatite** · **10% → regressão e estabilização da fibrose**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 35
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-29",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Restrição calórica** na MASLD",
+  "verso": "**Déficit de 500 a 1.000 kcal/dia OU dieta de 1.200 a 1.500 kcal.** Se a meta não for atingida: **MEV mais intensiva, manejo farmacológico ou cirúrgico, acompanhamento com especialista**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 35
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-30",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Proteína na MASLD** e o peso ajustado",
+  "verso": "**1,2 g/kg de PESO AJUSTADO** durante a perda de peso. **Peso ajustado = (PA − PI) × 0,25 + PI.**",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 43
+  },
+  "tags": [
+   "masld",
+   "numeros",
+   "calculo"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-31",
+  "modulo": "B5",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Low carb × low fat** na esteatose",
+  "verso": "Em dietas **isocalóricas**, **não houve diferença** no conteúdo de gordura hepática. O que apareceu: **reduzir carboidrato e substituir por PROTEÍNA (não por gordura)** pode ajudar, assim como **trocar gordura saturada por insaturada**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 42
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-32",
+  "modulo": "B5",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Macronutrientes** — recomendação geral",
+  "verso": "**Superioridade da restrição de CHO (< 40% VET) no longo prazo não é clara.** Padrão **saudável, in natura e minimamente processado, equilibrado**, adaptado ao caso, **priorizando menor índice glicêmico e otimizando fibras**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 44
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-33",
+  "modulo": "B5",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Padrão alimentar** e risco de MASLD",
+  "verso": "**Ocidentalizado → maior risco.** **Mediterrâneo e DASH → proteção.** As diretrizes usam o **mediterrâneo como referência**, com **adaptação ao contexto brasileiro e socioeconômico**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 45
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-34",
+  "modulo": "B5",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "Dieta mediterrânea: **escore × imagem**",
+  "verso": "No **índice de esteatose (escore calculado)**, **mediterrânea e restrição calórica** foram eficazes. Na **esteatose por exame de imagem**, **apenas a restrição calórica** demonstrou benefício → **a restrição calórica deve fazer parte da intervenção**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 47
+  },
+  "tags": [
+   "masld"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-35",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Vitamina E** na esteato-hepatite",
+  "verso": "Doses nos estudos: **400 a 800 UI/dia**. Uso focado em **adultos sem DM2 com esteato-hepatite**, **800 UI/dia por 12 a 24 meses**. **Não é terapia de 1ª linha** — risco de **sangramento** e **AVC hemorrágico**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 50
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-36",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "**Café** e doença hepática",
+  "verso": "Consumo regular × não consumo: **esteatose RR 0,77** e **fibrose RR 0,68**. **Sem diferenças em ALT, AST e GGT**; **melhora na adiponectina**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 51
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-37",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**ABESO 2026** — R18 e R19",
+  "verso": "**R18:** obesidade + MASLD → **tratamento farmacológico para perda de peso** (classe **I**, evidência **B**). **R19:** MASH + fibrose → **semaglutida** para redução/resolução de esteatose, MASH e fibrose (classe **I**, evidência **B**).",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 52
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-38",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Exercício** na MASLD (EASL-EASD-EASO)",
+  "verso": "**> 150 min/semana** de intensidade **moderada** ou **75 min** de intensidade **vigorosa**, ajustado à preferência e capacidade, **minimizando o tempo sedentário**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 54
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-39",
+  "modulo": "B5",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Cirrose por MASH** — o alvo muda",
+  "verso": "**Sarcopenia ou cirrose descompensada:** **dieta hiperproteica + ceia**. **Cirrose compensada com obesidade:** **perda de peso moderada + aporte proteico elevado + atividade física**. Em **descompensados não se faz intervenção para perder peso**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 54
+  },
+  "tags": [
+   "masld",
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B5-40",
+  "modulo": "B5",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**EASL-EASD-EASO** — metas de perda por grupo",
+  "verso": "**Sobrepeso/obesidade:** **≥ 5%** (esteatose) e **≥ 7–10%** (MASH e fibrose); **considerar incretinas**. **Obesidade classe II/III:** considerar **procedimento bariátrico**. **MASLD com peso normal:** **3–5%**.",
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 54
+  },
+  "tags": [
+   "masld",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-01",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Desnutrição e sarcopenia** na cirrose — prevalência",
+  "verso": "**Desnutrição: 20% na compensada e 50% na descompensada.** **Sarcopenia: > 40% nos candidatos a transplante e 30 a 46% no Child-Pugh A a C.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 9
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-02",
+  "modulo": "B6",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Desnutrição e sarcopenia predizem** o quê?",
+  "verso": "**Pior qualidade de vida, descompensação da cirrose, internação prolongada, fragilidade e pior desfecho pós-transplante** — e uma agrava a outra.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 10
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-03",
+  "modulo": "B6",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "Causas de desnutrição: **doença × tratamento**",
+  "verso": "**Doença:** metabolismo energético-proteico alterado, alterações hormonais, **saciedade precoce, inapetência e sintomas GI**, dietas pouco densas e álcool, má absorção. **Tratamento:** **restrição de sódio**, hospitalizações frequentes, medicamentos, **jejum para exames**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 11
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-04",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Quanto o cirrótico **come do que é prescrito**?",
+  "verso": "**Cerca de 50% do prescrito.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 13
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-05",
+  "modulo": "B6",
+  "tipo": "mecanismo",
+  "prioridade": "E",
+  "frente": "**Má absorção** na cirrose",
+  "verso": "**Colestase** → má digestão de gorduras e **deficiência de lipossolúveis**; **lactulose** (para a encefalopatia) → **diarreia e má absorção**; supercrescimento bacteriano e enteropatias; alcoolismo. **Mais frequentes: A, D, E, K, folato, tiamina, zinco e selênio.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 14
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-06",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Zinco** na cirrose",
+  "verso": "A deficiência **pode ser superior a 90%**. Ele **causa e agrava a encefalopatia**, provoca **alterações do paladar** e **anorexia**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 15
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-07",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Hipermetabolismo** e **aceleração do jejum**",
+  "verso": "**30 a 35% dos pacientes têm aumento do GER.** Sem estoque de glicogênio, há **oxidação de gordura e gliconeogênese**, usando **aminoácidos como fonte de glicose**: **12 h de jejum no cirrótico = 72 h no saudável**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 16
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-08",
+  "modulo": "B6",
+  "tipo": "mecanismo",
+  "prioridade": "E",
+  "frente": "O círculo do **catabolismo proteico**",
+  "verso": "Jejum acelerado + inflamação → **aminoácidos viram glicose e produzem amônia**; a **amônia livre deveria virar ureia no fígado (zinco é cofator)**; com insuficiência hepática e falta de zinco, ela sobra, e os **BCAA são desviados para fixá-la em vez de fazer síntese proteica → mais catabolismo**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 17
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-09",
+  "modulo": "B6",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "O que **agrava a sarcopenia e a fragilidade**",
+  "verso": "**Sedentarismo**, **alterações metabólicas e toxicidade no tecido muscular** e **alcoolismo como fator agravante** → queda de força, massa e funcionalidade → **vulnerabilidade aumentada, declínio fisiológico e maior mortalidade**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 18
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-10",
+  "modulo": "B6",
+  "tipo": "comparacao",
+  "prioridade": "I",
+  "frente": "Como cada **complicação atrapalha a avaliação**",
+  "verso": "**Varizes:** dor e dificuldade de deglutição, hemorragia. **Ascite:** saciedade precoce e **impacto no peso aferido**. **Encefalopatia:** confusão e rebaixamento. **PBE:** febre e inflamação intensa. **Edema:** **antropometria, exame físico e composição corporal**. **SHR:** perda da função renal.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 21
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-11",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Quem pula a triagem** nutricional na cirrose",
+  "verso": "**Child-Pugh C e/ou IMC < 18,5 kg/m² → direto para a avaliação nutricional.** **Child A/B com IMC > 18,5 → triagem com ferramentas.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 24
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-12",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Retriagem** periódica na cirrose",
+  "verso": "**7 dias para hospitalizados** e **6 meses para não-hospitalizados**. O fluxograma da EASL, no mesmo material, fala em **ao menos 1×/ano**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 24
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": "retriagem-cirrose"
+ },
+ {
+  "id": "F-B6-13",
+  "modulo": "B6",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**RFH-NPT** — o que tem de especial",
+  "verso": "**Desenvolvida especificamente para cirrose**, com **valorização do acúmulo de fluidos**; **traduzida e adaptada pela UFRGS/HCPA**; **preditora de sobrevida livre de transplante** (tanto o risco quanto a mudança no risco).",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 27
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-14",
+  "modulo": "B6",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**LDUST** — o que tem de especial",
+  "verso": "**Desenvolvida pela ASPEN/AND** para doenças hepáticas; **permite responder “eu não sei”**; **sensibilidade de 72%** no estudo de desenvolvimento, porém **baixo valor preditivo negativo**; também traduzida pela UFRGS/HCPA.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 29
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-15",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "Sensibilidade das ferramentas — **ambulatório × hospital**",
+  "verso": "**63 ambulatoriais:** MNA-SF **88%** > LDUST **83%** > RFH-NPT **67%**. **78 hospitalizados (82% descompensados):** RFH-NPT **90,9%** > LDUST **84,8%** > NRS-2002 **66,7%**. **A RFH-NPT inverte de pior para melhor.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 30
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-16",
+  "modulo": "B6",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Peso seco** — definição",
+  "verso": "**O peso pós-paracentese (na ascite) ou o peso aferido com desconto conforme o grau de acúmulo de fluidos.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 25
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-17",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Descontos percentuais** de fluidos",
+  "verso": "**Ascite: leve −5%, moderada −10%, severa −15%.** **Edema bilateral: −5%.** São os **recomendados pelas diretrizes**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 25
+  },
+  "tags": [
+   "cirrose",
+   "numeros",
+   "calculo"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-18",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Descontos absolutos** de fluidos",
+  "verso": "**Edema: −1 kg leve, −5 kg moderado, −10 kg grave.** **Ascite: −2,2 kg leve, −6 kg moderada, −14 kg grave.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 34
+  },
+  "tags": [
+   "cirrose",
+   "numeros",
+   "calculo"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-19",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Peso estimado (Chumlea)** — quando serve",
+  "verso": "Usa **CB e altura do joelho**. **Sem sobrecarga hídrica (n = 289):** aferido **71,8 ± 18,5 kg** × estimado **70,9 ± 16,2 kg** — muito próximos. **Com sobrecarga (n = 85):** absoluto 70,6 · percentual 68,1 · estimado 63,3 kg.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 35
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-20",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "C",
+  "frente": "**Equações de 2023** para o peso seco",
+  "verso": "Em **19 ambulatoriais com ascite grave**: **Equação 1** (quem pode ser pesado) usa **altura, peso encharcado e circunferência abdominal**; **Equação 2** (restritos ao leito) usa **altura, circunferência abdominal e circunferência do braço**. Comparadas aos descontos de **−14 kg** e **−15%**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 38
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-21",
+  "modulo": "B6",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Consumo alimentar** na cirrose — o que investigar",
+  "verso": "Avaliação **quantitativa e qualitativa**; quantidade atual **em mais de um dia**; **comparar com o habitual**; **período e motivo da redução**. Instrumentos: **R24h, recordatório habitual e diagrama do prato**. **Álcool: impacto calórico, não nutricional, + risco de deficiência de tiamina.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 40
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-22",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Sintomas GI** — os cortes",
+  "verso": "**Duração > 2 semanas** e **frequência > 2×/dia**, com julgamento clínico. **Prejudicam a INGESTÃO:** disfagia, dor abdominal, náusea, vômito. **Prejudicam a ABSORÇÃO:** **diarreia (lactulose)**, insuficiência pancreática, enteropatias.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 41
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-23",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Circunferência do braço (CB)** — pontos de corte",
+  "verso": "**< 28 cm para mulheres** e **< 30 cm para homens**, em cirrose descompensada: **boa acurácia para desnutrição pela ASG** e **mortalidade mais que 2× maior (HR 2,41)**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 43
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-24",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Circunferência muscular do braço (CMB)** — o estudo brasileiro",
+  "verso": "**5 centros, 1.075 pacientes**, referência ASG. **AUC ~65% para redução moderada e ~80% para severa** de massa muscular; **preditora de mortalidade em 1 ano (HR 1,71)**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 44
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-25",
+  "modulo": "B6",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Vantagens e limite** dos cortes de CMB",
+  "verso": "**Melhores que Frisancho** (S 50,5% / E 68,6%); **mais fáceis à beira do leito** que tabelas de percentil; servem como **marcador fenotípico de massa muscular no GLIM** (classificam redução **moderada e grave**). **Limitação: ainda não validados contra tomografia ou DEXA.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 45
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-26",
+  "modulo": "B6",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "Qual medida **sofre com o edema**?",
+  "verso": "**Circunferência da panturrilha: apenas em pacientes sem edema.** **CB e CMB sofrem menor influência do acúmulo de fluidos.** E **espera-se perda de massa muscular mesmo no Child-Pugh A**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 42
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-27",
+  "modulo": "B6",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Tomografia em L3** — por que é a recomendada",
+  "verso": "É **a medida recomendada para massa muscular na doença hepática crônica**: **quantificação acurada, avalia infiltração gordurosa (mioesteatose) e não sofre influência de fluidos**. **Cara, com radiação e pouco disponível → usar se o paciente já faria o exame por outro motivo.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 47
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-28",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**SMI** — fórmula e pontos de corte",
+  "verso": "**SMI = área da secção transversal em L3 (cm²) / altura².** **< 50 cm²/m² para homens** e **< 39 cm²/m² para mulheres.** Também: **Psoas Muscle Index** e **escala Hounsfield (HU)** para atenuação/qualidade muscular.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 49
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-29",
+  "modulo": "B6",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**BIA e DEXA** na cirrose",
+  "verso": "**Influenciadas pelo acúmulo de fluidos**, com **baixa correlação com a TC**: a **MLG será superestimada**. O **IMMA (DEXA)** é alternativa **na ascite sem edema nos membros**. Na BIA, usar o **ângulo de fase**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 50
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-30",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Ângulo de fase** — o número",
+  "verso": "**Marcador de integridade celular.** Em 97 pacientes com cirrose descompensada, **≤ 5,52° identificou desnutrição pela ASG** (S e E > 70%) e se associou a **risco de morte 3× maior em 6 meses (HR 3,44)**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 51
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-31",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**FAM** — pontos de corte por sexo e idade",
+  "verso": "**Mulheres: ≤ 12 kgf (< 60 anos) e ≤ 10 kgf (≥ 60 anos).** **Homens: ≤ 33 kgf (< 60 anos) e ≤ 22 kgf (≥ 60 anos).** Medida: **maior valor de 3 medidas na mão não dominante**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 54
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-32",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**FAM** — o que o estudo encontrou",
+  "verso": "**724 pacientes hospitalizados: FAM média de 23 kgf, 44,8% com FAM reduzida e 2,5× mais risco de morte.** Em ambulatoriais, **a FAM reduzida já basta para intervir na sarcopenia**, mesmo sem medir massa muscular objetivamente.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 54
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-33",
+  "modulo": "B6",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**RFH-GA** — o que é e o que usa",
+  "verso": "**Adaptação da ASG para aumentar a validade na doença hepática.** Usa **IMC (com peso seco)**, medida do braço e **consumo alimentar**. Resultado: **bem nutrido · desnutrição moderada/suspeita · desnutrição grave**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 60
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": "rfh-ga-cmb"
+ },
+ {
+  "id": "F-B6-34",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**RFH-GA** — como se classifica o consumo",
+  "verso": "**Adequado = atingindo as necessidades nutricionais.** **Inadequado = não atinge, mas > 500 kcal/dia.** **Insuficiente = menos de 500 kcal/dia.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 60
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": "rfh-ga-cmb"
+ },
+ {
+  "id": "F-B6-35",
+  "modulo": "B6",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**GLIM na cirrose** — fenotípicos e etiológico",
+  "verso": "**Fenotípicos:** IMC (peso seco) **não validado**, perda de peso **não validada**, **massa muscular** (CB, CMB, CP, TC, BIA, DEXA). **Etiológico: todos os cirróticos preenchem pela fisiopatologia (ou PCR-us).** O **consumo alimentar deveria ser avaliado**.",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 62
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B6-36",
+  "modulo": "B6",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**GLIM** — o estudo de desfechos",
+  "verso": "**387 pacientes com cirrose e sinais de descompensação:** mediana de internação **12 dias**, **28,7% de desnutrição** e **2,3% de óbito intra-hospitalar**. **Todas as variáveis do GLIM foram preditoras de piores desfechos.**",
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 63
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-01",
+  "modulo": "B7",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "O que entra no **planejamento da TN** na cirrose",
+  "verso": "**Etiologia** da doença · **estado nutricional** · **objetivos e prognóstico** · **contexto** (agudo, crônico, hospitalizado) · **compensado ou descompensado** · **manifestações clínicas e complicações**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 4
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-02",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Meta-análise de TN oral** na cirrose — os quatro efeitos",
+  "verso": "**−30% encefalopatia** (RR 0,70) · **−31% descompensações** (RR 0,69) · **−35% hospitalizações** (RR 0,65) · **−36% mortalidade** (RR 0,64).",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 6
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-03",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Cirrose compensada** — energia e proteína",
+  "verso": "**20 a 30 kcal/kg e 1,2 g/kg de proteína.** As necessidades energéticas **em geral não são maiores que as de indivíduos saudáveis**, sobretudo com baixa atividade física.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 8
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-04",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Desnutrição, sarcopenia ou descompensação** — energia e proteína",
+  "verso": "**30 a 35 kcal/kg** ou **> 35 kcal/kg** conforme a diretriz, com **1,2 a 1,5 g/kg de proteína**. O **> 35 kcal/kg ≈ 1,3 vez o gasto energético de repouso**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 9
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-05",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Hipermetabolismo** na cirrose",
+  "verso": "**30 a 35% dos pacientes são hipermetabólicos**, e o número **aumenta conforme a doença avança**. Há **variabilidade interindividual** e **imprecisão das equações preditivas tradicionais (Harris-Benedict)**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 8
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-06",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Cirrose compensada com obesidade** — a conduta",
+  "verso": "**IMC > 30 corrigido para retenção hídrica:** dieta **moderadamente hipocalórica (−500 a −800 kcal/dia)**, meta de perda **> 5–10%**, com **aporte proteico > 1,5 g/kg de peso ideal/dia** para **não comprometer as reservas proteicas**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 7
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-07",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Obesidade na cirrose** — kcal por grau",
+  "verso": "**Grau I/II (IMC 30–40): 25 a 35 kcal/kg de peso ideal.** **Grau III (IMC ≥ 40): 20 a 25 kcal/kg de peso ideal.** **Não realizar intervenções para perda de peso em descompensados.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 11
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-08",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Qual peso usar** na cirrose",
+  "verso": "**Peso atual, peso seco (corrigido) ou peso ideal (obesos).** Descontos: **ascite −5% (leve), −10% (moderada), −15% (severa)**; **edema bilateral −5%**. E **monitorar**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 10
+  },
+  "tags": [
+   "cirrose",
+   "numeros",
+   "calculo"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-09",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Vias de alimentação** — os gatilhos",
+  "verso": "**Suplementação oral: VO < 70% das necessidades.** **Via enteral: VO < 60%.** **Parenteral: inviabilidade do TGI.** A **via oral é priorizada** se **reflexos de tosse e deglutição** estiverem preservados.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 12
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-10",
+  "modulo": "B7",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Varizes esofágicas** contraindicam sonda?",
+  "verso": "**Não.** A presença de varizes esofágicas **não é contraindicação de nutrição enteral**, e a **posição gástrica é a primeira escolha**. O cuidado é com a **GASTROSTOMIA** em **ascite severa, distúrbios de coagulação e varizes gástricas extensas**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 13
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-11",
+  "modulo": "B7",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Quando considerar TNE** na cirrose",
+  "verso": "**Rebaixamento do sensório, delirium e ausência de acompanhante** para oferta de alimentos — para garantir **segurança na alimentação** e **adequação do aporte**. **Fórmula polimérica padrão** é prioridade; **HCHP** ajuda na **restrição hídrica**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 14
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-12",
+  "modulo": "B7",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Tiamina** e síndrome de realimentação",
+  "verso": "**Alto risco + TNE: administrar dose prévia de tiamina antes da infusão.** **Na nutrição parenteral: recomenda-se que TODOS recebam reposição.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 14
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-13",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Fracionamento** da dieta na cirrose",
+  "verso": "**3 refeições principais + 2 a 3 lanches intermediários, a cada 3 a 4 horas, incluindo uma CEIA.** Objetivos: **↑ frequência e ↓ volume**, **↓ desconforto da saciedade precoce** e **↓ tempo de jejum**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 15
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-14",
+  "modulo": "B7",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Objetivos da ceia** (lanche noturno)",
+  "verso": "**Diminuir o tempo de jejum noturno** (menor reserva de glicogênio) · **reduzir o catabolismo proteico noturno** · **manter a massa muscular** · **manter a estabilidade glicêmica noturna**. Segundo a **EASL, é o lanche mais importante**, por cobrir o intervalo **jantar → café da manhã**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 16
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-15",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Composição da ceia**",
+  "verso": "**200–250 até 700 kcal** · **~50 g de carboidratos de baixo índice glicêmico** (integrais, ricos em fibras) · **~13 g de proteína** animal e/ou vegetal. **Exemplo:** 250 mL de iogurte natural + 1 banana grande (~90 g) + 3 col. sopa (20 g) de aveia = **CHO 49 g, PTN 15 g, ~265 kcal**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 18
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-16",
+  "modulo": "B7",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Micronutrientes** de atenção especial na cirrose",
+  "verso": "**Lipossolúveis (A, D, K, E)** · **complexo B (especialmente tiamina, B6, B12 e folato)** · **zinco e selênio**. **Monitorar ao menos anualmente** e **repor nos casos de deficiência confirmada**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 19
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-17",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Multivitamínico empírico** — quando?",
+  "verso": "**Abordagem pragmática: 2 semanas de multivitamínico (incluindo zinco)** pode ser considerada **no início do suporte nutricional** em **cirrose descompensada e/ou maior depleção do estado nutricional**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 19
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-18",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Vitamina D** na cirrose — os quatro números",
+  "verso": "**Deficiência < 20 ng/mL** (prevalente) → **suplementar**. **Alvo terapêutico: 30 ng/mL.** **Reposição: 6.000 UI/dia ou 50.000 UI/semana.** **Manutenção: 1.500 a 2.000 UI/dia.** Dosar a **25-hidroxivitamina D sérica**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 20
+  },
+  "tags": [
+   "cirrose",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-19",
+  "modulo": "B7",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "A frase da **EASL** sobre alimentos e fígado",
+  "verso": "**“Praticamente nenhum alimento, com exceção do álcool, realmente danifica o fígado ou é genuinamente contraindicado.”** Consumir **calorias e proteínas adequadas** importa **muito mais** do que evitar alimentos específicos — e **“não reduza a sua ingestão total de proteínas”**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 21
+  },
+  "tags": [
+   "cirrose"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-20",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Sódio na ascite**",
+  "verso": "**Restrição moderada: < 2 g de Na/dia = 5 g de sal.** **A restrição mais severa (< 1,5 g/dia) é DESACONSELHADA**, por reduzir a palatabilidade. **Consumo médio mundial: 4,3 g de Na (≈ 11 g de sal).**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 24
+  },
+  "tags": [
+   "ascite",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-21",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Líquidos na ascite**",
+  "verso": "**Não é necessária restrição na grande maioria.** Manter a oferta **alinhada à sede** e reduzir/suspender diuréticos com cautela. **Restringir apenas se Na sérico < 120–125 mmol/L**: **800 mL a 1,5 L/dia**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 25
+  },
+  "tags": [
+   "ascite",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-22",
+  "modulo": "B7",
+  "tipo": "lista",
+  "prioridade": "I",
+  "frente": "**Ascite** — paracentese e diuréticos",
+  "verso": "**Paracentese diagnóstica:** na **primeira manifestação** e nos **hospitalizados com piora clínica súbita** (identificar **infecção e hipertensão portal**). **Diuréticos: espironolactona e furosemida**, para reverter a retenção de sódio minimizando a **lesão renal aguda**. **Ascite refratária → paracenteses de alívio regulares, possíveis em ambulatório.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 23
+  },
+  "tags": [
+   "ascite"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-23",
+  "modulo": "B7",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Encefalopatia hepática** — definição e precipitantes",
+  "verso": "Síndrome neuropsiquiátrica **potencialmente reversível**, causada principalmente pelo **acúmulo de amônia e neurotoxicidade**. **Precipitantes: a própria desnutrição e depleção muscular**, hemorragias, infecções e distúrbios eletrolíticos. **Fármaco: lactulose.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 26
+  },
+  "tags": [
+   "encefalopatia"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-24",
+  "modulo": "B7",
+  "tipo": "comparacao",
+  "prioridade": "E",
+  "frente": "**Proteína na encefalopatia** — antigo × atual",
+  "verso": "**ACG 2001 (antigo):** iniciar **0,5 g/kg/dia** e progredir a **1,0–1,5** conforme tolerância. **Atual:** **a restrição NÃO reduziu a gravidade da EH e pode agravar o catabolismo** — só em **casos muito específicos e graves de EH e hemorragia GI, por tempo muito limitado**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 27
+  },
+  "tags": [
+   "encefalopatia",
+   "numeros"
+  ],
+  "ambiguidade": "proteina-eh"
+ },
+ {
+  "id": "F-B7-25",
+  "modulo": "B7",
+  "tipo": "mecanismo",
+  "prioridade": "E",
+  "frente": "**Fonte da proteína** na encefalopatia",
+  "verso": "**Racional teórico:** alimentos animais geram **mais amônia**, têm **menos fibras (laxativas)** e **mais aminoácidos aromáticos**. Mas a **evidência da substituição é limitada** e esbarra em **palatabilidade, adesão e impacto calórico** — **restringir proteína animal só com intolerância comprovada**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 28
+  },
+  "tags": [
+   "encefalopatia"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-26",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Recomendações na EH** — o que fazer",
+  "verso": "**Não reduzir o consumo de proteínas** · **otimizar fibras (> 25 g/dia)** · **dieta saudável com fontes animais (incentivar laticínios) e vegetais** · **não restringir proteína animal como padrão**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 30
+  },
+  "tags": [
+   "encefalopatia",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-27",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Estudo indiano** na EH leve",
+  "verso": "**120 pacientes com cirrose e EH leve**, terapia nutricional vs. nenhuma intervenção: **30 a 35 kcal/kg**, **1,0 a 1,5 g de proteína VEGETAL/kg de peso ideal/dia**, **produtos lácteos**, **2 g de sal** e **educação nutricional para a família**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 29
+  },
+  "tags": [
+   "encefalopatia",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-28",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**BCAA × aromáticos** — a relação",
+  "verso": "**BCAA: leucina, isoleucina e valina.** **Aromáticos: fenilalanina, tirosina e triptofano.** A relação é **3,0 a 3,5 no saudável** e **< 1,0 na cirrose**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 31
+  },
+  "tags": [
+   "encefalopatia",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-29",
+  "modulo": "B7",
+  "tipo": "mecanismo",
+  "prioridade": "E",
+  "frente": "Como os **BCAA** ajudam na amônia",
+  "verso": "São **metabolizados no músculo** e transformados em **glutamato**, que **fixa a amônia livre** e permite **eliminá-la como glutamina**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 31
+  },
+  "tags": [
+   "encefalopatia"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-30",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Cochrane** — o que os BCAA fazem",
+  "verso": "**Redução da encefalopatia: RR 0,79 (0,64–0,96)**, 18 estudos e 934 pessoas. **Sem efeito sobre mortalidade total: RR 0,89 (0,71–1,12)**, 17 estudos e 867 pessoas. **Sem efeitos adversos** (RR 2,05; 0,40–10,58). **Dados insuficientes para qualidade de vida.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 33
+  },
+  "tags": [
+   "encefalopatia",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-31",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**BCAA** — o que cada diretriz diz",
+  "verso": "**ACG:** usar **em adição ao tratamento padrão** na cirrose com EH. **EASL:** **considerar** para melhorar o desempenho neuropsiquiátrico e atingir a ingestão de nitrogênio. **ESPEN:** **BCAA oral 0,25 g/kg/dia** na **cirrose avançada**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 35
+  },
+  "tags": [
+   "encefalopatia",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-32",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Zinco** na encefalopatia — resultados",
+  "verso": "**Encefalopatia hepática: RR 0,66 (0,46–0,95).** **Albumina sérica: DM 0,07 (−0,16 a 0,29)**, ou seja, **sem efeito**. **Maioria dos estudos com alto risco de viés.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 38
+  },
+  "tags": [
+   "encefalopatia",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-33",
+  "modulo": "B7",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Zinco** — conduta prática",
+  "verso": "**Zinco sérico < 60 mcg/dL sugere deficiência → pode repor.** **Dose de reposição: < 50 mg de zinco elementar/dia, VO.** **Não é tratamento padrão da EH** e **não há orientação de dose de manutenção** após a correção.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 39
+  },
+  "tags": [
+   "encefalopatia",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B7-34",
+  "modulo": "B7",
+  "tipo": "comparacao",
+  "prioridade": "I",
+  "frente": "**L-carnitina × probióticos** na EH",
+  "verso": "**L-carnitina:** feita de **lisina e metionina**; reduziria a amônia, mas os **estudos italianos não acharam benefício** e têm **alto risco de viés**. **Probióticos:** **mostraram benefícios** (recuperação, EH evidente, qualidade de vida, amônia plasmática), mas com **apenas 3 estudos — não é conduta padrão**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 40
+  },
+  "tags": [
+   "encefalopatia"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-01",
+  "modulo": "B8",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Transplante hepático** — o que é e para quê",
+  "verso": "**Intervenção curativa e definitiva** para a **doença hepática terminal**, a **cirrose descompensada**, a **insuficiência hepática aguda** e as **neoplasias hepáticas primárias, como o câncer hepatocelular**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 44
+  },
+  "tags": [
+   "transplante"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-02",
+  "modulo": "B8",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Indicações** de transplante hepático",
+  "verso": "**Cirrose avançada** · **câncer de fígado** (em certos casos, remove o câncer e a porção afetada) · **falência hepática aguda** (trauma, infecções severas, reações a medicamentos) · **doenças hepáticas genéticas**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 41
+  },
+  "tags": [
+   "transplante"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-03",
+  "modulo": "B8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Quando está INDICADO** — os critérios",
+  "verso": "A lógica é **prever quem tem risco de óbito a curto prazo maior do que o risco do transplante**: **MELD-Na > 15**; **perda de qualidade de vida, independentemente do MELD**; **doenças colestáticas, ascite refratária e encefalopatia hepática sem resposta aos tratamentos**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 42
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-04",
+  "modulo": "B8",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Contraindicações** ao transplante",
+  "verso": "**Outras doenças em estágio avançado** (DCV, pulmonar, AIDS, carcinomas com metástase) · **uso de álcool e drogas nos últimos 6 meses** · **falta de suporte psicossocial**. **IMC > 40 kg/m² é contraindicação RELATIVA.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 42
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-05",
+  "modulo": "B8",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Quem está na fila** de transplante hepático",
+  "verso": "**Maioria homens**, **41% com obesidade**, etiologia **alcoólica e metabólica**, **10% realizou transplante de fígado e rins**. **~10% vai a óbito na fila e ~20% é removido da lista.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 46
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-06",
+  "modulo": "B8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Estado nutricional e a fila**",
+  "verso": "**IMC < 18,5 e IMC > 40 kg/m²** aumentam **morbidade e mortalidade na fila e após o transplante**. **Perda de massa muscular > 7% por ano** (por quartis de SMI na TC) piora os desfechos.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 47
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-07",
+  "modulo": "B8",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**AASLD** — nutricionista na avaliação do candidato",
+  "verso": "**Statement 28 (forte, nível 2):** a consulta com nutricionista para avaliar desnutrição e risco de desnutrição deve ser incluída na avaliação de **todos** os pacientes. **Statement 29 (fraca, nível 4):** nos de **risco moderado a alto ou com desnutrição**, iniciar **intervenções antes do transplante**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 49
+  },
+  "tags": [
+   "transplante"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-08",
+  "modulo": "B8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Pré-operatório** — manutenção × repleção",
+  "verso": "**Manutenção: 30 kcal/kg/dia e 1,2 g/kg/dia.** **Repleção: 35 kcal/kg/dia e 1,5 g/kg/dia.** **Idealmente iniciar 2 semanas antes**, embora não haja tempo claramente definido na literatura.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 51
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-09",
+  "modulo": "B8",
+  "tipo": "definicao",
+  "prioridade": "E",
+  "frente": "**Qual fórmula** no pré-operatório?",
+  "verso": "**SNO ou TNE com fórmulas PADRÃO.** Os **produtos especializados** — enriquecidos com **BCAA** ou **imunomoduladores (ômega-3, arginina, probióticos)** — **não possuem resultados consistentes** sobre a morbimortalidade pós-transplante.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 51
+  },
+  "tags": [
+   "transplante"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-10",
+  "modulo": "B8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Jejum pré-operatório**",
+  "verso": "**Sólidos: 6 horas** antes da anestesia. **Líquidos: no máximo 2 horas** antes. **Bebidas ricas em carboidratos na noite anterior e de 2 a 4 h antes** → hidratação, **↓ resistência à insulina e risco de realimentação**, e discreta ↓ do tempo de internação.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 52
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-11",
+  "modulo": "B8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Pós-operatório imediato** — quando começar",
+  "verso": "**12 a 24 horas após a cirurgia, se houver estabilidade hemodinâmica** — o início precoce **reduz risco de infecção, tempo de UTI e tempo de ventilação mecânica**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 53
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-12",
+  "modulo": "B8",
+  "tipo": "lista",
+  "prioridade": "E",
+  "frente": "**Pós-operatório imediato** — qual via",
+  "verso": "**VO → TNE → TNP.** **Iniciar precocemente a NP é melhor do que esperar a viabilidade da NE.** **Priorizar o TGI**, pelo **trofismo e integridade da mucosa**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 53
+  },
+  "tags": [
+   "transplante"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-13",
+  "modulo": "B8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Pós-operatório imediato** — quanto ofertar",
+  "verso": "**10 a 15 kcal/kg nas primeiras 48 a 72 h.** Depois, progredir até **30 a 35 kcal/kg e 1,5 a 2,0 g/kg** (sem obesidade) ou **25 a 30 kcal/kg e 2,0 g/kg de peso ideal** (com obesidade).",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 53
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-14",
+  "modulo": "B8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Corticosteroides** no pós-transplante",
+  "verso": "Usados nos **primeiros 3 meses a 1 ano** após o transplante; causam **retenção hídrica, hiperglicemia e aumento do apetite**. **Demais imunossupressores: nefrotoxicidade, hipercalemia e ganho de peso.**",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 54
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-15",
+  "modulo": "B8",
+  "tipo": "numero",
+  "prioridade": "E",
+  "frente": "**Estilo de vida** no pós-operatório tardio",
+  "verso": "**< 10% do VET em gorduras saturadas e açúcares** · **< 2.300 mg/dia de sódio (~6 g de sal)** · **suplementos e ervas só com autorização** · **segurança alimentar** (água tratada, carnes e ovos bem cozidos, pasteurizados, higienizar frutas e verduras) · **atividade física**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 55
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
+ },
+ {
+  "id": "F-B8-16",
+  "modulo": "B8",
+  "tipo": "numero",
+  "prioridade": "I",
+  "frente": "**Obesidade pós-transplante**",
+  "verso": "**Reganho de peso e obesidade pós-transplante em ~40% dos pacientes** → **encaminhamento para atendimento especializado**, uso de **fármacos** ou **cirurgia bariátrica**, para **evitar o reinício do ciclo de adoecimento**.",
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 56
+  },
+  "tags": [
+   "transplante",
+   "numeros"
+  ],
+  "ambiguidade": null
  }
 ]

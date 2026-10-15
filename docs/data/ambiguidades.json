@@ -251,5 +251,65 @@
    }
   ],
   "nota": "Tudo indica erro de digitação no slide 32: o grupo fecal-oral e autolimitado é **A e E**. É assim que este material apresenta o conteúdo."
+ },
+ {
+  "id": "retriagem-cirrose",
+  "titulo": "De quanto em quanto tempo se retriagem a cirrose?",
+  "resumo": "O mesmo material traz **dois intervalos** para a retriagem de quem não tem risco nutricional.",
+  "lados": [
+   "Slide 24 (fluxo da aula): **retriagem periódica — 7 dias para hospitalizados e 6 meses para não-hospitalizados**.",
+   "Slide 65, o fluxograma original da EASL (Journal of Hepatology 2019), diz **“follow up re-screen at least 1/year”**, ou seja, **retriagem ao menos uma vez por ano**."
+  ],
+  "fontes": [
+   {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 24
+   },
+   {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 65
+   }
+  ],
+  "nota": "Os dois não se contradizem de verdade: **1×/ano é o piso** da diretriz, e os **6 meses** do slide são mais frequentes que o piso. Se a questão cobrar o número da aula, responda **7 dias / 6 meses**; se citar a EASL, **ao menos 1×/ano**."
+ },
+ {
+  "id": "rfh-ga-cmb",
+  "titulo": "RFH-GA: circunferência do braço ou circunferência MUSCULAR do braço?",
+  "resumo": "O **texto** do slide e a **figura** da página seguinte discordam sobre qual medida do braço a RFH-GA usa — e também sobre o nome da pior categoria de ingestão.",
+  "lados": [
+   "Slide 60, no texto: a RFH-GA usa **IMC (peso seco), CB e consumo alimentar**, com a ingestão classificada em **adequado / inadequado / insuficiente** (insuficiente = menos de 500 kcal/dia).",
+   "Slide 61, na figura original (Hepatology 2006): o fluxograma parte do **IMC** (corte em **20**), passa pela **Circunferência Muscular do Braço (ex-PBMA)** no **5º percentil** e chega à **Ingestão Dietética**, cujos rótulos são **adequado / inadequado / irrelevante**."
+  ],
+  "fontes": [
+   {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 60
+   },
+   {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 61
+   }
+  ],
+  "nota": "A figura é o instrumento original, e nela está escrito **Circunferência Muscular do Braço**. Este material usa “medida do braço” onde o ponto é ambíguo e guarda os números que aparecem nos dois lugares: **IMC cortado em 20**, **CMB no 5º percentil** e os **500 kcal/dia** da ingestão."
+ },
+ {
+  "id": "proteina-eh",
+  "titulo": "Encefalopatia: começar com 0,5 g/kg ou não restringir?",
+  "resumo": "O mesmo slide mostra **duas condutas opostas** sobre a proteína na encefalopatia hepática, sem dizer qual prevalece numa prova.",
+  "lados": [
+   "Citação do **American College of Gastroenterology, de 2001**: “em pacientes com encefalopatia, a ingestão proteica **deveria ser iniciada em 0,5 g/kg/dia**, com aumento progressivo para **1,0–1,5 g/kg/dia**, dependendo da tolerância”.",
+   "Logo abaixo, no mesmo slide: **“a restrição proteica não reduziu a gravidade da encefalopatia hepática e pode agravar o catabolismo proteico”**, devendo ser considerada **apenas em casos muito específicos e graves de EH e hemorragia GI, por período de tempo muito limitado**. E o slide 30 fecha: **“o consumo de proteínas não deve ser reduzido na presença de EH”**."
+  ],
+  "fontes": [
+   {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 27
+   },
+   {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 30
+   }
+  ],
+  "nota": "A citação de 2001 está marcada com o ano e aparece para ser **contrastada**: a conduta que o material defende é **não reduzir a proteína**. Se a questão perguntar “o que se recomenda hoje”, a resposta é **não restringir**; se citar o ACG de 2001, aí sim é **0,5 g/kg/dia progredindo**."
  }
 ]

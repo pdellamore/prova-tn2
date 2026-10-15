@@ -1,0 +1,586 @@
+{
+ "id": "B6",
+ "titulo": "Avaliação nutricional na cirrose",
+ "preteste": [
+  "Q-B6-01",
+  "Q-B6-02"
+ ],
+ "blocos": [
+  {
+   "id": "B6-b1",
+   "titulo": "Quanta desnutrição e quanta sarcopenia",
+   "prioridade": "E",
+   "pontos": [
+    "**A prevalência é variável.** **Desnutrição: 20% na doença compensada e 50% na descompensada.** **Sarcopenia: > 40% nos candidatos a transplante e 30 a 46% no Child-Pugh A a C.**",
+    "**Desnutrição e sarcopenia são preditores de desfechos** e se agravam mutuamente: **pior qualidade de vida, descompensação da cirrose, internação prolongada, fragilidade e pior desfecho pós-transplante.**"
+   ],
+   "cuidado": [
+    "**A desnutrição dobra da compensada (20%) para a descompensada (50%).** É o par de números mais provável numa alternativa.",
+    "Sarcopenia e desnutrição **não são sinônimos** aqui: aparecem como condições que se agravam uma à outra."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 9
+   },
+   "checagem": {
+    "pergunta": "Qual a prevalência de desnutrição na cirrose compensada e na descompensada, segundo o slide?",
+    "alternativas": [
+     "5% na compensada e 20% na descompensada",
+     "20% na compensada e 50% na descompensada",
+     "30% na compensada e 46% na descompensada",
+     "40% na compensada e 70% na descompensada",
+     "50% nas duas situações"
+    ],
+    "correta": 1,
+    "justificativa": "**Desnutrição: 20% na doença compensada e 50% na descompensada.** Os valores de **30 a 46%** são os de **sarcopenia** por classe de Child-Pugh, e os **> 40%** são de sarcopenia em candidatos a transplante.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 9
+    }
+   }
+  },
+  {
+   "id": "B6-b2",
+   "titulo": "Por que o cirrótico desnutre",
+   "prioridade": "E",
+   "pontos": [
+    "**Associadas à doença:** alteração do metabolismo energético-proteico, alterações hormonais, **saciedade precoce, inapetência e sintomas gastrointestinais**, **dietas de baixa densidade nutricional e álcool**, má absorção de vitaminas e minerais.",
+    "**Associadas ao tratamento:** **restrição de sódio**, hospitalizações frequentes, medicamentos e **jejum para exames**.",
+    "**Ingestão alimentar reduzida: o consumo alimentar fica em torno de 50% do prescrito.**",
+    "**Má absorção:** **colestase** (interrupção do fluxo da bile) → **má digestão de gorduras** e **deficiência de vitaminas lipossolúveis**; **uso de lactulose para tratar a encefalopatia → diarreia e má absorção**; supercrescimento bacteriano e enteropatias; alcoolismo. **Deficiências mais frequentes: vitaminas A, D, E, K, folato, tiamina, zinco e selênio.**",
+    "**Zinco: na cirrose, a prevalência de deficiência pode ser superior a 90%. Causa e agrava a encefalopatia, provoca alterações do paladar e anorexia.**"
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Eixo",
+     "O que acontece"
+    ],
+    "linhas": [
+     [
+      "**Ingestão**",
+      "**reduzida** — chega a ~50% do prescrito"
+     ],
+     [
+      "**Absorção**",
+      "**alterada** — colestase, lactulose, supercrescimento bacteriano"
+     ],
+     [
+      "**Catabolismo proteico**",
+      "**aumentado**"
+     ],
+     [
+      "**Hipermetabolismo**",
+      "**presente**"
+     ],
+     [
+      "**Síntese, metabolismo e armazenamento de nutrientes**",
+      "**alterados**"
+     ],
+     [
+      "**Fatores socioculturais e ambientais**",
+      "também pesam"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**A restrição de sódio aparece como CAUSA de desnutrição** (tratamento), por reduzir a palatabilidade. É por isso que depois se desaconselha a restrição mais severa.",
+    "**A lactulose trata a encefalopatia e, de quebra, causa diarreia e má absorção.** Os dois lados caem juntos.",
+    "**Zinco > 90% de deficiência** e ele **causa e agrava** a encefalopatia — não é só consequência."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 11
+   },
+   "checagem": {
+    "pergunta": "Qual destas causas de desnutrição na cirrose está associada ao TRATAMENTO, e não à doença em si?",
+    "alternativas": [
+     "Saciedade precoce pela ascite",
+     "Alterações hormonais",
+     "Restrição de sódio e jejum para exames",
+     "Supercrescimento bacteriano",
+     "Alteração do metabolismo energético-proteico"
+    ],
+    "correta": 2,
+    "justificativa": "O slide separa as causas em dois grupos. **Associadas ao tratamento: restrição de sódio, hospitalizações frequentes, medicamentos e jejum para exames.** As demais alternativas estão no grupo **associadas à doença**.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 11
+    }
+   }
+  },
+  {
+   "id": "B6-b3",
+   "titulo": "Aceleração do jejum e catabolismo",
+   "prioridade": "E",
+   "pontos": [
+    "**30 a 35% dos pacientes têm aumento do gasto energético de repouso.**",
+    "**Aceleração do jejum:** há **perda da capacidade de estoque adequado de glicogênio**; na ausência de glicogênio, ocorrem **oxidação de gordura e gliconeogênese**, com **necessidade de usar aminoácidos como fonte de glicose**. **12 h de jejum no cirrótico equivalem a 72 h num indivíduo saudável.**",
+    "**Catabolismo proteico e muscular:** a aceleração do jejum leva a **maior catabolismo proteico muscular + inflamação**. A conversão de **aminoácidos em glicose produz amônia (NH₃)**. A **amônia livre é tóxica** e deveria virar ureia no fígado — **o zinco é cofator** dessa reação. Com **insuficiência hepática e deficiência de zinco**, sobra **amônia livre**. Então os **BCAA plasmáticos são usados para fixar a amônia em vez de servirem à síntese proteica → mais catabolismo**.",
+    "**Sarcopenia e fragilidade:** sedentarismo, **alterações metabólicas e toxicidade no tecido muscular**, **alcoolismo como fator agravante** → **redução de força muscular, massa muscular e funcionalidade** → estado de **vulnerabilidade aumentada, declínio fisiológico e maior mortalidade**."
+   ],
+   "cuidado": [
+    "**12 h de jejum = 72 h.** É a justificativa fisiológica da **ceia** que aparece na terapia nutricional. Guarde o par de números.",
+    "O círculo vicioso tem uma ordem: **jejum → aminoácidos viram glicose → amônia → BCAA são desviados para fixar amônia → menos síntese proteica → mais catabolismo**.",
+    "**O zinco é cofator da ureagênese.** É por isso que a deficiência dele aumenta a amônia livre."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 16
+   },
+   "checagem": {
+    "pergunta": "Por que os BCAA plasmáticos acabam contribuindo para o catabolismo no cirrótico?",
+    "alternativas": [
+     "Porque são convertidos em gordura no fígado",
+     "Porque são usados para fixar a amônia livre em vez de servirem à síntese proteica",
+     "Porque competem com a glicose pelo transporte intestinal",
+     "Porque inibem a produção de insulina",
+     "Porque são excretados inalterados pelo rim"
+    ],
+    "correta": 1,
+    "justificativa": "Com insuficiência hepática e deficiência de zinco (**cofator da ureagênese**), sobra **amônia livre**. Os **BCAA plasmáticos passam a ser usados para fixá-la**, em vez de serem destinados à **síntese proteica** — e o resultado é **mais catabolismo**.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 17
+    }
+   }
+  },
+  {
+   "id": "B6-b4",
+   "titulo": "As complicações atrapalham a avaliação",
+   "prioridade": "I",
+   "pontos": [
+    "**Antes de estabelecer a conduta:** etiologias da cirrose; estágio da doença e contexto (hospitalar ou ambulatorial); manifestações clínicas e complicações associadas; severidade e prognóstico; impacto da doença sobre o estado nutricional; e **como realizar a triagem, a avaliação e o diagnóstico nutricional**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Complicação",
+     "Como atrapalha a avaliação"
+    ],
+    "linhas": [
+     [
+      "**Varizes esofágicas**",
+      "**dificuldade e dor na deglutição**, hemorragia"
+     ],
+     [
+      "**Ascite**",
+      "**saciedade precoce e plenitude gástrica**; **impacto no peso aferido**"
+     ],
+     [
+      "**Encefalopatia**",
+      "**confusão mental e rebaixamento do sensório**"
+     ],
+     [
+      "**Peritonite bacteriana**",
+      "infecção do líquido ascítico; **febre, quadro agudo, inflamação intensa**"
+     ],
+     [
+      "**Edema**",
+      "**dificulta a avaliação antropométrica, o exame físico e a composição corporal**"
+     ],
+     [
+      "**Síndrome hepatorrenal**",
+      "**perda da função renal**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Ascite mexe no peso; edema mexe na antropometria e na composição corporal.** São prejuízos diferentes, e a prova costuma trocá-los.",
+    "**Encefalopatia compromete a própria anamnese** — com o paciente confuso, a história alimentar fica pouco confiável."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 21
+   },
+   "checagem": {
+    "pergunta": "Qual complicação é apontada como a que dificulta a avaliação antropométrica, o exame físico e a composição corporal?",
+    "alternativas": [
+     "Varizes esofágicas",
+     "Encefalopatia hepática",
+     "Edema",
+     "Peritonite bacteriana espontânea",
+     "Síndrome hepatorrenal"
+    ],
+    "correta": 2,
+    "justificativa": "O slide atribui ao **edema** exatamente esses três prejuízos: **avaliação antropométrica, exame físico e composição corporal**. A **ascite** aparece com **saciedade precoce e impacto no peso aferido**; a **encefalopatia**, com confusão e rebaixamento do sensório.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 21
+    }
+   }
+  },
+  {
+   "id": "B6-b5",
+   "titulo": "Triagem: quem pula a fila",
+   "prioridade": "E",
+   "pontos": [
+    "**Child-Pugh C e/ou IMC < 18,5 kg/m² → vai direto para a AVALIAÇÃO NUTRICIONAL**, sem passar pela triagem.",
+    "**Child-Pugh A/B e IMC > 18,5 kg/m² → triagem com ferramentas.** Se houver risco nutricional, segue para a avaliação nutricional; **se não houver, faz retriagem periódica**.",
+    "**Retriagem periódica: 7 dias para hospitalizados e 6 meses para não-hospitalizados.**",
+    "**No uso de ferramentas tradicionais, atentar ao histórico e à magnitude da perda de peso e considerar o acúmulo de fluidos.** **Poucos estudos validam ferramentas em pacientes com cirrose**, usam populações e métodos de referência diferentes, o que dificulta identificar a mais sensível. **As diretrizes mais recentes (ESPEN, EASL, UEG) sugerem usar ferramentas específicas para doença hepática sempre que possível.**",
+    "No fluxograma da EASL (Journal of Hepatology 2019), quem tem **IMC ≥ 30 kg/m²** vai para **avaliação nutricional + intervenção de estilo de vida** na cirrose compensada, **considerando também avaliar sarcopenia**; e quem é tratado por desnutrição ou sarcopenia tem **reavaliação a cada 1 a 3 meses no primeiro ano**."
+   ],
+   "cuidado": [
+    "**Child C e IMC < 18,5 não são triados: já entram como alto risco.** Alternativa que mande aplicar ferramenta nesses casos está errada.",
+    "**Retriagem: 7 dias hospitalizado × 6 meses ambulatorial** — mas o fluxograma da EASL, no mesmo material, fala em **pelo menos 1×/ano**. Veja a ambiguidade."
+   ],
+   "ambiguidade": "retriagem-cirrose",
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 24
+   },
+   "checagem": {
+    "pergunta": "Paciente com cirrose Child-Pugh C e IMC de 17 kg/m². Qual a conduta inicial segundo o fluxo apresentado?",
+    "alternativas": [
+     "Aplicar a RFH-NPT para definir se há risco nutricional",
+     "Encaminhar diretamente para avaliação nutricional, sem triagem",
+     "Aplicar a NRS-2002, por ser a ferramenta validada em cirrose",
+     "Reavaliar em 7 dias antes de qualquer conduta",
+     "Solicitar tomografia em L3 antes de qualquer triagem"
+    ],
+    "correta": 1,
+    "justificativa": "**Child-Pugh C e/ou IMC < 18,5 kg/m²** identificam o paciente **em risco nutricional de saída**, e o fluxo manda ir **direto à avaliação nutricional** — a triagem com ferramentas fica para **Child A/B com IMC > 18,5**.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 24
+    }
+   }
+  },
+  {
+   "id": "B6-b6",
+   "titulo": "RFH-NPT, LDUST e as tradicionais",
+   "prioridade": "E",
+   "pontos": [
+    "**RFH-NPT (Royal Free Hospital Nutrition Prioritizing Tool):** **desenvolvida especificamente para pacientes com cirrose**, com **valorização do acúmulo de fluidos**; **traduzida e adaptada transculturalmente para o português por pesquisadores da UFRGS/HCPA**; **preditora de sobrevida livre de transplante** — tanto o risco nutricional quanto a **mudança** no risco se associam a esse desfecho.",
+    "**LDUST (Liver Disease Undernutrition Screening Tool):** **desenvolvida pela ASPEN/AND** para pacientes com doenças hepáticas; **permite responder “eu não sei”**; **sensibilidade de 72% no estudo de desenvolvimento, porém baixo valor preditivo negativo**; também **traduzida e adaptada pela UFRGS/HCPA**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Estudo",
+     "NRS-2002",
+     "MNA-SF",
+     "LDUST",
+     "RFH-NPT"
+    ],
+    "linhas": [
+     [
+      "**63 ambulatoriais** (38% desnutridos pelo GLIM — 15,9% moderada e 22,2% grave)",
+      "—",
+      "**88%**",
+      "**83%**",
+      "**67%**"
+     ],
+     [
+      "**78 hospitalizados** (82% descompensados)",
+      "**66,7%**",
+      "—",
+      "**84,8%**",
+      "**90,9%**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**A RFH-NPT foi a MAIS sensível nos hospitalizados (90,9%) e a MENOS sensível nos ambulatoriais (67%).** Essa inversão é o detalhe mais cobrável dos dois estudos.",
+    "No estudo ambulatorial, **a sensibilidade das ferramentas aumentou em pacientes Child-Pugh B e C e naqueles com ascite**.",
+    "**A LDUST é a única que permite “eu não sei”** e tem **baixo VPN** — ou seja, um resultado negativo não tranquiliza."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 27
+   },
+   "checagem": {
+    "pergunta": "Em qual cenário a RFH-NPT foi a ferramenta mais sensível?",
+    "alternativas": [
+     "Em pacientes ambulatoriais, com 88% de sensibilidade",
+     "Em pacientes hospitalizados, com 90,9% de sensibilidade",
+     "Em pacientes ambulatoriais, com 67% de sensibilidade",
+     "Em nenhum dos cenários; a NRS-2002 foi a mais sensível nos dois",
+     "Em hospitalizados, mas empatada com a NRS-2002"
+    ],
+    "correta": 1,
+    "justificativa": "Nos **78 hospitalizados** (82% descompensados), a **RFH-NPT alcançou 90,9%**, contra 84,8% da LDUST e 66,7% da NRS-2002. Já nos **63 ambulatoriais**, ela foi a **menos** sensível (**67%**), atrás de MNA-SF (88%) e LDUST (83%).",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 31
+    }
+   }
+  },
+  {
+   "id": "B6-b7",
+   "titulo": "Peso na presença de fluidos",
+   "prioridade": "E",
+   "pontos": [
+    "**PESO SECO = o peso pós-paracentese (na ascite) ou o peso com desconto de acordo com o grau de acúmulo de fluidos.**",
+    "**Desconto percentual** (o recomendado pelas diretrizes): **ascite leve −5%, moderada −10%, severa −15%**; **edema bilateral −5%**.",
+    "**Desconto absoluto:** **edema −1 kg (leve), −5 kg (moderado), −10 kg (grave)**; **ascite −2,2 kg (leve), −6 kg (moderada), −14 kg (grave)**.",
+    "**Peso estimado (Chumlea, por circunferência do braço e altura do joelho):** no estudo do HCPA, em **pacientes sem sobrecarga hídrica (n = 289)**, o peso **aferido (71,8 ± 18,5 kg)** e o **estimado (70,9 ± 16,2 kg)** ficaram muito próximos. **Com sobrecarga hídrica (n = 85)**, aferido com desconto absoluto **70,6 kg**, com desconto percentual **68,1 kg** e estimado **63,3 kg**.",
+    "**Conclusão do estudo:** os **descontos percentuais são os recomendados pelas diretrizes** e apresentaram **menor diferença em relação ao peso estimado**; o **peso estimado se correlaciona fortemente com o aferido na ausência de sobrecarga hídrica** — nos demais casos, **monitorar de perto**. **Na prática clínica: ajustar a oferta calórica e monitorar a terapia nutricional.**",
+    "**Equações novas (2023)** para estimar o peso seco pós-paracentese em **19 pacientes ambulatoriais com ascite grave**: **Equação 1** para quem pode ser pesado (**altura, peso “encharcado” e circunferência abdominal**) e **Equação 2** para os restritos ao leito (**altura, circunferência abdominal e circunferência do braço**) — comparadas aos descontos tradicionais de **−14 kg** e **−15%**."
+   ],
+   "cuidado": [
+    "**Os percentuais da ascite (5/10/15) e do edema (5) são os mesmos que reaparecem na aula de terapia nutricional.** São os números mais reaproveitados das duas aulas.",
+    "Não confunda os dois sistemas: **ascite grave é −15% OU −14 kg**; **edema grave é −10 kg**, mas o percentual do edema é **−5% apenas, e só para bilateral**.",
+    "**Chumlea usa CB e altura do joelho** — e só vale bem **sem** sobrecarga hídrica."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 25
+   },
+   "apoio": {
+    "tipo": "mnemonico",
+    "texto": "Percentuais da ascite em escada de 5: **5, 10, 15**. O edema entra com **um degrau só: 5%**. Apoio de memória; os valores são os do slide."
+   },
+   "checagem": {
+    "pergunta": "Paciente pesa 82 kg, tem ascite moderada e edema bilateral de membros inferiores. Qual o peso seco pelo desconto percentual?",
+    "alternativas": [
+     "77,9 kg (desconto de 5% só do edema)",
+     "73,8 kg (desconto de 10% só da ascite)",
+     "69,7 kg (descontos de 10% da ascite e 5% do edema)",
+     "67,2 kg (desconto de 18%)",
+     "82 kg, porque não se descontam fluidos no peso aferido"
+    ],
+    "correta": 2,
+    "justificativa": "**Ascite moderada = −10%** e **edema bilateral = −5%**, somando **15%**. **82 × 0,85 = 69,7 kg.** Descontar só um dos dois deixaria o peso superestimado.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 25
+    }
+   }
+  },
+  {
+   "id": "B6-b8",
+   "titulo": "Consumo alimentar e sintomas",
+   "prioridade": "I",
+   "pontos": [
+    "**Avaliação quantitativa e qualitativa**, voltada à **educação nutricional**. **Determinar a quantidade consumida atualmente, em mais de um dia**; **comparar o consumo atual com o habitual**; e registrar **o período e o motivo da redução da ingestão** (última semana, mês…).",
+    "**Instrumentos:** recordatório de 24 h, recordatório habitual e **diagrama do prato**.",
+    "**Uso abusivo de álcool: impacto calórico, mas não nutricional, somado ao risco de deficiência de tiamina.**",
+    "**Sintomas gastrointestinais:** questionar a presença; **identificar a duração (> 2 semanas)**; **frequência e gravidade nas últimas semanas (> 2×/dia)** — com **julgamento clínico**.",
+    "**Prejuízos na INGESTÃO:** disfagia, dor abdominal, náusea, vômito. **Prejuízos na ABSORÇÃO:** **diarreia (lactulose)**, insuficiência pancreática, enteropatias."
+   ],
+   "cuidado": [
+    "**Os cortes dos sintomas: duração > 2 semanas e frequência > 2×/dia.** São os mesmos limiares usados pelo GLIM para sintomas GI.",
+    "**Álcool dá caloria, não dá nutriente** — e ainda puxa a tiamina para baixo.",
+    "A divisão **ingestão × absorção** é a chave: **diarreia prejudica absorção**, não ingestão."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 40
+   },
+   "checagem": {
+    "pergunta": "Segundo o slide, quais sintomas prejudicam a ABSORÇÃO (e não a ingestão)?",
+    "alternativas": [
+     "Disfagia, dor abdominal e náusea",
+     "Diarreia pela lactulose, insuficiência pancreática e enteropatias",
+     "Vômito e saciedade precoce",
+     "Anorexia e alteração do paladar",
+     "Plenitude gástrica e disgeusia"
+    ],
+    "correta": 1,
+    "justificativa": "O slide separa: **prejuízos na ingestão** são disfagia, dor abdominal, náusea e vômito; **prejuízos na absorção** são **diarreia (lactulose), insuficiência pancreática e enteropatias**.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 41
+    }
+   }
+  },
+  {
+   "id": "B6-b9",
+   "titulo": "Antropometria: CB, CMB e panturrilha",
+   "prioridade": "E",
+   "pontos": [
+    "**Espera-se uma composição corporal alterada, caracterizada principalmente pela perda de massa muscular, mesmo no Child-Pugh A.**",
+    "**Circunferência do braço (CB):** em **100 pacientes com cirrose descompensada hospitalizados** (triagem por RFH-NPT, 78% em risco; ASG com 69% B ou C), os pontos de corte **< 28 cm para mulheres e < 30 cm para homens** tiveram **boa acurácia para detectar desnutrição pela ASG** e se associaram a **aumento da mortalidade em mais de 2 vezes (HR 2,41; 1,20–4,84)**.",
+    "**Circunferência muscular do braço (CMB):** estudo **brasileiro multicêntrico (5 centros, 1.075 pacientes)** estabeleceu pontos de corte tendo a **ASG como referência**. **Acurácia (AUC): ~65% para redução moderada de massa muscular e ~80% para redução severa.** **Preditora de mortalidade em 1 ano (HR 1,71; 1,24–2,35).**",
+    "**Vantagens dos pontos de corte da CMB:** **melhor desempenho que os valores de Frisancho** (sensibilidade 50,5% e especificidade 68,6%); **mais fáceis de usar à beira do leito** que tabelas de percentil; **podem ser usados como marcador fenotípico de massa muscular no GLIM**, porque classificam em **redução moderada e grave**. **Limitação: ainda não foram validados contra medidas mais sofisticadas (tomografia, DEXA).**",
+    "**Circunferência da panturrilha: apenas em pacientes sem edema.** **CB e CMB sofrem menor influência do acúmulo de fluidos.**"
+   ],
+   "cuidado": [
+    "**CB: < 28 cm mulheres, < 30 cm homens.** Repare que, aqui, o corte da mulher é **menor** — e a CB é medida em cm, não em percentil.",
+    "**A panturrilha é a que cai fora quando há edema.** CB e CMB resistem melhor.",
+    "**Perda muscular já no Child A**: alternativa que diga que a composição corporal só se altera na doença avançada está errada."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 43
+   },
+   "checagem": {
+    "pergunta": "Mulher com cirrose descompensada e CB de 26 cm. Como interpretar, segundo o estudo apresentado?",
+    "alternativas": [
+     "Valor normal, porque o corte feminino é de 24 cm",
+     "Abaixo do ponto de corte de 28 cm, com boa acurácia para desnutrição pela ASG e mortalidade mais que dobrada",
+     "Abaixo do corte masculino de 30 cm, que também se aplica a mulheres",
+     "Não interpretável sem a altura do joelho",
+     "Normal, desde que não haja edema no braço"
+    ],
+    "correta": 1,
+    "justificativa": "O corte validado em cirrose descompensada é **< 28 cm para mulheres** (e **< 30 cm para homens**). Com **26 cm** ela está abaixo, o que teve **boa acurácia para detectar desnutrição pela ASG** e se associou a **mortalidade mais de 2 vezes maior (HR 2,41)**.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 43
+    }
+   }
+  },
+  {
+   "id": "B6-b10",
+   "titulo": "Tomografia, BIA e DEXA",
+   "prioridade": "E",
+   "pontos": [
+    "**A secção transversal no nível da vértebra L3 é a medida recomendada para avaliar massa muscular em pacientes com doença hepática crônica.** É **método caro, com exposição à radiação e pouco disponível** — **recomendado se o paciente já faria o exame por outro motivo**. **Interessante na obesidade**, por avaliar **mioesteatose (infiltração gordurosa)**.",
+    "**SMI (índice de músculo esquelético) = área da secção transversal em L3 (cm²) / altura².** Pontos de corte: **SMI < 50 cm²/m² para homens** e **SMI < 39 cm²/m² para mulheres**. Também: **Psoas Muscle Index** (espessura/área do psoas) e a **escala Hounsfield (HU)** para **atenuação muscular** — densidade do tecido e infiltração de gordura, isto é, **qualidade**.",
+    "**BIA e DEXA são influenciadas pelo acúmulo de fluidos**, com **baixa correlação com a tomografia**, e a **massa livre de gordura (MLG) será superestimada**. O **índice de massa muscular apendicular (IMMA)** é alternativa **na ascite sem edema**.",
+    "**Ângulo de fase** (quando houver BIA): **marcador de integridade celular** — valores maiores podem representar, indiretamente, maior massa muscular e auxiliar no diagnóstico de sarcopenia. Em **97 pacientes com cirrose descompensada**, **ângulo de fase ≤ 5,52° identificou desnutrição pela ASG** com **sensibilidade e especificidade > 70%** e **risco de morte 3 vezes maior em 6 meses (HR 3,44; 1,51–7,84)**."
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Método",
+     "Vantagem",
+     "Desvantagem"
+    ],
+    "linhas": [
+     [
+      "**Bioimpedância**",
+      "menor custo, portátil, não invasivo, pouco treinamento; **ângulo de fase** pode ser usado",
+      "**influência do acúmulo de fluidos**, sobretudo ascite; nem sempre disponível"
+     ],
+     [
+      "**DEXA**",
+      "**IMMA utilizável na ascite, desde que sem edema nos membros**",
+      "alto custo, menor disponibilidade, influência de fluidos (MLG) e do edema"
+     ],
+     [
+      "**Tomografia**",
+      "quantificação acurada da MM e da infiltração gordurosa; **sem influência de fluidos**; **é a recomendada na prática clínica**",
+      "alto custo, treinamento, radiação, equipe especializada"
+     ],
+     [
+      "**Antropometria**",
+      "rápida, fácil, à beira do leito, medida seriada; **CB e CMB com menor influência de fluidos**",
+      "cuidado na interpretação; **superestima em pacientes com obesidade**"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**SMI: < 50 cm²/m² homens, < 39 cm²/m² mulheres.** O slide só distingue por ícone — guarde o maior para o homem.",
+    "**BIA e DEXA superestimam a MLG com fluido.** Se a alternativa disser que a BIA é o método de escolha na ascite, está errada.",
+    "**O ângulo de fase ≤ 5,52° é o número da BIA que vale decorar** (desnutrição pela ASG e 3× risco de morte em 6 meses)."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 49
+   },
+   "checagem": {
+    "pergunta": "Qual método é apontado como recomendado para avaliar massa muscular na doença hepática crônica, e por quê?",
+    "alternativas": [
+     "Bioimpedância, por ser portátil e barata",
+     "DEXA, por medir o IMMA em qualquer situação",
+     "Tomografia em L3, por quantificar a massa muscular com acurácia e sem influência de fluidos",
+     "Antropometria, por ser seriada e à beira do leito",
+     "Ultrassonografia muscular, por estar amplamente disponível"
+    ],
+    "correta": 2,
+    "justificativa": "O quadro comparativo diz que a **tomografia é a recomendada para uso na prática clínica**: **quantificação acurada da massa muscular, avaliação da infiltração gordurosa e sem influência do acúmulo de fluidos**. O preço é custo, radiação e equipe especializada — daí a recomendação de usá-la **quando o paciente já faria o exame por outro motivo**.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 53
+    }
+   }
+  },
+  {
+   "id": "B6-b11",
+   "titulo": "Força de preensão (FAM)",
+   "prioridade": "E",
+   "pontos": [
+    "**Estudo brasileiro multicêntrico com 724 pacientes com cirrose hospitalizados**, usando o **maior valor de 3 medidas na mão não dominante**.",
+    "**Pontos de corte — mulheres: FAM ≤ 12 kgf (< 60 anos) e ≤ 10 kgf (≥ 60 anos). Homens: FAM ≤ 33 kgf (< 60 anos) e ≤ 22 kgf (≥ 60 anos).**",
+    "**Resultados: FAM média de 23 kgf; 44,8% com FAM reduzida; 2,5× mais risco de morte.**",
+    "Em **146 pacientes ambulatoriais (82% Child-Pugh A)**, avaliando a validade da FAM para identificar massa muscular reduzida pela tomografia, a conclusão foi que **a FAM reduzida já seria suficiente para implementar intervenções de manejo da sarcopenia, mesmo sem a possibilidade de avaliar objetivamente a massa muscular**.",
+    "**Síntese do material:** quando disponível, **usar TC**; **DEXA e BIA são alternativas**, especialmente na **cirrose compensada**; **CB e CMB** servem na prática clínica, sobretudo à beira do leito, para **auxiliar no diagnóstico e no monitoramento**; e **a força muscular serve para identificar sarcopenia e é bom marcador prognóstico**."
+   ],
+   "cuidado": [
+    "**Os cortes femininos são muito menores que os masculinos (≤ 12 e ≤ 10 contra ≤ 33 e ≤ 22 kgf).** É assim que está no slide, com os ícones de mulher e homem.",
+    "**Mão não dominante e o MAIOR de 3 medidas.** Duas pegadinhas numa frase só.",
+    "**FAM reduzida já autoriza intervir**, mesmo sem medir massa muscular. É a mensagem prática."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 54
+   },
+   "checagem": {
+    "pergunta": "Como se mede a força de preensão (FAM) segundo o estudo apresentado?",
+    "alternativas": [
+     "Média de 3 medidas na mão dominante",
+     "Maior valor de 3 medidas na mão não dominante",
+     "Menor valor de 3 medidas na mão não dominante",
+     "Uma única medida na mão dominante",
+     "Média das duas mãos"
+    ],
+    "correta": 1,
+    "justificativa": "O estudo usou o **maior valor de 3 medidas na mão não dominante**. Nele, a FAM média foi de **23 kgf**, **44,8%** tinham FAM reduzida e o risco de morte foi **2,5 vezes maior**.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 54
+    }
+   }
+  },
+  {
+   "id": "B6-b12",
+   "titulo": "Diagnóstico: RFH-GA e GLIM",
+   "prioridade": "E",
+   "pontos": [
+    "**RFH-GA (Royal Free Hospital-Global Assessment):** **adaptação da ASG para aumentar a validade em pacientes com doença hepática**. Usa **IMC (calculado com peso seco)**, medida do braço e **consumo alimentar**, classificado como **adequado = atingindo as necessidades nutricionais**; **inadequado = não atinge, mas > 500 kcal/dia**; **insuficiente = menos de 500 kcal/dia**.",
+    "**Resultado da RFH-GA: bem nutrido · desnutrição moderada / suspeita de desnutrição · desnutrição grave.** No fluxograma, o **IMC é cortado em 20** e a medida do braço, no **5º percentil**.",
+    "**GLIM — critérios fenotípicos:** **IMC (peso seco) → não validado** na cirrose; **perda de peso (peso seco) → não validado**; **massa muscular** — por **CB, CMB, CP, tomografia, BIA ou DEXA**.",
+    "**GLIM — critério etiológico: todos os pacientes com cirrose o preenchem pela fisiopatologia da doença (ou por PCR-us).** O **consumo alimentar deveria ser avaliado**.",
+    "**Estudo com 387 pacientes com cirrose e sinais de descompensação** (os em risco nutricional foram avaliados pelo GLIM): **mediana de tempo de internação de 12 dias**, **28,7% de desnutrição** e **2,3% de óbito intra-hospitalar**. **Todas as variáveis do GLIM foram preditoras de piores desfechos** na internação."
+   ],
+   "cuidado": [
+    "**No GLIM, o critério etiológico já está dado na cirrose.** O que decide é a parte **fenotípica** — e, dela, **só a massa muscular é validada** (IMC e perda de peso **não** são).",
+    "**Os três níveis de ingestão da RFH-GA giram em torno de 500 kcal/dia.** “Inadequado” ainda é **acima** de 500; abaixo disso é **insuficiente**.",
+    "**O IMC da RFH-GA é calculado com o peso seco** — não com o peso aferido."
+   ],
+   "ambiguidade": "rfh-ga-cmb",
+   "fonte": {
+    "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+    "pagina": 60
+   },
+   "checagem": {
+    "pergunta": "No GLIM aplicado à cirrose, o que o slide afirma sobre o critério etiológico?",
+    "alternativas": [
+     "Nunca é preenchido, porque a cirrose não cursa com inflamação",
+     "Todos os pacientes com cirrose o preenchem pela fisiopatologia da doença (ou por PCR-us)",
+     "Só é preenchido na cirrose descompensada",
+     "Depende exclusivamente da perda de peso",
+     "Exige biópsia hepática para ser confirmado"
+    ],
+    "correta": 1,
+    "justificativa": "O slide diz que o critério etiológico é preenchido por **todos os pacientes com cirrose, pela fisiopatologia da doença (ou por PCR-us)** — por isso o peso da decisão recai sobre os **critérios fenotípicos**, dos quais **IMC e perda de peso não são validados** na cirrose e **a massa muscular** é o que resta.",
+    "fonte": {
+     "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+     "pagina": 62
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "Os números de desnutrição (20% e 50%) e de sarcopenia (> 40% e 30–46%)",
+  "As causas de desnutrição divididas entre doença e tratamento",
+  "A aceleração do jejum: 12 h equivalem a 72 h, e por quê",
+  "O círculo da amônia, do zinco como cofator e do desvio dos BCAA",
+  "Quem pula a triagem: Child C e/ou IMC < 18,5",
+  "Por que a RFH-NPT é a ferramenta específica, e a inversão de sensibilidade entre ambulatório e hospital",
+  "Os descontos de peso por ascite e edema, em percentual e em quilos",
+  "Os cortes de CB, CMB, SMI, ângulo de fase e FAM",
+  "Por que a tomografia em L3 é a recomendada e por que BIA e DEXA superestimam a MLG",
+  "Como se lê a RFH-GA e o que o GLIM valida (e não valida) na cirrose"
+ ]
+}

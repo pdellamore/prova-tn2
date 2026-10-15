@@ -1,0 +1,208 @@
+{
+ "id": "B8",
+ "titulo": "Transplante hepático",
+ "preteste": [
+  "Q-B8-01"
+ ],
+ "blocos": [
+  {
+   "id": "B8-b1",
+   "titulo": "Quem transplanta e quem não transplanta",
+   "prioridade": "E",
+   "pontos": [
+    "**O transplante hepático é a intervenção curativa e definitiva para a doença hepática terminal, a cirrose descompensada, a insuficiência hepática aguda e as neoplasias hepáticas primárias, como o câncer hepatocelular.**",
+    "**Indicações:** **cirrose avançada** resultante de doenças hepáticas crônicas; **câncer de fígado** — em certos casos, o câncer que se origina no fígado pode tornar o transplante uma opção para **remover tanto o câncer quanto a porção do fígado afetada**; **falência hepática aguda** (lesões traumáticas, infecções severas ou reações adversas a medicamentos); **doenças hepáticas genéticas**.",
+    "**A lógica da indicação: prever quem tem risco de óbito a curto prazo maior do que o risco relacionado ao transplante.** Na prática: **escore MELD-Na > 15**; **perda de qualidade de vida, independentemente do MELD**; **doenças colestáticas, ascite refratária e encefalopatia hepática sem resposta aos tratamentos**.",
+    "**Contraindicações:** **outras doenças em estágio avançado** (doença cardiovascular, pulmonar, AIDS, outros carcinomas com metástase); **uso de álcool e drogas nos últimos 6 meses**; **falta de suporte psicossocial**. **IMC > 40 kg/m² é contraindicação RELATIVA.**"
+   ],
+   "cuidado": [
+    "**MELD-Na > 15** é o número da indicação — mas **a perda de qualidade de vida indica independentemente do MELD**. Os dois caminhos convivem.",
+    "**IMC > 40 é contraindicação RELATIVA**, não absoluta. Alternativa que o trate como impeditivo absoluto está errada.",
+    "**Álcool e drogas nos últimos 6 meses** é o prazo a decorar."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 42
+   },
+   "checagem": {
+    "pergunta": "Qual destas é contraindicação apenas RELATIVA ao transplante hepático?",
+    "alternativas": [
+     "Uso de álcool nos últimos 6 meses",
+     "Carcinoma com metástase",
+     "IMC maior que 40 kg/m²",
+     "Falta de suporte psicossocial",
+     "AIDS"
+    ],
+    "correta": 2,
+    "justificativa": "O slide lista como contraindicações **outras doenças em estágio avançado (DCV, pulmonar, AIDS, carcinomas com metástase)**, **uso de álcool e drogas nos últimos 6 meses** e **falta de suporte psicossocial** — e marca separadamente que **IMC > 40 kg/m² é contraindicação relativa**.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 42
+    }
+   }
+  },
+  {
+   "id": "B8-b2",
+   "titulo": "A fila e o peso do estado nutricional",
+   "prioridade": "I",
+   "pontos": [
+    "**Características dos pacientes em fila:** **maioria homens**, **41% com obesidade**, **etiologia da doença hepática alcoólica e metabólica**, **10% realizou transplante de fígado e rins**.",
+    "**Mortalidade na lista: ~10% vai a óbito na fila e ~20% é removido da lista.**",
+    "**Relevância do estado nutricional:** **IMC < 18,5 kg/m²** e **IMC > 40 kg/m²** aumentam **morbidade e mortalidade durante a fila e após o transplante**. **Perda de massa muscular avaliada por quartis de SMI na TC: mais de 7% de perda de massa muscular por ano** piora os desfechos.",
+    "**Diretriz AASLD (statement 28):** **“a consulta com um nutricionista para avaliar desnutrição e risco de desnutrição deve ser incluída na avaliação de transplante de TODOS os pacientes”** (recomendação forte, nível 2). **Statement 29:** em candidatos com **risco moderado a alto de desnutrição ou evidência de desnutrição**, as **intervenções para melhorar o estado nutricional devem ser iniciadas antes do transplante** (recomendação fraca, nível 4).",
+    "Na avaliação do candidato, a **nutrição** e a **avaliação de fragilidade e função física** aparecem destacadas, ao lado das avaliações **neurológica e psicossocial** (com história de uso de álcool e drogas, apoio social e financeiro), **odontológica**, **pulmonar**, **cardíaca**, **renal**, **da saúde óssea** e da **triagem de câncer, doença infecciosa e situação vacinal**."
+   ],
+   "cuidado": [
+    "**Os dois extremos de IMC pesam: < 18,5 e > 40.** Não é só a desnutrição que atrapalha.",
+    "**10% morrem na fila e 20% saem dela** — são dois números distintos, fáceis de somar por engano.",
+    "A consulta com nutricionista é **para todos os candidatos** e com **recomendação forte**; já **intervir antes do transplante** tem recomendação **fraca**. A diferença de força cai em prova."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 47
+   },
+   "checagem": {
+    "pergunta": "Segundo a diretriz AASLD citada, a consulta com nutricionista na avaliação de candidatos ao transplante hepático é indicada para quem?",
+    "alternativas": [
+     "Apenas para candidatos com IMC abaixo de 18,5 kg/m²",
+     "Para todos os pacientes, como recomendação forte",
+     "Apenas para candidatos com sarcopenia confirmada por tomografia",
+     "Apenas após o transplante, no pós-operatório tardio",
+     "Apenas para candidatos com etiologia alcoólica"
+    ],
+    "correta": 1,
+    "justificativa": "O **statement 28** da AASLD diz que **a consulta com nutricionista para avaliar desnutrição e risco de desnutrição deve ser incluída na avaliação de transplante de todos os pacientes**, com **recomendação forte (nível 2)**. Já **iniciar intervenções antes do transplante**, nos de risco moderado a alto, é recomendação **fraca (nível 4)**.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 49
+    }
+   }
+  },
+  {
+   "id": "B8-b3",
+   "titulo": "Pré-operatório: manutenção, repleção e jejum",
+   "prioridade": "E",
+   "pontos": [
+    "**Objetivo do pré-operatório: identificar indivíduos com desnutrição e/ou sarcopenia e otimizar o estado nutricional.** A **triagem e a avaliação seguem o recomendado para hepatopatias**; é hora de **identificar sarcopenia e obesidade sarcopênica** e, se disponíveis, **lançar mão de métodos mais sofisticados**. **Buscar melhora do quadro precocemente → maior segurança e taxa de sucesso.**",
+    "**Manutenção do estado nutricional: 30 kcal/kg/dia e 1,2 g/kg/dia de proteína.** **Repleção do estado nutricional: 35 kcal/kg/dia e 1,5 g/kg/dia.** **Idealmente iniciar 2 semanas antes**, embora **não haja tempo claramente definido na literatura**.",
+    "**Utilizar SNO ou TNE com fórmulas nutricionais padrão**, porque os **produtos especializados — enriquecidos com BCAA ou imunomoduladores (ômega-3, arginina e probióticos) — não possuem resultados consistentes sobre a morbimortalidade pós-transplante.**",
+    "**Jejum pré-operatório: sólidos por 6 horas e líquidos por no máximo 2 horas antes da anestesia.** **Bebidas ricas em carboidratos na noite anterior e de 2 a 4 horas antes da cirurgia** → **hidratação, redução da resistência à insulina e do risco de síndrome de realimentação**, podendo promover **discreta redução no tempo de internação**."
+   ],
+   "cuidado": [
+    "**Manutenção 30/1,2 · repleção 35/1,5.** Os dois pares sobem juntos — fácil de guardar, fácil de trocar.",
+    "**Fórmula PADRÃO, não especializada.** BCAA e imunomoduladores **não** mostraram resultado consistente no pós-transplante.",
+    "**Jejum: 6 h para sólidos, no MÁXIMO 2 h para líquidos.** E o carboidrato é **na véspera e 2–4 h antes** — não é jejum prolongado."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 51
+   },
+   "checagem": {
+    "pergunta": "Candidato a transplante hepático desnutrido, em programa de repleção nutricional. Qual a prescrição recomendada?",
+    "alternativas": [
+     "30 kcal/kg/dia e 1,2 g/kg/dia de proteína",
+     "35 kcal/kg/dia e 1,5 g/kg/dia de proteína",
+     "25 kcal/kg/dia e 1,0 g/kg/dia de proteína",
+     "20 kcal/kg/dia e 0,8 g/kg/dia de proteína",
+     "40 kcal/kg/dia e 2,0 g/kg/dia de proteína"
+    ],
+    "correta": 1,
+    "justificativa": "No pré-operatório, a **manutenção** do estado nutricional usa **30 kcal/kg/dia e 1,2 g/kg/dia**, e a **repleção** usa **35 kcal/kg/dia e 1,5 g/kg/dia**. O ideal é **iniciar cerca de 2 semanas antes**, com **SNO ou TNE de fórmula padrão**.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 51
+    }
+   }
+  },
+  {
+   "id": "B8-b4",
+   "titulo": "Pós-operatório imediato",
+   "prioridade": "E",
+   "pontos": [
+    "**Objetivo: garantir oferta nutricional para a demanda pós-operatória e permitir boa recuperação.**",
+    "**Quando iniciar: cerca de 12 a 24 horas após a cirurgia, se houver estabilidade hemodinâmica** — o início precoce **reduz risco de infecção, tempo de internação na UTI e tempo de ventilação mecânica**.",
+    "**Qual via: VO → TNE → TNP.** **Iniciar precocemente a NP é melhor do que esperar a viabilidade da NE.** **Priorizar o uso do TGI**, pelo **trofismo e integridade da mucosa**.",
+    "**Quanto ofertar: iniciar com oferta calórica menor — 10 a 15 kcal/kg — nas primeiras 48 a 72 horas.** **Depois, progredir até 30 a 35 kcal/kg e 1,5 a 2,0 g/kg em pacientes sem obesidade.** **Na obesidade, progredir até 25 a 30 kcal/kg e 2,0 g/kg, baseado no peso ideal.**"
+   ],
+   "cuidado": [
+    "**12 a 24 h para começar; 10 a 15 kcal/kg nas primeiras 48 a 72 h.** São dois relógios diferentes na mesma frase.",
+    "**Na obesidade, a energia cai (25–30) e a proteína sobe (2,0 g/kg de peso ideal)** — mesma lógica da cirrose compensada com obesidade.",
+    "**A ordem das vias é VO → TNE → TNP**, mas com uma ressalva importante: **começar a NP cedo é melhor do que esperar a NE ficar viável**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 53
+   },
+   "checagem": {
+    "pergunta": "Paciente sem obesidade, 24 horas após transplante hepático e hemodinamicamente estável. Qual a oferta calórica nas primeiras 48 a 72 horas?",
+    "alternativas": [
+     "30 a 35 kcal/kg desde o início",
+     "10 a 15 kcal/kg, progredindo depois até 30 a 35 kcal/kg",
+     "25 a 30 kcal/kg de peso ideal",
+     "Jejum até o quinto dia pós-operatório",
+     "40 kcal/kg, pelo hipermetabolismo pós-cirúrgico"
+    ],
+    "correta": 1,
+    "justificativa": "Inicia-se com **oferta calórica menor — 10 a 15 kcal/kg — nas primeiras 48 a 72 horas**, progredindo depois até **30 a 35 kcal/kg e 1,5 a 2,0 g/kg** em pacientes **sem obesidade**. Na **obesidade**, a progressão vai até **25 a 30 kcal/kg e 2,0 g/kg de peso ideal**.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 53
+    }
+   }
+  },
+  {
+   "id": "B8-b5",
+   "titulo": "Pós-operatório tardio e imunossupressão",
+   "prioridade": "E",
+   "pontos": [
+    "**Objetivo: implementar estilo de vida saudável, controlar comorbidades e evitar ganho de peso corporal.**",
+    "**Imunossupressão:** os medicamentos **inibem ou reduzem a resposta do sistema imunológico aos aloantígenos do enxerto**, com o objetivo de **prevenir ou reverter a rejeição, alterando o mínimo possível a imunidade não relacionada ao tratamento**.",
+    "**Corticosteroides: usados nos primeiros 3 meses a 1 ano após o transplante**, podendo causar **retenção hídrica, hiperglicemia e aumento do apetite**. **Demais medicações: nefrotoxicidade, hipercalemia e ganho de peso.**",
+    "**Estilo de vida no pós-operatório tardio:** **menos de 10% do VET em gorduras saturadas e açúcares**; **menos de 2.300 mg/dia de sódio, ou cerca de 6 g de sal de cozinha**; **suplementos dietéticos e extratos de ervas apenas com autorização**; **segurança alimentar — água tratada, carnes e ovos bem cozidos, produtos pasteurizados, higienização correta de frutas e verduras**; **atividade física e estilo de vida saudável**.",
+    "**Reganho de peso e desenvolvimento de obesidade pós-transplante em ~40% dos pacientes** → **encaminhamento para atendimento especializado para manejo da obesidade, uso de fármacos ou cirurgia bariátrica**. O objetivo é **evitar o reinício do ciclo de adoecimento**."
+   ],
+   "cuidado": [
+    "**O sódio do pós-transplante é < 2.300 mg (~6 g de sal)** — **diferente** do < 2 g (5 g de sal) da ascite. Dois alvos, duas situações.",
+    "**Corticoide: 3 meses a 1 ano, com hiperglicemia e aumento do apetite.** É a combinação que explica o ganho de peso.",
+    "**~40% desenvolvem obesidade pós-transplante.** Guarde junto com os 41% de obesidade **na fila** — são números parecidos em momentos diferentes."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 55
+   },
+   "checagem": {
+    "pergunta": "Qual o alvo de sódio recomendado no pós-operatório tardio do transplante hepático?",
+    "alternativas": [
+     "Menos de 1.500 mg/dia",
+     "Menos de 2.000 mg/dia, equivalentes a 5 g de sal",
+     "Menos de 2.300 mg/dia, cerca de 6 g de sal de cozinha",
+     "Menos de 3.000 mg/dia",
+     "Não há restrição de sódio após o transplante"
+    ],
+    "correta": 2,
+    "justificativa": "No pós-operatório tardio, a orientação é **menos de 2.300 mg/dia de sódio, ou cerca de 6 g de sal de cozinha**, junto com **menos de 10% do VET em gorduras saturadas e açúcares**. Os **2 g (5 g de sal)** são o alvo da **ascite**, situação diferente.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 55
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "As quatro indicações de transplante e a lógica do risco de óbito a curto prazo",
+  "Que MELD-Na > 15 indica, mas a perda de qualidade de vida indica independentemente do MELD",
+  "Que IMC > 40 é contraindicação relativa, e quais são as absolutas",
+  "Os números da fila: 41% com obesidade, 10% de óbito e 20% de remoção",
+  "A diferença entre manutenção (30/1,2) e repleção (35/1,5) no pré-operatório",
+  "Por que se usa fórmula padrão e não especializada",
+  "O jejum pré-operatório de 6 h para sólidos e 2 h para líquidos",
+  "Quando e com quanto começar no pós-operatório imediato",
+  "O que os corticoides causam e por quanto tempo são usados",
+  "Os alvos de estilo de vida no pós-operatório tardio, incluindo os 2.300 mg de sódio"
+ ]
+}

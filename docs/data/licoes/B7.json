@@ -1,0 +1,401 @@
+{
+ "id": "B7",
+ "titulo": "Terapia nutricional na cirrose",
+ "preteste": [
+  "Q-B7-01",
+  "Q-B7-02"
+ ],
+ "blocos": [
+  {
+   "id": "B7-b1",
+   "titulo": "Planejamento, objetivos e o tamanho do efeito",
+   "prioridade": "I",
+   "pontos": [
+    "**O planejamento da TN considera:** **etiologia** da doença hepática; **estado nutricional**; **objetivos da TN e prognóstico clínico**; **contexto atual** (agudo, crônico, hospitalizado); **compensado ou descompensado**; e **manifestações clínicas e complicações**.",
+    "**Objetivos:** **evitar a descompensação** da doença ou **manejar os sintomas**; **evitar hospitalizações** ou reduzir o tempo de internação e a mortalidade intra-hospitalar; **evitar ou corrigir deficiências nutricionais**; **evitar ou corrigir o declínio do estado nutricional, da força e da funcionalidade**; **controlar os fatores de risco cardiometabólicos**.",
+    "**Meta-análise de terapia nutricional (Clinical Nutrition ESPEN, 2025):** **−30% de encefalopatia** (RR 0,70; 0,52–0,95) · **−31% de risco de descompensações** (RR 0,69; 0,53–0,90) · **−35% na taxa de hospitalizações** (RR 0,65; 0,49–0,86) · **−36% de mortalidade** (RR 0,64; 0,49–0,84)."
+   ],
+   "cuidado": [
+    "Os quatro números da meta-análise são quase em sequência: **30, 31, 35 e 36%**. Guarde a ordem — **encefalopatia, descompensação, hospitalização, mortalidade**.",
+    "Nenhum RR passa de 1: **todos os desfechos melhoram**. Se uma alternativa disser que a TN não altera mortalidade na cirrose, está errada (diferente do que acontece com os **BCAA isolados**)."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 6
+   },
+   "checagem": {
+    "pergunta": "Qual redução de mortalidade a meta-análise de terapia nutricional oral encontrou na cirrose?",
+    "alternativas": [
+     "Nenhuma redução significativa",
+     "Redução de 36% (RR 0,64)",
+     "Redução de 11% (RR 0,89)",
+     "Redução de 21% (RR 0,79)",
+     "Redução de 50% (RR 0,50)"
+    ],
+    "correta": 1,
+    "justificativa": "A meta-análise encontrou **−36% de mortalidade (RR 0,64; 0,49–0,84)**. Os valores de **RR 0,89** e **RR 0,79** são da revisão Cochrane sobre **BCAA** (mortalidade e encefalopatia, respectivamente) — não confunda os dois estudos.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 6
+    }
+   }
+  },
+  {
+   "id": "B7-b2",
+   "titulo": "Necessidades: energia e proteína",
+   "prioridade": "E",
+   "pontos": [
+    "**Cirrose compensada:** em geral as necessidades energéticas **não são maiores do que em indivíduos saudáveis**, especialmente com baixa atividade física — **20 a 30 kcal/kg e 1,2 g/kg de proteína**.",
+    "**Estima-se que 30 a 35% dos pacientes sejam hipermetabólicos**, número que **tende a aumentar conforme a doença avança**. Há **variabilidade interindividual** e **imprecisão das equações preditivas tradicionais (como Harris-Benedict)** na cirrose.",
+    "**Desnutrição, sarcopenia ou descompensação:** **30 a 35 kcal/kg** ou **> 35 kcal/kg** conforme a diretriz, com **1,2 a 1,5 g/kg de proteína**. O valor de **> 35 kcal/kg corresponde a cerca de 1,3 vez o gasto energético de repouso**.",
+    "**Qual peso utilizar: peso atual, peso seco (corrigido) ou peso ideal (obesos).** Descontos: **ascite leve −5%, moderada −10%, severa −15%**; **edema bilateral −5%**. **Monitorar!**"
+   ],
+   "tabela": {
+    "cabecalho": [
+     "Situação",
+     "Energia",
+     "Proteína"
+    ],
+    "linhas": [
+     [
+      "**Cirrose compensada** (não obesa)",
+      "**20 a 30 kcal/kg**",
+      "**1,2 g/kg**"
+     ],
+     [
+      "**Desnutrição, sarcopenia, descompensação**",
+      "**30 a 35 kcal/kg** ou **> 35 kcal/kg** (≈ 1,3 × GER)",
+      "**1,2 a 1,5 g/kg**"
+     ],
+     [
+      "**Compensada com obesidade** (IMC > 30 corrigido para retenção hídrica)",
+      "dieta **moderadamente hipocalórica: −500 a −800 kcal/dia**, meta de perda **> 5–10%**",
+      "**> 1,5 g/kg de peso ideal**"
+     ],
+     [
+      "**Obesidade grau I/II** (IMC 30–40)",
+      "**25 a 35 kcal/kg de peso ideal**",
+      "—"
+     ],
+     [
+      "**Obesidade grau III** (IMC ≥ 40)",
+      "**20 a 25 kcal/kg de peso ideal**",
+      "—"
+     ]
+    ]
+   },
+   "cuidado": [
+    "**Na obesidade, a proteína SOBE enquanto a energia desce** (> 1,5 g/kg de peso ideal), justamente para **não comprometer as reservas proteicas** durante a perda de peso.",
+    "**Não realizar intervenções para perda de peso em pacientes descompensados.** Esse é o freio da regra anterior.",
+    "**Equações preditivas são imprecisas na cirrose** — Harris-Benedict aparece nomeada. Não confie num valor “calculado” como se fosse exato."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 8
+   },
+   "checagem": {
+    "pergunta": "Paciente com cirrose compensada, IMC 33 kg/m² corrigido para retenção hídrica, peso ideal 70 kg. Qual a oferta proteica recomendada?",
+    "alternativas": [
+     "0,8 g/kg de peso ideal, para poupar o fígado",
+     "1,2 g/kg de peso atual, como na cirrose compensada sem obesidade",
+     "Mais de 1,5 g/kg de peso ideal, ou seja, acima de 105 g/dia",
+     "Restrição proteica até a perda de 10% do peso",
+     "2,0 g/kg de peso atual"
+    ],
+    "correta": 2,
+    "justificativa": "Na **cirrose compensada com obesidade (IMC > 30 corrigido)**, a dieta é **moderadamente hipocalórica (−500 a −800 kcal/dia)** mas com **aporte proteico adequado — > 1,5 g/kg de peso ideal/dia** — exatamente para **alcançar a perda de peso sem comprometer as reservas proteicas**. Com peso ideal de 70 kg, isso dá **mais de 105 g/dia**.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 7
+    }
+   }
+  },
+  {
+   "id": "B7-b3",
+   "titulo": "Vias de alimentação",
+   "prioridade": "E",
+   "pontos": [
+    "**Seguir as recomendações usuais de indicação de vias.** **Suplementação oral se a VO ficar abaixo de 70% das necessidades nutricionais.** **Via enteral se a VO ficar abaixo de 60%.** **Via parenteral na inviabilidade do TGI.**",
+    "**A via oral deve ser priorizada desde que os reflexos de tosse e deglutição estejam preservados.**",
+    "**Em pacientes com rebaixamento do sensório, delirium e sem acompanhante** para oferta de alimentos, **a TNE deve ser considerada** para garantir segurança no momento da alimentação e adequação do aporte.",
+    "**Na enteral: a posição gástrica é a primeira escolha.** **A presença de varizes esofágicas NÃO é contraindicação de nutrição enteral.** **Atenção à GASTROSTOMIA** em pacientes com **ascite severa, distúrbios de coagulação e varizes gástricas extensas**.",
+    "**Fórmula polimérica padrão deve ser priorizada**, mas **fórmulas HCHP (hipercalóricas e hiperproteicas) podem auxiliar nos casos de restrição hídrica**.",
+    "**Síndrome de realimentação:** em pacientes de **alto risco**, **administrar dose prévia de tiamina antes da infusão da TNE**. **Na nutrição parenteral, recomenda-se que todos recebam reposição.**"
+   ],
+   "cuidado": [
+    "**SNO em < 70% · enteral em < 60%.** O número **menor** é o da via **mais invasiva** — é fácil trocar.",
+    "**Varizes esofágicas não contraindicam sonda.** O cuidado é com a **gastrostomia** (ascite severa, coagulopatia, varizes gástricas extensas).",
+    "**Tiamina antes da TNE só nos de alto risco; na NP, para todos.** Essa diferença cai."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 12
+   },
+   "checagem": {
+    "pergunta": "Paciente com cirrose, varizes esofágicas de grande calibre e rebaixamento do sensório, aceitando 40% das necessidades por via oral. Qual a conduta?",
+    "alternativas": [
+     "Manter apenas via oral com suplemento, pelo risco de ruptura das varizes",
+     "Indicar nutrição enteral em posição gástrica, pois as varizes esofágicas não contraindicam a sonda",
+     "Indicar nutrição parenteral, porque as varizes inviabilizam o TGI",
+     "Indicar gastrostomia, por ser mais segura que a sonda nasogástrica",
+     "Suspender a oferta até a resolução do rebaixamento"
+    ],
+    "correta": 1,
+    "justificativa": "Com **VO abaixo de 60%** das necessidades e **rebaixamento do sensório**, a indicação é **nutrição enteral** — e o slide é explícito: **a presença de varizes esofágicas não é contraindicação de NE**, com **posição gástrica como primeira escolha**. O cuidado reservado é com a **gastrostomia**, não com a sonda.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 13
+    }
+   }
+  },
+  {
+   "id": "B7-b4",
+   "titulo": "Fracionamento e a ceia",
+   "prioridade": "E",
+   "pontos": [
+    "**Fracionamento — objetivos:** **aumentar a frequência e reduzir o volume das refeições**, **reduzir desconfortos relacionados à saciedade precoce** e **reduzir o tempo de jejum**.",
+    "**Esquema: 3 refeições principais + 2 a 3 lanches intermediários, a cada 3 a 4 horas, incluindo uma CEIA.**",
+    "**Objetivos da ceia (lanche noturno):** **diminuir o tempo de jejum noturno** em função da **menor reserva de glicogênio**; **reduzir o catabolismo proteico noturno**; **manter a massa muscular**; **manter a estabilidade glicêmica noturna**.",
+    "**Composição da ceia: 200–250 até 700 kcal · ~50 g de carboidratos de baixo índice glicêmico (integrais, ricos em fibras) · ~13 g de proteína animal e/ou vegetal.** **Exemplo:** 250 mL de iogurte natural + 1 banana grande (~90 g) + 3 colheres de sopa (20 g) de aveia = **CHO 49 g, PTN 15 g, ~265 kcal**.",
+    "**É um bom momento para oferecer o suplemento nutricional oral** a quem tem indicação — opções líquidas ou em pó, de diferentes sabores.",
+    "**Segundo a EASL, o lanche do fim da noite (ceia) é o mais importante, pois cobre o longo intervalo entre o jantar e o café da manhã.**"
+   ],
+   "cuidado": [
+    "**A ceia não é um lanche qualquer: tem composição definida** (~50 g de CHO de baixo IG e ~13 g de proteína). Se a alternativa der só calorias, está incompleta.",
+    "**A faixa calórica é larga — 200–250 até 700 kcal.** O exemplo do slide fica no piso (~265 kcal).",
+    "A ceia é a **resposta prática à aceleração do jejum** (12 h = 72 h) vista na avaliação nutricional."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 18
+   },
+   "apoio": {
+    "tipo": "mnemonico",
+    "texto": "Ceia em três números: **50 g de CHO, 13 g de PTN, a partir de ~200 kcal.** Apoio de memória; os valores são os do slide."
+   },
+   "checagem": {
+    "pergunta": "Qual a composição de carboidratos e proteína recomendada para a ceia do paciente cirrótico?",
+    "alternativas": [
+     "~20 g de carboidrato de alto índice glicêmico e ~30 g de proteína",
+     "~50 g de carboidrato de baixo índice glicêmico e ~13 g de proteína",
+     "~100 g de carboidrato e ~25 g de proteína",
+     "Apenas proteína, para evitar hiperglicemia noturna",
+     "Apenas carboidrato, para repor glicogênio"
+    ],
+    "correta": 1,
+    "justificativa": "A ceia tem **200–250 até 700 kcal**, **~50 g de carboidratos de baixo índice glicêmico** (integrais e ricos em fibras) e **~13 g de proteína** animal e/ou vegetal. O exemplo dado (iogurte + banana + aveia) fecha **CHO 49 g, PTN 15 g e ~265 kcal**.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 18
+    }
+   }
+  },
+  {
+   "id": "B7-b5",
+   "titulo": "Micronutrientes e vitamina D",
+   "prioridade": "E",
+   "pontos": [
+    "**Atenção especial:** **vitaminas lipossolúveis (A, D, K, E)**; **complexo B — especialmente tiamina, B6, B12 e folato**; **zinco e selênio**.",
+    "**Monitoramento regular, ao menos anualmente.** **Reposição individual nos casos de deficiência confirmada**, baseada na suspeita clínica.",
+    "**Abordagem pragmática: suplementação empírica por 2 semanas de multivitamínicos (incluindo zinco)** pode ser considerada **no início do suporte nutricional** em pacientes com **cirrose descompensada e/ou maior depleção do estado nutricional**.",
+    "**Vitamina D:** a **deficiência (< 20 ng/mL) é prevalente** na cirrose. **Recomenda-se dosar a 25-hidroxivitamina D sérica.** **Suplementar quando os níveis estiverem abaixo de 20 ng/mL.** **Alvo terapêutico: 30 ng/mL**, e depois iniciar a dose de manutenção. **Dose de reposição: 6.000 UI/dia ou 50.000 UI/semana. Dose de manutenção: 1.500 a 2.000 UI/dia.**",
+    "**Orientações gerais da EASL (quadro de orientações práticas):** a maior parte do que se ouve sobre alimentação e fígado tem **evidência científica limitada**; **praticamente nenhum alimento, com exceção do álcool, realmente danifica o fígado ou é genuinamente contraindicado**; **consumir calorias e proteínas adequadas é muito mais importante do que evitar tipos específicos de alimentos**; e **“não reduza a sua ingestão total de proteínas, pois isso não é recomendado na cirrose”**."
+   ],
+   "cuidado": [
+    "**Vitamina D: dosar, suplementar se < 20, mirar 30.** Reposição **6.000 UI/dia ou 50.000 UI/semana**; manutenção **1.500–2.000 UI/dia**. Quatro números, quatro papéis diferentes.",
+    "**O multivitamínico empírico tem prazo (2 semanas) e público (descompensado ou muito depletado)** — não é para todo mundo nem para sempre.",
+    "A frase da EASL é ouro de prova: **só o álcool realmente danifica o fígado**; o resto é menos importante do que **comer caloria e proteína suficientes**."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 20
+   },
+   "checagem": {
+    "pergunta": "Paciente com cirrose e 25(OH)D sérica de 14 ng/mL. Qual a conduta e o alvo, segundo o slide?",
+    "alternativas": [
+     "Não suplementar, pois o valor está dentro da faixa aceitável na cirrose",
+     "Suplementar com 6.000 UI/dia ou 50.000 UI/semana, mirando 30 ng/mL",
+     "Suplementar com 1.500 a 2.000 UI/dia, mirando 20 ng/mL",
+     "Suplementar com 400 UI/dia, sem alvo definido",
+     "Suplementar apenas se houver fratura prévia"
+    ],
+    "correta": 1,
+    "justificativa": "A suplementação é indicada **abaixo de 20 ng/mL**, com **alvo terapêutico de 30 ng/mL**. A **dose de reposição é 6.000 UI/dia ou 50.000 UI/semana**; as **1.500 a 2.000 UI/dia** são a **dose de manutenção**, usada depois de atingir o alvo.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 20
+    }
+   }
+  },
+  {
+   "id": "B7-b6",
+   "titulo": "Ascite: sódio e líquidos",
+   "prioridade": "E",
+   "pontos": [
+    "**Restrição de sódio: restrição MODERADA para < 2 g de Na/dia = 5 g de sal de cozinha (NaCl).** **Monitorar e discutir com a equipe médica.**",
+    "**A restrição mais severa (< 1,5 g de Na/dia) é DESACONSELHADA, pois reduz a palatabilidade da dieta.** Orientações: **evitar ultraprocessados, usar temperos naturais, mínima quantidade de sal adicionado**.",
+    "**Consumo médio mundial: 4,3 g/dia de sódio (equivalente a 11 g/dia de sal).** **Recomendação geral: 2 g/dia de sódio (equivalente a 5 g/dia de sal).**",
+    "**Restrição de líquidos: não é necessária na grande maioria dos pacientes com ascite.** Fazer **redução/suspensão cautelosa dos diuréticos**, mantendo a oferta hídrica **alinhada à sede**. **Restringir apenas se o sódio sérico estiver abaixo de 120–125 mmol/L** (hiponatremia dilucional grave): **recomendação de 800 mL a 1,5 L/dia**.",
+    "**Paracentese diagnóstica:** realizada **na primeira manifestação**, para identificar a causa, e **em pacientes com cirrose hospitalizados em vigência de piora clínica súbita**, para identificar **infecção e hipertensão portal**.",
+    "**Terapia farmacológica diurética** foca na **reversão da retenção de sódio, minimizando o risco de lesão renal aguda** — **espironolactona e furosemida**. **Ascite refratária a medicamentos exige paracenteses de alívio regulares, que podem ser feitas em nível ambulatorial.** **Objetivo: minimizar desconforto alimentar e respiratório, reduzir risco de infecção, sobrecarga renal e desenvolvimento de hérnias.**"
+   ],
+   "cuidado": [
+    "**< 2 g de Na/dia é o alvo; < 1,5 g é desaconselhado.** Repare que o motivo é **nutricional** (palatabilidade → menos ingestão), não hemodinâmico.",
+    "**Líquido não se restringe na maioria.** Só com **Na sérico < 120–125 mmol/L**, e aí **800 mL a 1,5 L/dia**.",
+    "**2 g de sódio = 5 g de sal** e **4,3 g de sódio = 11 g de sal.** A conversão sódio → sal multiplica por ~2,5."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 24
+   },
+   "checagem": {
+    "pergunta": "Paciente com cirrose e ascite moderada, sódio sérico de 134 mmol/L. Qual conduta nutricional está correta?",
+    "alternativas": [
+     "Restringir sódio a menos de 1,5 g/dia e líquidos a 1 L/dia",
+     "Restringir sódio a menos de 2 g/dia (5 g de sal) e não restringir líquidos",
+     "Não restringir sódio, apenas líquidos",
+     "Restringir líquidos a 800 mL/dia, independentemente do sódio sérico",
+     "Suspender o sal por completo até a resolução da ascite"
+    ],
+    "correta": 1,
+    "justificativa": "A recomendação é **restrição moderada de sódio: < 2 g/dia, equivalentes a 5 g de sal**. A restrição mais severa (**< 1,5 g**) é **desaconselhada** por reduzir a palatabilidade. E a **restrição hídrica só entra com sódio sérico < 120–125 mmol/L** — com **134 mmol/L**, não se restringe líquido.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 25
+    }
+   }
+  },
+  {
+   "id": "B7-b7",
+   "titulo": "Encefalopatia: a proteína não se restringe",
+   "prioridade": "E",
+   "pontos": [
+    "**Encefalopatia hepática:** síndrome neuropsiquiátrica **potencialmente reversível**, causada principalmente pelo **acúmulo de amônia e consequente neurotoxicidade**. **Causas precipitantes incluem a própria desnutrição e depleção muscular**, hemorragias, infecções e distúrbios eletrolíticos.",
+    "**Manejo farmacológico: lactulose** (reduz os níveis de amônia no sangue). **Manejo nutricional: ingestão proteica, fontes de proteína, uso de BCAA, L-carnitina e suplementação de zinco.**",
+    "**A ingestão proteica deve ser restringida?** A recomendação **antiga** do American College of Gastroenterology (**2001**) dizia iniciar em **0,5 g/kg/dia**, com aumento progressivo para **1,0 a 1,5 g/kg/dia** conforme a tolerância. Mas: **a restrição proteica NÃO reduziu a gravidade da encefalopatia e pode agravar o catabolismo proteico.** **Só deve ser considerada em casos muito específicos e graves de EH e hemorragias GI, por período de tempo muito limitado.**",
+    "**A fonte da proteína faz diferença?** Numa **fração de pacientes — estimada como pequena** — observa-se maior risco e recorrência de EH com quantidade usual de proteínas ou com **proteína das carnes**. **Racional teórico:** alimentos de origem animal produzem **maior conteúdo de amônia**, têm **menor teor de fibras (laxativas)** e **maior teor de aminoácidos aromáticos**. **A evidência sobre o efeito da substituição proteica é limitada**, e os desafios práticos são **palatabilidade, adesão e impacto na ingestão calórica**.",
+    "**Estudo indiano com 120 pacientes com cirrose e EH leve:** terapia nutricional **vs.** ausência de intervenção — **30 a 35 kcal/kg**, **1,0 a 1,5 g de proteína VEGETAL/kg de peso ideal/dia**, **produtos lácteos**, **2 g de sal** e **educação nutricional para a família**.",
+    "**Recomendações:** **o consumo de proteínas não deve ser reduzido na presença de EH**; **otimizar o consumo de fibras (> 25 g/dia)**; **dieta saudável, com fontes de proteína animal (incentivar laticínios) e vegetal**; e **não orientar restrição de proteína animal como tratamento padrão — apenas para aqueles em que se constata intolerância**."
+   ],
+   "cuidado": [
+    "**O 0,5 g/kg/dia é a recomendação ANTIGA (ACG, 2001)**, apresentada justamente para ser contrastada. A conduta atual é **não reduzir a proteína**.",
+    "**Restringir proteína animal só com intolerância comprovada** — não como rotina. E, quando se mexe na fonte, **incentivar laticínios**.",
+    "**Fibras > 25 g/dia** entram como recomendação explícita na EH."
+   ],
+   "ambiguidade": "proteina-eh",
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 27
+   },
+   "checagem": {
+    "pergunta": "Paciente com cirrose e encefalopatia hepática grau II. Qual a conduta proteica recomendada atualmente?",
+    "alternativas": [
+     "Iniciar com 0,5 g/kg/dia e progredir conforme tolerância",
+     "Não reduzir a ingestão proteica, otimizando fibras acima de 25 g/dia",
+     "Restringir a proteína animal como tratamento padrão",
+     "Suspender a proteína por 48 horas e reintroduzir lentamente",
+     "Oferecer exclusivamente proteína vegetal a todos os pacientes"
+    ],
+    "correta": 1,
+    "justificativa": "A recomendação é **não reduzir o consumo de proteínas na presença de EH** — a restrição **não reduziu a gravidade** e **pode agravar o catabolismo**. Junto vêm **fibras > 25 g/dia** e dieta saudável com **fontes animais (incentivando laticínios) e vegetais**. O **0,5 g/kg/dia é a recomendação antiga do ACG (2001)**, e a restrição de proteína animal só vale **com intolerância comprovada**.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 30
+    }
+   }
+  },
+  {
+   "id": "B7-b8",
+   "titulo": "BCAA: reduzem encefalopatia, não mortalidade",
+   "prioridade": "E",
+   "pontos": [
+    "**BCAA (cadeia ramificada): leucina, isoleucina e valina.** **Aromáticos: fenilalanina, tirosina e triptofano.** **Em pessoas saudáveis, a relação costuma variar de 3,0 a 3,5; na cirrose, cai para valores inferiores a 1,0.**",
+    "**Os BCAA são metabolizados no músculo e transformados em glutamato, para fixar a amônia livre e permitir a eliminação na forma de glutamina.**",
+    "**Revisão Cochrane (18 ECR publicados entre 1984 e 2023; 934 adultos com cirrose e EH, de 47 a 64 anos; 10 estudos com BCAA oral e 8 intravenoso; duração de 4 dias a 2 anos):** **sem efeito sobre mortalidade total — RR 0,89 (0,71–1,12)**, 17 estudos e 867 pessoas; **redução da encefalopatia hepática — RR 0,79 (0,64–0,96)**, 18 estudos e 934 pessoas; **sem efeitos adversos** (náusea e vômitos, RR 2,05; 0,40–10,58), 6 estudos e 1.015 pessoas; **dados insuficientes para qualidade de vida**.",
+    "**Recomendações de uso:** **ACG** — “recomendamos o uso de BCAA (quando disponíveis) **em adição ao tratamento padrão** em pacientes com cirrose e encefalopatia hepática”. **EASL** — “a suplementação de BCAA deve ser **considerada para melhorar o desempenho neuropsiquiátrico e para atingir a ingestão de nitrogênio recomendada**”. **ESPEN** — “a suplementação **oral de BCAA (0,25 g/kg/dia)** deve ser prescrita para pacientes com **cirrose avançada**”.",
+    "**Formas disponíveis no mercado:** suplemento em pó e suplemento especializado."
+   ],
+   "cuidado": [
+    "**BCAA reduzem encefalopatia (RR 0,79), mas NÃO reduzem mortalidade (RR 0,89, intervalo cruzando o 1).** A pegadinha é dizer que reduzem mortalidade.",
+    "**A relação BCAA/aromáticos é 3,0–3,5 no saudável e < 1,0 na cirrose.** Guarde os dois.",
+    "**A única dose numérica é a da ESPEN: 0,25 g/kg/dia, oral, na cirrose avançada.**",
+    "Os BCAA agem **no músculo**, não no fígado — por isso funcionam mesmo com o fígado doente."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 31
+   },
+   "checagem": {
+    "pergunta": "Segundo a revisão Cochrane sobre BCAA na cirrose com encefalopatia, quais foram os achados?",
+    "alternativas": [
+     "Reduziram mortalidade e encefalopatia",
+     "Reduziram a encefalopatia (RR 0,79), mas sem efeito sobre a mortalidade total (RR 0,89)",
+     "Reduziram a mortalidade, mas não a encefalopatia",
+     "Não tiveram efeito sobre nenhum dos dois desfechos",
+     "Reduziram ambos, mas com muitos efeitos adversos"
+    ],
+    "correta": 1,
+    "justificativa": "A Cochrane encontrou **redução da encefalopatia hepática — RR 0,79 (0,64–0,96)** — e **nenhum efeito sobre mortalidade total — RR 0,89 (0,71–1,12)**, cujo intervalo cruza o 1. **Não houve efeitos adversos relevantes**, e os dados sobre qualidade de vida foram **insuficientes**.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 33
+    }
+   }
+  },
+  {
+   "id": "B7-b9",
+   "titulo": "Zinco, L-carnitina e probióticos",
+   "prioridade": "I",
+   "pontos": [
+    "**Zinco:** sabe-se que **a deficiência aumenta o risco de encefalopatia**, mas **o efeito da suplementação sobre a melhora do quadro ainda não está claro**. Revisão de **13 estudos (7 com HCV e 6 com cirrose)**: **encefalopatia hepática RR 0,66 (0,46–0,95)**, 2 estudos; **albumina sérica DM 0,07 (−0,16 a 0,29)**, 2 estudos. **A maioria dos estudos tem alto risco de viés.**",
+    "**Conduta com o zinco: zinco sérico < 60 mcg/dL sugere deficiência → pode ser feita reposição.** **A suplementação não deve ser considerada tratamento padrão da EH.** **Não há orientação de dosagem de manutenção após a correção da deficiência.** **Dose de reposição: < 50 mg de zinco elementar/dia por via oral.**",
+    "**Suplementações ainda sem evidência consistente:** **L-carnitina** — produzida pelo organismo a partir dos aminoácidos **lisina e metionina**; reduziria os níveis de amônia no sangue e no cérebro e poderia atuar como protetor, mas os **estudos conduzidos na Itália não identificaram benefício e têm alto risco de viés**. **Probióticos** — contribuiriam para o equilíbrio da flora intestinal e reduziriam a produção de amônia; **demonstraram benefícios em recuperação, desenvolvimento de EH evidente, qualidade de vida e redução da amônia plasmática**, mas a **evidência se baseia em 3 estudos e não é possível estabelecê-los como conduta padrão**."
+   ],
+   "cuidado": [
+    "**O zinco melhorou a encefalopatia (RR 0,66), mas NÃO a albumina** — e mesmo assim **não é tratamento padrão**, por causa do viés dos estudos.",
+    "**Reposição de zinco: < 50 mg de zinco elementar/dia, VO, quando o sérico estiver < 60 mcg/dL.** Note que são dois números com unidades diferentes (mg e mcg/dL).",
+    "**Probióticos mostraram benefícios mas não viraram conduta**; a **L-carnitina sequer mostrou benefício** nos estudos citados. São dois graus diferentes de “sem evidência”."
+   ],
+   "ambiguidade": null,
+   "fonte": {
+    "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+    "pagina": 39
+   },
+   "checagem": {
+    "pergunta": "Sobre a suplementação de zinco na encefalopatia hepática, qual afirmação está de acordo com os slides?",
+    "alternativas": [
+     "É o tratamento padrão da encefalopatia hepática",
+     "Melhorou a encefalopatia (RR 0,66) mas não a albumina sérica, e não é tratamento padrão",
+     "Melhorou tanto a encefalopatia quanto a albumina sérica",
+     "Não teve efeito sobre nenhum desfecho estudado",
+     "Deve ser mantida indefinidamente após a correção da deficiência"
+    ],
+    "correta": 1,
+    "justificativa": "A revisão encontrou **melhora da encefalopatia (RR 0,66; 0,46–0,95)** e **nenhum efeito sobre a albumina sérica (DM 0,07; −0,16 a 0,29)**, com a **maioria dos estudos tendo alto risco de viés** — por isso **a suplementação não deve ser considerada tratamento padrão da EH**. E **não há orientação de dose de manutenção** após corrigir a deficiência.",
+    "fonte": {
+     "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+     "pagina": 38
+    }
+   }
+  }
+ ],
+ "feynman": [
+  "As quatro reduções da meta-análise de TN: encefalopatia, descompensação, hospitalização e mortalidade",
+  "As necessidades de energia e proteína na compensada, na descompensada e na obesidade",
+  "Por que na obesidade a proteína sobe enquanto a energia desce",
+  "Os gatilhos de suplemento oral (< 70%) e de enteral (< 60%)",
+  "Que varizes não contraindicam sonda, e qual é o cuidado com a gastrostomia",
+  "O esquema de fracionamento e a composição da ceia",
+  "A conduta com a vitamina D: dosar, suplementar abaixo de 20, mirar 30",
+  "Por que o sódio é < 2 g e por que < 1,5 g é desaconselhado",
+  "Que a proteína não se restringe na encefalopatia, e de onde vem o 0,5 g/kg",
+  "Que os BCAA reduzem encefalopatia mas não mortalidade, e que agem no músculo"
+ ]
+}

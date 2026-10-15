@@ -2984,5 +2984,1404 @@
    "pagina": 42
   },
   "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-01",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Homem de 52 anos com esteatose moderada à ultrassonografia, IMC 32,2 kg/m², CC 110 cm, glicemia de jejum 110 mg/dL, HbA1c 5,6%, PA 120/80 mmHg, TG 306 mg/dL e HDL 41 mg/dL. Quantos fatores cardiometabólicos ele preenche?",
+  "alternativas": [
+   "Nenhum, porque a PA e a HbA1c estão normais",
+   "Apenas um, o IMC",
+   "Dois: IMC/CC e triglicerídeos",
+   "Três: IMC/CC, glicemia de jejum e triglicerídeos",
+   "Cinco, todos os fatores"
+  ],
+  "correta": 3,
+  "justificativa": "Preenche **IMC ≥ 25 (e CC > 94 cm)**, **GJ ≥ 100 mg/dL** (110) e **TG ≥ 150 mg/dL** (306) — **três fatores**. A **PA 120/80** está abaixo de 130/85, a **HbA1c 5,6%** está abaixo de 5,7% e o **HDL 41 mg/dL** está acima do corte masculino de ≤ 40. Lembrando que **basta 1 fator** para a definição.",
+  "porque_erradas": {
+   "0": "A glicemia de jejum de 110 mg/dL já ultrapassa o corte de 100 mg/dL, e os TG de 306 passam de 150.",
+   "1": "O IMC conta, mas a glicemia e os triglicerídeos também.",
+   "2": "Falta contabilizar a glicemia de jejum de 110 mg/dL, acima do corte de 100.",
+   "4": "PA, HbA1c e HDL estão todos abaixo dos respectivos cortes."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 9
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-02",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Qual perda de peso corporal os slides associam à melhora da esteato-hepatite?",
+  "alternativas": [
+   "3 a 5%",
+   "7%",
+   "10%",
+   "15%",
+   "20%"
+  ],
+  "correta": 1,
+  "justificativa": "A escada é **3–5% → redução da esteatose**, **7% → melhora da esteato-hepatite** e **10% → regressão e estabilização da fibrose**.",
+  "porque_erradas": {
+   "0": "3 a 5% é o patamar da redução da esteatose.",
+   "2": "10% é o patamar da regressão e estabilização da fibrose.",
+   "3": "15% não aparece nessa tabela.",
+   "4": "20% não aparece nessa tabela."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 35
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-03",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 1,
+  "enunciado": "A partir de qual percentual de gordura em relação ao peso total do fígado se define esteatose hepática?",
+  "alternativas": [
+   "1%",
+   "5%",
+   "10%",
+   "33%",
+   "66%"
+  ],
+  "correta": 1,
+  "justificativa": "Esteatose é o acúmulo de triglicerídeos nos hepatócitos em **ao menos 5% do peso total do fígado**. Os valores de 33% e 66% separam os **graus** (leve, moderada, severa), e são dados em **% de hepatócitos**.",
+  "porque_erradas": {
+   "0": "1% não aparece em nenhum dos cortes.",
+   "2": "10% não é o corte apresentado.",
+   "3": "33% é o limite entre esteatose leve e moderada, em % de hepatócitos.",
+   "4": "66% é o limite da esteatose severa, em % de hepatócitos."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 2
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-04",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Qual destas NÃO é citada entre as possíveis etiologias da esteatose hepática?",
+  "alternativas": [
+   "Nutrição parenteral",
+   "Desnutrição proteico-calórica",
+   "Hepatite viral, especialmente a C",
+   "Doença renal crônica em hemodiálise",
+   "Lesão induzida por medicamentos"
+  ],
+  "correta": 3,
+  "justificativa": "A lista do slide traz **síndrome metabólica, álcool, síndrome metabólica + álcool, lesão por medicamentos, hepatite viral (especialmente C), doenças monogênicas, nutrição parenteral e desnutrição proteico-calórica**. A **doença renal crônica não aparece** nessa lista.",
+  "porque_erradas": {
+   "0": "A nutrição parenteral está expressamente listada.",
+   "1": "A desnutrição proteico-calórica está expressamente listada.",
+   "2": "A hepatite viral, com destaque para a C, está listada.",
+   "4": "A lesão induzida por medicamentos está listada."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 3
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-05",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Mulher relata consumo de 250 g de álcool por semana e tem esteatose com dois fatores cardiometabólicos. Qual a classificação?",
+  "alternativas": [
+   "MASLD, porque há fatores cardiometabólicos",
+   "MetALD, porque o consumo está entre 140 e 350 g por semana",
+   "ALD, porque qualquer consumo acima de 140 g por semana define doença alcoólica",
+   "MASH, porque a associação de álcool e metabólico gera inflamação",
+   "Outras causas de esteatose"
+  ],
+  "correta": 1,
+  "justificativa": "Para mulheres, a faixa de **MetALD é de 140 a 350 g por semana** — os 250 g caem bem no meio dela. Abaixo de 140 g seria **MASLD**; acima de 350 g, **ALD**.",
+  "porque_erradas": {
+   "0": "Haveria MASLD apenas se o consumo ficasse abaixo de 140 g por semana.",
+   "2": "Acima de 140 g começa a faixa de MetALD; a ALD só começa acima de 350 g por semana em mulheres.",
+   "3": "MASH é definição histológica (esteatose, inflamação lobular e balonização), não de consumo de álcool.",
+   "4": "Há etiologia metabólica e alcoólica identificadas, então não é esse o grupo."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 11
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-06",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Sobre a dosagem de enzimas hepáticas no contexto da MASLD, qual afirmação está de acordo com os slides?",
+  "alternativas": [
+   "A dosagem isolada de enzimas hepáticas é o rastreio de escolha em sobrepeso e obesidade",
+   "A dosagem isolada de enzimas não é recomendada para rastreio, e enzimas normais são comuns",
+   "Enzimas normais excluem o diagnóstico de esteatose hepática",
+   "Enzimas elevadas por menos de 6 meses já indicam busca ativa",
+   "As enzimas substituem o FIB-4 na avaliação da fibrose"
+  ],
+  "correta": 1,
+  "justificativa": "O slide diz que, **em sobrepeso/obesidade, a dosagem isolada de enzimas hepáticas não é recomendada para rastreamento de esteatose**, e alerta que **não é incomum os pacientes estarem com enzimas normais**. A busca ativa usa elevação **persistente por mais de 6 meses**, em **ao menos 2 testes**, após descartar outras causas.",
+  "porque_erradas": {
+   "0": "É exatamente o que o slide desaconselha.",
+   "2": "Enzimas normais são comuns e não excluem a doença.",
+   "3": "O critério é elevação persistente por mais de 6 meses, com pelo menos 2 testes.",
+   "4": "Quem avalia fibrose é o FIB-4 com escores não invasivos e/ou elastografia."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 22
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-07",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Qual componente da doença é apontado como fator prognóstico dos desfechos hepáticos?",
+  "alternativas": [
+   "A esteatose isolada",
+   "A MASH",
+   "A fibrose",
+   "O grau de elevação da ALT",
+   "O nível de ferritina"
+  ],
+  "correta": 2,
+  "justificativa": "O quadro é explícito: **a fibrose é o fator prognóstico para desfechos hepáticos**, com **HR 8,46** para descompensação. A **MASH** estimula a fibrose, mas **parece não aumentar tanto** o risco de eventos quando comparada à MASLD.",
+  "porque_erradas": {
+   "0": "A esteatose em si se relaciona ao risco cardiometabólico, não ao prognóstico hepático.",
+   "1": "A MASH induz fibrose, mas o slide diz que ela parece não aumentar tanto o risco de eventos.",
+   "3": "A ALT pode estar normal mesmo com doença avançada.",
+   "4": "A ferritina pode estar elevada, mas não é apresentada como fator prognóstico."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 28
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-08",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "enunciado": "Paciente com 100 kg e peso ideal de 72 kg em processo de perda de peso por MASLD. Qual a oferta proteica recomendada?",
+  "alternativas": [
+   "120 g/dia",
+   "95 g/dia",
+   "86 g/dia",
+   "79 g/dia",
+   "72 g/dia"
+  ],
+  "correta": 1,
+  "justificativa": "**Peso ajustado = (100 − 72) × 0,25 + 72 = 7 + 72 = 79 kg.** Com **1,2 g/kg de peso ajustado**, são **79 × 1,2 ≈ 95 g/dia**.",
+  "porque_erradas": {
+   "0": "120 g corresponde a 1,2 g/kg do peso atual, não do ajustado.",
+   "2": "86 g corresponde a 1,2 g/kg do peso ideal.",
+   "3": "79 kg é o próprio peso ajustado, não a quantidade de proteína.",
+   "4": "72 kg é o peso ideal, não a quantidade de proteína."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 43
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-09",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "enunciado": "Numa meta-análise de dietas isocalóricas, qual foi o achado sobre a distribuição de macronutrientes e a gordura hepática?",
+  "alternativas": [
+   "A dieta low carb foi claramente superior à low fat",
+   "A dieta low fat foi claramente superior à low carb",
+   "Não houve diferença entre low carb e low fat, mas trocar carboidrato por proteína e gordura saturada por insaturada pode ser benéfico",
+   "Nenhuma modificação de macronutrientes teve qualquer efeito",
+   "Apenas a restrição de proteína reduziu a gordura hepática"
+  ],
+  "correta": 2,
+  "justificativa": "A comparação **low carb × low fat não mostrou diferença** no conteúdo de gordura hepática. O que apareceu foi que **reduzir carboidrato e substituir por proteína (e não por gordura)** pode ser benéfico, assim como **trocar gordura saturada por insaturada**. E a superioridade da restrição de CHO < 40% VET no longo prazo **não é clara**.",
+  "porque_erradas": {
+   "0": "A comparação direta não mostrou superioridade da low carb.",
+   "1": "A comparação direta não mostrou superioridade da low fat.",
+   "3": "Houve sim achados: substituição de carboidrato por proteína e de gordura saturada por insaturada.",
+   "4": "A restrição de proteína não é recomendada nesse contexto."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 42
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-10",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "enunciado": "Na meta-análise sobre dieta mediterrânea na esteatose, qual foi a diferença entre os desfechos avaliados por escore e por exame de imagem?",
+  "alternativas": [
+   "Tanto no escore quanto na imagem, apenas a dieta mediterrânea foi eficaz",
+   "No escore, mediterrânea e restrição calórica foram eficazes; na imagem, apenas a restrição calórica demonstrou benefício",
+   "No escore, apenas a restrição calórica foi eficaz; na imagem, apenas a mediterrânea",
+   "Nenhuma das duas foi eficaz em qualquer desfecho",
+   "A imagem não foi avaliada nessa meta-análise"
+  ],
+  "correta": 1,
+  "justificativa": "No **índice de esteatose calculado (escore)**, **dieta mediterrânea e restrição calórica** foram eficazes. Já na **esteatose medida por exame de imagem**, **apenas a restrição calórica** demonstrou benefício. É daí que vem a conclusão de que **a restrição calórica deve fazer parte da intervenção**.",
+  "porque_erradas": {
+   "0": "Na imagem, a mediterrânea isoladamente não mostrou benefício.",
+   "2": "É o inverso: no escore as duas funcionaram, na imagem só a restrição calórica.",
+   "3": "Ambas funcionaram no escore, e a restrição calórica também na imagem.",
+   "4": "A esteatose por imagem foi justamente o segundo desfecho avaliado."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 47
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-11",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Sobre a suplementação de vitamina E na esteato-hepatite, assinale a alternativa correta segundo os slides.",
+  "alternativas": [
+   "É terapia de primeira linha para todos os pacientes com MASLD",
+   "O uso é focado em adultos sem DM2 com esteato-hepatite, 800 UI/dia por 12 a 24 meses, e não é terapia de primeira linha",
+   "A dose recomendada é de 100 UI/dia por tempo indeterminado",
+   "É contraindicada por não ter efeito sobre enzimas hepáticas em nenhum estudo",
+   "Está indicada principalmente em pacientes com DM2 e fibrose avançada"
+  ],
+  "correta": 1,
+  "justificativa": "O slide descreve uso terapêutico **focado principalmente em adultos sem DM2 com esteato-hepatite**, **800 UI/dia por 12 a 24 meses**, marcando o tema como **contraditório** e pedindo cautela pelo risco de **sangramento e AVC hemorrágico** — **não é terapia de 1ª linha**. As doses nos 7 ECR foram de **400 a 800 UI/dia**.",
+  "porque_erradas": {
+   "0": "O próprio slide afirma que não é terapia de primeira linha.",
+   "2": "As doses estudadas foram de 400 a 800 UI/dia, não 100 UI.",
+   "3": "Houve efeito sobre enzimas hepáticas nos estudos; a cautela vem dos eventos adversos.",
+   "4": "O foco é justamente em adultos SEM DM2."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 50
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-12",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Na Diretriz Brasileira de Tratamento Farmacológico da Obesidade (ABESO 2026), qual fármaco é nomeado na recomendação dirigida a MASH com fibrose hepática?",
+  "alternativas": [
+   "Metformina",
+   "Semaglutida",
+   "Orlistate",
+   "Vitamina E",
+   "Pioglitazona"
+  ],
+  "correta": 1,
+  "justificativa": "A **Recomendação 19** diz que, em indivíduos com **MASH e fibrose hepática**, recomenda-se o uso de **semaglutida** para redução e/ou resolução da esteatose, da MASH e da fibrose (classe **I**, nível de evidência **B**). A **R18** trata do tratamento farmacológico para perda de peso em obesidade + MASLD, sem nomear fármaco.",
+  "porque_erradas": {
+   "0": "A metformina não é nomeada nessas recomendações.",
+   "2": "O orlistate não é nomeado nessas recomendações.",
+   "3": "A vitamina E aparece em outro slide, sobre suplementação, e não é primeira linha.",
+   "4": "A pioglitazona não é nomeada nessas recomendações."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 52
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-13",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Paciente com cirrose por MASH descompensada e sarcopenia. Qual a orientação da EASL-EASD-EASO?",
+  "alternativas": [
+   "Dieta hipocalórica com meta de 10% de perda de peso",
+   "Dieta hiperproteica com lanche noturno",
+   "Restrição proteica preventiva de encefalopatia",
+   "Dieta cetogênica para reduzir a esteatose residual",
+   "Suspender a terapia nutricional até a compensação"
+  ],
+  "correta": 1,
+  "justificativa": "No quadro da EASL-EASD-EASO, **sarcopenia ou cirrose descompensada → dieta hiperproteica e lanche noturno (ceia)**. A perda moderada de peso fica para a **cirrose compensada com obesidade**, e **não se faz intervenção para perda de peso em descompensados**.",
+  "porque_erradas": {
+   "0": "Não se faz intervenção para perda de peso em pacientes descompensados.",
+   "2": "A proteína não deve ser reduzida; a restrição agrava o catabolismo.",
+   "3": "Dieta cetogênica não é recomendada nessa situação.",
+   "4": "É justamente quando a terapia nutricional mais importa."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 54
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B5-14",
+  "modulo": "B5",
+  "tema": "figado",
+  "subtema": "Esteatose e MASLD",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Sobre a composição corporal na MASLD, o que os slides destacam?",
+  "alternativas": [
+   "Todos os pacientes com MASLD têm IMC acima de 30 kg/m²",
+   "De 10 a 20% dos pacientes são eutróficos, e o excesso de adiposidade pode conviver com depleção muscular",
+   "A bioimpedância é contraindicada nesses pacientes",
+   "A circunferência da cintura não acrescenta informação ao IMC",
+   "A composição corporal só deve ser avaliada após a biópsia"
+  ],
+  "correta": 1,
+  "justificativa": "O slide diz que **10 a 20% são eutróficos** e lembra que **o excesso de adiposidade pode conviver com depleção muscular e pior funcionalidade** — por isso a avaliação inclui **BIA, DEXA, antropometria, CC, circunferência do pescoço e RCQ**, além de peso e IMC.",
+  "porque_erradas": {
+   "0": "De 10 a 20% são eutróficos, então o IMC elevado não é universal.",
+   "2": "A bioimpedância está entre os métodos citados na avaliação.",
+   "3": "A CC entra explicitamente na avaliação, junto com pescoço e RCQ.",
+   "4": "A biópsia nem sequer está no fluxo diagnóstico."
+  },
+  "fonte": {
+   "arquivo": "TN2_MASLD",
+   "pagina": 31
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-01",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Paciente com cirrose Child-Pugh C e IMC de 16,8 kg/m² chega ao ambulatório. Qual a conduta pelo fluxo de cuidado nutricional apresentado?",
+  "alternativas": [
+   "Aplicar a RFH-NPT e, se houver risco, encaminhar à avaliação",
+   "Encaminhar diretamente à avaliação nutricional, sem triagem",
+   "Aplicar a NRS-2002, por ser a de melhor sensibilidade em cirrose",
+   "Retriagem em 6 meses, por ser paciente não hospitalizado",
+   "Aguardar a tomografia em L3 antes de qualquer conduta"
+  ],
+  "correta": 1,
+  "justificativa": "**Child-Pugh C e/ou IMC < 18,5 kg/m²** já caracterizam **risco nutricional**, e o fluxo manda ir **direto à avaliação nutricional**. A triagem com ferramentas é para **Child A/B com IMC > 18,5 kg/m²**, e a **retriagem (7 dias hospitalizados / 6 meses ambulatoriais)** é só para quem foi triado **sem** risco.",
+  "porque_erradas": {
+   "0": "A triagem é justamente o passo que esse paciente pula.",
+   "2": "A NRS-2002 teve a menor sensibilidade entre as ferramentas testadas em hospitalizados (66,7%) e não considera retenção de líquidos.",
+   "3": "A retriagem é para quem foi triado e não tinha risco.",
+   "4": "A tomografia é método de composição corporal, não o gatilho da avaliação."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 24
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-02",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Paciente com 90 kg, ascite severa e sem edema. Qual o peso seco pelo desconto percentual recomendado?",
+  "alternativas": [
+   "85,5 kg",
+   "81,0 kg",
+   "76,5 kg",
+   "76,0 kg",
+   "90,0 kg"
+  ],
+  "correta": 2,
+  "justificativa": "**Ascite severa = desconto de 15%.** **90 × 0,85 = 76,5 kg.** Os 76 kg seriam o resultado do desconto **absoluto** de −14 kg, que é o outro sistema apresentado.",
+  "porque_erradas": {
+   "0": "85,5 kg corresponde a um desconto de 5%, que é o da ascite leve (ou do edema bilateral).",
+   "1": "81 kg corresponde a um desconto de 10%, que é o da ascite moderada.",
+   "3": "76 kg vem do desconto absoluto de −14 kg, não do percentual.",
+   "4": "O peso aferido precisa ser corrigido quando há acúmulo de fluidos."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 25
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-03",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Qual afirmação sobre a RFH-NPT está de acordo com os slides?",
+  "alternativas": [
+   "Foi desenvolvida para pacientes oncológicos e adaptada para cirrose",
+   "Foi desenvolvida especificamente para cirrose, valoriza o acúmulo de fluidos e prediz sobrevida livre de transplante",
+   "Permite a resposta “eu não sei” em seus itens",
+   "Teve a maior sensibilidade entre pacientes ambulatoriais",
+   "Não possui tradução para o português"
+  ],
+  "correta": 1,
+  "justificativa": "A RFH-NPT foi **desenvolvida especificamente para pacientes com cirrose**, **valoriza o acúmulo de fluidos**, foi **traduzida e adaptada pela UFRGS/HCPA** e é **preditora de sobrevida livre de transplante**. Quem permite o “eu não sei” é a **LDUST**; e nos **ambulatoriais** a mais sensível foi a **MNA-SF (88%)**.",
+  "porque_erradas": {
+   "0": "Foi desenvolvida para cirrose, não para oncologia.",
+   "2": "A resposta “eu não sei” é uma característica da LDUST.",
+   "3": "Nos ambulatoriais ela foi a menos sensível (67%); a mais sensível foi a MNA-SF.",
+   "4": "Há tradução e adaptação transcultural feita pela UFRGS/HCPA."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 27
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-04",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "enunciado": "Comparando os dois estudos de ferramentas de triagem apresentados, o que se observa com a RFH-NPT?",
+  "alternativas": [
+   "Foi a mais sensível nos dois cenários",
+   "Foi a menos sensível nos dois cenários",
+   "Foi a menos sensível em ambulatoriais (67%) e a mais sensível em hospitalizados (90,9%)",
+   "Foi a mais sensível em ambulatoriais (88%) e a menos sensível em hospitalizados",
+   "Não foi avaliada no estudo com pacientes hospitalizados"
+  ],
+  "correta": 2,
+  "justificativa": "Nos **63 ambulatoriais**, a ordem foi **MNA-SF 88% > LDUST 83% > RFH-NPT 67%**. Nos **78 hospitalizados** (82% descompensados), foi **RFH-NPT 90,9% > LDUST 84,8% > NRS-2002 66,7%**. A mesma ferramenta, portanto, **inverte de posição** conforme o cenário.",
+  "porque_erradas": {
+   "0": "Nos ambulatoriais ela ficou em último lugar.",
+   "1": "Nos hospitalizados ela ficou em primeiro.",
+   "3": "Os 88% são da MNA-SF, no estudo ambulatorial.",
+   "4": "Ela foi avaliada e foi a mais sensível nesse estudo."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 31
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-05",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "enunciado": "Homem de 1,70 m pesa 96 kg, tem ascite moderada e edema bilateral de membros inferiores. Qual o IMC calculado com o peso seco?",
+  "alternativas": [
+   "33,2 kg/m²",
+   "29,9 kg/m²",
+   "28,2 kg/m²",
+   "26,5 kg/m²",
+   "24,9 kg/m²"
+  ],
+  "correta": 2,
+  "justificativa": "Os descontos percentuais somam **10% (ascite moderada) + 5% (edema bilateral) = 15%**. **96 × 0,85 = 81,6 kg.** **IMC = 81,6 / 1,70² = 81,6 / 2,89 ≈ 28,2 kg/m².**",
+  "porque_erradas": {
+   "0": "33,2 kg/m² é o IMC com o peso aferido, sem desconto nenhum.",
+   "1": "29,9 kg/m² corresponde a descontar só a ascite moderada (10%).",
+   "3": "26,5 kg/m² corresponderia a um desconto maior que o previsto.",
+   "4": "24,9 kg/m² corresponderia a um desconto muito acima dos 15%."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 25
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-06",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Qual medida antropométrica deve ser usada apenas em pacientes sem edema?",
+  "alternativas": [
+   "Circunferência do braço",
+   "Circunferência muscular do braço",
+   "Circunferência da panturrilha",
+   "Circunferência abdominal",
+   "Altura do joelho"
+  ],
+  "correta": 2,
+  "justificativa": "O slide marca a **circunferência da panturrilha** como própria de **pacientes sem edema**, enquanto **CB e CMB sofrem menor influência do acúmulo de fluidos** — por isso são as preferidas à beira do leito nesses pacientes.",
+  "porque_erradas": {
+   "0": "A CB é justamente uma das que sofrem menos influência de fluidos.",
+   "1": "A CMB também sofre menos influência de fluidos.",
+   "3": "A circunferência abdominal é usada nas equações de peso seco em ascite grave.",
+   "4": "A altura do joelho é usada na estimativa de peso por Chumlea."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 42
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-07",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Homem de 1,75 m com cirrose tem área muscular em L3 de 140 cm² na tomografia. Qual a interpretação?",
+  "alternativas": [
+   "SMI de 45,7 cm²/m², abaixo do ponto de corte masculino de 50 cm²/m²",
+   "SMI de 45,7 cm²/m², acima do ponto de corte masculino de 39 cm²/m²",
+   "SMI de 80 cm²/m², dentro da normalidade",
+   "SMI de 140 cm²/m², não sendo necessário ajuste pela altura",
+   "Não é possível calcular o SMI sem o peso corporal"
+  ],
+  "correta": 0,
+  "justificativa": "**SMI = área em L3 / altura² = 140 / 1,75² = 140 / 3,0625 ≈ 45,7 cm²/m².** O corte **masculino é < 50 cm²/m²**, então ele está **abaixo**. Os 39 cm²/m² são o corte **feminino**.",
+  "porque_erradas": {
+   "1": "O corte de 39 cm²/m² é o feminino; para homens o corte é 50 cm²/m².",
+   "2": "80 cm²/m² não resulta dessa conta.",
+   "3": "O SMI é justamente a área dividida pela altura ao quadrado.",
+   "4": "A fórmula usa área e altura, não peso."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 49
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-08",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Paciente com cirrose e ascite volumosa. Por que bioimpedância e DEXA são problemáticas nesse contexto?",
+  "alternativas": [
+   "Porque subestimam a massa livre de gordura",
+   "Porque superestimam a massa livre de gordura, por influência do acúmulo de fluidos",
+   "Porque exigem jejum de 12 horas",
+   "Porque dependem da circunferência abdominal",
+   "Porque não medem massa muscular em nenhuma situação"
+  ],
+  "correta": 1,
+  "justificativa": "O slide diz que **BIA e DEXA são influenciadas pelo acúmulo de fluidos**, com **baixa correlação com a tomografia**, e que a **massa livre de gordura será superestimada**. O **IMMA (DEXA)** ainda é alternativa **na ascite sem edema nos membros**, e na BIA recomenda-se usar o **ângulo de fase**.",
+  "porque_erradas": {
+   "0": "O erro é no sentido oposto: a MLG é superestimada.",
+   "2": "O problema apontado é o fluido, não o jejum.",
+   "3": "A circunferência abdominal entra nas equações de peso seco, não na BIA.",
+   "4": "Ambas medem massa muscular; a ressalva é a influência dos fluidos."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 50
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-09",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Mulher de 64 anos com cirrose apresenta força de preensão de 11 kgf (maior de 3 medidas na mão não dominante). Como interpretar?",
+  "alternativas": [
+   "Normal, porque está acima de 10 kgf, o corte para mulheres com 60 anos ou mais",
+   "Reduzida, porque está abaixo de 12 kgf, o corte para mulheres com menos de 60 anos",
+   "Reduzida, porque está abaixo de 22 kgf",
+   "Não interpretável, porque a medida deveria ser na mão dominante",
+   "Não interpretável sem a tomografia em L3"
+  ],
+  "correta": 0,
+  "justificativa": "Para **mulheres com 60 anos ou mais**, o ponto de corte é **FAM ≤ 10 kgf**; com **11 kgf** ela fica **acima** dele. O corte de **≤ 12 kgf** vale para **mulheres com menos de 60 anos**, e os de **≤ 33 e ≤ 22 kgf** são os **masculinos**. A medida foi feita corretamente: **maior de 3 valores na mão não dominante**.",
+  "porque_erradas": {
+   "1": "O corte de 12 kgf é o de mulheres com menos de 60 anos; ela tem 64.",
+   "2": "22 kgf é o corte de homens com 60 anos ou mais.",
+   "3": "A mão não dominante é exatamente a recomendada.",
+   "4": "O estudo ambulatorial conclui que a FAM reduzida já basta para intervir, mesmo sem tomografia."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 54
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-10",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Na RFH-GA, como se classifica o consumo alimentar de um paciente que ingere 400 kcal/dia?",
+  "alternativas": [
+   "Adequado",
+   "Inadequado",
+   "Insuficiente",
+   "Irrelevante para a classificação",
+   "Não classificável sem recordatório de 3 dias"
+  ],
+  "correta": 2,
+  "justificativa": "A RFH-GA classifica a ingestão em **adequado** (atinge as necessidades), **inadequado** (não atinge, mas **> 500 kcal/dia**) e **insuficiente** (**menos de 500 kcal/dia**). Com **400 kcal/dia**, é **insuficiente**.",
+  "porque_erradas": {
+   "0": "Adequado é quando atinge as necessidades nutricionais.",
+   "1": "Inadequado é não atingir as necessidades, mas consumir mais de 500 kcal/dia.",
+   "3": "O texto do slide usa três categorias, e a ingestão faz parte da classificação.",
+   "4": "A classificação não exige número fixo de dias de recordatório."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 60
+  },
+  "ambiguidade": "rfh-ga-cmb"
+ },
+ {
+  "id": "Q-B6-11",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "enunciado": "Sobre a aplicação do GLIM na cirrose, qual afirmação está correta?",
+  "alternativas": [
+   "O IMC calculado com peso seco é critério fenotípico validado na cirrose",
+   "O critério etiológico é preenchido por todos os pacientes com cirrose, pela fisiopatologia da doença",
+   "A perda de peso é o critério fenotípico mais confiável nesses pacientes",
+   "A massa muscular só pode ser avaliada por tomografia",
+   "O GLIM não se aplica a pacientes com cirrose"
+  ],
+  "correta": 1,
+  "justificativa": "O slide afirma que **todos os pacientes com cirrose preenchem o critério etiológico pela fisiopatologia da doença (ou por PCR-us)**. Entre os **fenotípicos**, **IMC (peso seco) e perda de peso não são validados** na cirrose; sobra a **massa muscular**, que pode ser avaliada por **CB, CMB, CP, tomografia, BIA ou DEXA**.",
+  "porque_erradas": {
+   "0": "O slide marca o IMC com peso seco como não validado na cirrose.",
+   "2": "A perda de peso também está marcada como não validada.",
+   "3": "A massa muscular pode ser avaliada por CB, CMB, CP, TC, BIA ou DEXA.",
+   "4": "O GLIM é aplicado e todas as suas variáveis predisseram piores desfechos."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 62
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-12",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "O que significa dizer que, no cirrótico, 12 horas de jejum equivalem a 72 horas em um indivíduo saudável?",
+  "alternativas": [
+   "Que o cirrótico tem esvaziamento gástrico três vezes mais lento",
+   "Que há perda da capacidade de estoque de glicogênio, com oxidação de gordura e gliconeogênese a partir de aminoácidos já em jejum curto",
+   "Que o cirrótico precisa de seis refeições diárias por intolerância a volume",
+   "Que o gasto energético de repouso é seis vezes maior",
+   "Que a absorção intestinal fica reduzida a um sexto do normal"
+  ],
+  "correta": 1,
+  "justificativa": "A frase descreve a **aceleração do jejum**: com **perda da capacidade de estoque adequado de glicogênio**, o organismo passa rapidamente a **oxidar gordura e fazer gliconeogênese**, precisando **usar aminoácidos como fonte de glicose** — e é isso que embasa a recomendação da **ceia**.",
+  "porque_erradas": {
+   "0": "A comparação é metabólica, não de esvaziamento gástrico.",
+   "2": "O fracionamento é consequência prática, não o significado da equivalência.",
+   "3": "O aumento do GER aparece em 30 a 35% dos pacientes, e não nessa proporção.",
+   "4": "A má absorção existe, mas não é o que a equivalência descreve."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 16
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B6-13",
+  "modulo": "B6",
+  "tema": "figado",
+  "subtema": "Avaliação nutricional na cirrose",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Qual a prevalência de deficiência de zinco citada na cirrose, e qual sua relação com a encefalopatia?",
+  "alternativas": [
+   "Cerca de 10%, e não tem relação com a encefalopatia",
+   "Pode ser superior a 90%, e o zinco causa e agrava a encefalopatia",
+   "Cerca de 30%, e é apenas consequência da encefalopatia",
+   "Cerca de 50%, e protege contra a encefalopatia",
+   "Pode ser superior a 90%, mas é irrelevante do ponto de vista clínico"
+  ],
+  "correta": 1,
+  "justificativa": "O slide afirma que, **em pacientes com cirrose, a prevalência de deficiência de zinco pode ser superior a 90%**, e que ela **causa e agrava a encefalopatia**, além de provocar **alterações do paladar e anorexia**. O zinco ainda é **cofator da transformação de amônia em ureia**.",
+  "porque_erradas": {
+   "0": "A prevalência citada é muito maior, e há relação direta com a encefalopatia.",
+   "2": "Não é apenas consequência: a deficiência causa e agrava o quadro.",
+   "3": "A deficiência piora a encefalopatia, não protege.",
+   "4": "O próprio slide descreve as consequências clínicas: encefalopatia, paladar e anorexia."
+  },
+  "fonte": {
+   "arquivo": "TN2_Avaliacao_Nutricional_Hepatopatias",
+   "pagina": 15
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-01",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Paciente com cirrose descompensada, desnutrição e ascite moderada, pesando 70 kg (peso aferido). Considerando o desconto percentual e a faixa recomendada para esse perfil, qual a prescrição energética e proteica?",
+  "alternativas": [
+   "1.260 a 1.575 kcal e 63 a 78 g de proteína (20 a 25 kcal/kg e 1,0 a 1,2 g/kg de peso seco)",
+   "1.890 a 2.205 kcal e 76 a 95 g de proteína (30 a 35 kcal/kg e 1,2 a 1,5 g/kg de peso seco)",
+   "2.100 a 2.450 kcal e 84 a 105 g de proteína (30 a 35 kcal/kg e 1,2 a 1,5 g/kg de peso aferido)",
+   "1.400 kcal e 35 g de proteína, com restrição proteica preventiva",
+   "1.260 a 1.890 kcal e 63 g de proteína (18 a 27 kcal/kg e 0,9 g/kg)"
+  ],
+  "correta": 1,
+  "justificativa": "A **ascite moderada desconta 10%**: **70 × 0,90 = 63 kg** de peso seco. Para **desnutrição, sarcopenia ou descompensação**, a faixa é **30 a 35 kcal/kg** (63 × 30 = 1.890; 63 × 35 = 2.205) e **1,2 a 1,5 g/kg** (63 × 1,2 ≈ 76; 63 × 1,5 ≈ 95 g).",
+  "porque_erradas": {
+   "0": "As faixas de 20 a 25 kcal/kg e 1,0 a 1,2 g/kg não correspondem a esse perfil.",
+   "2": "Os valores estão certos para a faixa, mas calculados sobre o peso aferido, sem descontar a ascite.",
+   "3": "Não se restringe proteína na cirrose; a restrição agrava o catabolismo.",
+   "4": "Nem as calorias nem a proteína correspondem às faixas apresentadas."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 9
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-02",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Qual a conduta proteica recomendada atualmente para o paciente com cirrose e encefalopatia hepática?",
+  "alternativas": [
+   "Restringir para 0,5 g/kg/dia e progredir conforme tolerância",
+   "Não reduzir a ingestão proteica total",
+   "Suspender a proteína até a resolução da encefalopatia",
+   "Oferecer exclusivamente proteína vegetal a todos os pacientes",
+   "Restringir a proteína animal como tratamento padrão"
+  ],
+  "correta": 1,
+  "justificativa": "**A ingestão proteica não deve ser reduzida na presença de EH:** a restrição **não reduziu a gravidade** da encefalopatia e **pode agravar o catabolismo proteico**. O **0,5 g/kg/dia é a recomendação antiga do ACG (2001)**, apresentada no slide justamente para ser contrastada com a conduta atual.",
+  "porque_erradas": {
+   "0": "Essa é a recomendação antiga (ACG, 2001), superada pelas evidências apresentadas.",
+   "2": "A suspensão só caberia em casos muito específicos e graves, por tempo muito limitado.",
+   "3": "O estudo indiano usou proteína vegetal, mas a recomendação geral inclui fontes animais, incentivando laticínios.",
+   "4": "A restrição de proteína animal só vale para quem tem intolerância comprovada."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 30
+  },
+  "ambiguidade": "proteina-eh"
+ },
+ {
+  "id": "Q-B7-03",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 1,
+  "enunciado": "Em que percentual de atingimento das necessidades por via oral se indica suplemento nutricional oral e em qual se indica nutrição enteral?",
+  "alternativas": [
+   "Suplemento abaixo de 60% e enteral abaixo de 70%",
+   "Suplemento abaixo de 70% e enteral abaixo de 60%",
+   "Suplemento abaixo de 80% e enteral abaixo de 50%",
+   "Suplemento abaixo de 50% e enteral abaixo de 30%",
+   "Suplemento e enteral têm o mesmo gatilho, de 60%"
+  ],
+  "correta": 1,
+  "justificativa": "**Suplementação oral se a VO ficar abaixo de 70% das necessidades; via enteral se ficar abaixo de 60%.** A parenteral fica reservada à **inviabilidade do TGI**.",
+  "porque_erradas": {
+   "0": "Os valores estão invertidos: o gatilho menor é o da via mais invasiva.",
+   "2": "Esses percentuais não aparecem nos slides.",
+   "3": "Esses percentuais não aparecem nos slides.",
+   "4": "São gatilhos distintos: 70% e 60%."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 12
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-04",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Sobre a nutrição enteral no paciente com cirrose, qual afirmação está correta?",
+  "alternativas": [
+   "Varizes esofágicas contraindicam a passagem de sonda",
+   "A posição pós-pilórica é a primeira escolha em todos os casos",
+   "A posição gástrica é a primeira escolha e as varizes esofágicas não contraindicam a sonda",
+   "A gastrostomia é preferível à sonda em pacientes com ascite severa",
+   "Fórmulas enriquecidas com BCAA são a primeira escolha"
+  ],
+  "correta": 2,
+  "justificativa": "O slide diz que a **posição gástrica é a primeira escolha** e que **a presença de varizes esofágicas não é contraindicação de NE**. O cuidado reservado é com a **gastrostomia** em **ascite severa, distúrbios de coagulação e varizes gástricas extensas**, e a prioridade é a **fórmula polimérica padrão** (com HCHP na restrição hídrica).",
+  "porque_erradas": {
+   "0": "É exatamente o contrário do que o slide afirma.",
+   "1": "A posição gástrica é a primeira escolha.",
+   "3": "A ascite severa é justamente uma das situações de atenção para a gastrostomia.",
+   "4": "A prioridade é a fórmula polimérica padrão."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 13
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-05",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Por que a ceia é considerada o lanche mais importante no paciente com cirrose?",
+  "alternativas": [
+   "Porque é o momento de maior apetite do paciente",
+   "Porque cobre o longo intervalo entre o jantar e o café da manhã, reduzindo o jejum noturno em quem tem pouca reserva de glicogênio",
+   "Porque permite concentrar toda a proteína do dia numa refeição",
+   "Porque reduz a necessidade de restrição de sódio",
+   "Porque substitui a necessidade de fracionar as demais refeições"
+  ],
+  "correta": 1,
+  "justificativa": "Segundo a EASL, **o lanche do fim da noite (ceia) é o mais importante, pois cobre o longo intervalo entre o jantar e o café da manhã**. Seus objetivos são **diminuir o tempo de jejum noturno** (há **menor reserva de glicogênio**), **reduzir o catabolismo proteico noturno**, **manter a massa muscular** e **manter a estabilidade glicêmica noturna**.",
+  "porque_erradas": {
+   "0": "O apetite não é o motivo apresentado.",
+   "2": "O fracionamento distribui a proteína ao longo do dia; a ceia tem cerca de 13 g.",
+   "3": "A restrição de sódio não depende da ceia.",
+   "4": "A ceia compõe o fracionamento, não o substitui."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 16
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-06",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Paciente com cirrose e ascite, sódio sérico de 118 mmol/L. Qual a conduta quanto aos líquidos?",
+  "alternativas": [
+   "Não restringir, porque a restrição hídrica não é necessária na maioria dos pacientes com ascite",
+   "Restringir para 800 mL a 1,5 L/dia, pela hiponatremia dilucional grave",
+   "Restringir para 500 mL/dia mais a diurese",
+   "Aumentar a oferta hídrica para corrigir a hiponatremia",
+   "Restringir apenas se houver edema associado"
+  ],
+  "correta": 1,
+  "justificativa": "A restrição hídrica **não é necessária na grande maioria** dos pacientes com ascite, **exceto se o sódio sérico estiver abaixo de 120–125 mmol/L** (hiponatremia dilucional grave). Com **118 mmol/L**, entra a recomendação de **800 mL a 1,5 L/dia**.",
+  "porque_erradas": {
+   "0": "A regra geral vale, mas este paciente está justamente na exceção.",
+   "2": "A fórmula de 500 mL mais diurese é da hemodiálise, não da ascite.",
+   "3": "Aumentar líquidos pioraria a hiponatremia dilucional.",
+   "4": "O critério apresentado é o sódio sérico, não o edema."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 25
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-07",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Por que a restrição de sódio abaixo de 1,5 g/dia é desaconselhada na ascite?",
+  "alternativas": [
+   "Porque aumenta o risco de lesão renal aguda",
+   "Porque reduz a palatabilidade da dieta",
+   "Porque eleva o risco de encefalopatia hepática",
+   "Porque interfere na ação da espironolactona",
+   "Porque aumenta o volume da ascite"
+  ],
+  "correta": 1,
+  "justificativa": "O motivo apontado é nutricional: **a restrição mais severa (< 1,5 g de Na/dia) reduz a palatabilidade da dieta** — e, como a restrição de sódio já aparece entre as **causas de desnutrição associadas ao tratamento**, o efeito final é menos ingestão. O alvo é a **restrição moderada, < 2 g de Na/dia (5 g de sal)**.",
+  "porque_erradas": {
+   "0": "O risco de lesão renal aguda é discutido em relação aos diuréticos.",
+   "2": "A encefalopatia se relaciona à amônia, não à restrição de sódio.",
+   "3": "Não há essa interferência descrita nos slides.",
+   "4": "Reduzir sódio tende a reduzir a retenção, não a aumentá-la."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 24
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-08",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 3,
+  "enunciado": "Sobre a suplementação de BCAA na cirrose com encefalopatia, qual conclusão corresponde à revisão Cochrane apresentada?",
+  "alternativas": [
+   "Reduz a mortalidade total e a encefalopatia hepática",
+   "Reduz a encefalopatia hepática, sem efeito sobre a mortalidade total",
+   "Reduz a mortalidade total, sem efeito sobre a encefalopatia",
+   "Não altera nenhum dos dois desfechos, e aumenta os efeitos adversos",
+   "Melhora a qualidade de vida, com dados insuficientes para a encefalopatia"
+  ],
+  "correta": 1,
+  "justificativa": "Os achados foram **redução da encefalopatia hepática (RR 0,79; 0,64–0,96)** e **nenhum efeito sobre a mortalidade total (RR 0,89; 0,71–1,12)**. Não houve **efeitos adversos** relevantes, e os dados sobre **qualidade de vida foram insuficientes**.",
+  "porque_erradas": {
+   "0": "O intervalo de confiança da mortalidade cruza o 1, então não houve efeito.",
+   "2": "É o inverso do que foi encontrado.",
+   "3": "A encefalopatia foi reduzida, e não houve aumento de efeitos adversos.",
+   "4": "Os dados insuficientes foram sobre qualidade de vida, não sobre encefalopatia."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 33
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-09",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Qual diretriz traz uma dose numérica para a suplementação oral de BCAA, e qual é ela?",
+  "alternativas": [
+   "ACG, com 0,5 g/kg/dia",
+   "EASL, com 1,0 g/kg/dia",
+   "ESPEN, com 0,25 g/kg/dia na cirrose avançada",
+   "Cochrane, com 0,79 g/kg/dia",
+   "Nenhuma diretriz apresenta dose numérica"
+  ],
+  "correta": 2,
+  "justificativa": "A **ESPEN** é a que traz a dose: **suplementação oral de BCAA de 0,25 g/kg/dia para pacientes com cirrose avançada**. A **ACG** recomenda usar BCAA **em adição ao tratamento padrão**, e a **EASL** diz **considerar** para melhorar o desempenho neuropsiquiátrico e atingir a ingestão de nitrogênio — nenhuma das duas com número.",
+  "porque_erradas": {
+   "0": "O 0,5 g/kg/dia do ACG é a recomendação antiga sobre proteína total, não sobre BCAA.",
+   "1": "A EASL não traz dose numérica nessa recomendação.",
+   "3": "O 0,79 é o risco relativo da redução de encefalopatia, não uma dose.",
+   "4": "A ESPEN traz a dose de 0,25 g/kg/dia."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 35
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-10",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Qual o mecanismo pelo qual os BCAA ajudam no manejo da amônia?",
+  "alternativas": [
+   "São convertidos em ureia diretamente no fígado",
+   "São metabolizados no músculo e transformados em glutamato, que fixa a amônia livre e permite eliminá-la como glutamina",
+   "Bloqueiam a absorção intestinal de amônia",
+   "Estimulam a produção de lactulose endógena",
+   "Aumentam a excreção renal de aminoácidos aromáticos"
+  ],
+  "correta": 1,
+  "justificativa": "Os BCAA são **metabolizados no músculo** e transformados em **glutamato**, que **fixa a amônia livre**, permitindo que ela seja **eliminada na forma de glutamina**. É justamente por agirem no músculo que continuam úteis com o fígado comprometido.",
+  "porque_erradas": {
+   "0": "A conversão em ureia ocorre no fígado e é a via prejudicada na cirrose.",
+   "2": "Os BCAA não bloqueiam absorção de amônia; quem atua no intestino é a lactulose.",
+   "3": "A lactulose é um fármaco, não produzida pelo organismo.",
+   "4": "O mecanismo descrito envolve fixação de amônia, não excreção de aromáticos."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 31
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-11",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Paciente com cirrose e zinco sérico de 48 mcg/dL. Qual a conduta descrita nos slides?",
+  "alternativas": [
+   "Não repor, porque o zinco não é tratamento padrão da encefalopatia",
+   "Repor com menos de 50 mg de zinco elementar por dia, por via oral",
+   "Repor com 100 mg de zinco elementar por dia, por via oral",
+   "Repor por via intravenosa, com dose de manutenção definida",
+   "Repor apenas se houver encefalopatia instalada"
+  ],
+  "correta": 1,
+  "justificativa": "**Zinco sérico < 60 mcg/dL sugere deficiência, e pode ser feita reposição**, com **dose de reposição de menos de 50 mg de zinco elementar por dia, por via oral**. Separe as duas coisas: **repor a deficiência confirmada é conduta; usar zinco como tratamento da EH não é padrão**, e **não há dose de manutenção definida** após a correção.",
+  "porque_erradas": {
+   "0": "Não ser tratamento padrão da EH não impede repor uma deficiência confirmada.",
+   "2": "A dose descrita é de menos de 50 mg/dia.",
+   "3": "A via descrita é a oral, e não há dose de manutenção definida.",
+   "4": "O gatilho é o valor sérico abaixo de 60 mcg/dL."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 39
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-12",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Sobre L-carnitina e probióticos na encefalopatia hepática, o que os slides concluem?",
+  "alternativas": [
+   "Ambos são conduta padrão no manejo da encefalopatia",
+   "A L-carnitina não mostrou benefício nos estudos citados, e os probióticos mostraram benefícios mas não podem ser estabelecidos como conduta padrão",
+   "Os probióticos não mostraram benefício, e a L-carnitina é conduta padrão",
+   "Ambos estão contraindicados na cirrose",
+   "Os dois têm evidência consistente, mas alto custo"
+  ],
+  "correta": 1,
+  "justificativa": "Os dois entram como **suplementações ainda sem evidência consistente**, mas em graus diferentes: os **estudos de L-carnitina conduzidos na Itália não identificaram benefício e têm alto risco de viés**; já os **probióticos demonstraram benefícios** (recuperação, EH evidente, qualidade de vida e redução da amônia plasmática), mas a **evidência vem de apenas 3 estudos**, o que **não permite estabelecê-los como conduta padrão**.",
+  "porque_erradas": {
+   "0": "Nenhum dos dois é conduta padrão.",
+   "2": "É o inverso: os probióticos é que mostraram benefícios.",
+   "3": "Não há contraindicação descrita, apenas falta de evidência consistente.",
+   "4": "A evidência é justamente descrita como não consistente."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 40
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-13",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Paciente com cirrose descompensada e grande depleção nutricional inicia suporte nutricional. Qual conduta com micronutrientes é descrita como abordagem pragmática?",
+  "alternativas": [
+   "Suplementar vitamina E em dose alta por 12 a 24 meses",
+   "Suplementação empírica de multivitamínico com zinco por 2 semanas no início do suporte",
+   "Suplementar apenas vitamina D, sem dosagem prévia",
+   "Não suplementar nada antes de dosar todos os micronutrientes",
+   "Suplementar BCAA no lugar do multivitamínico"
+  ],
+  "correta": 1,
+  "justificativa": "A abordagem pragmática descrita é a **suplementação empírica por 2 semanas de multivitamínicos (incluindo zinco)** no **início do suporte nutricional** em pacientes com **cirrose descompensada e/ou maior depleção do estado nutricional**. O monitoramento regular (ao menos anual) e a reposição individual de deficiências confirmadas continuam valendo.",
+  "porque_erradas": {
+   "0": "A vitamina E em alta dose é discutida na MASLD, não aqui, e não é primeira linha.",
+   "2": "A recomendação para a vitamina D é dosar a 25(OH)D e suplementar abaixo de 20 ng/mL.",
+   "3": "A abordagem pragmática existe justamente para não esperar todas as dosagens.",
+   "4": "Os BCAA têm indicação própria e não substituem o multivitamínico."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 19
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B7-14",
+  "modulo": "B7",
+  "tema": "figado",
+  "subtema": "Terapia nutricional na cirrose",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Sobre a tiamina e o risco de síndrome de realimentação, qual a conduta descrita?",
+  "alternativas": [
+   "Repor tiamina apenas após o início da infusão, se houver sintomas",
+   "Administrar dose prévia de tiamina antes da TNE em pacientes de alto risco, e repor em todos os pacientes em nutrição parenteral",
+   "Repor tiamina em todos os pacientes em nutrição enteral, e em nenhum em parenteral",
+   "A tiamina não é necessária quando se usa fórmula polimérica padrão",
+   "Repor tiamina somente em pacientes com encefalopatia"
+  ],
+  "correta": 1,
+  "justificativa": "O slide diz: **em pacientes de alto risco para síndrome de realimentação, administrar dose prévia de tiamina antes da infusão da TNE**; e **na nutrição parenteral, recomenda-se que todos recebam reposição**.",
+  "porque_erradas": {
+   "0": "A dose é prévia, justamente para prevenir.",
+   "2": "Na enteral a reposição prévia é para os de alto risco; na parenteral é para todos.",
+   "3": "O tipo de fórmula não dispensa a tiamina.",
+   "4": "O gatilho é o risco de síndrome de realimentação, não a encefalopatia."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 14
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B8-01",
+  "modulo": "B8",
+  "tema": "figado",
+  "subtema": "Transplante hepático",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "preteste": true,
+  "enunciado": "Candidato a transplante hepático com desnutrição identificada, 68 kg. Qual a prescrição de repleção no pré-operatório?",
+  "alternativas": [
+   "2.040 kcal e 82 g de proteína",
+   "2.380 kcal e 102 g de proteína",
+   "1.700 kcal e 68 g de proteína",
+   "1.360 kcal e 54 g de proteína",
+   "2.720 kcal e 136 g de proteína"
+  ],
+  "correta": 1,
+  "justificativa": "A **repleção do estado nutricional** no pré-operatório usa **35 kcal/kg/dia e 1,5 g/kg/dia**: **68 × 35 = 2.380 kcal** e **68 × 1,5 = 102 g de proteína**. Os valores de **30 kcal/kg e 1,2 g/kg** (2.040 kcal e 82 g) são os de **manutenção**.",
+  "porque_erradas": {
+   "0": "Esses são os valores de manutenção (30 kcal/kg e 1,2 g/kg), não de repleção.",
+   "2": "25 kcal/kg e 1,0 g/kg não constam das recomendações pré-operatórias.",
+   "3": "20 kcal/kg e 0,8 g/kg não constam das recomendações pré-operatórias.",
+   "4": "40 kcal/kg e 2,0 g/kg correspondem a nenhuma das duas faixas do pré-operatório."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 51
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B8-02",
+  "modulo": "B8",
+  "tema": "figado",
+  "subtema": "Transplante hepático",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Sobre as contraindicações ao transplante hepático, qual afirmação está correta?",
+  "alternativas": [
+   "IMC maior que 40 kg/m² é contraindicação absoluta",
+   "IMC maior que 40 kg/m² é contraindicação relativa",
+   "O uso de álcool é contraindicação apenas se houver cirrose alcoólica",
+   "A falta de suporte psicossocial não interfere na indicação",
+   "Carcinoma metastático é contraindicação relativa"
+  ],
+  "correta": 1,
+  "justificativa": "O slide marca o **IMC > 40 kg/m² como contraindicação relativa**. São contraindicações listadas: **outras doenças em estágio avançado** (DCV, pulmonar, AIDS, **carcinomas com metástase**), **uso de álcool e drogas nos últimos 6 meses** e **falta de suporte psicossocial**.",
+  "porque_erradas": {
+   "0": "A marcação do slide é explicitamente de contraindicação relativa.",
+   "2": "O critério é o uso nos últimos 6 meses, independentemente da etiologia.",
+   "3": "A falta de suporte psicossocial está entre as contraindicações listadas.",
+   "4": "Carcinomas com metástase estão entre as doenças em estágio avançado que contraindicam."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 42
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B8-03",
+  "modulo": "B8",
+  "tema": "figado",
+  "subtema": "Transplante hepático",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Paciente estável 18 horas após transplante hepático, sem obesidade, com TGI viável. Qual a conduta nutricional?",
+  "alternativas": [
+   "Manter jejum até 72 horas de pós-operatório",
+   "Iniciar nutrição por via oral ou enteral com 10 a 15 kcal/kg nas primeiras 48 a 72 horas",
+   "Iniciar nutrição parenteral imediatamente, poupando o TGI",
+   "Iniciar com 30 a 35 kcal/kg desde a primeira oferta",
+   "Aguardar a retirada da ventilação mecânica para iniciar qualquer oferta"
+  ],
+  "correta": 1,
+  "justificativa": "O início precoce — **cerca de 12 a 24 h após a cirurgia, com estabilidade hemodinâmica** — **reduz infecção, tempo de UTI e ventilação mecânica**. A ordem de vias é **VO → TNE → TNP**, **priorizando o TGI**, e a oferta começa **menor: 10 a 15 kcal/kg nas primeiras 48 a 72 h**, progredindo depois até 30 a 35 kcal/kg e 1,5 a 2,0 g/kg.",
+  "porque_erradas": {
+   "0": "O jejum prolongado contraria a recomendação de início precoce.",
+   "2": "A parenteral é a terceira opção; prioriza-se o TGI quando viável.",
+   "3": "Essa é a meta após a progressão, não a oferta inicial.",
+   "4": "O início precoce é justamente o que reduz o tempo de ventilação mecânica."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 53
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B8-04",
+  "modulo": "B8",
+  "tema": "figado",
+  "subtema": "Transplante hepático",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Por que os slides recomendam fórmulas padrão, e não especializadas, no pré-operatório do transplante hepático?",
+  "alternativas": [
+   "Porque as fórmulas especializadas aumentam o risco de rejeição",
+   "Porque os produtos enriquecidos com BCAA ou imunomoduladores não têm resultados consistentes sobre a morbimortalidade pós-transplante",
+   "Porque as fórmulas padrão têm mais proteína",
+   "Porque as especializadas são contraindicadas na cirrose",
+   "Porque as especializadas não podem ser usadas por sonda"
+  ],
+  "correta": 1,
+  "justificativa": "O slide diz para usar **SNO ou TNE com fórmulas nutricionais padrão**, porque os **produtos especializados — enriquecidos com BCAA ou com imunomoduladores (ômega-3, arginina e probióticos) — não possuem resultados consistentes sobre a morbimortalidade pós-transplante**.",
+  "porque_erradas": {
+   "0": "Não há menção a aumento de risco de rejeição.",
+   "2": "A diferença apontada é de evidência, não de teor proteico.",
+   "3": "Os BCAA têm indicação própria na cirrose avançada; o ponto aqui é o pós-transplante.",
+   "4": "A via de administração não é o argumento apresentado."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 51
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B8-05",
+  "modulo": "B8",
+  "tema": "figado",
+  "subtema": "Transplante hepático",
+  "prioridade": "E",
+  "dificuldade": 2,
+  "enunciado": "Quais efeitos dos corticosteroides no pós-transplante têm impacto nutricional direto, e por quanto tempo costumam ser usados?",
+  "alternativas": [
+   "Nefrotoxicidade e hipercalemia, por 1 a 2 semanas",
+   "Retenção hídrica, hiperglicemia e aumento do apetite, nos primeiros 3 meses a 1 ano",
+   "Anorexia e perda de peso, nos primeiros 6 meses",
+   "Hipoglicemia e desidratação, por toda a vida",
+   "Nenhum efeito nutricional relevante"
+  ],
+  "correta": 1,
+  "justificativa": "Os **corticosteroides são utilizados nos primeiros 3 meses a 1 ano após o transplante** e podem causar **retenção hídrica, hiperglicemia e aumento do apetite**. A **nefrotoxicidade, a hipercalemia e o ganho de peso** são atribuídos às **demais medicações imunossupressoras**.",
+  "porque_erradas": {
+   "0": "Esses são efeitos das demais medicações, e o prazo não corresponde.",
+   "2": "O efeito descrito é aumento do apetite, não anorexia.",
+   "3": "O efeito descrito é hiperglicemia, não hipoglicemia.",
+   "4": "Os efeitos listados impactam diretamente peso e glicemia."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 54
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B8-06",
+  "modulo": "B8",
+  "tema": "figado",
+  "subtema": "Transplante hepático",
+  "prioridade": "I",
+  "dificuldade": 2,
+  "enunciado": "Qual a proporção de pacientes que desenvolvem reganho de peso e obesidade após o transplante hepático?",
+  "alternativas": [
+   "Cerca de 10%",
+   "Cerca de 20%",
+   "Cerca de 40%",
+   "Cerca de 70%",
+   "Menos de 5%"
+  ],
+  "correta": 2,
+  "justificativa": "O slide aponta **reganho de peso e desenvolvimento de obesidade pós-transplante em cerca de 40% dos pacientes**, com indicação de **encaminhamento para atendimento especializado, uso de fármacos ou cirurgia bariátrica**. Os **~10%** e **~20%** são, respectivamente, os que **vão a óbito na fila** e os que são **removidos da lista**.",
+  "porque_erradas": {
+   "0": "Cerca de 10% é a proporção de óbitos na fila de transplante.",
+   "1": "Cerca de 20% é a proporção removida da lista.",
+   "3": "Esse valor não aparece nos slides.",
+   "4": "Esse valor não aparece nos slides."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 56
+  },
+  "ambiguidade": null
+ },
+ {
+  "id": "Q-B8-07",
+  "modulo": "B8",
+  "tema": "figado",
+  "subtema": "Transplante hepático",
+  "prioridade": "E",
+  "dificuldade": 1,
+  "enunciado": "Qual o tempo de jejum pré-operatório recomendado para sólidos e para líquidos antes da anestesia?",
+  "alternativas": [
+   "8 horas para sólidos e 4 horas para líquidos",
+   "6 horas para sólidos e no máximo 2 horas para líquidos",
+   "12 horas para sólidos e 6 horas para líquidos",
+   "4 horas para sólidos e 1 hora para líquidos",
+   "Jejum absoluto a partir da meia-noite"
+  ],
+  "correta": 1,
+  "justificativa": "A recomendação é **jejum para sólidos por 6 horas** e **para líquidos por no máximo 2 horas** antes da anestesia, com **bebidas ricas em carboidratos na noite anterior e de 2 a 4 horas antes da cirurgia** — o que hidrata, **reduz a resistência à insulina e o risco de síndrome de realimentação** e pode encurtar discretamente a internação.",
+  "porque_erradas": {
+   "0": "Os prazos recomendados são menores.",
+   "2": "O jejum prolongado é justamente o que a recomendação evita.",
+   "3": "O prazo para sólidos é de 6 horas.",
+   "4": "O jejum desde a meia-noite é a prática que a recomendação substitui."
+  },
+  "fonte": {
+   "arquivo": "TN2_Terapia_Nutricional_Cirrose",
+   "pagina": 52
+  },
+  "ambiguidade": null
  }
 ]
